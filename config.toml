@@ -1,0 +1,51 @@
+baseURL = "http://example.org/"
+languageCode = "jp"
+title = "だって欲しかったんだもん"
+theme = "aether"
+googleAnalytics = "UA-43849068-1"
+
+hasCJKLanguage = true
+paginate = 10
+disqusShortname = ""
+copyright = ""
+
+[params]
+    images = ["images/screenshot.jpg"]
+    bgimg = "images/screenshot.jpg"
+    rssFullContent = false
+    homeFullContent = false
+    archive-paginate = 3
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+    filename = "sitemap.xml"
+
+[author]
+    name = "gen0083"
+
+[social]
+    twitter = "gen0083"
+    github = "gen0083"
+
+[permalinks]
+    wp = "/:slug/"
+    post = "/:slug/"
+
+[blackfriday]
+    extensions = ["hardLineBreak"]
+
+# Related contents
+
+[related]
+    threshold = 70
+    includeNewer = true
+    toLower = false
+
+[[related.indices]]
+    name = "tags"
+    weight = 100
+
+[[related.indices]]
+    name = "date"
+    weight = 10
