@@ -1,0 +1,101 @@
+---
+title: 退出ゲーム＜ハルチカシリーズ＞を読んで
+slug: haruchika-exit-game
+description: <p>とりあえずミステリとは言わないで欲しいと思います。アニメ見ていて微妙だなと思ったので原作を読んでみましたが、むしろアニメはすごいがんばってたのだなということが分かりました。これからは成島さんかわいいと、純粋に楽しむことが出来そうです。</p>
+
+cover_image: images/cover/book.jpg
+date: 2016-02-04
+lastmod: 2016-02-04
+tags: 
+    - 小説
+product:
+    name: '退出ゲーム'
+    rate: '1'
+    comment: 'アニメ楽しんで見れるようになったのが救い'
+    kaeyome: '<div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4043943717/illusionspace-22/" target="_blank" rel="nofollow" ><img src="http://ecx.images-amazon.com/images/I/51InKIdI9PL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4043943717/illusionspace-22/" target="_blank" rel="nofollow" >退出ゲーム (角川文庫)</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">初野 晴 角川書店 2010-07-24    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4043943717/illusionspace-22/" target="_blank" rel="nofollow" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01914HMQ0/illusionspace-22/" target="_blank" rel="nofollow" >Kindle</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6531881%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" rel="nofollow" >楽天ブックス</a></div>                  	  <div class="shoplinkkino"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&pid=882196163&vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784043943715" target="_blank" rel="nofollow" >紀伊國屋書店<img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&pid=882196163" height="1" width="1" border="0"></a></div>	  	  	</div></div><div class="booklink-footer"></div></div>'
+---
+
+<p>まずはなぜ私がハルチカの原作を読んでみようと思ったのかという経緯から説明したいと思います。</p>
+<p>私はアニメを見てこの作品の存在を知りました。</p>
+<p>CMでの謳い文句が「青春×吹奏楽×ミステリ」となっていて、最初は「響けユーフォニアムとの差別化のためにミステリ要素くっつけたのかな？」と思っていました。しかしそれは勘違いで、ミステリに青春＋吹奏楽要素を絡ませた、というのが正確なようです。</p>
+<p>しかしアニメを見ていてどうにもモヤモヤして仕方がありませんでした。ミステリの比重が重いという割には謎解きが強引な気がするし、そもそもこれをミステリと言われるとなんか反発を覚えます。</p>
+<p>でもそれは、30分の枠内で事件の発生から解決まで収めるために、尺の都合で削られた部分があり、そのせいで唐突感が生じてしまっているのかもしれません。探偵の解決シーンをセンセーショナルに描くのも、ドラマにインパクトを与えるため仕方のない演出なのかもしれません。これは「櫻子さんの足下には死体が埋まっている」のアニメと原作を読んだ時に感じたことでもあります。</p>
+<div class="booklink-box">
+<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041006953/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="http://ecx.images-amazon.com/images/I/517vvfzyTGL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-info">
+<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041006953/illusionspace-22/" target="_blank" rel="nofollow" >櫻子さんの足下には死体が埋まっている (角川文庫)</a></p>
+<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+</div>
+<div class="booklink-detail">太田 紫織 角川書店(角川グループパブリッシング) 2013-02-23    </div>
+<div class="booklink-link2">
+<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041006953/illusionspace-22/" target="_blank" rel="nofollow" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DI8TW0U/illusionspace-22/" target="_blank" rel="nofollow" >Kindle</a></div>
+<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12139087%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" rel="nofollow" >楽天ブックス</a></div>
+<div class="shoplinkkino"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882196163&#038;vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784041006955" target="_blank" rel="nofollow" >紀伊國屋書店<img alt=""  src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882196163" height="1" width="1"></a></div>
+</p></div>
+</div>
+<div class="booklink-footer"></div>
+</div>
+<p>それにハルチカの原作はどうもラノベではないっぽい。ラノベの定義が曖昧ですが、単行本（ハードカバー）で出版されているという意味で、ラノベではないのかなと思いました。</p>
+<p>これはアニメだけでこの作品について判断を下すのは早計なのかもしれない。そう考えて原作を読むことにしたわけです。</p>
+<h2>ミステリについて</h2>
+<p>ところで私が読む小説は、ミステリの比率が多いです。ミステリといっても人によって定義がマチマチで、ミステリとはなんぞやを語りだすと侃々諤々の議論となってしまいそうですが、私は「謎解きが主題で、それを楽しむ（楽しめる）物語」という意味でミステリという言葉を使っています。</p>
+<p>謎解きを楽しむためには作法があります。謎は論理的に解くことが出来て、そのための情報はフェアな状態で読者にも開示されなければならない。ノックスの十戒とか耳にしたことがあるかもしれませんが、ミステリをミステリとして楽しむためには、それなりの作法に則ってあることが大事だと思います。</p>
+<p>そういった作法に則ったミステリを「本格ミステリ」といって区別したりもしますが、それだけミステリという言葉は曖昧で、ミステリと銘打つ作品はピンキリなのです。</p>
+<p>ミステリとして面白いかどうかは、私の中でも当然のごとく重要ですが、それよりも私は重視していることがあります。それは物語として面白いかどうかです。</p>
+<p>私は謎解き部分にやや強引なところがあったり、あまりに安易な謎で解きごたえがなかったりしても、その作品が物語として面白ければいいと思っています。ミステリとしては微妙でも、物語として楽しめればオッケーなのです。</p>
+<p>そのため私は、作品世界に感情移入できるかどうか、違和感なく没入できるかどうかを最も重視しています。ミステリは謎が主題の物語だけど、謎の上に物語が乗っかっているのではなく、物語の上に謎が乗っかっていてほしい。物語の世界に入り込んで、そこで展開されるドラマを楽しみたい。その上でさらに謎解きが楽しめるのであれば、それは最高のミステリだ、なんて思っています。</p>
+<p>私がミステリを読んでいてこの感情移入を阻害されるときは、悲しいかな物語世界の主役である探偵役が原因であることが多いです。探偵が真相にたどり着いた後、関係者を一同に集めて推理を披露するシーンなんかがその典型だったりするんですが、なんでわざわざ全員の前で推理披露するのかと反感を覚えてしまうのです。自分の知識をひけらかして自慢したいだけなんじゃないか、なんて感じてしまうのが原因なんでしょうね、鼻持ちならないやつだと好きになれないんだと思います。</p>
+<p>ちなみに推理披露した後に犯人に出し抜かれたりすると、手のひらを返したように拍手喝采でその作品を褒め称えたりするので、一概にそんなシーンなければいいというわけでもありませんけどね。</p>
+<p>その意味で言うと、この退出ゲームは探偵役にあたる人物への感情移入が全く出来ませんでした。</p>
+<h2>ドタバタライトノベル</h2>
+<p>退出ゲーム（ハルチカ）の話に戻ります。実のところ原作を読むのはとても楽しみにしていたのです。アニメでは性急に見えた謎解きも、じっくり描かれているのかなと。幻想でした。</p>
+<p>私は図書館でハードカバーの単行本を借りて読みましたが、ハードカバーでこのノリなのかとびっくりしました。まるでドタバタライトノベルです。</p>
+<p>場面がドタバタと展開していく感じで、頭の中でイメージを構成するのが疲れるのです。アニメで見ていてキャラクターのイメージが分かっていたからいいものの、キャラクターの描写が浅くて単なる会話劇に終始している印象を受けました。</p>
+<p>アニメを見ていて探偵役としてのハルタに反感を覚えていたのですが、原作読むと先生の「なんだこいつ」感が強くなってどうでも良くなりました。</p>
+<p>本書のタイトルにもなっている退出ゲームでは、面白い部分が即興劇のドタバタ部分で普通にスルーしていたのですが、そもそもなぜハルタたちはマレンが中国にいる本当の両親のことで悩んでいることを知っていたのでしょうか。そもそもよく考えたら、これ謎解きになってないよと。</p>
+<p>他の話もそうですが、そういった謎解きや青春の悩みが重要なのではなく、センセーショナルな過去をドラマチックに開示するための物語なのかなと思いました。</p>
+<h2>ミステリとしてはお粗末</h2>
+<p>もしかしたら文庫化の際に加筆修正があって、私が読んだ単行本とは内容が違うのかもしれませんけれども。</p>
+<p>第1巻にあたる退出ゲームだけで判断するのは早計ですが、正直なところこの作品を「ミステリ」と言われると、いやいやちょっと待ってくれと言いたくなってしまいます。</p>
+<p>唐突な展開、探偵役のド派手な解決ショーなどに違和感を感じないのであれば楽しめるかもしれません。実際にドタバタしたスピーディな展開は私も面白いと感じる部分がありました。しかしミステリとして読むのであれば、もっと面白いものがあるんだぞと声を大にして言いたい。</p>
+<p>青春ミステリというのであれば、米澤穂信の氷菓（〈古典部〉シリーズ）がおすすめです。</p>
+<div class="booklink-box">
+<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4044271011/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="http://ecx.images-amazon.com/images/I/51NIr%2BwaJzL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-info">
+<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4044271011/illusionspace-22/" target="_blank" rel="nofollow" >氷菓 (角川文庫)</a></p>
+<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+</div>
+<div class="booklink-detail">米澤 穂信 角川書店(角川グループパブリッシング) 2001-10-31    </div>
+<div class="booklink-link2">
+<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4044271011/illusionspace-22/" target="_blank" rel="nofollow" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009PKN0D0/illusionspace-22/" target="_blank" rel="nofollow" >Kindle</a></div>
+<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F1387646%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" rel="nofollow" >楽天ブックス</a></div>
+<div class="shoplinkkino"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882196163&#038;vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784044271015" target="_blank" rel="nofollow" >紀伊國屋書店<img alt=""  src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882196163" height="1" width="1"></a></div>
+</p></div>
+</div>
+<div class="booklink-footer"></div>
+</div>
+<p>また同著者の春期限定いちごタルト事件（〈小市民〉シリーズ）は、ハルタのような他人の過去を暴き立てるような探偵に反感を覚える人に一度読んでもらいたいシリーズでもあります。</p>
+<p><a href="https://wantit.gcreate.jp/petit_bourgeios_01_ichigo/">春季限定いちごタルト事件を読んだ感想</a></p>
+<div class="booklink-box">
+<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4488451012/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="http://ecx.images-amazon.com/images/I/61EH68EB3AL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-info">
+<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4488451012/illusionspace-22/" target="_blank" rel="nofollow" >春期限定いちごタルト事件 (創元推理文庫)</a></p>
+<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+</div>
+<div class="booklink-detail">米澤 穂信 東京創元社 2004-12-18    </div>
+<div class="booklink-link2">
+<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4488451012/illusionspace-22/" target="_blank" rel="nofollow" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B007RI8CK8/illusionspace-22/" target="_blank" rel="nofollow" >Kindle</a></div>
+<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F1744494%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" rel="nofollow" >楽天ブックス</a></div>
+<div class="shoplinkkino"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882196163&#038;vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784488451011" target="_blank" rel="nofollow" >紀伊國屋書店<img alt=""  src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882196163" height="1" width="1"></a></div>
+</p></div>
+</div>
+<div class="booklink-footer"></div>
+</div>
+<p>ちなみに私は米澤穂信信者と言っても差し支えないくらいに傾倒していますので、贔屓目があることは否定しません。</p>
+<p>原作を読んでよかったと唯一思えるの点は、これからアニメを純粋に楽しめそうだということです。アニメ化にあたって情報が削られている部分はありますが、むしろ整理されて分かりやすくなっていると言ったほうが正しいでしょう。そもそも原作ではぼんやりしていたキャラクターたちが、しっかりと描写されている点は評価されてしかるべきでしょう。アニメでのエレファンツ・ブレスは、原作を読んだ後の視聴だったからなのか、純粋によくできてると思いました。</p>
+<p>原作のノリが分かったので、これからは「成島さんかわいい」と、アニメを純粋に楽しみながら視聴できそうです。</p>
+
+  
