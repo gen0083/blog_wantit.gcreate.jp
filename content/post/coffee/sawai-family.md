@@ -1,7 +1,8 @@
 ---
 title: 量も値段もちょうどいい、ファミリーブレンド100杯分福袋を購入
 slug: sawai-family
-description: <p>澤井珈琲でファミリーブレンド100杯分福袋というものを見つけたので購入しました。豆の量が1kgとちょうどよく、値段もお手頃だったので選びました。カフェオレにするのがオススメだそうですが、そのままブラックで飲んでも充分おいしいです。</p>
+description: 澤井珈琲でファミリーブレンド100杯分福袋というものを見つけたので購入しました。豆の量が1kgとちょうどよく、値段もお手頃だったので選びました。カフェオレにするのがオススメだそうですが、そのままブラックで飲んでも充分おいしいです。
+
 
 cover_image: images/cover/coffee.jpg
 date: 2014-03-20
@@ -12,16 +13,25 @@ product:
     name: '澤井珈琲　ファミリーブレンド100杯分福袋'
     rate: '4'
     comment: 'コストパフォーマンスがいい'
-    rakuten: '<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top"><div style="border:1px solid;margin:0px;padding:6px 0px;width:320px;text-align:center;float:left"><a href="http://hb.afl.rakuten.co.jp/hgc/11be2770.9eec789a.11be2771.029f4a42/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fsawaicoffee-tea%2ffamilybled%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fsawaicoffee-tea%2fn%2ffamilybled" target="_blank"><img src="http://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fsawaicoffee-tea%2fcabinet%2fmail%2ffamily_shu03.jpg%3f_ex%3d300x300&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fsawaicoffee-tea%2fcabinet%2fmail%2ffamily_shu03.jpg%3f_ex%3d80x80" alt="【澤井珈琲】　送料無料　超赤字価格　ファミリーブレンド100杯分福袋" border="0" style="margin:0px;padding:0px"></a><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px"><a href="http://hb.afl.rakuten.co.jp/hgc/11be2770.9eec789a.11be2771.029f4a42/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fsawaicoffee-tea%2ffamilybled%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fsawaicoffee-tea%2fn%2ffamilybled" target="_blank">【澤井珈琲】　送料無料　超赤字価格　ファミリーブレンド100杯分福袋</a><br><span style="">価格：1,260円（税5%込、送料込）</span><br></p></div></td></tr></table>'
+    rakuten: '<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top"><div style="border:1px solid;margin:0px;padding:6px 0px;width:320px;text-align:center;float:left"><a href="http://hb.afl.rakuten.co.jp/hgc/11be2770.9eec789a.11be2771.029f4a42/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fsawaicoffee-tea%2ffamilybled%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fsawaicoffee-tea%2fn%2ffamilybled" target="_blank"><img src="http://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fsawaicoffee-tea%2fcabinet%2fmail%2ffamily_shu03.jpg%3f_ex%3d300x300&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fsawaicoffee-tea%2fcabinet%2fmail%2ffamily_shu03.jpg%3f_ex%3d80x80" alt="【澤井珈琲】　送料無料　超赤字価格　ファミリーブレンド100杯分福袋" border="0" style="margin:0px;padding:0px"></a><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px"><a href="http://hb.afl.rakuten.co.jp/hgc/11be2770.9eec789a.11be2771.029f4a42/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fsawaicoffee-tea%2ffamilybled%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fsawaicoffee-tea%2fn%2ffamilybled" target="_blank">【澤井珈琲】　送料無料　超赤字価格　ファミリーブレンド100杯分福袋</a>
+</div></td></tr></table>'
 ---
 
-<p>スターバックスでは毎回キャラメルマキアートを頼むGenです、こんにちは。毎回と言っても、そもそもスターバックスにはめったに行かないんですけどね・・・。</p>
-<p>最近は澤井珈琲で豆を買って飲んでばかりいますが、ファミリーブレンド100杯分福袋を購入しました。<em>量が1kg</em>と1ヶ月程度で消費しきれるちょうどいい分量なのがいいですね。お値段もそれなりにリーズナブルです。</p>
-<p>私のコーヒーを選ぶ基準は、実は<strong>量と値段</strong>が一番プライオリティが高かったりします。正直なところ、<em>豆の銘柄による味の違いがよくわからない</em>からです。</p>
-<p>確かに銘柄によってなんとなく味が違うなというのは分からなくもないのですが、結局のところ挽き方やお湯の注ぎ方で<em>自分好みの味に調整してしまう</em>ので、細かい違いを説明しろと言われてもできません。インスタントコーヒーや缶コーヒーと比べると格段に美味しいので、豆から買った方がいいと思っている程度なのです。</p>
-<p>このファミリーブレンドは、ちょっと苦が目でカフェオレにして飲むのがおすすめだそうです。私はちょっと濃いめな気はするものの苦いとは思わなかったので、そのままブラックで飲んでいます。</p>
-<p>そんなわけで、今回は量・値段ともにちょうどよかったので、ファミリーブレンド100杯分福袋を楽しんでおります。たまには澤井珈琲以外のところで買うのもいいかもしれないなぁと思っているのですが、<em>どこかおすすめあったらぜひ教えて下さい</em>。</p>
-<p><a href="http://youtu.be/SsOfK1x7XPE" target="_blank">コーヒーを淹れている動画（YouTube）</a></p>
-<p>ちなみに私はこんな感じでコーヒーを淹れています。大体<em>1回淹れるのに10分くらい</em>時間かかってますね。面倒くさいなぁと思うことはわりとありますが、かと言って今更インスタントコーヒーには戻れません。</p>
+スターバックスでは毎回キャラメルマキアートを頼むGenです、こんにちは。毎回と言っても、そもそもスターバックスにはめったに行かないんですけどね・・・。
+
+最近は澤井珈琲で豆を買って飲んでばかりいますが、ファミリーブレンド100杯分福袋を購入しました。<em>量が1kg</em>と1ヶ月程度で消費しきれるちょうどいい分量なのがいいですね。お値段もそれなりにリーズナブルです。
+
+私のコーヒーを選ぶ基準は、実は<strong>量と値段</strong>が一番プライオリティが高かったりします。正直なところ、<em>豆の銘柄による味の違いがよくわからない</em>からです。
+
+確かに銘柄によってなんとなく味が違うなというのは分からなくもないのですが、結局のところ挽き方やお湯の注ぎ方で<em>自分好みの味に調整してしまう</em>ので、細かい違いを説明しろと言われてもできません。インスタントコーヒーや缶コーヒーと比べると格段に美味しいので、豆から買った方がいいと思っている程度なのです。
+
+このファミリーブレンドは、ちょっと苦が目でカフェオレにして飲むのがおすすめだそうです。私はちょっと濃いめな気はするものの苦いとは思わなかったので、そのままブラックで飲んでいます。
+
+そんなわけで、今回は量・値段ともにちょうどよかったので、ファミリーブレンド100杯分福袋を楽しんでおります。たまには澤井珈琲以外のところで買うのもいいかもしれないなぁと思っているのですが、<em>どこかおすすめあったらぜひ教えて下さい</em>。
+
+<a href="http://youtu.be/SsOfK1x7XPE" target="_blank">コーヒーを淹れている動画（YouTube）</a>
+
+ちなみに私はこんな感じでコーヒーを淹れています。大体<em>1回淹れるのに10分くらい</em>時間かかってますね。面倒くさいなぁと思うことはわりとありますが、かと言って今更インスタントコーヒーには戻れません。
+
 
   
