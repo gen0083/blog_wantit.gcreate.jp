@@ -4,7 +4,7 @@ slug: ps-3-navicon
 description: Surface PRO2でお絵描きをするのに、PS3ナビゲーションコントローラが便利です。キャンバスの移動はタッチ操作で行うことができるので、少ないボタンでもなんとかやりくりできると思います。
 
 
-cover_image: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc-peri.jpg
 date: 2014-01-20
 lastmod: 2015-10-05
 tags: 

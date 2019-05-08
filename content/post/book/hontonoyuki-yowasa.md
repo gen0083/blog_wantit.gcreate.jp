@@ -4,7 +4,7 @@ slug: hontonoyuki-yowasa
 description: 何気なく読んでみたら、つい最近読んだ「嫌われる勇気」で扱われていたアドラーの心理学に通ずる内容だなと感じて驚きました。ありのままの自分を受け入れることにフォーカスした内容です。周りからの評価が気になってしまうという人にいいかもしれません。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-12-11
 lastmod: 2016-02-24
 tags: 

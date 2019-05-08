@@ -4,7 +4,7 @@ slug: broken-keel
 description: 中世ヨーロッパを舞台とした、魔法あり、不死の人間ありのファンタジーな物語です。しかしその中身は純粋な論理によって構成された、高度な知的遊戯の物語でした。争点が明確にされているがゆえに、非常に読み応えがあって面白かったです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-02-12
 lastmod: 2016-02-24
 tags: 

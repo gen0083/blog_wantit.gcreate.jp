@@ -4,7 +4,7 @@ slug: giyo-gm-71
 description: 自転車で遠乗りするときに遭遇するパンクは、ルンルン気分から絶望の淵に落としてくれる最悪のアクシデントです。私もそんな経験を経てからというもの、パンク対策なしで自転車に乗るのが怖くなりました。パンク対策には携帯用の空気入れが不可欠です。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2013-11-08
 lastmod: 2015-05-01
 tags: 

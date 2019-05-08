@@ -4,7 +4,7 @@ slug: petit-bourgeios-01-ichigo
 description: 〈古典部〉シリーズの著者の作品で、タイトルの付け方が面白くて気にはなっていました。恋愛関係にも依存関係にもないが、互恵関係である二人の関係とは一体何なのか。ミステリという堅苦しさが微塵にも感じられないコミカルで面白い作品です。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-02
 lastmod: 2016-02-24
 tags: 

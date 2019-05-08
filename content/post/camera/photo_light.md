@@ -4,7 +4,7 @@ slug: photo-light
 description: 屋内撮影において光源が蛍光灯しかないと、自分が影になってうまく撮影できないばかりでストレスが貯まります。照明が１つあるだけで、撮影の幅が広がります。ただしこれ1つでは心許ないので、あくまで補助照明器具として使えるものと割り切りが必要です。
 
 
-cover_image: images/cover/camera.jpg
+featuredimage: images/cover/camera.jpg
 date: 2014-10-02
 lastmod: 2016-02-24
 tags: 

@@ -4,7 +4,7 @@ slug: effective-android
 description: Effective Javaに似たタイトルの本ですが、手にとって読んでみると意外とフランクな感じの面白い本でした。内容の難易度が平易なものから極端に難解なものまでいろいろですが、個人的にGradle関連の話題が非常に勉強になりました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-06-30
 lastmod: 2015-01-22
 tags: 

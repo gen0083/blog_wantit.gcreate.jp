@@ -4,7 +4,7 @@ slug: dungeon-meshi-01
 description: 九井諒子さんを知るきっかけだったダンジョン飯を読みました。ファンタジーで冒険者を描く作品は数あれど、彼らの食事にフォーカスした作品は珍しいと思います。冒険より「いかにバランスの良い食事をするか」を真剣に考える様がシュールで笑えます。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-06-08
 lastmod: 2015-06-08
 tags: 

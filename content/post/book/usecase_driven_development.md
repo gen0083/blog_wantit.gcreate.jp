@@ -4,7 +4,7 @@ slug: usecase-driven-development
 description: 私の場合、アプリ開発をする際の設計のやり方がよくわからないというのが、本書を購入するきっかけになった。これまでなんとなくでやってきた設計について、本書は「こういうやり方で設計してみたらどうか」という道を提示してくれる。どういうクラスが必要で、どんな責務をもたせるかという設計部分を、経験や勘のみではなく、具体的な手順で説明しているという点で、本書は非常に勉強になると思う。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2019-03-19
 lastmod: 2019-03-19
 tags: 

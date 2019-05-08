@@ -4,7 +4,7 @@ slug: haruchika-exit-game
 description: とりあえずミステリとは言わないで欲しいと思います。アニメ見ていて微妙だなと思ったので原作を読んでみましたが、むしろアニメはすごいがんばってたのだなということが分かりました。これからは成島さんかわいいと、純粋に楽しむことが出来そうです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-02-04
 lastmod: 2016-02-04
 tags: 

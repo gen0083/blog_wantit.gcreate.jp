@@ -4,7 +4,7 @@ slug: kurikuribouzu-2
 description: 我が家では毎月栗ご飯を食します。そのため結構な頻度で栗を剥く必要性に迫られます。少しは私も栗剥き作業に貢献できるようにと買ってみました。実際に使ってみると、そうそう簡単には剥けず、慣れるまで扱いが難しいなと思いました。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2013-11-07
 lastmod: 2016-02-24
 tags: 

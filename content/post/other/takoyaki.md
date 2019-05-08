@@ -4,7 +4,7 @@ slug: takoyaki
 description: 唐突にたこ焼きが食べたくなったというか、たこ焼きを作りたくなったので、IH対応の鉄板を買ってきて実際に作ってみました。最初はうまく焼けないかもしれませんが、使っていくうちに油が馴染んでうまく焼けるようになります。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-10-12
 lastmod: 2015-03-03
 tags: 

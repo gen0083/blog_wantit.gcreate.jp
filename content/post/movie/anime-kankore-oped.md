@@ -4,7 +4,7 @@ slug: anime-kankore-oped
 description: アニメの方はそこまで好きではないのですが、曲だけはとてもいいと思ってます。OPの海色とEDの吹雪はどちらもいい曲です。艦これは主題歌で考えたら一番パワフルなアニメです。個人的にMP3で配信されててありがたかったです。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2015-02-18
 lastmod: 2015-04-01
 tags: 

@@ -4,7 +4,7 @@ slug: bike-clean
 description: 自転車の後輪をスムーズに着脱できないレベルの私ですが、自転車のチェーンと後輪ギアを分解して掃除してみました。自転車を購入してから2年強の間に、積もり積もった油と泥とホコリによる真っ黒な汚れを落とすには、分解して掃除するしかなかったのです。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2014-10-21
 lastmod: 2015-01-22
 tags: 

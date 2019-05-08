@@ -4,7 +4,7 @@ slug: nintendo-switch
 description: 品薄でなかなか手に入らないスイッチをようやく手に入れることができた。テレビの大画面で遊びながら、家族がテレビを見たいと言ったら、即座に携帯モードに切り替えてプレイを続行できる。このゲーム体験が快適すぎて素晴らしい。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2017-08-10
 lastmod: 2017-08-10
 tags: 

@@ -4,7 +4,7 @@ slug: hiraganade-hanasu-gijutu
 description: 人と会話をしていて「この人の話は分かりやすいな」と思うことあると思います。分かりやすい文章と、分かりやすい言葉はまた違います。口で物事を伝える機会が多い人、例えばプレゼンを頻繁に行う人は読んでみるといい本かもしれません。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-09-05
 lastmod: 2015-01-22
 tags: 

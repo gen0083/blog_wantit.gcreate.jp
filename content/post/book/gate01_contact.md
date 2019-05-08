@@ -4,7 +4,7 @@ slug: gate-01-contact
 description: アニメをみて何だか腑に落ちないものを感じたので、原作を読んでみることにしました。原作を読むと、これはギャップを楽しむ作品で、戦闘シーンは本質ではないと感じました。違和感は解消されませんでしたが、思っていたより面白くて楽しめました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-20
 lastmod: 2015-08-28
 tags: 

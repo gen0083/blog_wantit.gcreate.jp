@@ -4,7 +4,7 @@ slug: zelda-botw-switch
 description: 冒険するとはこういうことだと思い起こさせてくれたすごいゲームである。クオリティの高さは他の追随を許さない。ぜひ事前情報を一切仕入れることなく、まっさらな頭で楽しんでほしい、そんなゲームである。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2017-10-20
 lastmod: 2017-10-20
 tags: 

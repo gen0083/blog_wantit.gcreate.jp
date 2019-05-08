@@ -4,7 +4,7 @@ slug: rakusaba-mini
 description: Wordpressでブログを開設するにあたって、値段の安いラクサバを体験で使ってみました。月額料金がかなり安いので、Wordpress使いたいけどコストは抑えたいという人には向いているのではないでしょうか。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2013-09-16
 lastmod: 2016-02-24
 tags: 

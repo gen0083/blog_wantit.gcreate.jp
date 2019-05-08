@@ -4,7 +4,7 @@ slug: otibohiroi-inunoseikatu
 description: 私小説といわれる、作者の体験を元にした小説なんだそうです。素朴で飾り気のない淡々とした記述が、いい味を出している気がしました。作者の体験を通じて自分の過去を思い出すようです。心のうちに湧き出る淡い気持ちを楽しむ、そんな不思議な作品でした。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-21
 lastmod: 2015-08-21
 tags: 

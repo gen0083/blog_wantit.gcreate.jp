@@ -4,7 +4,7 @@ slug: orignal-domain
 description: 特に必要性に迫られたわけではありませんが、独自ドメインを取得することにしました。レンタルサーバはさくらインターネット、独自ドメインはエックスドメインでの運用となります。独自ドメインをとっておくと、サーバの引っ越しをするときに便利ですね。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-04-26
 lastmod: 2016-02-24
 tags: 

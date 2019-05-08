@@ -4,7 +4,7 @@ slug: cane-to-stand
 description: うちの祖母は足が悪くて家の中でも杖を使っているのですが、しょっちゅう杖をどこかに置き忘れたままで動き回っています。杖が自立すればどこに置いたか忘れることもなくなるのではと考えて、杖の先端のゴムを取り替えて使う商品を買ってみました。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2015-10-15
 lastmod: 2015-10-15
 tags: 

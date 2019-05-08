@@ -4,7 +4,7 @@ slug: actiontomatazure
 description: 自転車に乗って運動をする際につらいのが股ずれです。痛くなってしまってはもうどうしようもないので、できるだけ痛くならないように私がやってみたことを紹介してみます。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2014-08-28
 lastmod: 2015-05-01
 tags: 

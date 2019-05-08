@@ -4,7 +4,7 @@ slug: sin-sekaiju-2
 description: 3DSの体験版を遊んで、結構面白かったので製品版を購入しました。戦闘中にキャラクターが動きまわるわけでもない地味めなゲームですが、カワイイキャラクターの立ち絵が彩りを添えてくれます。ただシリーズ未経験者にはハードル高いゲームかもしれません。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2014-12-03
 lastmod: 2015-04-01
 tags: 

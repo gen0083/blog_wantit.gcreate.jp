@@ -4,7 +4,7 @@ slug: comic-koenokatati
 description: リアルないじめの描写が心をえぐってくること間違いなしの作品です。読む人によっていろんな思いがあると思います。読んでて楽しい本ではきっとないでしょう。でも誰もがきちんと向き合うべき問題だと思います。私は今はちゃんと向き合えそうにありません。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-06-27
 lastmod: 2016-06-27
 tags: 

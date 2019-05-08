@@ -4,7 +4,7 @@ slug: shirobako-bluray-03
 description: 新人なら誰でもぶつかるであろう悩みについて、「自分も似たようなこと悩んでたなぁ」とかいろいろ考えさせられました。過去の自分を思い出してツライところもあるんですが、壁にぶち当たってもなお立ち向かう登場人物たちに励まされるのが救いです。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2015-02-27
 lastmod: 2015-04-01
 tags: 

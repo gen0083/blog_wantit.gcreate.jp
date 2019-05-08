@@ -4,7 +4,7 @@ slug: lg-g-watch-r-replace
 description: そもそも革のベルトがあまり好みではないこともあって、黒いメタルバンドに取り替えたいよなぁと思ってました。軽い気持ちで挑戦してみたら、なんとも微妙なことになったので、交換しようと思っている人は気を付けてやってねという話です。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2015-01-29
 lastmod: 2015-04-01
 tags: 

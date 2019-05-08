@@ -4,7 +4,7 @@ slug: mikakunin-anime-01
 description: 「映像特典豪華すぎないか？」それが端的な感想です。ブルーレイを買うのは初めての事だったのですが、画質がとてもキレイで驚きました。映像特典はとても豪華で、収録時間だけで言えば本編より長いくらいで、かなり見応えがあると思います。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2014-03-21
 lastmod: 2016-02-24
 tags: 

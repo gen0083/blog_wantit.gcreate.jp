@@ -4,7 +4,7 @@ slug: hokuou-josi
 description: スウェーデン出身の方が日本語で描いたコミックエッセイです。絵柄がかわいくしっかりと確立されていて、とても外国の方が描いたものとは思えませんでした。4コマ漫画で読みやすく、あっという間に読み終わってしまいました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-07-13
 lastmod: 2015-07-13
 tags: 

@@ -4,7 +4,7 @@ slug: mikakunin-anime-2
 description: 未確認で進行形Blu-ray第2巻が届きましたが、映像特典が少なく若干がっかりな内容でした。本編は間違いなく面白いのですが、1巻の映像特典が豪華だっただけに、見劣りしてしまう第2巻。ギャップが大きいだけに物足りなさを感じてしまいます。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2014-04-17
 lastmod: 2016-02-24
 tags: 

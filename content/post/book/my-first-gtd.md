@@ -4,7 +4,7 @@ slug: my-first-gtd
 description: GTDのステップは、収集し、リマインダーに登録し、レビューを行うというサイクルを回していくことです。その中でも、疎かにしがちなレビューが実は一番大事なのではないかなと、最近になって思うようになりました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2013-12-06
 lastmod: 2015-05-01
 tags: 

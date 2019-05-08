@@ -4,7 +4,7 @@ slug: kakuno
 description: パイロノットの万年筆、カクノを購入しました。しっかりとした書き味の中に、どこかやわらかな弾力性があり、文字を書くのが非常に楽しくなる筆記具だなと感じました。低価格で買えるので、入門用万年筆としてとてもいいものだなと思います。
 
 
-cover_image: images/cover/stationery.jpg
+featuredimage: images/cover/stationery.jpg
 date: 2014-04-28
 lastmod: 2016-02-24
 tags: 

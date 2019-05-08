@@ -4,7 +4,7 @@ slug: sawai-yakumo
 description: 澤井珈琲でコーヒーミルを購入した時に、一緒に封入されていた豆の中に「やくもブレンド」という豆がありました。味はあっさり、さっぱり、すっきりといった感じで、とても美味しかったです。今回はこの豆を指定して購入してみました。
 
 
-cover_image: images/cover/coffee.jpg
+featuredimage: images/cover/coffee.jpg
 date: 2013-11-27
 lastmod: 2016-02-24
 tags: 

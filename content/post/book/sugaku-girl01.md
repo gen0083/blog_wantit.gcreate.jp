@@ -4,7 +4,7 @@ slug: sugaku-girl-01
 description: プログラムを組むのに数学的考え方を身につけたほうがいいと、ゆるやかな必要性に駆られて手にとってみました。物語形式ではありますが、数式に拒絶反応を持つ私にはややハードルが高かったです。しかし、それでも読んでよかったなと思える本でした。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-03-04
 lastmod: 2016-03-04
 tags: 

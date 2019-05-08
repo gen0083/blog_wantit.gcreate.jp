@@ -4,7 +4,7 @@ slug: ryunogakkouhayamanoue
 description: 九井諒子さんの竜の学校は山の上という本を購入しました。現代社会にケンタウロスがいる世界が舞台の現代神話という話がとても面白くてオススメです。面白いマンガに飢えている人は検討してみてはどうでしょうか。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-08-18
 lastmod: 2015-03-03
 tags: 

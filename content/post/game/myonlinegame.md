@@ -4,7 +4,7 @@ slug: myonlinegame
 description: 今回は私が今まで課金してきたオンラインゲームを紹介してみようと思います。それぞれのゲームの課金額と感想を簡単に綴っています。こうやって振り返ってみると、他に使い道はなかったのかと暗い気持ちになりますが、やってる当時は楽しかったんですよね。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2013-12-25
 lastmod: 2016-02-17
 tags: 

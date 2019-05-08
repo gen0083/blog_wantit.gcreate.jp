@@ -4,7 +4,7 @@ slug: miyavix-overlaybrilliant
 description: Cintiqに貼って使っていた液晶保護フィルムが傷だらけになってきたので、ミヤビックスのオーバーレイブリリアント低反射タイプを使ってみました。表面がつるつるしているのでペンがやや滑りやすいですが、画面が綺麗に見れるのが特徴です。
 
 
-cover_image: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc-peri.jpg
 date: 2014-05-01
 lastmod: 2015-05-01
 tags: 

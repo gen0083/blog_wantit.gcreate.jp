@@ -4,7 +4,7 @@ slug: nexus-9-tablet
 description: 今までiPad2を使っていたのですが、思うところあってNexus9へ乗り換えました。私がAndroid端末に慣れていることもあって非常に使いやすいです。電子書籍もPlayブックスで快適に閲覧できています。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2015-02-03
 lastmod: 2015-04-01
 tags: 

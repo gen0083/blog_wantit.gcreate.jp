@@ -21,6 +21,7 @@ def replace_tags(src):
     close_p = re.compile(r'</p>')
     tag_header = re.compile(r'<h(\d).*>(.+)</h\d>')
     tag_break = re.compile(r'<br.*>')
+    rename_cover_image = re.compile(r'cover_image:')
 
     def convert_header(m):
         count = int(m.group(1))
@@ -32,6 +33,7 @@ def replace_tags(src):
         dst = close_p.sub("\n", dst)
         dst = tag_header.sub(convert_header, dst)
         dst = tag_break.sub("", dst)
+        dst = rename_cover_image.sub("featuredimage:", dst)
         return dst
 
     return replace_source(src)

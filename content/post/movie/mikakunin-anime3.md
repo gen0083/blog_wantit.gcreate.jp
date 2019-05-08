@@ -4,7 +4,7 @@ slug: mikakunin-anime-3
 description: アニメ未確認で進行形第3巻が届きました。今回はニコニコ生放送特別版が映像特典として収録されています。メインキャスト3人の変わらない空気感で、楽しい映像特典となっています。といってもニコ生を見ていないと何が面白いのか分からないかもしれません。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2014-05-21
 lastmod: 2016-02-24
 tags: 

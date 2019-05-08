@@ -4,7 +4,7 @@ slug: tokimekinomahou
 description: あなたの身の回りに「いつか使うかもしれない」と取っているものはどれだけありますか？　そんなものばかりで身の回りが埋め尽くされていませんか？　この本を読んで、ときめかないものと別れを告げて、スッキリとした快適な生活を手に入れてみませんか？
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2013-09-26
 lastmod: 2016-02-24
 tags: 

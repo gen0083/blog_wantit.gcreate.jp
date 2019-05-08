@@ -4,7 +4,7 @@ slug: macdriver
 description: MacbookAirの内部清掃をするため、分解に必要な星形ドライバーを購入しました。思ったよりホコリが詰まっているわけではなく、わざわざ分解して掃除するほどのものでもありませんでしたが、トラックパッドの暴走が治まったのでやって良かったです。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-05-23
 lastmod: 2016-02-24
 tags: 

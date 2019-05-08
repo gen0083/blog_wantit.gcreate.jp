@@ -4,7 +4,7 @@ slug: protect-film-for-ipad-pro-11
 description: 素の状態ではディスプレイはキレイだが指紋が目立つので、アンチグレアタイプの液晶保護フィルムを貼ることにした。指の滑りがよくなるし、映り込みも防止でき、さらに指紋も目立たない。ただし常に白っぽくくすむというデメリットに目をつぶればというところ。品質的には期待通りで問題ないのだが、素の状態のディスプレイの美しさも捨てがたいので悩ましい。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2018-11-17
 lastmod: 2018-11-17
 tags: 

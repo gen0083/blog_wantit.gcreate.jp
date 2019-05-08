@@ -4,7 +4,7 @@ slug: softymo-white
 description: たまたま使ってみたらものすごく自分の肌に合ってびっくりした。これまで男性用洗顔フォームを使っていたのだけれど、それ以外の選択肢もあるのだなということに気がついた。肌の弱い人は、別に男性用にこだわらなくても他にいい洗顔フォームがあるかもよということをお伝えしたい。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2017-12-02
 lastmod: 2018-01-28
 tags: 

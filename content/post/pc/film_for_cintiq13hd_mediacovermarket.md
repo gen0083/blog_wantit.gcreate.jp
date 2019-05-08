@@ -4,7 +4,7 @@ slug: film-for-cintiq-13-hd-mediacovermarket
 description: このフィルムは適度な摩擦があって描き心地がよく、筆圧を安心してかけることができます。液晶タブレットのツルツルした書き心地がしっくりこない人におすすめできると思います。他に使ったことのあるフィルムと合わせて比較してみたので参考にしてください。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2013-10-13
 lastmod: 2016-02-17
 tags: 

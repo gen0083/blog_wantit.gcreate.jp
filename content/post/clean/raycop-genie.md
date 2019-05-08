@@ -4,7 +4,7 @@ slug: raycop-genie
 description: 電源コードが邪魔だったりしますが、これをかけた後の布団の肌触りは格別です。布団全体をしっかり掃除するのはかなりの重労働となりますが、これで掃除すればほんのりと暖かくなり、布団を日光の下に干したような匂いも感じられて気持ちいいです。
 
 
-cover_image: images/cover/clean.jpg
+featuredimage: images/cover/clean.jpg
 date: 2013-09-09
 lastmod: 2015-05-01
 tags: 

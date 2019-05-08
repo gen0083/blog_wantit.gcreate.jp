@@ -4,7 +4,7 @@ slug: pcdesk-renjidai
 description: 机の上の作業スペース確保のために、レンジ台を使って工夫してみました。パソコンの上に物を置くスペースを作ることができるので、机の上が狭いなと感じている人は、こんな使い方も試してみてはいかがでしょうか。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-09-17
 lastmod: 2015-01-22
 tags: 

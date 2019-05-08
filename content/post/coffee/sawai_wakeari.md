@@ -4,7 +4,7 @@ slug: sawai-wakeari
 description: 澤井珈琲の訳あり福袋を購入しました。「訳あり」なので、豆の種類は指定することはできませんが、とてもリーズナブルな値段で400gｘ3種類の豆を楽しむことができます。コストパフォーマンスに優れているだけでなく、新鮮でとても美味しいと思います。
 
 
-cover_image: images/cover/coffee.jpg
+featuredimage: images/cover/coffee.jpg
 date: 2013-10-19
 lastmod: 2016-02-24
 tags: 

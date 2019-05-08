@@ -4,7 +4,7 @@ slug: clipstudiopaintpro
 description: Surface PRO 2を購入してからCLIP STUDIO PAINT PROを使ってお絵描きしています。Windows8であれば、SAIより軽快に動くので、Surfaceとの相性は抜群でしょう。実際の様子を動画にもしてみました。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2014-03-23
 lastmod: 2016-02-24
 tags: 

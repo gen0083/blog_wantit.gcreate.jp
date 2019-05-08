@@ -4,7 +4,7 @@ slug: magico-nekoze-belt
 description: 猫背のせいで、肩こりが我慢できないほど辛くなってきたので姿勢矯正ベルトを試してみました。買う前は常に装着して使おうと思っていましたが、これは正しい姿勢をキープするためのコツをつかむためのものくらいに思っていた方がいいかもしれません。
 
 
-cover_image: images/cover/training.jpg
+featuredimage: images/cover/training.jpg
 date: 2016-01-11
 lastmod: 2016-01-11
 tags: 

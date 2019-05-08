@@ -4,7 +4,7 @@ slug: oilheater
 description: 空気を汚さず音もしない、その上メンテナンスも不要というメリットが大きく、満足度は非常に高い。ただ、暖房力が弱い、使っているけど若干寒いという点には目をつぶっているのが正直なところである。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2017-12-17
 lastmod: 2017-12-17
 tags: 

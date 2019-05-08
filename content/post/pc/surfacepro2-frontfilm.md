@@ -4,7 +4,7 @@ slug: surfacepro-2-frontfilm
 description: Surface用の保護フィルムは、無印用やPRO用など種類が多いため、どれを購入するか非常に迷いました。とりあえずAmazonで購入できるもので、一番安いものを選びました。貼り付けるのに苦労しましたが、品質に特に不満はありません。
 
 
-cover_image: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc-peri.jpg
 date: 2014-01-16
 lastmod: 2016-02-24
 tags: 

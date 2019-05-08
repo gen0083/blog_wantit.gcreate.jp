@@ -4,7 +4,7 @@ slug: sb-69-list-of-songs
 description: SHOW BY ROCKの全曲リストです。どっちかというと自分用のまとめではありますが、これをきっかけにこのコンテンツを知ってもらえると嬉しいです。まずはタイアップアーティストのYouTubeを入り口に、興味を持ってもらえたらと思います。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2015-10-21
 lastmod: 2016-10-06
 tags: 

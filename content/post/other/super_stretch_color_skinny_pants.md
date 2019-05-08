@@ -4,7 +4,7 @@ slug: super-stretch-color-skinny-pants
 description: 夏でも履ける、自転車に乗るときに足の動きを邪魔しないパンツを探していた。 冬場における同様の用途のパンツはユニクロで買った。 風を通しにくい作りになっているので、これを夏場に履くと蒸し風呂状態になる。 ただ、ストレッチ素 [&hellip;]
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2018-07-17
 lastmod: 2018-07-17
 tags: 

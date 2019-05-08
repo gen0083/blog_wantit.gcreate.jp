@@ -4,7 +4,7 @@ slug: ogkkabutoleff
 description: 自転車用のヘルメットを購入しました。ヘルメットの着用は義務ではありませんが、スポーツ用の自転車だと、スピードが簡単に出るので、万が一事故に遭った時が大変です。自転車を楽しむためにもヘルメットは着用した方がいいでしょう。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2013-09-18
 lastmod: 2016-02-24
 tags: 

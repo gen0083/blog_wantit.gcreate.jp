@@ -4,7 +4,7 @@ slug: toukei-maruhadaka
 description: 私が統計学に興味を持つのは、数字の持つ意味を知って惑わされないようにしたいというのが大きな理由です。そういう意味では、統計にまつわるバイアスについて、具体例を用いて記述してある本書は役に立ったんじゃないかなと思います。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-12-10
 lastmod: 2016-02-24
 tags: 

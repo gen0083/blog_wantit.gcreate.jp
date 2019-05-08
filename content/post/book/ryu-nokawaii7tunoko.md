@@ -4,7 +4,7 @@ slug: ryu-nokawaii-7-tunoko
 description: 密かにKindleでセールされるのをウォッチしていた、九井諒子さんの竜のかわいい7つの子を購入しました。クスリとくる設定が相変わらず秀逸です。お手頃価格なので、九井作品を試してみるのにはこれがいいかもしれません。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-10-07
 lastmod: 2016-02-24
 tags: 

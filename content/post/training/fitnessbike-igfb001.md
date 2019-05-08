@@ -4,7 +4,7 @@ slug: fitnessbike-igfb-001
 description: 普段クロスバイクに乗っている私からすると若干物足りませんが、室内で気軽に自転車運動できるという点でそこそこ使えると思います。駆動音や振動は木造2階建ての2階で使っていても、階下にはほとんど影響がありません。
 
 
-cover_image: images/cover/training.jpg
+featuredimage: images/cover/training.jpg
 date: 2015-02-02
 lastmod: 2015-04-01
 tags: 

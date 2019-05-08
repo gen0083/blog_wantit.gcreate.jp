@@ -4,7 +4,7 @@ slug: ink-canon
 description: 純正インクは高すぎるので、互換インクを試してみることにしました。普段使いには問題ない品質だと思います。純正インクで無駄遣いしないように気を使って節約するより、互換インクで気軽に印刷した方がプリンタにとってもいいのかもしれないなと思いました。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2013-10-09
 lastmod: 2016-02-24
 tags: 

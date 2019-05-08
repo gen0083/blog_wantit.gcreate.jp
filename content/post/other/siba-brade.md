@@ -4,7 +4,7 @@ slug: siba-brade
 description: 以前購入したマキタの生垣バリカンのブレードを交換して、芝生バリカンとして使ってみました。切れ味も良くて庭の芝生の手入れをするのには十分な性能です。コードで邪魔されることもありませんし、本体を共通利用できるので経済的でいいですね。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-08-12
 lastmod: 2016-02-24
 tags: 

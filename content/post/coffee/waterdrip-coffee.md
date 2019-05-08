@@ -4,7 +4,7 @@ slug: waterdrip-coffee
 description: たまにはアイスコーヒーを飲みたいと、ウォータードリップサーバーを購入しました。お湯で入れたコーヒーを冷まして飲むより断然おいしいです。水をセットするだけなので、入れ方で味が左右されにくいのがメリットかもしれません。
 
 
-cover_image: images/cover/coffee.jpg
+featuredimage: images/cover/coffee.jpg
 date: 2014-07-17
 lastmod: 2016-02-24
 tags: 

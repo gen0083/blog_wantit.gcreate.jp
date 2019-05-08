@@ -4,7 +4,7 @@ slug: ipad-pro-11-and-pencil
 description: iPad PROとApple Pencilを買った。利用目的(電子書籍閲覧、メモがメイン)を考えると過剰スペックではあるが、Pencilを側面に取り付けられるスタイルに惹かれて買った。電子書籍を閲覧するデバイスに困っていたのでこれで捗りそう。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2018-11-14
 lastmod: 2018-11-14
 tags: 

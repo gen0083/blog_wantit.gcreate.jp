@@ -4,7 +4,7 @@ slug: rental-xserver-x-10
 description: うちのブログ、一時期月間1万PV行ったこともあるんですが、最近では1000PVを切っています。サーバを引っ越したら変わるかもしれないと、エックスサーバへの引っ越しましたが効果は出ず。サーバの設定が私の好みだったのがせめてもの救いです。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-09-26
 lastmod: 2015-03-03
 tags: 

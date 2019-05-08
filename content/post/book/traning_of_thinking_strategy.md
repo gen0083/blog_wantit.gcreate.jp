@@ -4,7 +4,7 @@ slug: traning-of-thinking-strategy
 description: 戦略思考トレーニングとなってはいますが、要はクイズ形式のビジネス系雑学本です。実際に企業がとった事例を元に、なぜそういった考えに至ったかなどの解説をしています。すぐに答えを見るのではなく、自分だったらどうするか考えながら読むことが大事です。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2013-08-31
 lastmod: 2016-02-24
 tags: 

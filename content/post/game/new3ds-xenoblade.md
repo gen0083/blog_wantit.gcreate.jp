@@ -4,7 +4,7 @@ slug: new-3-ds-xenoblade
 description: new 3DSに移植されたゼノブレイドを買ってきました。サブイベントをこなしていくことで町の人々の関係性がどんどん変わっていくのが面白いです。画面が見にくいのが気になりますが、遊びごたえのあるRPGだと思います。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2015-05-12
 lastmod: 2015-05-12
 tags: 

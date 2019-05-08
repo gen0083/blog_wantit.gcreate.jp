@@ -4,7 +4,7 @@ slug: shirobako-bluray-05
 description: SHIROBAKOも後半戦に入り、新たに第三飛行少女隊という原作があるアニメ制作の話に入ります。スタッフを集めて、美術やキャラクターの色彩が決まって徐々に形になっていく感じが、なんだか文化祭の準備をしているときを思い出しました。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2015-05-03
 lastmod: 2016-02-24
 tags: 

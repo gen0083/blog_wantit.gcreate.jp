@@ -4,7 +4,7 @@ slug: savas-protein
 description: 思うところあって、プロテインを摂取しながらの筋トレを始めました。プロテインの効果は正直良く分かりませんが、せっかく高いものを買ったんだからと、筋トレを継続する動機付けとしては十分な効果があると思います。
 
 
-cover_image: images/cover/training.jpg
+featuredimage: images/cover/training.jpg
 date: 2016-08-03
 lastmod: 2016-08-21
 tags: 

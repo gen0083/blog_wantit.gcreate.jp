@@ -4,7 +4,7 @@ slug: mikakunin-anime-4
 description: 映像特典は「よせてあつめたCM集」があるだけで、音楽CDすらついていません。半分くらい映像特典のために購入しているので、これはちょっとがっかりでした。第4巻はもっとも特典が少ない巻になっています。映像特典は次回以降に期待という感じです。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2014-06-24
 lastmod: 2016-02-24
 tags: 

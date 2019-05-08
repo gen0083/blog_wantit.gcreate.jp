@@ -4,7 +4,7 @@ slug: mini-carpet
 description: 部屋の床からくる寒さが辛いので、足元にミニホットカーペットを敷くことにしました。普通のホットカーペットと比べると、ほのかに温もりを感じる程度のあたたかさです。お風呂あがりにちょっとパソコンをいじりたいときに、買ってよかったと実感出来ました。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-10-24
 lastmod: 2015-03-03
 tags: 

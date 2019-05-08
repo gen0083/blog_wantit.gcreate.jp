@@ -4,7 +4,7 @@ slug: sukimakaze-taisaku
 description: 窓ガラスからじんわりと伝わる冷たい空気で体調を崩してしまったので、隙間風対策グッズで対策することに。窓とサッシの隙間を埋めるためにすきまテープを。窓からの冷気を防ぐためにパネルを。そして仕上げに窓ガラスに省エネスプレーを吹きかけてみました。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-10-17
 lastmod: 2015-01-22
 tags: 

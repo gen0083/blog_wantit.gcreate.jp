@@ -4,7 +4,7 @@ slug: tudukerugijutu
 description: 自慢ではありませんが、私は3日坊主です。どうにかしたいなと思って、この本を購入してみました。続けるためには仕組みづくりが大事だということが、コミックエッセイで綴られています。マンガ形式なので面倒くさがり屋な人でも読みきることができます。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2013-09-22
 lastmod: 2016-02-24
 tags: 

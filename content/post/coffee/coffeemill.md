@@ -4,7 +4,7 @@ slug: coffeemill
 description: コーヒーを飲み切るのに割と時間がかかるので、粉だと劣化が気になります。そこで豆を買ってコーヒーを淹れるようにしようと、電動ミルを購入しました。手動式のミルよりは楽かなと思いましたが、電動でも掃除が面倒くさかったです。
 
 
-cover_image: images/cover/coffee.jpg
+featuredimage: images/cover/coffee.jpg
 date: 2013-09-18
 lastmod: 2016-02-17
 tags: 

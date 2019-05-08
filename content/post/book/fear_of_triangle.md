@@ -4,7 +4,7 @@ slug: fear-of-triangle
 description: 面白いミステリ作品と紹介されたのを目にして読んでみました。この作品はフェアな条件で謎解きが楽しめる作品です。純粋に犯人が誰であるかを考えることに集中できる作品になっていて、名作として名前が挙がるだけのことはあるなと思いました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-26
 lastmod: 2015-08-26
 tags: 

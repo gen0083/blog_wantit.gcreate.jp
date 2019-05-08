@@ -4,7 +4,7 @@ slug: biglobe-sim
 description: 携帯料金を節約するために、ドコモからBiglobe LTE・3G通話SIMへとMNPしました。データ通信は月1GBまで速度無制限で利用でき、今まで使っていた電話番号もそのまま継続利用できます。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2014-07-05
 lastmod: 2015-10-18
 tags: 

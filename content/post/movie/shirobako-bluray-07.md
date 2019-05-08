@@ -4,7 +4,7 @@ slug: shirobako-bluray-07
 description: SHIROBAKO第7巻は普段より3000円高いですが、劇中劇の第三少女飛行隊第1話が収録された特典DVDがついています。この特典DVDほどクレジットを真剣に見るアニメはないと言えるほどに、知った名前を探すのが楽しいです。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2015-08-01
 lastmod: 2015-08-01
 tags: 

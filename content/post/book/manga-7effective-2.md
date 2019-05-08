@@ -4,7 +4,7 @@ slug: manga-7-effective-2
 description: まんがでわかる7つの習慣の2巻は1巻で扱った内容を掘り下げたものでした。内容がより具体的になっていて、実際に普段の生活に活かしやすくなっているように感じます。今回は私が普段の生活に活かしていきたいなと思った考え方2点と一緒にご紹介したいと思います。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-12-20
 lastmod: 2015-03-03
 tags: 

@@ -4,7 +4,7 @@ slug: gingitune
 description: 読んでいてほんのり心が温かくなる、ぎんぎつねはそんなマンガです。物語の舞台が神社で、神様のお使いである神使が出てきます。神様はみんなを見守っているんだよという、どこか包み込むような空気感があり、私がとても好きなマンガです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2013-10-05
 lastmod: 2016-02-24
 tags: 

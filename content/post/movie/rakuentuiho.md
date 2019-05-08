@@ -4,7 +4,7 @@ slug: rakuentuiho
 description: 楽園追放のBlu-rayを購入しました。フルCGでセルルックなアニメーション作品で、前評判通り映像はすごかったです。それだけでなく、単純に1作品として面白かったです。手書きだから、CGだからというのは抜きにして、アツくなれるいい映画でした。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2014-12-15
 lastmod: 2015-04-01
 tags: 

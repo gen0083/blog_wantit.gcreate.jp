@@ -4,7 +4,7 @@ slug: listball
 description: 手首が細いのが気になっていたので、ここを集中的に鍛えたいと思って買いました。動画で使っているところを見ると面白そうでしたし。回すとかなり轟音がしますが、前腕部にいい刺激を与えてくれます。回すのにコツがいりますが、使うと病みつきになります。
 
 
-cover_image: images/cover/training.jpg
+featuredimage: images/cover/training.jpg
 date: 2013-09-18
 lastmod: 2016-02-24
 tags: 

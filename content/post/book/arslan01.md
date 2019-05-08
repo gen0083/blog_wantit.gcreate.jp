@@ -4,7 +4,7 @@ slug: arslan-01
 description: アルスラーン戦記はアニメで楽しんでおります。あえて原作を読むまでもないかなとも思ったのですが、一応読んでみました。細かい部分に多少の違いはあれど、ストーリーはアニメとほぼ変わりません。想像していたよりライトなタッチで読みやすかったです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-22
 lastmod: 2015-08-22
 tags: 

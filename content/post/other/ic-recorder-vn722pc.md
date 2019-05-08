@@ -4,7 +4,7 @@ slug: ic-recorder-vn-722-pc
 description: 講義の録音目的でICレコーダーを購入しました。使用頻度はそんなに高くならないだろうということで、安いやつを買いました。録音形式はMP3かWMAです。再生機能はそこまで優れてるわけではないのですが、講義の録音目的なら十分です。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2015-04-28
 lastmod: 2016-02-24
 tags: 

@@ -4,7 +4,7 @@ slug: my-wireless-keybord-1
 description: ワイヤレスキーボードは電池の交換が必須ですが、このキーボードは太陽電池式なので、充電も電池の交換もいりません。当然ワイヤレスなので、ケーブルの煩わしさからも解放してくれます。まさに面倒くさがり屋のための素敵なキーボードです。
 
 
-cover_image: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc-peri.jpg
 date: 2013-12-29
 lastmod: 2016-02-24
 tags: 

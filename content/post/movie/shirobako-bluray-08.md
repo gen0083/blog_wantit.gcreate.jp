@@ -4,7 +4,7 @@ slug: shirobako-bluray-08
 description: SHIROBAKOもついに最終巻です。一番印象に残っているシーンと言われれば多くの人が挙げるであろう23話のラストシーン。私も例外ではありません。最終巻は物語のクライマックスとして笑いあり・涙ありの見どころ盛りだくさんですね。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2015-08-31
 lastmod: 2016-02-24
 tags: 

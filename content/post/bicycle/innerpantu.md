@@ -4,7 +4,7 @@ slug: innerpantu
 description: ジーパンで長距離自転車に乗ると、どうしてもお尻が痛くなってしまいます。自転車にのることが目的ならレーパンでも問題ありませんが、自転車を移動の手段とするときにはどうしてもレーパンでは恥ずかしい。そこでインナーパンツを購入することにしました。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2014-05-06
 lastmod: 2016-02-24
 tags: 

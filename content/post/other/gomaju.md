@@ -4,7 +4,7 @@ slug: gomaju
 description: ワキのニオイにも効くらしいと聞いて、ゴマージュを試してみました。使ってみると角質と一緒に毛穴の汚れもとれているようで、脇の黒ずみも一緒にとれている感じです。それがニオイを防ぐことにも繋がっているかもしれません。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2013-09-10
 lastmod: 2015-05-01
 tags: 

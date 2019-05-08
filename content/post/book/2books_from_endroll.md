@@ -4,7 +4,7 @@ slug: 2-books-from-endroll
 description: 前回「遠まわりする雛」のあとがきに紹介されていた本を読んで、思いの外楽しめたことに味をしめました。そこで同じように同著者の「愚者のエンドロール」のあとがきにて紹介されていた、「毒入りチョコレート事件」と「探偵映画」を読んでみました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-07-31
 lastmod: 2015-08-05
 tags: 

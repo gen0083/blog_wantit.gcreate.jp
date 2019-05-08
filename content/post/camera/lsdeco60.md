@@ -4,7 +4,7 @@ slug: lsdeco-60
 description: 商品写真を綺麗に撮れるように撮影ボックスを購入しました。私が購入したものは60cmサイズのものですが、ちょっと大きすぎて取り回しが大変です。更に別途照明を用意しないと、光量が足りずに困ります。撮影ボックスの前に照明を準備するべきでした。
 
 
-cover_image: images/cover/camera.jpg
+featuredimage: images/cover/camera.jpg
 date: 2013-09-12
 lastmod: 2016-02-24
 tags: 

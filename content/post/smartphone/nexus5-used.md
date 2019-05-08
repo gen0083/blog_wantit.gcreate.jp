@@ -4,7 +4,7 @@ slug: nexus-5-used
 description: Nexus6が発売されているにも関わらず、1世代前のNexus5を購入しました。今まで使っていたのが2年前のモデルだったので、Nexus5でも充分に快適に使えています。最新OSが使えて、余計なプリインストールアプリがないのも魅力です。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2015-01-20
 lastmod: 2015-10-18
 tags: 

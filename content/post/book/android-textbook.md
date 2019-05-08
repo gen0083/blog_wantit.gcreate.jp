@@ -4,7 +4,7 @@ slug: android-textbook
 description: Androidアプリ作成について、ネットで調べたりしながら独学で勉強していると、知識が断片化してしまってそれぞれの関係性がよくわからなくなってきます。この本はそういった「全体像を掴みたい」といった人にオススメな本だと思いました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-03-29
 lastmod: 2015-01-24
 tags: 

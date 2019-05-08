@@ -4,7 +4,7 @@ slug: shiawaseninaruyuki
 description: アドラーの心理学を実践した青年が、全然うまくいかないと再び哲人の元を訪れるのが本作「幸せになる勇気」です。この本に何か「答え」を求めているのであれば、それは無駄足になるかもしれません。ここにあるのは答えを探すための知識、考え方だけです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-07-31
 lastmod: 2016-07-31
 tags: 

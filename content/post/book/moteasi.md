@@ -4,7 +4,7 @@ slug: moteasi
 description: 身体の歪みは骨盤を意識したら直るかもしれません。骨盤を意識するだけでも、O脚が多少改善されます。そこでこの骨盤ストレッチで、骨盤をしっかり矯正しようと思ったのですが、種類の多い運動を覚えるのが面倒くさくて長続きしませんでした。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2013-09-22
 lastmod: 2016-02-24
 tags: 

@@ -4,7 +4,7 @@ slug: 3-dpants
 description: もっこり感が恥ずかしくて敬遠していましたが、実際に履いてみると開放感があって気持ちいです。脚がすんなり動くのでスピードも出しやすく感じます。お尻の痛みに悩むサイクラーは恥ずかしさを乗り越えて一度使ってみてはどうでしょうか。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2013-09-04
 lastmod: 2016-02-24
 tags: 

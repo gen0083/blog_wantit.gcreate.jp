@@ -4,7 +4,7 @@ slug: dandelion-girl
 description: ビブリア古書堂の事件手帖で出てきたたんぽぽ娘を読んでみました。「おとといは兎を見たわ、きのうは鹿、今日はあなた」という特徴的なセリフが出てくる物語ですが、心が暖かくなるいいお話でした。他の短編だと、エミリーと不滅の詩人たちがよかったです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-09
 lastmod: 2015-08-09
 tags: 

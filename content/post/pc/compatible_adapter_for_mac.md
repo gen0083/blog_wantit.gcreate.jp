@@ -4,7 +4,7 @@ slug: compatible-adapter-for-mac
 description: 以前使っていた古いMacbook Air用に互換アダプタを購入した。純正アダプタが高かったからというのがその理由だ。使用頻度の低いマシン用だったので、品質が低いのは覚悟の上で購入したものの、純正品の品質の高さを改めて思い知らされた。だからといって純正品は高すぎると思うけれども。
 
 
-cover_image: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc-peri.jpg
 date: 2017-03-27
 lastmod: 2017-03-27
 tags: 

@@ -4,7 +4,7 @@ slug: usb-powertap
 description: USB機器を充電するのに差込口が足りないため、USB専用の電源タップを用意しました。専用のタップを用意するとパソコン周りがケーブルでごちゃごちゃしなくていいです。2.1Aの大容量ポートもあるので、iPadをMacに繋いで充電せずに済みます。
 
 
-cover_image: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc-peri.jpg
 date: 2014-09-25
 lastmod: 2015-03-03
 tags: 

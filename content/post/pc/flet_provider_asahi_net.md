@@ -4,7 +4,7 @@ slug: flet-provider-asahi-net
 description: プロバイダをぷららからASAHIネットに変更しました。フレッツ光対応プロバイダの中で、2番目くらいに月額料金が安いところです。しかしファイルダウンロード時の帯域制限が極端で、ずっと使い続けたいと思うようなところではありませんでした。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2015-11-05
 lastmod: 2015-11-05
 tags: 

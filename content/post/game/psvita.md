@@ -4,7 +4,7 @@ slug: psvita
 description: きれいな画面でゲームをプレイしたいと思い、PS Vitaを購入しました。携帯機とは思えない画質の良さで、ただただ驚かされるばかりです。Vita単体でソフトをダウンロード購入することもできて利便性もいいです。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2013-09-11
 lastmod: 2016-02-17
 tags: 

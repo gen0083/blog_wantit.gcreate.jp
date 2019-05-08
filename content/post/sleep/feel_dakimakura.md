@@ -4,7 +4,7 @@ slug: feel-dakimakura
 description: 温度が変化するといううたい文句で、確かに最初はヒンヤリしてると感じます。しかしすぐにぬるくなるので、涼しさを求めて使うのは微妙かもしれません。温もりを保持してくれる効果もあるので、春先・秋口の肌寒い季節の方が向いているかもしれません。
 
 
-cover_image: images/cover/sleep.jpg
+featuredimage: images/cover/sleep.jpg
 date: 2014-09-08
 lastmod: 2015-01-22
 tags: 

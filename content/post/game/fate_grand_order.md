@@ -4,7 +4,7 @@ slug: fate-grand-order
 description: ガチャが渋くて低評価レビューが目立つFate/GOはじめました。戦闘システムがほどよく頭を使う感じで、評価のわりには面白いです。敵が強いので、今を優先するのか次を見据えるのかの判断に緊張感がただよいます。ガチャが渋いのは間違いないですけど。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2016-02-24
 lastmod: 2016-02-24
 tags: 

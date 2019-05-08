@@ -4,7 +4,7 @@ slug: sass-text
 description: ずっと前からCSSでサイトデザインする際、ある不満を持っていました。プログラムのように変数が使えたらいいのにと。しかしそんな人に朗報があります。Sassを使えばCSSでも変数が使えるようになるのです。これでCSSの記述がくそ便利になります。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2013-12-12
 lastmod: 2015-01-26
 tags: 

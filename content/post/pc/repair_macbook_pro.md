@@ -4,7 +4,7 @@ slug: repair-macbook-pro
 description: MacBook PROの液晶コーティングの剥がれを修理してもらった。キレイな画面になってまるで新品になったかのような気分で気持ちいい。また剥がれると困るので液晶保護シートも貼って万全の構えにしておいたのだが、選んだ保護フィルムはちょっと失敗してしまった。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2018-11-08
 lastmod: 2018-11-17
 tags: 

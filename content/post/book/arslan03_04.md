@@ -4,7 +4,7 @@ slug: arslan-03-04
 description: アルスラーンの原作を読んでいるのは、アニメの先の展開が早く知りたいからという理由が大きいです。その意味ではこの汗血公路でようやくアニメで描かれていない部分を読むことができました。しかしアルスラーンが王になるにはまだまだかかりそうです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-29
 lastmod: 2016-02-22
 tags: 

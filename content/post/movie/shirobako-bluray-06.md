@@ -4,7 +4,7 @@ slug: shirobako-bluray-06
 description: 16話の小笠原さん回を見たときは、「ゴスロリなのになんでバッティングセンター（しかもうま）」っていうところばかり気になってましたが、改めて見ると深いなって思います。「最近の若い奴は・・・」という前に、自分の心構え見なおしてみませんか。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2015-06-03
 lastmod: 2016-02-24
 tags: 

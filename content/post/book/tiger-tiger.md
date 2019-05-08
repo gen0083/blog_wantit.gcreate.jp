@@ -4,7 +4,7 @@ slug: tiger-tiger
 description: メンタリストに出てくる「虎よ、虎よ、赤々と燃える・・・」という詩。それをモチーフとしているらしいので興味を持ちました。1956年に発表された小説ということですが、今読んでも面白い作品でした。メンタリストの展開を予想する幅も広がります。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-06-29
 lastmod: 2015-08-05
 tags: 

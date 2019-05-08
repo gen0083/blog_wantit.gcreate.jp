@@ -4,7 +4,7 @@ slug: rokkanoyusha
 description: アニメで知った六花勇者、6巻まで読んでしまいました。各巻すっきりしない終わり方をしない（続巻への新たな謎を匂わせて終わる）ので、読みながら餌を目の前にちらつかされて走る馬のような気分になってました。でも気になるから読んじゃう・・・。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-02-10
 lastmod: 2016-02-10
 tags: 

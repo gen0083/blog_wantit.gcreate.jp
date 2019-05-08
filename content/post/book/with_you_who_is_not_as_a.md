@@ -4,7 +4,7 @@ slug: with-you-who-is-not-as-a
 description: ある日自分の子供が、殺人事件の容疑で逮捕されたとしたら、一体自分はどうするだろうか。その現実に果たして向き合えるだろうか。ましてやそれが、離婚して離れて暮らしている子供だとしたら。緊迫感で目が離せない、人との向き合い方を考えさせられる一冊だった。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2017-07-23
 lastmod: 2017-07-23
 tags: 

@@ -4,7 +4,7 @@ slug: dont-afraid-communication
 description: 本のタイトルに「コミュ障」とありますが、正確には会話に苦手意識を持っている人を対象にした、会話のコツを伝えるコミックエッセイです。文化放送アナウンサーがコミュ障なんて嘘だと思って読んだのですが、ためになったという意味で面白かったです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-09-10
 lastmod: 2016-09-10
 tags: 

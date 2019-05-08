@@ -4,7 +4,7 @@ slug: gingitune-12
 description: ぎんぎつね12巻は達夫と由子が結婚するまでのエピソードが描かれます。神主になろうと決意したけど、本当にこれが自分のやりたいことなのか悩む達夫。そんな彼の背中を押す江津子さんがカッコイイ12巻です。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-07-28
 lastmod: 2016-02-24
 tags: 

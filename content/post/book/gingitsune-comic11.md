@@ -4,7 +4,7 @@ slug: gingitsune-comic-11
 description: ぎんぎつね11巻を入手して早速読みました。今回は過去編でまことの両親である達夫と由子のお話でした。ほんわかした二人が惹かれ合って仲良くなっていくだけなら単なる惚気話ですが、義友おじさんがそこにスパイスを効かせていて面白かったです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-11-27
 lastmod: 2015-03-03
 tags: 

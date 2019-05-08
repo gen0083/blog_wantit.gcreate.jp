@@ -4,7 +4,7 @@ slug: maruyama
 description: ちょっと高級なコーヒー豆を購入してみました。高いだけにどんな味がするのだろうと思って飲んでみたのですが、ちょっと淹れ方が難しいのか、なかなか好みの味にはなりませんでした。値段も高いので普段飲むコーヒーとして採用は難しそうです。
 
 
-cover_image: images/cover/coffee.jpg
+featuredimage: images/cover/coffee.jpg
 date: 2014-04-21
 lastmod: 2016-02-24
 tags: 

@@ -4,7 +4,7 @@ slug: docmentfile
 description: デスクの深い引き出しは、容量が大きすぎて細かな書類を保管するのに向きません。そこで、書類を入れてもグチャッと崩れない、しかも分類できるジャバラ式のポケットファイルを購入してみました。これを使えば書類整理が捗ります。
 
 
-cover_image: images/cover/stationery.jpg
+featuredimage: images/cover/stationery.jpg
 date: 2014-01-23
 lastmod: 2016-02-24
 tags: 

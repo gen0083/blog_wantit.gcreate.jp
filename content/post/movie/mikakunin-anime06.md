@@ -4,7 +4,7 @@ slug: mikakunin-anime-06
 description: 未確認で進行形の最終巻です。かっこいい白夜が大活躍する最終話が収録されています。そして第5巻の映像特典の続き、未確認で歌唱形の後編も収録されています。映像特典の方が本編より収録時間が長いだけあって、見応えバツグンでした。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2014-08-21
 lastmod: 2015-03-03
 tags: 

@@ -4,7 +4,7 @@ slug: chou-benkyouhou
 description: 勉強法について書かれていて、20年前の本であるにもかかわらず古さを感じさせない面白い本だった。提唱されているのは、基礎から積み上げる方式とは逆のアプローチで、実際に使われているところから学習していくスタイルといえる。特に学習に時間が取れない社会人にとって役に立ちそうな本だと思う。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2017-08-04
 lastmod: 2017-08-04
 tags: 

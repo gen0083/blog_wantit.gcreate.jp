@@ -4,7 +4,7 @@ slug: kokoronotukarewotorugijutu
 description: 「ムリ・ムダ・ムラ」という3つの切り口からメンタルコントロールについて教えてくれます。心の疲れをとるには、たった１つ、とてもシンプルなことをするだけでいいのです。自分のためだけでなく、周りの人のためにも読んでほしい1冊です。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-06-17
 lastmod: 2015-01-22
 tags: 

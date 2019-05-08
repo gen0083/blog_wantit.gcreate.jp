@@ -4,7 +4,7 @@ slug: saturikuniitaruyamai
 description: グロテスクな表現が苦手な人にはツライかもしれません。一人の人間が殺戮にいたる過程を生々しく描写していて、そのあまりの臨場感に目が離せなくなりました。読み終わった後に訪れる不思議な感覚を楽しんで欲しい、「とにかく読め」な作品でした。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-02-19
 lastmod: 2016-02-19
 tags: 

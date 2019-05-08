@@ -4,7 +4,7 @@ slug: show-by-rock
 description: 最近SHOW BY ROCKをやり始めました。意外とのめり込めるゲームで、音ゲーマニアでもやりがいを感じれるんじゃないかと思います。ソシャゲにありがちな「課金しろ」オーラをあまり感じない、雰囲気の清いゲームだと思います。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2015-08-17
 lastmod: 2015-10-21
 tags: 

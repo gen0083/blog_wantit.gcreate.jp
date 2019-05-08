@@ -4,7 +4,7 @@ slug: sawai-summerblend
 description: 前回のコーヒー豆購入から約4か月。ようやく使い切ることができたので、新しく豆を購入しました。今回は一番安いものではなく普段より約1000円追加支出し、4種類の豆が入った福袋を購入しました。それでもコストパフォーマンスはいいと思います。
 
 
-cover_image: images/cover/coffee.jpg
+featuredimage: images/cover/coffee.jpg
 date: 2014-09-14
 lastmod: 2015-03-03
 tags: 

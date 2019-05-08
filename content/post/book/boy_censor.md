@@ -4,7 +4,7 @@ slug: boy-censor
 description: 面白いミステリと紹介されていて読んでみた少年検閲官。続編のオルゴーリェンヌも読みました。どこか退廃的で幻想的な雰囲気が漂い、私の好みドストライクだったのですが、その雰囲気と少年検閲官がミスマッチに感じられていまいち没頭できませんでした。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-02-20
 lastmod: 2016-02-20
 tags: 

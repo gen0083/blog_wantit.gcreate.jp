@@ -4,7 +4,7 @@ slug: the-citadel-of-the-weak
 description: サスペンスとして楽しめる作品だと思います、途中までは。後味が悪いとは聞いていましたが、というよりは「笑えない怖さ」が味わえる作品だと思います。話としてよく出来過ぎていて、逆に笑えないと私は思いました。中高生に教訓として読んでもらいたい。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-23
 lastmod: 2015-08-23
 tags: 

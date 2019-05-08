@@ -4,7 +4,7 @@ slug: gravity-daze
 description: 重力を操作することで、画面内を縦横無尽に飛び回るアクションがとても面白いです。細かい部分で残念に思うところはあるものの、全体としてVitaの機能をうまく活用している面白いゲームだと思います。3Dに酔いやすいのについつい買ってしまいました。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2013-10-20
 lastmod: 2015-05-01
 tags: 

@@ -4,7 +4,7 @@ slug: book-quiet
 description: スーザン・ケイン著の内向型人間の時代という本を読みました。内向型の人の魅力について書かれた本です。内向型の人がどのように社会で振る舞うかという視点より、子供をいかに育てていくかという視点で役に立ちそうな本です。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-11-17
 lastmod: 2016-02-24
 tags: 

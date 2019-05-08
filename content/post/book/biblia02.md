@@ -4,7 +4,7 @@ slug: biblia-02
 description: 引っ感じると言いつつビブリア古書堂の事件手帖2巻も続けて読みました。2巻では栞子さんのバックグラウンドが少し明らかになります。妙に人間臭い一面を垣間見ることが出来た気がして、栞子さんというキャラクターが少し身近に感じられるようになりました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-04
 lastmod: 2016-02-24
 tags: 

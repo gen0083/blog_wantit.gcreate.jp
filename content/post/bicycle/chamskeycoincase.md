@@ -4,7 +4,7 @@ slug: chamskeycoincase
 description: 自転車用の小銭入れとして、チャムスキーコインケースを購入しました。4つ折りが必要ですがお札を収納可能、カードも1枚入ります。自転車のサドルバックに収まるサイズで、自転車に乗るときにちょうどいいサイズの財布だと思います。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2014-04-25
 lastmod: 2016-02-24
 tags: 

@@ -4,7 +4,7 @@ slug: ipad-flex-arm
 description: iPadをセカンドディスプレイとして活用しようと思い購入しました。この製品は保持力はしっかりしているのですが、可動範囲の制約が思ったより多く、思い通りの位置にiPadを固定するには至りませんでした。設置場所も選ぶのが難点です。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-01-09
 lastmod: 2016-02-24
 tags: 

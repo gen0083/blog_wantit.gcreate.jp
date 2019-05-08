@@ -4,7 +4,7 @@ slug: coven-and-labyrinth-of-refrain
 description: 評価が高かったので遊んでみたのですが、私は戦闘が楽しめませんでした。ストーリーはかなりえげつない表現があり、人によっては不快感を感じる部分もあると思います。独自の仕組みを組み込んでいるのに噛み合っていない、そんな印象を受けました。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2016-09-21
 lastmod: 2016-09-21
 tags: 

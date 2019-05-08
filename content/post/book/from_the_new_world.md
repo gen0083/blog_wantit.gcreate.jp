@@ -4,7 +4,7 @@ slug: from-the-new-world
 description: 新世界よりをアニメで見て心を鷲掴みにされ、原作を手に取りました。超能力なんて便利な能力があったら世界がハッピーになる、なんていう幻想を打ち砕かれ、さらには人間の醜い部分を目の当たりにして、人とは一体何なのだろうかと考えさせられる物語です。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-02-16
 lastmod: 2016-02-16
 tags: 

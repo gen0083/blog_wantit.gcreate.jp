@@ -4,7 +4,7 @@ slug: petit-bourgeios-02-parfait
 description: 夏期限定トロピカルパフェ事件を読みました。春期限定いちごタルト事件ですっかり小佐内さんの虜になってしまったからです。タルト事件を読んでいない人は、ぜひそちらから。ネタバレ注意。1巻の比ではないびっくりな展開が待っています。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-06
 lastmod: 2015-08-06
 tags: 

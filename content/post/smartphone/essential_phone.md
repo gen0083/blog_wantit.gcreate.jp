@@ -4,7 +4,7 @@ slug: essential-phone
 description: Essential Phoneを買った。ボディ自体は小さいのに画面の表示領域が広く、触り心地もよくて普段遣いにしたいスマホだ。最新OSを試すために買った面が大きいのだが、SIMを刺して普段使う端末にしたい誘惑に駆られる。Pure Androidという点もよい。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2018-07-29
 lastmod: 2018-11-08
 tags: 

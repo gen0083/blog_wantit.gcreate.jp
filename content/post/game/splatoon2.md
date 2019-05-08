@@ -4,7 +4,7 @@ slug: splatoon-2
 description: 私はWiiU版の前作をプレイしたことはあったのだが、肌に合わなくてすぐに処分してしまった経験がある。にもかかわらず、Splatoon2を購入した。対人戦は楽しめなかったが、今作ではサーモンランという協力プレイモードがあるので楽しめている。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2017-08-19
 lastmod: 2017-08-19
 tags: 

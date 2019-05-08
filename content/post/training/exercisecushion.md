@@ -4,7 +4,7 @@ slug: exercisecushion
 description: 椅子の上でも気軽に使えるようにと、エクササイズクッションも買ってみました。座布団のような感じで椅子に敷いて使うことができます。普通に座って使えば腹筋を鍛えるのに、床に置いたエクササイズクッションの上に立てば内転筋を鍛えるのに活用できます。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2013-09-18
 lastmod: 2016-02-24
 tags: 

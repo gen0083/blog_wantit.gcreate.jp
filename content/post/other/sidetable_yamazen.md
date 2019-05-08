@@ -4,7 +4,7 @@ slug: sidetable-yamazen
 description: ノートパソコンを載せて作業をするためだけの台として考えると、サイズがちょっと大きすぎるのだが、安定性は抜群で作業していて気持ちがいい（ガタガタしないという意味で）。机の高さが少し高めなので姿勢を正さないと作業がしにくいのだけど、これはこれで姿勢矯正に貢献できると考えれば悪くない。リーズナブルな価格の割に抜群の安定感を持っていて、こいつはいいものだと思う。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2018-06-04
 lastmod: 2018-06-04
 tags: 

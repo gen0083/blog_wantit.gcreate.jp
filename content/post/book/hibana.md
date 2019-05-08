@@ -4,7 +4,7 @@ slug: hibana
 description: 火花を読みました。お笑い芸人が書いて、しかも芥川賞までとった。だから色眼鏡で見ていた部分もあったのですが、実際読んでみると思った以上に面白かったです。私には妙にクリティカルに刺さったんですが、一方で人を選びそうとも思いました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-05-25
 lastmod: 2016-05-25
 tags: 

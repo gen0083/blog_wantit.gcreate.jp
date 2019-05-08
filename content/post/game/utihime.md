@@ -4,7 +4,7 @@ slug: utihime
 description: 最近はまっているスマホゲームが「ウチの姫様がいちばんカワイイ」というゲームです。これまで無課金で楽しんでいたのですが、ついつい限定につられて課金してしまいました。課金したついでに、そんなウチ姫の魅力をご紹介したいと思います。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2014-06-01
 lastmod: 2019-04-04
 tags: 

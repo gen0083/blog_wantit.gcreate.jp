@@ -4,7 +4,7 @@ slug: ayesha-plus
 description: アーシャのアトリエPlusを購入しました。アトリエシリーズをプレイするのは、マリーのアトリエ以来になります。間が開きすぎていて楽しめるか不安だったのですが、やってみると思いのほか楽しくてのめり込んでしまい、杞憂に終わりました。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2014-06-27
 lastmod: 2015-03-03
 tags: 

@@ -4,7 +4,7 @@ slug: konoyodeitiban-toukei
 description: この本は数式や文字式と格闘しなくてもすむマンガ形式なので、統計について大まかな理解がしやすいと思います。平均に対する思い込みなど、その数字がどういう意味かがなんとなく理解でき、新聞などで提示されるグラフがぐっと分かりやすくなった気がします。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-03-22
 lastmod: 2015-01-24
 tags: 

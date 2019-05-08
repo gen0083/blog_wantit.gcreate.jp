@@ -4,7 +4,7 @@ slug: dragon-quest-8-3-ds
 description: ニコニコ動画などで中途半端に内容を知っていましたが、一応の初見プレイです。ストーリー展開が思ってたのといい意味で違っていて楽しめました。一方で細かなストレスをじわじわ受ける感じで、素直に面白かったとは言えない微妙な感じでした。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2015-12-08
 lastmod: 2015-12-08
 tags: 

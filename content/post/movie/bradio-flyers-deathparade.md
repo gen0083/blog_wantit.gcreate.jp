@@ -4,7 +4,7 @@ slug: bradio-flyers-deathparade
 description: BRADIOのFlyers欲しいなぁ、MP3で配信されないかなぁと思っていたらAmazonで配信が始まったようです。アニメ「デスパレード」のOP曲なのですが、聴いていると自然と体が踊りだすような、そんなノリノリな曲です。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2015-03-08
 lastmod: 2015-11-05
 tags: 

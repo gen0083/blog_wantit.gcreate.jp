@@ -4,7 +4,7 @@ slug: sense-bigin-with-knowledge
 description: センスは生まれ持った才能だから、センスのないやつは何をやってもだめだ。そんな先入観をあくまで論理的に打ち壊してくれる、本書はそんな本である。感覚的なものだけど、歴史や理論を紐解いていくことで、なぜそれが良いのか、なぜそうなるのかを言語化していくことは不可能ではないということを教えてくれる良書だと思う。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2017-07-18
 lastmod: 2017-07-18
 tags: 

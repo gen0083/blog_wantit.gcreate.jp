@@ -4,7 +4,7 @@ slug: mannennhitu-ink
 description: せっかく万年筆を購入したので、コンバーターとボトルインクを購入しました。初めてのインク吸入作業は加減がわからず苦労しました。手が汚れたり、インクを補充する手間が多くて面倒くさく感じることもありますが、通っぽい感じが味わえます。
 
 
-cover_image: images/cover/stationery.jpg
+featuredimage: images/cover/stationery.jpg
 date: 2014-05-13
 lastmod: 2015-05-01
 tags: 

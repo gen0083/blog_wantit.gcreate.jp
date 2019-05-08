@@ -4,7 +4,7 @@ slug: air-cleaner-fu-f-30-w
 description: 空気清浄機を買えば部屋に積もるホコリが軽減されはしないだろうかと思って買ってみた。個人的にはダメ元で買ったので、特にがっかりしているわけではないが、こまめに掃除したほうが経済的でいいというのが結論になりそう。
 
 
-cover_image: images/cover/clean.jpg
+featuredimage: images/cover/clean.jpg
 date: 2017-03-19
 lastmod: 2017-03-19
 tags: 

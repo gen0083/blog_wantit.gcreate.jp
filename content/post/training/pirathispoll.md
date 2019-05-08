@@ -4,7 +4,7 @@ slug: pirathispoll
 description: どうにも背中のコリが辛くなって、何かいいものはないかと思って買ってみました。値段相応に安っぽい外見で、単なる固い発泡スチロールの円柱という感じです。少なくとも背中のコリをほぐすのにちょうどよく、下手なマッサージチェアより効くかもしれません。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-02-05
 lastmod: 2016-02-24
 tags: 

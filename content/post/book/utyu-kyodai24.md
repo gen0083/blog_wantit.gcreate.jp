@@ -4,7 +4,7 @@ slug: utyu-kyodai-24
 description: 前回までの内容をすっかり忘れていましたが、六太がいよいよ宇宙に行くぞというタイミングで、メンバーのカルロがいなくなったところから始まります。読んでみて、この24巻の見せ場はカルロの話が終わった後半2割に凝縮されていると思いました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-10-26
 lastmod: 2016-02-24
 tags: 

@@ -4,7 +4,7 @@ slug: hikidasiniterariumu
 description: かわいい絵柄で思わずクスっとくるショートショートマンガ、ひきだしにテラリウムが面白かったです。なんか面白い漫画ないかなぁと探している人にオススメしたい一冊です。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-08-18
 lastmod: 2016-02-24
 tags: 

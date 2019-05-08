@@ -4,7 +4,7 @@ slug: exerciseball
 description: 椅子として使ってみようと思いましたが、私の机にはサイズ的に合わなかったので、普通にバランスボールとして使っています。サイズが大きいので置き場所に困りますが、保管場所の問題さえクリアできれば、遊び感覚で使えて非常に面白いと思います。
 
 
-cover_image: images/cover/training.jpg
+featuredimage: images/cover/training.jpg
 date: 2013-09-10
 lastmod: 2016-02-24
 tags: 

@@ -4,7 +4,7 @@ slug: petit-bourgeios-03-kuri-1
 description: 〈小市民〉シリーズ第3弾の秋期限定栗きんとん事件を読みました。これは上下巻に分かれていて、上巻は出題編のようなものと考えて間違いはないと思います。出題編と言っても日常推理ネタは健在で、飽きずに読み進めることが出来ました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-16
 lastmod: 2015-08-16
 tags: 

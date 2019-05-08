@@ -4,7 +4,7 @@ slug: novel-the-perfect-insider
 description: アニメがきっかけで原作読んでみましたシリーズ。読み終わってみれば天才の虜になってしまいました。謎解き部分についてはしっくりこないところもあったのですが、理路整然とした内容や理系なキャラクターの魅力でぐいぐい惹き込まれてしまいました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-02-14
 lastmod: 2016-02-22
 tags: 

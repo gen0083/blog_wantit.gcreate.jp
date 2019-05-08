@@ -4,7 +4,7 @@ slug: deeppushupbar
 description: 腕立て伏せを効率的に行おうと思い試してみました。高さを調整することでかかる負荷を調整できます。腕というよりは、大胸筋を鍛える効果の方が強い気がします。手軽な反面バランスが悪いので、勢いつけて腕立てするとこけそうになるので注意が必要です。
 
 
-cover_image: images/cover/training.jpg
+featuredimage: images/cover/training.jpg
 date: 2013-10-08
 lastmod: 2016-02-24
 tags: 

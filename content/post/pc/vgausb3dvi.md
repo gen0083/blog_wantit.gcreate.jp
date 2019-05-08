@@ -4,7 +4,7 @@ slug: vgausb-3-dvi
 description: Surface PRO 2に外部モニタを接続するために、USBポートでディスプレイを接続できる変換コネクタを導入しました。USB経由での接続は、画質等に問題があるのではと心配になりましたが、実際に使ってみると杞憂に終わりました。
 
 
-cover_image: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc-peri.jpg
 date: 2014-01-19
 lastmod: 2015-05-01
 tags: 

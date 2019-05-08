@@ -4,7 +4,7 @@ slug: the-practice-not-to-reaction
 description: 感情に振り回されて疲れませんか、無駄な反応止めることが合理的で、楽な生き方につながりますよという本である。原始仏教入門とあるが、宗教色はない。反応するな＝感情を殺せと捉えてしまうかもしれないが、そうではない。マイナスな感情に振り回されないための合理的な考え方について書かれた本である。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2017-03-28
 lastmod: 2017-03-27
 tags: 

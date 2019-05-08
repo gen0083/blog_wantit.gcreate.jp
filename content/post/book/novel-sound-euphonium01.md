@@ -4,7 +4,7 @@ slug: novel-sound-euphonium-01
 description: アニメの出来が素晴らしかったですよね。アニメから入って原作を読んでも、「いいな」と思えたことが私は少ないのですが、今回はそうはなりませんでした。どっちか選べと言われたらアニメを取りますが、原作は原作でいいものだと思えます。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-07-29
 lastmod: 2015-08-06
 tags: 

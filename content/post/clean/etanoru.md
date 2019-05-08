@@ -4,7 +4,7 @@ slug: etanoru
 description: 無水エタノールを使えば、手垢などベタベタした汚れもキレイに取ることができます。揮発性が高いので、精密機械に使っても大丈夫なところがいいですね。スマホやキーボード、液晶画面など様々なところで活躍します。
 
 
-cover_image: images/cover/clean.jpg
+featuredimage: images/cover/clean.jpg
 date: 2013-09-20
 lastmod: 2016-02-17
 tags: 

@@ -4,7 +4,7 @@ slug: nexus-6-p
 description: Nexus6Pを買って1ヶ月ほど経ちました。買う前はサイズが大きいことが心配でしたが、使ってみると両手で使うにはちょうどいい大きさです。全く気にしていなかった指紋センサーが意外にも便利で、これなしの端末には戻れないような気がしています。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2015-12-10
 lastmod: 2015-12-10
 tags: 

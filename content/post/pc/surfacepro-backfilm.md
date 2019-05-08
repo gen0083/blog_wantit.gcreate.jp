@@ -4,7 +4,7 @@ slug: surfacepro-backfilm
 description: Surface PRO 2をせっかくだからキレイに使いたいと思い、背面保護フィルムを貼りました。本体を傷から守るだけではなく手触りもよくなります。また、冬場の本体の冷たさ、動作中の熱による影響を多少緩和してくれる効果もあるように思います。
 
 
-cover_image: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc-peri.jpg
 date: 2014-01-15
 lastmod: 2016-02-24
 tags: 

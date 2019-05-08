@@ -4,7 +4,7 @@ slug: hyoka-it-walks-by-past
 description: アニメ氷菓で知った古典部シリーズで、アニメ未収録のエピソードである「ふたりの距離の概算」を読みました。先を知らない状態だったこともあってか、とても楽しく読めました。アニメ版が好きだった人ならきっと楽しめると思います。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-06-22
 lastmod: 2015-08-05
 tags: 

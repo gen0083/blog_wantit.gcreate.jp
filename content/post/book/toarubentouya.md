@@ -4,7 +4,7 @@ slug: toarubentouya
 description: 統計について学びたいなと前々から思っていたので、とある弁当屋の統計技士という本を購入しました。統計の仕組みを解説しているというより、統計を使ったライトノベルのような感じでした。統計をどうやって活用していくのかを知るにはいい本だと思います。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-02-10
 lastmod: 2016-02-17
 tags: 

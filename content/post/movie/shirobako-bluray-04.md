@@ -4,7 +4,7 @@ slug: shirobako-bluray-04
 description: SHIROBAKOが1クールのアニメなら「いい最終回だった」と締められること間違いなしな12話収録の第4巻を見ました。TV放送を見て内容が分かっていても、杉江さんを中心にムサニのメンバーが一致団結していくさまは、見ていて胸がアツくなります。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2015-03-28
 lastmod: 2015-04-01
 tags: 

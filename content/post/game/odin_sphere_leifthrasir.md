@@ -4,7 +4,7 @@ slug: odin-sphere-leifthrasir
 description: ゲームにしておくにはもったいないストーリーだなと思いました。ヘタな小説を読むより面白いストーリー。言うまでもなくこだわりぬかれた美麗なグラフィック。それに軽快な戦闘アクションが加わるのだから面白くないわけがありません。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2016-01-31
 lastmod: 2016-01-31
 tags: 

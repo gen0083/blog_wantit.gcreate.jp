@@ -4,7 +4,7 @@ slug: cl-100-dw
 description: コードレスで軽い、取り回しのし易いハンディタイプの掃除機です。手軽に使えるので、2台目の掃除機として活躍してくれます。吸引力はそこそこ強いのですが、作りはとても安っぽいです。手軽ですが、使うときに気をつけるポイントがいくつかあります。
 
 
-cover_image: images/cover/clean.jpg
+featuredimage: images/cover/clean.jpg
 date: 2013-09-28
 lastmod: 2015-05-01
 tags: 

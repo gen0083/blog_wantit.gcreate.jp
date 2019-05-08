@@ -4,7 +4,7 @@ slug: uniqlo-warmeasy
 description: 自転車に乗るためのボトムスとして購入しましたが、実際には家の中での普段履きとして活躍中です。じっとしているときは暖かくていいのですが、自転車に乗ってスピードを出すとちょっとスースーします。家での普段履きにするズボンとしていいかもしれません。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2014-11-16
 lastmod: 2015-03-03
 tags: 

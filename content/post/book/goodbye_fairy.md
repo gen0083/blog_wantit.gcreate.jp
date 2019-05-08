@@ -4,7 +4,7 @@ slug: goodbye-fairy
 description: 小説を読んでいて一番楽しいときというのが、私の場合は「してやられた」って舌を巻く瞬間です。この作品を読んで受けた衝撃は今でも忘れられません。思い出補正が強いせいかもしれませんが、この衝撃を超えるような作品になかなか出会えずにいます。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-09-04
 lastmod: 2016-09-04
 tags: 

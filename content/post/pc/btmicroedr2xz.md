@@ -4,7 +4,7 @@ slug: btmicroedr-2-xz
 description: 小型でしかも安価なアダプタを購入してきました。ただ、あまりに小型すぎるので、パソコンのUSBに差し込むと、取り外すのがちょっと面倒でした。機能的には問題ありませんが、凹んだところに差し込むと外すときに大変かもしれません。
 
 
-cover_image: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc-peri.jpg
 date: 2013-08-31
 lastmod: 2016-02-24
 tags: 

@@ -4,7 +4,7 @@ slug: contour-hatmount
 description: Contour ROAMは様々なマウントを利用して動画撮影ができます。帽子に取り付けることで、スポーツ以外の用途にも使えます。自分の手元をフリーハンドで撮影できるのが強みで、何かと汎用性の高いマウントだと思います。
 
 
-cover_image: images/cover/camera.jpg
+featuredimage: images/cover/camera.jpg
 date: 2014-02-13
 lastmod: 2016-02-17
 tags: 

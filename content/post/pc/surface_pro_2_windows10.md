@@ -4,7 +4,7 @@ slug: surface-pro-2-windows-10
 description: これでユーザフォルダが日本語になってしまった問題とおさらばできます。プリインストールされていたOfficeもインストールできます。Surface PRO2でWindows10をクリーンインストールしようとする人の参考になれば幸いです。
 
 
-cover_image: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc-peri.jpg
 date: 2015-08-27
 lastmod: 2015-11-08
 tags: 

@@ -4,7 +4,7 @@ slug: winter-light-glove
 description: 指先まで覆うタイプのグローブを持っていなかったので、冬の防寒対策かねて購入することにしました。私が選んだのは生地の薄いウィンターライトグローブです。シフト操作の邪魔にならなくていい反面、あまり防寒には役に立ってないかもしれません。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2014-10-23
 lastmod: 2015-03-03
 tags: 

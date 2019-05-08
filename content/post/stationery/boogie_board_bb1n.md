@@ -4,7 +4,7 @@ slug: boogie-board-bb-1-n
 description: プログラミングする際のメモ書きに使ってみたいと買ってみました。一時記憶のための退避場所として使うと便利だと思います。しかし便利そうだからと買うと、不便なところも多くて悩まされる気がします。面白いガジェットであることは間違いないんですけどね。
 
 
-cover_image: images/cover/stationery.jpg
+featuredimage: images/cover/stationery.jpg
 date: 2016-01-09
 lastmod: 2016-01-09
 tags: 

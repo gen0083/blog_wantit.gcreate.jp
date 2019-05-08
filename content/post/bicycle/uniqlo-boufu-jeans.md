@@ -4,7 +4,7 @@ slug: uniqlo-boufu-jeans
 description: 自転車に乗りやすく、カジュアルなボトムスを探して、ユニクロで防風ジーンズを買いました。生地がよく伸びるのでペダルがこぎやすく、しかも防風性能付きで暖かくていい感じです。冬用のカジュアルなズボンを探している人にオススメです。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2014-10-25
 lastmod: 2015-03-03
 tags: 

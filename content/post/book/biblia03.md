@@ -4,7 +4,7 @@ slug: biblia-03
 description: ビブリア古書堂の事件手帖第3巻を読みました。今回は知っている本が何冊か出てきました。あまり本を読まない自分からしてみたら珍しいことなので、妙に親近感が持てたのでした。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-05
 lastmod: 2016-02-24
 tags: 

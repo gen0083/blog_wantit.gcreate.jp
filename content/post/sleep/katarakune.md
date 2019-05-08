@@ -4,7 +4,7 @@ slug: katarakune
 description: 最近朝起きたら異様に背中が痛いので、枕を変えてみることにしました。この肩楽寝という枕が、頭と首をしっかり支えてくれるおかげか、背中の痛みがずいぶん和らぐようになりました。寝て起きたら背中が痛いなんて人は試してみてはいかがでしょうか。
 
 
-cover_image: images/cover/sleep.jpg
+featuredimage: images/cover/sleep.jpg
 date: 2014-03-13
 lastmod: 2016-02-24
 tags: 

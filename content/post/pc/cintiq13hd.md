@@ -4,7 +4,7 @@ slug: cintiq-13-hd
 description: 描いたペンの先に直接線が引けるこの感覚は、板タブレットでは決して味わうことのできない感覚です。格段に作業効率が上がりますし、お絵描きが楽しくなってきます。迷っている人はソシャゲにつぎ込んだと思って、思い切って買ってみてはいかがでしょうか。
 
 
-cover_image: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc-peri.jpg
 date: 2013-09-22
 lastmod: 2016-02-24
 tags: 

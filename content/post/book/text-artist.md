@@ -4,7 +4,7 @@ slug: text-artist
 description: いつまでたっても人体の、特に顔から下の部分（要は体全体）を描くのがうまくいかないので、骨格などの構造を理解できたら上達するかもしれないと考えて購入してみました。闇雲に枚数を重ねるよりも、骨格などを理解した上で書いた方が上達も早い気がします。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-04-11
 lastmod: 2016-02-24
 tags: 

@@ -4,7 +4,7 @@ slug: niveaformen-q-10
 description: 今まで肌水を使っていたのですが、これだとひげそり後の肌につけてもしみることもなく、保湿力もあるためか肌がしっとりします。無駄な皮脂の分泌も抑えられている気がします。ひげそり後の肌荒れに困る男子にはこれ一択です。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2013-10-31
 lastmod: 2016-02-24
 tags: 

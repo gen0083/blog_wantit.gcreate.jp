@@ -4,7 +4,7 @@ slug: mnp-to-mineo-d-plan
 description: スマホ買い替えに合わせてMNPすることにしました。直近のデータ使用量による速度制限がかからないこと、MNP手続き中に電話が使えなくなる期間がないことが、mineoを選んだ大きな理由です。MNPする際に気をつけたいことと合わせてご紹介します。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2015-10-18
 lastmod: 2015-10-29
 tags: 

@@ -4,7 +4,7 @@ slug: pcgame-banished
 description: このゲームは限られた資源をやりくりして、未開の地に追放された人々に指示を出して町を開拓していくゲームです。シムシティを想像したら分かりやすいです。地味ですが、ハマる人はとことんハマると思います。Surface PRO2でも遊べます。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2014-03-18
 lastmod: 2015-01-24
 tags: 

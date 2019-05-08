@@ -4,7 +4,7 @@ slug: super-mario-odyssey
 description: 私にとっては初めての3Dマリオだったけど、なんだかんだで結構楽しめたように思う。視点がちょこまか動くので若干酔いやすい気がするのと、プレイにあたって支障があるわけではないがJoy-Con分離持ち至上主義なところが気になるものの、面白い作品だったと思う。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2017-11-19
 lastmod: 2017-11-19
 tags: 

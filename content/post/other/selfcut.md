@@ -4,7 +4,7 @@ slug: selfcut
 description: バリカンでのセルフカットに挑戦してみました。この製品は値段が手頃で、1回の散髪代程度の価格で手に入ります。切った後の片付けが面倒くさく時間がかかるというデメリットもありますが、セルフカットでコスト節約を実践してみるのも面白いかもしれません。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-01-21
 lastmod: 2016-02-17
 tags: 

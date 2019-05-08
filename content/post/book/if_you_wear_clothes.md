@@ -4,7 +4,7 @@ slug: if-you-wear-clothes
 description: マンガでわかる○○シリーズのファッション版といった感じのコミック。1冊ごとの内容は少ないので、これくらいなら服に無頓着な私でも実践していけそうと思える。作画もかなりハイレベルで非常に読みやすい。ただ、1冊の価格が高いのが玉に瑕。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2017-11-30
 lastmod: 2017-11-30
 tags: 

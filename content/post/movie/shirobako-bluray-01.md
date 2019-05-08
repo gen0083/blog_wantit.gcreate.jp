@@ -4,7 +4,7 @@ slug: shirobako-bluray-01
 description: アニメSHIROBAKOは見ていて楽しいアニメだし、特典に毎回ブックレットがつくらしいのでBlu-rayを購入してしまいました。TV放送を1回見ただけでも面白かったですが、改めてじっくり見ると何が面白いのかが分かった気がします。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2015-01-08
 lastmod: 2015-04-01
 tags: 

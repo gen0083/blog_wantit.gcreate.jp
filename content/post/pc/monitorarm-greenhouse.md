@@ -4,7 +4,7 @@ slug: monitorarm-greenhouse
 description: 机の上で書類作業も楽にできるように、モニタアームを購入して、液晶ディスプレイの土台を取り外すことにしました。土台がなくなるとモニタの下の空間が広く使えるようになるので、机の上のスペースを有効活用できるようになります。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-05-31
 lastmod: 2015-05-01
 tags: 

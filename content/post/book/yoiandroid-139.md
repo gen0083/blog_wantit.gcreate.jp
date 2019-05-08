@@ -4,7 +4,7 @@ slug: yoiandroid-139
 description: 小手先のテクニックがたくさん載っている本なのかなと思ったら全然違っていて、アプリの土台をしっかり組むために知っておくべきことがいっぱいでした。特に独学でAndroidプログラミングの勉強している人には必携の一冊だと思います。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-10-24
 lastmod: 2016-02-24
 tags: 

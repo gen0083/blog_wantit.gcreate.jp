@@ -4,7 +4,7 @@ slug: smashing-android-ui
 description: Smashing Android UI レスポンシブUIとデザインパターンという本を購入しました。この本は、アプリの見た目のデザインについてだけでなく、アプリの使い勝手も含めたデザインの考え方を学べる良書になっています。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-07-04
 lastmod: 2016-02-17
 tags: 

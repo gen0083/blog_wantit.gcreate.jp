@@ -4,7 +4,7 @@ slug: mikakunin-comic-4
 description: DVDがついているということを知って原作コミック第4巻の限定版を購入しました。DVDの内容は、半ば伝説と化しつつあるニコニコ生放送の第1回目です。最初なので若干初々しさが見えつつも、ハチャメチャな感じの片鱗が見えてとてもおもしろかったです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-03-27
 lastmod: 2016-02-24
 tags: 

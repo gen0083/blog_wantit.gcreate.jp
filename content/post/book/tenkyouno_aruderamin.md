@@ -4,7 +4,7 @@ slug: tenkyouno-aruderamin
 description: 毎回何かしら胸が熱くなる展開が待っていて、ついついうるっとしてしまう。時系列を入れ替えたり余計なことが書かれていないシンプルな文章が感情移入を阻害しない。そんなラノベっぽくないラノベ。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2017-10-03
 lastmod: 2017-10-03
 tags: 

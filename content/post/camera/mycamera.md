@@ -4,7 +4,7 @@ slug: mycamera
 description: 私がブログに載せる写真は、OLYMPUSのE-PL2というミラーレス一眼で撮っています。購入したのは随分前で後継機がたくさん出ており、このカメラ自体について書いてもしょうがないので、ミラーレスを使っていて感じたことを書いてみました。
 
 
-cover_image: images/cover/camera.jpg
+featuredimage: images/cover/camera.jpg
 date: 2014-01-02
 lastmod: 2016-02-24
 tags: 

@@ -4,7 +4,7 @@ slug: inbasket
 description: インバスケットというのは、架空の設定のもとで提示された課題に対して対処していくビジネスゲームなんだそうです。「机上の空論だろ？」と思いながら最初は読んでいましたが、半分過ぎたあたりから徐々に面白くなってきました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-10-22
 lastmod: 2015-01-22
 tags: 

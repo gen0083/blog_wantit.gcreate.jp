@@ -4,7 +4,7 @@ slug: xenoblade-2
 description: 広大なフィールドと白熱するバトルが面白いやりこみ要素満載のRPGである。面白いと言い切りたいのだけれど、拙いUIのせいでテンポが悪く感じられる。追加コンテンツが予定されているゲームではあるが、追加コンテンツの前に使いにくいUI周りの修正をまずやってほしいなと思う。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2017-12-15
 lastmod: 2017-12-15
 tags: 

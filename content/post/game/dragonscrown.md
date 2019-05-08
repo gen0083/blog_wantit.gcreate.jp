@@ -4,7 +4,7 @@ slug: dragonscrown
 description: 2Dベルトスクロールアクションゲームです。非常に綺麗なグラフィックと、細かな描写が特徴です。オンライン通信による多人数同時プレイが可能で、みんなでわいわいやるのが楽しいゲームです。相変わらず料理の描写が気合入っていて、とてもうまそうです。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2013-09-14
 lastmod: 2016-02-24
 tags: 

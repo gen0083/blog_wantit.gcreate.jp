@@ -4,7 +4,7 @@ slug: mikakunin-anime-05
 description: 未確認で進行形BD5巻が届きました。出演者三倍で濃さも三倍の映像特典が見どころです。映像特典は6月8日に行われた「未確認で歌唱形」というイベントの特別編集映像が収録されており、非常に見応えのある内容となっています。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2014-07-23
 lastmod: 2015-03-03
 tags: 

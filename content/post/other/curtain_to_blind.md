@@ -4,7 +4,7 @@ slug: curtain-to-blind
 description: 自分の部屋のカーテンが、部屋側にせり出してきていてとても邪魔なのがずっと気になっていました。家具の配置にも影響を与えるので、ブラインドに変えてみることにしました。窓枠にぴったり収まって見た目が非常にスッキリしました。大満足です。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-09-27
 lastmod: 2015-02-02
 tags: 

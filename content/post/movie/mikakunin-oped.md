@@ -4,7 +4,7 @@ slug: mikakunin-oped
 description: キュートでポップな中毒性の高い、アニメ「未確認で進行形」のOP・ED曲を購入しました。アニメ自体も面白いのですが、それを彩る楽曲との一体感が素晴らしいです。さすがJunkyさんという感じです。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2014-02-28
 lastmod: 2016-02-17
 tags: 

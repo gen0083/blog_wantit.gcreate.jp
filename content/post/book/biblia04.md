@@ -4,7 +4,7 @@ slug: biblia-04
 description: ビブリア古書堂の事件手帖の4巻を読みました。今回は江戸川乱歩に関する長編エピソードとなっています。しかしそのせいで間延びしたような印象を受けて、私はあまり楽しめませんでした。個人的にはもっと人間ドラマにフォーカスしたほうが面白いと思います。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-10
 lastmod: 2015-08-10
 tags: 

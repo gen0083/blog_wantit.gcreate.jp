@@ -4,7 +4,7 @@ slug: ikegakibarikan
 description: 庭木の剪定をするために、バッテリ式のコードレスバリカンを購入しました。電源コードに煩わされることがないのため、作業に集中できていい感じでした。他のマキタ製品とバッテリを使い回しできるのも魅力です。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-05-29
 lastmod: 2015-05-01
 tags: 

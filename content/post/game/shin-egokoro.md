@@ -4,7 +4,7 @@ slug: shin-egokoro
 description: 普段はデジタルでしか絵を描かないので、「アナログの手法を学んでもなあ」という気持ちがあったのですが、やってみると意外と楽しいです。小学生の頃にこのソフトに出会えていたら、お絵描きのことがもっと好きになっていたような気がします。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2015-06-17
 lastmod: 2015-06-17
 tags: 

@@ -4,7 +4,7 @@ slug: tvt-business
 description: いつでもどこでもWBSが見れるのは想像以上に便利です。利用してみるとWi-Fi環境下であれば再生の待ち時間がなく、不気味なくらいスムーズに試聴できました。WBSだけでなくテレビ東京のビジネス番組が見れるので、何かとお得な気がします。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-10-03
 lastmod: 2016-02-24
 tags: 

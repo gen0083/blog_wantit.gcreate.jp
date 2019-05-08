@@ -4,7 +4,7 @@ slug: gingitsune-10
 description: 私はこの作品で描かれている絶妙な空気感が好きです。神使をはじめ、登場人物のやりとりを見ていると、「見守る」というスタンスがその空気感を生んでいるように思います。10巻は悟くんと船橋さんの二人にキュンキュンすることうけあいです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2013-10-23
 lastmod: 2016-02-24
 tags: 

@@ -4,7 +4,7 @@ slug: master-of-fragment
 description: Fragmentを利用したAndroidアプリの作成に乗り出したのですが、その挙動に振り回されるばかりです。何かいい解説本ないかなと思い、Fragmentに特化した内容のこの本を買ってみました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-08-05
 lastmod: 2015-03-03
 tags: 

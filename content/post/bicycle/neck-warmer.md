@@ -4,7 +4,7 @@ slug: neck-warmer
 description: 寒くても自転車が快適に乗れるように、首周りの暖をとるべくネックウォーマーを購入しました。値段の割にしっかりしたつくりで、とても温かかったです。耳のあたりを覆うこともできなくはないので、イヤーウォーマーの代わりも多少兼ねてくれます。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2014-10-23
 lastmod: 2016-02-24
 tags: 

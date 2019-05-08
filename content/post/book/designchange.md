@@ -4,7 +4,7 @@ slug: designchange
 description: Web制作者のためのSassの教科書を読んで、ブログのデザインに活用してみました。その際に、使ってみて実際に便利だなと思った機能を紹介します。基本的にCSSと同じなので、使えそうなところだけつまみ食いする感じで使うといいと思います。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2013-12-23
 lastmod: 2015-03-03
 tags: 

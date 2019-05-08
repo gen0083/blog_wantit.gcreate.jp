@@ -4,7 +4,7 @@ slug: lg-g-watch-r-pre
 description: LG G watch Rを購入しました。予想に反して、ペアリングできる端末がないと何もできない端末でした。とりあえず腕にはめてみましたが、見た目が大きい割に軽いので、長時間つけていても苦にはならないかもしれないなと感じました。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-11-15
 lastmod: 2015-03-03
 tags: 

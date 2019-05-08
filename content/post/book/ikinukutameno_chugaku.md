@@ -4,7 +4,7 @@ slug: ikinukutameno-chugaku
 description: 数学を勉強し直そうと、基礎の中学数学から学びなおすことにしてみた。Amazonで評価も高かったのでこの本を選んだのだが、私にはあまり合わなかった。説明は丁寧ではあるものの、読みやすさについてはあまり考慮されていないように思う。特に図形についての話で、ページを跨いで解説が行われているので、行ったり来たりが面倒くさかった。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2017-06-23
 lastmod: 2017-06-23
 tags: 

@@ -4,7 +4,7 @@ slug: xenoblade-2-part-2
 description: ゼノブレイド2は今遊ばなくとも、予定されているエクスパンションパスの最後の要素が追加される2018年秋まで待ってもいいのではないかと思う。戦闘が面白く、ストーリーもよく、やりこみ要素も多いのだが、今後微調整が加わる可能性があるので、それを待った方がいいのではないかというのがその理由だ。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2017-12-25
 lastmod: 2017-12-25
 tags: 

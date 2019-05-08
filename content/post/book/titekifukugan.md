@@ -4,7 +4,7 @@ slug: titekifukugan
 description: 常識、当たり前、みんなそうだ。なんていう言葉が口癖になっているうちは、自分の頭で考えられていないのではないでしょうか。自分の頭で考えるには、まず「ステレオタイプから抜け出す」ことが第一歩となるそうです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-04-13
 lastmod: 2016-02-24
 tags: 

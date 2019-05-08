@@ -4,7 +4,7 @@ slug: contour-roam-mount
 description: Contour ROAMで自転車で走っている様子を撮影しました。ハンドルに取り付けたり、ヘルメットに取り付けたりして撮影できます。ヘルメットに取り付けるとダイナミックな映像が撮れますが、ちょんまげつけているみたいで恥ずかしいのが玉に瑕です。
 
 
-cover_image: images/cover/camera.jpg
+featuredimage: images/cover/camera.jpg
 date: 2013-11-14
 lastmod: 2016-02-24
 tags: 

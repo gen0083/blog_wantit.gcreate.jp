@@ -4,7 +4,7 @@ slug: sawai-family
 description: 澤井珈琲でファミリーブレンド100杯分福袋というものを見つけたので購入しました。豆の量が1kgとちょうどよく、値段もお手頃だったので選びました。カフェオレにするのがオススメだそうですが、そのままブラックで飲んでも充分おいしいです。
 
 
-cover_image: images/cover/coffee.jpg
+featuredimage: images/cover/coffee.jpg
 date: 2014-03-20
 lastmod: 2016-02-24
 tags: 

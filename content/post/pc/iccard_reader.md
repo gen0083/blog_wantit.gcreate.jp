@@ -4,7 +4,7 @@ slug: iccard-reader
 description: 電子申告をするためのカードリーダーのセットアップ自体は非常に簡単でした。しかし、電子申告用のe-Taxソフトを使えるようにするのが大変だったので、その過程を備忘録として残しておきます。確定申告だけに使うならこんな苦労はいらないんですけどね。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2014-10-06
 lastmod: 2016-02-17
 tags: 

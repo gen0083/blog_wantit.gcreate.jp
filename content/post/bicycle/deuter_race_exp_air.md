@@ -4,7 +4,7 @@ slug: deuter-race-exp-air
 description: 自転車用リュックとして鉄板のドイターのリュックを購入したが、自転車に乗ったときの快適さと言ったら素晴らしいの一言。さすがに鉄板と推されるだけのことはある。一方で、荷物を入れるものとして見ると雑に扱うことが難しいピーキーなリュックだった。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2018-07-20
 lastmod: 2018-07-20
 tags: 

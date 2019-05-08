@@ -4,7 +4,7 @@ slug: granblue-fantasy
 description: 無課金でも少しずつキャラクターが強くなっていくのが実感できて楽しいです。要求スペックが高く、スマホではカクカクしていますが、PCでも遊べるので安心です。Wiki見ながらやっていて、ちょっと分かりにくかったことを中心に紹介してみます。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2015-01-27
 lastmod: 2015-02-08
 tags: 

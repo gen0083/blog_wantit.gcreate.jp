@@ -4,7 +4,7 @@ slug: groony-kirumoufu
 description: 着る毛布を購入してみました。ファンヒーターを使わなくとも、寒い部屋の中で活動できていいです。特に上半身が暖かく、暖房なしでも快適に過ごせました。ただ、足元がカバーしきれないので、別途対策が必要だなと感じます。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-11-18
 lastmod: 2016-02-24
 tags: 

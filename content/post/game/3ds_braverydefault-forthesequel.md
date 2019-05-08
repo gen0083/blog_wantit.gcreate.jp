@@ -4,7 +4,7 @@ slug: 3-ds-braverydefault-forthesequel
 description: ずっと前からやりたいなと思っていたブレイブリーデフォルトをついに買いました。オーソドックスなRPGに飢えている人は是非プレイしてみてください。素敵な音楽と程よい難易度、そして奥深いやりこみ要素が出迎えてくれます。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2014-10-30
 lastmod: 2015-05-01
 tags: 

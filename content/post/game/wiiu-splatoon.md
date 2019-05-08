@@ -4,7 +4,7 @@ slug: wiiu-splatoon
 description: スプラトゥーンやってみたくてWiiU本体ごと買ってきました。オンライン対戦が全てのゲームなので、それが楽しめるかどうかがキモです。不慣れな操作で一方的にやられまくっても心が折れない人なら、WiiU本体ごと買ってでも遊ぶ価値はあると思います。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2015-06-07
 lastmod: 2015-06-07
 tags: 

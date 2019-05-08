@@ -4,7 +4,7 @@ slug: bikesensor-antplus
 description: 自転車に乗った時、どれくらいのケイデンスでこいでいるかは速度から大体の目安を把握することはできますが、限界があるのでセンサーを買って取り付けることにしました。取り付けはタイラップとゴムで固定するだけなので、非常に簡単です。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2014-09-07
 lastmod: 2015-05-01
 tags: 

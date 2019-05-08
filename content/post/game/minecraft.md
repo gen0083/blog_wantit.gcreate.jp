@@ -4,7 +4,7 @@ slug: minecraft
 description: Minecraftは無限の楽しみ方のあるゲームです。自分で思いのまま建築物を作ったり、洞窟を探検したり。そんな中で「空洞を埋める」というスタイルで遊ぶ動画をみて、自分でもやってみたいなと思ってしまいました。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2013-09-06
 lastmod: 2016-02-24
 tags: 

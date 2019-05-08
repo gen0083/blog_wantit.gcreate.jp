@@ -4,7 +4,7 @@ slug: tokiden
 description: Playstation Vitaで遊ぶゲームが欲しいなと思って、狩りゲーの討鬼伝を購入しました。雰囲気とかは嫌いではないのですが、ボスとの戦闘が面倒くさすぎて私には合いませんでした。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2013-09-24
 lastmod: 2016-02-24
 tags: 

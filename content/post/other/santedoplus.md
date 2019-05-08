@@ -4,7 +4,7 @@ slug: santedoplus
 description: 目の充血がひどいので、血管収縮剤の入っていない目薬を試してみることにしました。速効性はないものの、多少充血がマシになってきたような気がします。以前使ったサンテPCと比較すると、清涼感がやや感じられるのが大きな違いかなと思います。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-01-24
 lastmod: 2016-02-24
 tags: 

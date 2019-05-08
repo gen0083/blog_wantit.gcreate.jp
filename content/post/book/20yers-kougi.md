@@ -4,7 +4,7 @@ slug: 20-yers-kougi
 description: ブログで文章を書くのだから、よりよいものを書きたいと思っていました。この本は、表面的なテクニックに終始するのではなく、もっと根本的な「自分が何を書きたいのか」を大事にしていこうという内容で非常に参考になりました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-01-30
 lastmod: 2015-01-25
 tags: 

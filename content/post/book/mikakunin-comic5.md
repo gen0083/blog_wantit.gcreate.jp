@@ -4,7 +4,7 @@ slug: mikakunin-comic-5
 description: 未確認で進行形5巻特装版には、OVAと一迅社CM全集が収録されています。内容は悪くないのですが、値段相応とは言えないものとなっていて、ちょっとがっかりしてしまいました。話の内容を知っていると新鮮味が薄く、ただ高いだけな気がしてしまいました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-04-01
 lastmod: 2016-02-24
 tags: 

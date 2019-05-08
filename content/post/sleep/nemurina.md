@@ -4,7 +4,7 @@ slug: nemurina
 description: この掛け時計は部屋が暗くなると秒針が動かなくなります。長針は動き続けるので全くの無音になるわけではありませんが、寝室に置くにはピッタリの時計かもしれません。電波時計なので時刻調整の手間がないのもいいですね。
 
 
-cover_image: images/cover/sleep.jpg
+featuredimage: images/cover/sleep.jpg
 date: 2014-08-21
 lastmod: 2016-02-24
 tags: 

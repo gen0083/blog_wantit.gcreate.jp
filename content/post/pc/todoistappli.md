@@ -4,7 +4,7 @@ slug: todoistappli
 description: Evernoteでのタスク管理に限界を感じて、Todoistというサービスを利用してみることにしました。無料版ではシンプルな使い方しかできませんが、それが逆に使いやすい気がしています。スマホからのタスク登録がしやすい作りが気に入っています。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2014-06-15
 lastmod: 2015-02-18
 tags: 

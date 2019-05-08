@@ -4,7 +4,7 @@ slug: oboromuramasa-dlc-all
 description: 朧村正のDLCを4編全て遊んでみました。DLC第4弾の鬼娘編が一番面白かったです。1000円で遊ぶなら鬼娘は選ぶとして、もう1つはストーリーの一揆か、遠距離攻撃が楽しめる白蛇かのどちらかがいいのではないでしょうか。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2014-11-29
 lastmod: 2015-04-01
 tags: 

@@ -4,7 +4,7 @@ slug: room-runner-afr-1115
 description: 運動不足の解消とお腹に貯まった脂肪分をなんとかしたいと思い、ルームランナーを購入しました。これは購入して2ヶ月使い続けた記録になるので、使い勝手が気になる人のニーズにも応えられるのではないでしょうか。
 
 
-cover_image: images/cover/training.jpg
+featuredimage: images/cover/training.jpg
 date: 2016-12-02
 lastmod: 2016-12-02
 tags: 

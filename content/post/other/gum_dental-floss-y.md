@@ -4,7 +4,7 @@ slug: gum-dental-floss-y
 description: 今まで糸ようじ買っても続かなかったのですが、その理由は奥歯の掃除ができないからでした。その点Y字型なら奥歯までしっかり掃除ができます。特に奥歯のあたりではブラシだけでは取れない食べかすが出てくるので、掃除してて気持ちいいです。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-11-08
 lastmod: 2016-02-24
 tags: 

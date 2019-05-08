@@ -4,7 +4,7 @@ slug: clearholder
 description: フチの部分を折り曲げることで、マチを広げて100枚くらい収納できるクリアホルダを購入しました。クリアホルダがいつもパンパンになっているような人や、大量の書類を挟む人にはもってこいの製品だと思います。
 
 
-cover_image: images/cover/stationery.jpg
+featuredimage: images/cover/stationery.jpg
 date: 2014-05-14
 lastmod: 2016-02-24
 tags: 

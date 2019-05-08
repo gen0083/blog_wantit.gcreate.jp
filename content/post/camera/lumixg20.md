@@ -4,7 +4,7 @@ slug: lumixg-20
 description: 室内での撮影に便利なように、明るいレンズを購入しました。コンパクトなパンケーキレンズなので、ミラーレス一眼との相性もいいです。開放F1.7なので、シャッタースピードを早くしても光量が確保できるので、手ブレを抑えて撮影ができます。
 
 
-cover_image: images/cover/camera.jpg
+featuredimage: images/cover/camera.jpg
 date: 2014-01-22
 lastmod: 2015-05-01
 tags: 

@@ -4,7 +4,7 @@ slug: 7-effective
 description: 7つの習慣に興味は持ちつつも、活字に苦手意識を持つ私は購入をためらっていました。そんなときにこの本に出会いました。マンガなので非常に読みやすいです。7つの習慣の布教本としても有効なのではないでしょうか？
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-01-20
 lastmod: 2016-02-24
 tags: 

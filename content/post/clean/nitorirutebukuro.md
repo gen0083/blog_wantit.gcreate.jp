@@ -4,7 +4,7 @@ slug: nitorirutebukuro
 description: これは使い捨ての薄手のゴム手袋です。水を全く通さず、パウダーフリーなので、食品を扱うのにも適しています。油やにおいの付着から手を守ってくれるので、日常の様々な作業に活躍します。料理から自転車の掃除まで、幅広く利用できます。
 
 
-cover_image: images/cover/clean.jpg
+featuredimage: images/cover/clean.jpg
 date: 2013-10-01
 lastmod: 2016-02-24
 tags: 

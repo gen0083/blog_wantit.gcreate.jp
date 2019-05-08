@@ -4,7 +4,7 @@ slug: thermos-coffeepot
 description: ペーパードリップで淹れたコーヒーは美味しいですが、そのままでは徐々に冷えてきて味も落ちてきます。そこでステンレス製のポットを購入して保温するようにしてみました。さすがにいつまでも保温できるわけではありませんが、2杯目も温かいのは重要です。
 
 
-cover_image: images/cover/coffee.jpg
+featuredimage: images/cover/coffee.jpg
 date: 2013-12-11
 lastmod: 2016-02-24
 tags: 

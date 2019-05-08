@@ -4,7 +4,7 @@ slug: mangan
 description: 6本の短編が収録された短篇集です。全部読み終わった後に思うのは、表紙がこの短篇集の雰囲気を実によく表しているということです。暗いとか悲しげとか、はかなげ、妖しげなんて言葉がよく似合うんじゃないかなと思います。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-09-08
 lastmod: 2015-09-08
 tags: 

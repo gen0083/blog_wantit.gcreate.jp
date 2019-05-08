@@ -4,7 +4,7 @@ slug: godspeed-photoshop-web
 description: 本当はブログデザインに活用するために買った神速Photoshop Webデザイン編。スマホアプリの画像素材を作って書き出すのに、この本の内容がとてもマッチしていることに気づいてから、非常に重宝するようになりました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-07-14
 lastmod: 2015-03-03
 tags: 

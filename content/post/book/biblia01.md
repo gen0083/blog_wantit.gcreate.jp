@@ -4,7 +4,7 @@ slug: biblia-01
 description: 美人なお姉さんが表紙を飾っていて前々から気になっていた本です。古書を物語にうまいこと絡めていて面白い本でした。もっと小難しいのをイメージしてましたが、意外にも内容はとてもわかりやすく、さらっと読めてしまいます。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-07-27
 lastmod: 2015-08-06
 tags: 

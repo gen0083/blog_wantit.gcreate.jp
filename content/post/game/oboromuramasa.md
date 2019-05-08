@@ -4,7 +4,7 @@ slug: oboromuramasa
 description: Vitaの美しいグラフィックを堪能できる、シンプルながら爽快なアクションゲームがこの朧村正です。ゲーム全編を通して表現されている「和」の雰囲気がいい味を出しています。細部にわたる細かな描写が秀逸で、中でもご飯が美味しそうでたまりません。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2013-11-11
 lastmod: 2016-02-24
 tags: 

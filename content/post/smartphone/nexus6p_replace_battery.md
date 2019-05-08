@@ -4,7 +4,7 @@ slug: nexus-6-p-replace-battery
 description: Nexus6Pのバッテリ寿命がきてしまったので自分で交換作業を行った。使用頻度が低いので失敗してもいいやの精神で行った。工具付きのリーズナブルなバッテリがあったのでそれを利用した。動画などで分解する情報が比較的豊富なので、そちらを参考にすればできると思うが、あくまで自己責任で挑戦されたし。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2019-03-21
 lastmod: 2019-03-21
 tags: 

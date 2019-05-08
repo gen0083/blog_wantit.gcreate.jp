@@ -4,7 +4,7 @@ slug: otoyome-06
 description: 森薫さんの乙嫁語りの6巻を購入してみました。相変わらず書き込みの細かい美しい絵で、非常に読み応えのある作品だと思います。6巻はそれまでの話とは打って変わり、息もつかせぬ展開でハラハラしました。そのせいか、いつもより短く感じてしまいました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-01-29
 lastmod: 2016-02-24
 tags: 

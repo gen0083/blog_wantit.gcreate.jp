@@ -4,7 +4,7 @@ slug: doctors-in-isolated-room
 description: このシリーズの何に惹かれたのか考えてみると、登場人物たちの論理的な思考に魅力を感じたからではないかと思います。個人的に犀川のような論理的な思考ができるようになりたいと思っていて、読んでいけば何か掴めるんじゃないかと感じているのです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2016-02-22
 lastmod: 2016-02-22
 tags: 

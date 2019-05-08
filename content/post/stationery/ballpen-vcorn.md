@@ -4,7 +4,7 @@ slug: ballpen-vcorn
 description: ゼロ秒思考の本の中で絶賛されている、パイロットのVコーンというボールペンが気になったので入手してみました。実際に使ってみると確かにいい書き味で、筆圧をかけなくともサラサラ文字が書けます。
 
 
-cover_image: images/cover/stationery.jpg
+featuredimage: images/cover/stationery.jpg
 date: 2014-04-25
 lastmod: 2016-02-24
 tags: 

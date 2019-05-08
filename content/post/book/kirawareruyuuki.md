@@ -4,7 +4,7 @@ slug: kirawareruyuuki
 description: 嫌われる勇気という本を読みました。書いてあることは単純なことなのですが、その意味するところは奥深く、理解して実際に行動に移すのはなかなか難しそうです。読み返してみると新たな発見があるので、定期的に読みたい本ですね。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-04-27
 lastmod: 2015-01-23
 tags: 

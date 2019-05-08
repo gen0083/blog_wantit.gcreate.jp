@@ -4,7 +4,7 @@ slug: odorokinokenuki
 description: 本当はルビスのツイーザーを買おうかと思ったのですが、値段が値段なだけに比較的リーズナブルな値段で売っている「驚きの毛抜き」という製品を購入しました。先端が丸いため肌をつまんで痛い思いをしづらいのがいいところで、眉毛のお手入れにピッタリです。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-06-04
 lastmod: 2015-05-01
 tags: 

@@ -4,7 +4,7 @@ slug: kichinscale
 description: コーヒーを淹れるときのお湯の量を量るため、キッチンスケールを購入しました。ポットからお湯を注ぐ際に、やかんの下に敷いて使います。これを使うことで、お湯の量を調整することができるようになり、今までより珈琲の味が安定するようになりました。
 
 
-cover_image: images/cover/coffee.jpg
+featuredimage: images/cover/coffee.jpg
 date: 2013-09-18
 lastmod: 2016-02-24
 tags: 

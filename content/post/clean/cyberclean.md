@@ -4,7 +4,7 @@ slug: cyberclean
 description: 見た目がスライムみたいで、ペタペタやっているとなんだか掃除が楽しくなってきます。細かい凹凸のあるもののホコリをキレイに吸着してくれて、掃除した後は手触りが良くなって気持ちいいです。ペタペタするのがやみつきになること間違いなしです。
 
 
-cover_image: images/cover/clean.jpg
+featuredimage: images/cover/clean.jpg
 date: 2014-01-08
 lastmod: 2015-05-01
 tags: 

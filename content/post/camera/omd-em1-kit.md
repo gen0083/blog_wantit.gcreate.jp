@@ -4,7 +4,7 @@ slug: omd-em-1-kit
 description: 画質を求めるならフルサイズ、EVFよりOVFと悩んだこともありましたが、思い切って買いました。もはやミラーレスなのか分からないサイズと重量ですが、フラグシップモデルの性能は伊達ではありませんでした。購入の決め手、それは一目惚れです。
 
 
-cover_image: images/cover/camera.jpg
+featuredimage: images/cover/camera.jpg
 date: 2015-01-24
 lastmod: 2015-04-01
 tags: 

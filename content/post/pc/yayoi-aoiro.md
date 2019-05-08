@@ -4,7 +4,7 @@ slug: yayoi-aoiro
 description: e-Tax使って確定申告をするのに会計システムを渡り歩きました。MFクラウド確定申告、Freee、やよいの青色申告。電子申告するために、結局やよいに落ち着きました。確定申告機能を使ってみた感じを比較してみました。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2015-02-01
 lastmod: 2015-04-01
 tags: 

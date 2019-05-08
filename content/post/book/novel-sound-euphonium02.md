@@ -4,7 +4,7 @@ slug: novel-sound-euphonium-02
 description: 登場人物の感情や空気感の描写がうまくて物語に惹き込まれました。浴衣や水着、死んだ魚の眼をした高坂麗奈は、きっとアニメ化されたら絶対に映えるに違いありません。読んでいてアニメの続編も待ち遠しくなりました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-18
 lastmod: 2015-08-18
 tags: 

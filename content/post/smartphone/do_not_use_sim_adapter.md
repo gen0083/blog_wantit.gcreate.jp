@@ -4,7 +4,7 @@ slug: do-not-use-sim-adapter
 description: スマホのSIMは一番小さいナノSIMを、アダプタで使い回せばどんな端末にも対応できていいし、そもそも安いからと購入したのですが、だましうちのような送料請求にショックを隠せません。そもそも商品も質も悪く、不満の残る買い物になってしまいました。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2015-11-01
 lastmod: 2015-11-06
 tags: 

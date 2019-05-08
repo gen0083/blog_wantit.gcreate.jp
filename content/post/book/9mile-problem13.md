@@ -4,7 +4,7 @@ slug: 9-mile-problem-13
 description: 古典部シリーズの「遠まわりする雛」のあとがきに、モチーフとなった2つのエピソードが紹介されていました。図書館で借りて読んでみたら面白かったです。こうやって他の人がオススメしている本を読んで読書の幅を広げるのも悪くないなと思いました。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-07-22
 lastmod: 2016-02-17
 tags: 

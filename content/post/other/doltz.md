@@ -4,7 +4,7 @@ slug: doltz
 description: 水圧の力を使って歯間ケアを行うのが、このジェットウォッシャードルツです。充電式タイプはコンパクトで、毎日お風呂の中で使うと楽でいいです。歯茎のマッサージにもいいので、知覚過敏予防にも効果があるのではないでしょうか。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2013-10-02
 lastmod: 2016-02-24
 tags: 

@@ -4,7 +4,7 @@ slug: petit-bourgeios-04-kuri-2
 description: 上巻で立てた推論の答え合わせの巻です。前作のパフェ事件では、やや後味の悪い終わり方でしたが、今回はスカッとした読了感が味わえると思います。私は「してやられた」と変な声を出しそうになりましたが、そこまでハマったのは私だけかもしれません。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-08-19
 lastmod: 2015-10-13
 tags: 

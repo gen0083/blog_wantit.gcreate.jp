@@ -4,7 +4,7 @@ slug: akibas-trip-2
 description: 秋葉原を舞台に吸血鬼と戦う、その手法は「服を脱がすこと」で日光に晒すこと。そんなぶっ飛んだ設定なゲームですが、単なるバカゲーと侮ってはいけません。私は前作もプレイ済みですが、前作と比較してグラフィックがとてもきれいになっています。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2013-11-18
 lastmod: 2019-04-04
 tags: 

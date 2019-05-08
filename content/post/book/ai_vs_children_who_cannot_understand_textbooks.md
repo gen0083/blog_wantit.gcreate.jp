@@ -4,7 +4,7 @@ slug: ai-vs-children-who-cannot-understand-textbooks
 description: ちょっと前に子どもたちの読解力がヤバイというニュースが話題になり、そのときに興味を持ったのがこの本だ。自分はちゃんんと読み解けるのか気になったというのが大きい。読んでみたらAIの話の方がメインで肩透かしを食ったが、提起されている問題はとても興味深いものだった。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2018-03-21
 lastmod: 2018-03-21
 tags: 

@@ -4,7 +4,7 @@ slug: mzuiko-14-150
 description: このレンズは広角側から望遠側まで幅広くカバーできます。旅行の時などいちいちレンズを取り替えずとも、これ1本でさまざまなシチュエーションをカバーできて便利です。レンズを買うならまず最初は広範囲をカバーできるレンズがいいのではないでしょうか。
 
 
-cover_image: images/cover/camera.jpg
+featuredimage: images/cover/camera.jpg
 date: 2014-01-14
 lastmod: 2015-05-01
 tags: 

@@ -4,7 +4,7 @@ slug: dungeon-meshi-02
 description: 迷宮内を徘徊するモンスターを調理することで空腹を満たす、妙にリアリティのある面白いマンガであるダンジョン飯。第1巻がとても面白くてツボったので、第2巻も心待ちにしていまいた。マルシルの顔芸が少なくてちょっと残念ですが、相変わらず面白いです。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2015-12-05
 lastmod: 2016-02-22
 tags: 

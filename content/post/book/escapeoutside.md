@@ -4,7 +4,7 @@ slug: escapeoutside
 description: 私はちゃんとやっているのに、あいつは不満ばかり言って何もしない・・・という経験は誰にでもあると思います。しかしなぜそのように他人を責めてしまうのでしょうか。そのメカニズムに迫り、そこから抜け出すためのヒントがこの本にあるかもしれません。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-04-12
 lastmod: 2016-02-24
 tags: 

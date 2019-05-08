@@ -4,7 +4,7 @@ slug: photoshop-and-lightroom
 description: RAWファイルで撮影し現像するようになると、撮った写真がキレイになって楽しくなります。私はAdobe Creative Cloudの写真業界向けプログラムを利用しています。LightroomとPhotoshopがセットで使えてお得です。
 
 
-cover_image: images/cover/camera.jpg
+featuredimage: images/cover/camera.jpg
 date: 2014-02-01
 lastmod: 2015-02-02
 tags: 

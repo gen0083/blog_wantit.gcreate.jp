@@ -4,7 +4,7 @@ slug: contour-roam
 description: このカメラはシンプルな作りで、それなりにいい画質で映像が撮影できます。私の買ったモデルでは、撮影されている映像をリアルタイムで確認できないのが玉に瑕です。ただしそれを補って余りある、撮影の邪魔にならないコンパクトなボディが魅力です。
 
 
-cover_image: images/cover/camera.jpg
+featuredimage: images/cover/camera.jpg
 date: 2013-11-14
 lastmod: 2015-05-01
 tags: 

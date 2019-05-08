@@ -4,7 +4,7 @@ slug: sawai-wakeari-2
 description: 中身を指定することができませんが、量とコストのバランスがとてもいいので、また澤井珈琲の訳あり福袋を購入してみました。中身を指定することはできませんが、コストパフォーマンスに優れており、リーズナブルにコーヒーを味わうことができます。
 
 
-cover_image: images/cover/coffee.jpg
+featuredimage: images/cover/coffee.jpg
 date: 2014-02-05
 lastmod: 2016-02-24
 tags: 

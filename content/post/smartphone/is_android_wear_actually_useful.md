@@ -4,7 +4,7 @@ slug: is-android-wear-actually-useful
 description: Android Wear用のウォッチフェイスを作りました。自分の好きな画像を壁紙にすることができます。今回はこの自作アプリの宣伝を兼ねて、ここしばらくAndroid Wearを使ってみて感じたことを書き連ねてみようと思います。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2015-04-11
 lastmod: 2015-04-11
 tags: 

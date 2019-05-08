@@ -4,7 +4,7 @@ slug: new-nintendo-3-ds-ll
 description: 新モデルが発売されたNewニンテンドー3DS LLを購入しました。初の3DSなので、旧モデルとの比較はできませんが、ブラウジングなどが快適に出来ました。裸眼立体視はすごいなと思う反面、今までにない体験なだけに違和感が拭えません。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2014-10-30
 lastmod: 2015-05-01
 tags: 

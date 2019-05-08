@@ -4,7 +4,7 @@ slug: mamotte-knight-3-ds
 description: とある動画で存在を知り、お手頃な値段に惹かれてついつい買ってしまったみんなでまもって騎士。大人数で遊べばとても面白いというのは動画で見て分かっていましたが、果たしてソロプレイでも楽しめるのか。ボッチプレイしてみた感想を綴りました。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2015-01-06
 lastmod: 2015-01-20
 tags: 

@@ -4,7 +4,7 @@ slug: hatarakuprono-kokoronoseirijutu
 description: 心の中が乱れた時に、いかにして平常時と同じようにパフォーマンスを発揮するかという本です。凹んだり、イライラしたり、そういった心のざわつきを当然のことと受け入れ、普段から備えておく。分かりやすい具体例で分かりやすく面白い本でした。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-12-01
 lastmod: 2015-01-20
 tags: 

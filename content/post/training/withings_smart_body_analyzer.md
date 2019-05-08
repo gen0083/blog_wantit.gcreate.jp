@@ -4,7 +4,7 @@ slug: withings-smart-body-analyzer
 description: ダイエットの第一歩は体重の推移を記録することだと考えて、体重を計るだけでデータを自動的に記録してくれる賢い体重計を買うことにしました。乗るだけで勝手に記録ができあがっていくので、面倒くさがりでも簡単に体重の記録が見れていいですね。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2014-08-16
 lastmod: 2015-03-03
 tags: 

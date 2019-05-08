@@ -4,7 +4,7 @@ slug: toggle-timer
 description: Toggleという作業時間を記録するツールを使ってみました。私が使っているタスク管理ツールであるTodoistと連携ができるのがミソで、「Todoistでタスク管理しているけど、処理したタスクのログを見たい」という人にピッタリだと思います。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2015-01-19
 lastmod: 2016-02-05
 tags: 

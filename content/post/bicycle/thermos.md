@@ -4,7 +4,7 @@ slug: thermos
 description: サイクリング中の水分補給をする際に、ペットボトルのお茶ではすぐに温くなってしまいます。そこで保温できるこのサーモスのスポーツボトルを購入しました。ボトルケージに取り付けるのは若干窮屈ですが、飲み物の冷たさが持続するので便利です。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2013-09-21
 lastmod: 2015-05-01
 tags: 

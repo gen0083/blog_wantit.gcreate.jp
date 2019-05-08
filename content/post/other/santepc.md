@@ -4,7 +4,7 @@ slug: santepc
 description: パソコンの画面を一日中見るようになって、目の乾きが気になるようになったので、サンテPCといういかにもな名前の目薬を買って試してみることにしました。最初のうちは効果が感じらましたが、あくまで気休めなのかなと思います。
 
 
-cover_image: images/cover/training.jpg
+featuredimage: images/cover/training.jpg
 date: 2013-09-15
 lastmod: 2016-02-24
 tags: 

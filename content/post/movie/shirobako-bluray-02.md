@@ -4,7 +4,7 @@ slug: shirobako-bluray-02
 description: SHIROBAKO第2巻は4話〜6話が収録されています。軸となっているのはアニメーションにおける2Dと3Dの話です。本編も面白いのですが、1巻とはうってかわって、ぶっちゃけトークで白熱しているスタッフコメンタリーが面白かったです。
 
 
-cover_image: images/cover/movie.jpg
+featuredimage: images/cover/movie.jpg
 date: 2015-01-30
 lastmod: 2015-04-01
 tags: 

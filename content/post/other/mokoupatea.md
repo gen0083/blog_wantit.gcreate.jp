@@ -4,7 +4,7 @@ slug: mokoupatea
 description: 床が傷だらけなので、補修することにしました。木工パテA、かくれん棒、住まいのマニキュアなどを使って補修しました。手間がかかりますが木工パテを使うのが一番きれいに仕上がると思います。それぞれの使い勝手や違いなどを簡単に書いてみました。
 
 
-cover_image: images/cover/other.jpg
+featuredimage: images/cover/other.jpg
 date: 2013-09-24
 lastmod: 2015-05-01
 tags: 

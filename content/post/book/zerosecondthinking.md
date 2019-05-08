@@ -4,7 +4,7 @@ slug: zerosecondthinking
 description: A4用紙に1分間で頭の中のもやもやを書き出していくことを通じて、思考を高速化する訓練をしようという本です。頭の中で考えているだけだと、同じ所をぐるぐるしているだけで先に進みませんが、紙に書き出すことで思考が先へと進みます。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-04-18
 lastmod: 2016-02-05
 tags: 

@@ -4,7 +4,7 @@ slug: litelogfree
 description: ライフログを取るツールはiPhoneでは様々なアプリが紹介されているものの、Android用のアプリとなるとさっぱり情報が見つかりません。そこで、とりあえずスマホでは時間の記録を取るだけと割りきって、シンプルなアプリを探して試してみました。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2013-11-23
 lastmod: 2015-03-03
 tags: 

@@ -4,7 +4,7 @@ slug: photoshopcameraraw
 description: 今まで適当に何となくやっていた写真の補正を、もうちょっと何とかしたいなと思い読んでみました。写真で表現することについてかなり詳しく記述されており、非常に勉強になりました。Photoshopの操作より、写真で表現に関する知識が役に立ちます。
 
 
-cover_image: images/cover/book.jpg
+featuredimage: images/cover/book.jpg
 date: 2014-04-14
 lastmod: 2016-02-24
 tags: 

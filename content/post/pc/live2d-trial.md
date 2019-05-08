@@ -4,7 +4,7 @@ slug: live-2-d-trial
 description: 自分の描いた絵を動かしてみたいという欲求を満たしてくれるのがLive2Dです。面白半分で試してみたのですが、実際に自分の描いたキャラが動くのを見るとテンションが上ります。とりあえず動かすだけなら公式サイトのチュートリアル通りやれば簡単です。
 
 
-cover_image: images/cover/smartphone.jpg
+featuredimage: images/cover/smartphone.jpg
 date: 2015-02-20
 lastmod: 2015-02-23
 tags: 

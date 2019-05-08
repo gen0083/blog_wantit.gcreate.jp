@@ -4,7 +4,7 @@ slug: bindingpedaru
 description: ビンディングペダルを導入してみたいなと思い、通販で部品を購入して自分で取り付けました。取り付けは既存のペダルを外すのに苦労したくらいです。ビンディングにして1年たちますが、その間に感じた注意点と合わせて感想を綴ってみます。
 
 
-cover_image: images/cover/bicycle.jpg
+featuredimage: images/cover/bicycle.jpg
 date: 2014-05-18
 lastmod: 2015-05-01
 tags: 

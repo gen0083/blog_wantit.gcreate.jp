@@ -4,7 +4,7 @@ slug: slimmate
 description: クリップボードにメモ用紙が格納できたら面白いのにと思ったら、そんな製品がありました。大量のメモ用紙と、筆記用具もケースの中にしまうことができて便利です。クリップボードと収納があわさり最強にみえます。
 
 
-cover_image: images/cover/stationery.jpg
+featuredimage: images/cover/stationery.jpg
 date: 2014-04-04
 lastmod: 2016-02-24
 tags: 

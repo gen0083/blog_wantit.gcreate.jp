@@ -4,7 +4,7 @@ slug: projectdivaf
 description: スキマ時間に好きな音楽を楽しめるようにと、初音ミクProject DIVA-f-を購入しました。大好きなメランコリックが収録されており楽しめましたが、収録されている曲の好みがあまり合わず、新たに良曲に出会うという目的は果たせませんでした。
 
 
-cover_image: images/cover/game.jpg
+featuredimage: images/cover/game.jpg
 date: 2014-02-22
 lastmod: 2016-02-24
 tags: 

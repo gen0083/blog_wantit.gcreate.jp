@@ -4,7 +4,7 @@ slug: crystalguard-glassarmor
 description: ガラス表面を水晶化して防傷、指紋軽減してくれるらしいので、試してみることに。メインは指紋軽減性能目当てでの購入です。傷防止性能についてもせっかくだから実験してみました。効果が無いわけではないと思うのですが、いまひとつはっきりしません。
 
 
-cover_image: images/cover/pc.jpg
+featuredimage: images/cover/pc.jpg
 date: 2015-02-13
 lastmod: 2015-04-01
 tags: 
