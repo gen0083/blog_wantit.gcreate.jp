@@ -175,7 +175,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/fake!fake!/id877595942?i=877595952&#038;at=1l3v8BW&#038;mt=1&#038;app=music">fake!fake!</a> / <a href="https://www.youtube.com/watch?v=c-M7cvJy1IY">YouTube</a></li>
 <li><a href="https://geo.itunes.apple.com/jp/album/himitsusupaku/id950884919?i=950884925&#038;at=1l3v8BW&#038;mt=1&#038;app=music">HIMITSUスパーク</a> / <a href="https://www.youtube.com/watch?v=h_26_gR7Vs8">YouTube</a></li>
-<li><a href="https://geo.itunes.apple.com/jp/album/hizumuriarizumu/id1020073681?i=1020073781&#038;at=1l3v8BW&#038;mt=1&#038;app=music">ヒズムリアリズム</a> / <a href="https://www.youtube.com/watch?t=2&amp;v=-A1_nbcgyrM">YouTube</a></li>
+<li><a href="https://geo.itunes.apple.com/jp/album/hizumuriarizumu/id1020073681?i=1020073781&#038;at=1l3v8BW&#038;mt=1&#038;app=music">ヒズムリアリズム</a> / <a href="https://www.youtube.com/watch?t=2&v=-A1_nbcgyrM">YouTube</a></li>
 <li><a href="https://geo.itunes.apple.com/jp/album/9fan-muno/id950884919?i=950884931&#038;at=1l3v8BW&#038;app=itunes">9番目の「?」</a></li>
 <li>みずいろ</li>
 </ul>
@@ -349,7 +349,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/insight/id661158735?i=661158743&#038;at=1l3v8BW&#038;mt=1&#038;app=music">InSight</a></li>
 <li><a href="https://geo.itunes.apple.com/jp/album/get-the-sound/id661158735?i=661158744&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Get the Sound</a> / 672346</li>
-<li><a href="https://geo.itunes.apple.com/jp/album/small-starlight/id661158735?i=661158745&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Small&amp;StarLight</a></li>
+<li><a href="https://geo.itunes.apple.com/jp/album/small-starlight/id661158735?i=661158745&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Small&StarLight</a></li>
 <li><a href="https://geo.itunes.apple.com/jp/album/kimito-are-you-ready/id991260052?i=991260053&#038;at=1l3v8BW&#038;mt=1&#038;app=music">キミと☆Are You Ready?</a> / 673412</li>
 <li><a href="https://geo.itunes.apple.com/jp/album/bokuranoshiny-star/id991260052?i=991260054&#038;at=1l3v8BW&#038;app=itunes">ボクらのShiny Star☆</a></li>
 <li>今夜は星空ディスコティック☆</li>

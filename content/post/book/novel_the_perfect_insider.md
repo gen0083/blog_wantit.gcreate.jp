@@ -8,7 +8,7 @@ featuredimage: images/cover/book.jpg
 date: 2016-02-14
 lastmod: 2016-02-22
 tags: 
-    - S&amp;Mシリーズ
+    - S&Mシリーズ
     - ミステリ
     - 森博嗣
 product:
