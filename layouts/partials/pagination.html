@@ -1,0 +1,39 @@
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+    <ul class="pagination">
+        {{ with $pag.First }}
+            <li class="page-item">
+                <button class="mdc-icon-button">
+                    <a href="{{ .URL }}" class="page-link" aria-label="First">|&lt;</a>
+                </button>
+            </li>
+        {{ end }}
+        {{ with $pag.Prev }}
+            <li class="page-item">
+                <button class="mdc-icon-button">
+                    <a href="{{- .URL -}}" class="page-link"
+                       aria-label="Previous">{{- .PageNumber -}}</a>
+                </button>
+            </li>
+        {{ end }}
+        <li class="page-item active">
+            <button class="mdc-icon-button" disabled>
+                {{ $pag.PageNumber }}
+            </button>
+        </li>
+        {{ with $pag.Next }}
+            <li class="page-item">
+                <button class="mdc-icon-button">
+                    <a href="{{ .URL }}" class="page-link" aria-label="Next">{{- .PageNumber -}}</a>
+                </button>
+            </li>
+        {{ end }}
+        {{ with $pag.Last }}
+            <li class="page-item">
+                <button class="mdc-icon-button">
+                    <a href="{{ .URL }}" class="page-link" aria-label="Last">&gt;|</a>
+                </button>
+            </li>
+        {{ end }}
+    </ul>
+{{ end }}

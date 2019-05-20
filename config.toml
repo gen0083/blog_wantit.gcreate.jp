@@ -15,6 +15,7 @@ copyright = ""
     rssFullContent = false
     homeFullContent = false
     archive-paginate = 3
+    dateFormat = "2006/01/02"
 
 [sitemap]
     changefreq = "weekly"
