@@ -33,7 +33,7 @@ def replace_tags(src):
     quote_code = re.compile(r'&quot;')
     single_quote_code = re.compile(r'&#039;')
     local_image = re.compile(
-        r'<img src="https://android.gcreate.jp/wp-content/uploads/.+/(.+)\.(jpg|png|gif)".*alt="(.+?)".*/>')
+        r'<img src="https://wantit.gcreate.jp/wp-content/uploads/.+/(.+)\.(jpg|png|gif)".*alt="(.+?)".*/>')
 
     def convert_header(m):
         count = int(m.group(1))
@@ -79,7 +79,7 @@ for file in file_list:
 
 # work on each file
 print("stack size: ", len(stack))
-image_tag = re.compile(r'<img src="https://android\.gcreate\.jp/')
+image_tag = re.compile(r'<img src="https://wantit\.gcreate\.jp/')
 for file in stack:
     file_path = os.path.abspath(file)
     print("stack: ", file_path)
