@@ -1,0 +1,388 @@
+@import "media_query";
+
+@font-face {
+  font-family: icomoon;
+  src: url(fonts/icomoon.eot?aacyvw);
+  src: url(fonts/icomoon.eot?aacyvw#iefix) format("embedded-opentype"), url(fonts/icomoon.ttf?aacyvw) format("truetype"), url(fonts/icomoon.woff?aacyvw) format("woff"), url(fonts/icomoon.svg?aacyvw#icomoon) format("svg");
+  font-weight: 400;
+  font-style: normal
+}
+
+.amazonjs_item {
+  border: 1px solid #7986ac;
+  box-shadow: 2px 2px 1px;
+  padding: 10px;
+  font-size: 14px;
+  margin: .5em 0 1em;
+  display: block;
+  background: url(images/amazonjs.png) right bottom no-repeat #fff;
+  color: #333
+}
+
+.amazonjs_item .amazonjs_indicator {
+  display: block;
+  height: 60px;
+  background: url(images/ajax-loader.gif) center 5px no-repeat;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 100px
+}
+
+.amazonjs_item .amazonjs_image {
+  display: block;
+  float: left
+}
+
+.amazonjs_item .amazonjs_info {
+  display: block;
+  padding-left: 1em
+}
+
+.amazonjs_item .amazonjs_info h4 {
+  background-color: #FFF;
+  font-size: 1em;
+  line-height: 1.7em;
+  margin: 0 0 5px;
+  font-weight: 700;
+  clear: none
+}
+
+.amazonjs_item .amazonjs_info ul {
+  list-style: none;
+  margin: 0;
+  padding: 0
+}
+
+.amazonjs_item .amazonjs_info ul li {
+  text-indent: 0;
+  list-style: none;
+  font-size: .8em;
+  line-height: 1.5em;
+  margin: 0;
+  padding: 0
+}
+
+.amazonjs_item .amazonjs_info ul li b {
+  margin-right: .5em;
+  color: #555;
+  font-weight: 400
+}
+
+.amazonjs_item .amazonjs_info .amazonjs_price {
+  color: #900
+}
+
+.amazonjs_item .amazonjs_info .amazonjs_price span {
+  color: #666;
+  margin-left: .5em
+}
+
+.amazonjs_item .amazonjs_info .amazonjs_listprice {
+  text-decoration: line-through
+}
+
+.amazonjs_item .amazonjs_review {
+  padding: 0;
+  font-size: .7em;
+  position: absolute;
+  right: 34px;
+  bottom: 4px
+}
+
+.amazonjs_item .amazonjs_footer {
+  clear: both
+}
+
+#preview .amazonjs_item .amazonjs_review {
+  display: none
+}
+
+.amazonjs_book .amazonjs_info ul, .amazonjs_music .amazonjs_info ul {
+  margin-top: .5em
+}
+
+.amazonjs_book .amazonjs_info ul li, .amazonjs_music .amazonjs_info ul li {
+  line-height: 1.6em
+}
+
+// kaeyome area
+.amazon-area, .rakten-area {
+  margin: 0 auto;
+  padding: 8px;
+  display: inline-block
+}
+
+.booklink-box, .kaerebalink-box {
+  border-top: 1px solid rgba(0, 0, 0, .12);
+  border-bottom: 1px solid rgba(0, 0, 0, .12);
+  margin: 1rem auto;
+  padding: 16px;
+  display: flex;
+  box-sizing: border-box;
+  @include mediaQuery(800px) {
+    flex-direction: column;
+  }
+
+  > .booklink-image, > .kaerebalink-image {
+    text-align: center;
+    padding: 16px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    box-sizing: inherit;
+
+    > a {
+      margin: auto;
+
+      > img {
+        max-width: 200px;
+        height: auto;
+        display: inline !important;
+        margin: 0;
+      }
+    }
+  }
+
+  > .booklink-info, > .kaerebalink-info {
+    padding: 16px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    box-sizing: inherit;
+  }
+}
+
+.shoplinkamazon, .shoplinkbk1, .shoplinkehon, .shoplinkkindle, .shoplinkkino, .shoplinkrakuten, .shoplinkseven, .shoplinkyahoo, .shoplinkyahooAuc {
+  margin: 8px
+}
+
+.booklink-name, .kaerebalink-name {
+  font-size: 0.8em;
+  line-height: 1.4em;
+  text-align: left;
+  padding: 0 8px
+}
+
+.booklink-powered-date, .kaerebalink-powered-date {
+  font-size: .8em;
+  line-height: 1.5em;
+  text-align: right;
+  padding: 0 8px 8px
+}
+
+.booklink-detail, .kaerebalink-detail {
+  font-size: .8em;
+  line-height: 1.5em;
+  text-align: right;
+  padding: 0 8px
+}
+
+.booklink-footer {
+  display: none;
+
+  &:after {
+    content: " ";
+    display: block;
+    clear: both
+  }
+}
+
+.booklink-link2, .kaerebalink-link1 {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between
+}
+
+.booklink-link2:after, .kaerebalink-link1:after {
+  content: " ";
+  display: block;
+  clear: both
+}
+
+.booklink-link2 a, .kaerebalink-link1 a {
+  display: block;
+  text-decoration: none;
+  margin: 0;
+  padding: 12px
+}
+
+.shoplinkamazon a:before, .shoplinkbk1 a:before, .shoplinkehon a:before, .shoplinkkindle a:before, .shoplinkkino a:before, .shoplinkrakuten a:before, .shoplinkseven a:before, .shoplinkyahoo a:before, .shoplinkyahooAuc a:before {
+  content: "";
+  font-family: icomoon;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  display: inline-block;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+
+.shoplinkamazon {
+  min-width: 200px;
+  margin: 16px;
+  border: 1px solid #7986ac;
+  border-radius: 5px;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1
+}
+
+.shoplinkkindle, .shoplinkrakuten {
+  margin: 16px;
+  border: 1px solid #7986ac
+}
+
+.shoplinkamazon a:before {
+  min-width: 30px
+}
+
+.shoplinkkindle {
+  min-width: 200px;
+  border-radius: 5px;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1
+}
+
+.shoplinkkindle a:before {
+  min-width: 30px
+}
+
+.shoplinkrakuten {
+  min-width: 200px;
+  border-radius: 5px;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1
+}
+
+.shoplinkbk1, .shoplinkseven {
+  margin: 16px;
+  border: 1px solid #7986ac
+}
+
+.shoplinkrakuten a:before {
+  min-width: 30px
+}
+
+.shoplinkseven {
+  min-width: 200px;
+  border-radius: 5px;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1
+}
+
+.shoplinkseven a:before {
+  min-width: 30px
+}
+
+.shoplinkbk1 {
+  min-width: 200px;
+  border-radius: 5px;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1
+}
+
+.shoplinkehon, .shoplinkkino {
+  margin: 16px;
+  border: 1px solid #7986ac
+}
+
+.shoplinkbk1 a:before {
+  min-width: 30px
+}
+
+.shoplinkkino {
+  min-width: 200px;
+  border-radius: 5px;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1
+}
+
+.shoplinkkino a:before {
+  min-width: 30px
+}
+
+.shoplinkehon {
+  min-width: 200px;
+  border-radius: 5px;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1
+}
+
+.shoplinkyahoo, .shoplinkyahooAuc {
+  margin: 16px;
+  border: 1px solid #7986ac
+}
+
+.shoplinkehon a:before {
+  min-width: 30px
+}
+
+.shoplinkyahoo {
+  min-width: 200px;
+  border-radius: 5px;
+  flex-grow: 1;
+
+  > a > img {
+    display: none;
+  }
+
+  & a:before {
+    min-width: 30px
+  }
+}
+
+.shoplinkyahooAuc {
+  min-width: 200px;
+  border-radius: 5px;
+  flex-grow: 1;
+
+  & a:before {
+    min-width: 30px;
+  }
+}
+
+// kaereba box
+.affi-box dd:after, .affi-box-hitokoto dd:after, .affi-box-hitokoto:after, .affi-box:after, .breadcrumb:after {
+  content: " ";
+  display: block;
+  clear: both
+}
+
+.affi-box dt, .affi-box-hitokoto dt {
+  min-height: 1em;
+  width: 100px;
+  float: left
+}
+
+.affi-box dd, .affi-box-hitokoto dd {
+  min-height: 1em;
+  margin-left: 100px
+}
+
+.affi-box-hitokoto {
+  padding: 10px;
+  border: 1px solid #ccc
+}
+
+.shopimage-hidden {
+  width: 0px;
+  height: 0px;
+  border: none;
+  display: none;
+}

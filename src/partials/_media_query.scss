@@ -1,0 +1,5 @@
+@mixin mediaQuery($breakpoint: px) {
+  @media screen and(max-width: $breakpoint) {
+    @content;
+  }
+}
