@@ -151,10 +151,6 @@
   }
 }
 
-.shoplinkamazon, .shoplinkbk1, .shoplinkehon, .shoplinkkindle, .shoplinkkino, .shoplinkrakuten, .shoplinkseven, .shoplinkyahoo, .shoplinkyahooAuc {
-  margin: 8px
-}
-
 .booklink-name, .kaerebalink-name {
   font-size: 0.8em;
   line-height: 1.4em;
@@ -187,202 +183,52 @@
 }
 
 .booklink-link2, .kaerebalink-link1 {
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
   flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  -webkit-justify-content: space-between;
-  -ms-flex-pack: justify;
-  justify-content: space-between
+  justify-content: space-between;
+
+  &:after {
+    content: " ";
+    display: block;
+    clear: both
+  }
+
+  & a {
+    display: block;
+    text-decoration: none;
+    margin: 0;
+    padding: 12px
+  }
 }
 
-.booklink-link2:after, .kaerebalink-link1:after {
-  content: " ";
-  display: block;
-  clear: both
-}
-
-.booklink-link2 a, .kaerebalink-link1 a {
-  display: block;
-  text-decoration: none;
-  margin: 0;
-  padding: 12px
-}
-
-.shoplinkamazon a:before, .shoplinkbk1 a:before, .shoplinkehon a:before, .shoplinkkindle a:before, .shoplinkkino a:before, .shoplinkrakuten a:before, .shoplinkseven a:before, .shoplinkyahoo a:before, .shoplinkyahooAuc a:before {
-  content: "";
-  font-family: icomoon;
-  font-style: normal;
-  font-weight: 400;
-  font-variant: normal;
-  text-transform: none;
-  display: inline-block;
-  text-align: center;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale
-}
-
-.shoplinkamazon {
-  min-width: 200px;
-  margin: 16px;
-  border: 1px solid #7986ac;
-  border-radius: 5px;
-  -webkit-flex-grow: 1;
-  -ms-flex-positive: 1;
-  flex-grow: 1
-}
-
-.shoplinkkindle, .shoplinkrakuten {
-  margin: 16px;
-  border: 1px solid #7986ac
-}
-
-.shoplinkamazon a:before {
-  min-width: 30px
-}
-
-.shoplinkkindle {
-  min-width: 200px;
-  border-radius: 5px;
-  -webkit-flex-grow: 1;
-  -ms-flex-positive: 1;
-  flex-grow: 1
-}
-
-.shoplinkkindle a:before {
-  min-width: 30px
-}
-
-.shoplinkrakuten {
-  min-width: 200px;
-  border-radius: 5px;
-  -webkit-flex-grow: 1;
-  -ms-flex-positive: 1;
-  flex-grow: 1
-}
-
-.shoplinkbk1, .shoplinkseven {
-  margin: 16px;
-  border: 1px solid #7986ac
-}
-
-.shoplinkrakuten a:before {
-  min-width: 30px
-}
-
-.shoplinkseven {
-  min-width: 200px;
-  border-radius: 5px;
-  -webkit-flex-grow: 1;
-  -ms-flex-positive: 1;
-  flex-grow: 1
-}
-
-.shoplinkseven a:before {
-  min-width: 30px
-}
-
-.shoplinkbk1 {
-  min-width: 200px;
-  border-radius: 5px;
-  -webkit-flex-grow: 1;
-  -ms-flex-positive: 1;
-  flex-grow: 1
-}
-
-.shoplinkehon, .shoplinkkino {
-  margin: 16px;
-  border: 1px solid #7986ac
-}
-
-.shoplinkbk1 a:before {
-  min-width: 30px
-}
-
-.shoplinkkino {
-  min-width: 200px;
-  border-radius: 5px;
-  -webkit-flex-grow: 1;
-  -ms-flex-positive: 1;
-  flex-grow: 1
-}
-
-.shoplinkkino a:before {
-  min-width: 30px
-}
-
-.shoplinkehon {
-  min-width: 200px;
-  border-radius: 5px;
-  -webkit-flex-grow: 1;
-  -ms-flex-positive: 1;
-  flex-grow: 1
-}
-
-.shoplinkyahoo, .shoplinkyahooAuc {
-  margin: 16px;
-  border: 1px solid #7986ac
-}
-
-.shoplinkehon a:before {
-  min-width: 30px
-}
-
-.shoplinkyahoo {
+.shoplinkyahoo, .shoplinkyahooAuc, .shoplinkehon, .shoplinkkino, .shoplinkamazon, .shoplinkbk1, .shoplinkkindle, .shoplinkseven, .shoplinkrakuten {
   min-width: 200px;
   border-radius: 5px;
   flex-grow: 1;
+  margin: 16px;
+  border: 1px solid #7986ac;
 
   > a > img {
     display: none;
   }
 
   & a:before {
-    min-width: 30px
-  }
-}
-
-.shoplinkyahooAuc {
-  min-width: 200px;
-  border-radius: 5px;
-  flex-grow: 1;
-
-  & a:before {
     min-width: 30px;
+    content: "";
+    font-family: icomoon;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    display: inline-block;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
   }
 }
 
-// kaereba box
-.affi-box dd:after, .affi-box-hitokoto dd:after, .affi-box-hitokoto:after, .affi-box:after, .breadcrumb:after {
-  content: " ";
-  display: block;
-  clear: both
+.affiliate {
+  text-align: center;
 }
 
-.affi-box dt, .affi-box-hitokoto dt {
-  min-height: 1em;
-  width: 100px;
-  float: left
-}
-
-.affi-box dd, .affi-box-hitokoto dd {
-  min-height: 1em;
-  margin-left: 100px
-}
-
-.affi-box-hitokoto {
-  padding: 10px;
-  border: 1px solid #ccc
-}
-
-.shopimage-hidden {
-  width: 0px;
-  height: 0px;
-  border: none;
-  display: none;
-}

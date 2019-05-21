@@ -12,8 +12,8 @@
 
         {{ with .link -}}
             <div class="product_link">
-                サイト: <a itemprop="url" href="{{ . }}" target="_blank"
-                        onclick="ga('send', 'event', 'out', 'official', '{{ . }}');">
+                <a itemprop="url" href="{{ . }}" target="_blank"
+                   onclick="ga('send', 'event', 'out', 'official', '{{ . }}');">
                     {{ . }}
                 </a>
             </div>

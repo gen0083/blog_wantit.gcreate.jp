@@ -29,7 +29,8 @@
   > .product_link {
     margin: 8px;
     overflow: hidden;
-    align-self: center;
+    white-space: nowrap;
+    text-overflow: ellipsis;
   }
 
   > .product_evaluation {
