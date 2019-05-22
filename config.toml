@@ -1,4 +1,4 @@
-baseURL = "http://test-wantit.gcreate.jp/"
+baseURL = "https://test-wantit.gcreate.jp/"
 languageCode = "jp"
 title = "だって欲しかったんだもん"
 theme = "aether"
