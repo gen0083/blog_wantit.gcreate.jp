@@ -1,0 +1,13 @@
+{{ with .Params.product }}
+    <div class="affiliate">
+        {{ with .kaeyome }}
+            {{ safeHTML . }}
+        {{ end }}
+        {{ with .amazon }}
+            {{ safeHTML . }}
+        {{end}}
+        {{ with .rakuten }}
+            {{ safeHTML . }}
+        {{ end }}
+    </div>
+{{ end }}

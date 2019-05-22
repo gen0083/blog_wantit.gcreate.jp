@@ -32,7 +32,7 @@ product:
 
 私の場合は、以前使っていたスマートホン（Xperia Arc）が偶然にもANT+に対応していたので、これをサイコン代わりに利用しています。
 
-スマホにANT+の情報を受信して、ケイデンス等を表示することのできるアプリを入れてやれば、リアルタイムで速度とペダルの回転数を把握することができます。私の場合は<a href="https://play.google.com/store/apps/details?id=com.orux.oruxmaps&amp;hl=ja" rel="nofollow">OruxMaps</a>というアプリを使っています。既存資産をうまく使いまわして、高級なサイコンにも負けず劣らずな機能を得られていい感じです。
+スマホにANT+の情報を受信して、ケイデンス等を表示することのできるアプリを入れてやれば、リアルタイムで速度とペダルの回転数を把握することができます。私の場合は<a href="https://play.google.com/store/apps/details?id=com.orux.oruxmaps&hl=ja" rel="nofollow">OruxMaps</a>というアプリを使っています。既存資産をうまく使いまわして、高級なサイコンにも負けず劣らずな機能を得られていい感じです。
 
 
 ## ANT+ってなに？
@@ -42,7 +42,7 @@ ANT+というのは無線通信の規格の一種で、主にフィットネス�
 
 割と昔からある規格なのですが、スマホが対応しているかどうかは明記されていないことがほとんどです。SonyのXperiaシリーズだと割と搭載されているようですが、端末によっては対応していないものもあるので注意が必要だと思います。
 
-今現在持っているスマホがANT+に対応しているかどうかは、アプリをインストールすれば分かります。<a href="https://play.google.com/store/apps/details?id=com.dsi.ant.service.socket&amp;hl=ja">ANT Radio Service</a>（Xperia Arcの場合必要でした）、<a href="https://play.google.com/store/apps/details?id=com.iforpowell.android.ipantman&amp;hl=ja">IpSensorMan</a>というアプリをインストールし、IpSensorManを実行すると端末がANT+に対応しているかどうか分かります。
+今現在持っているスマホがANT+に対応しているかどうかは、アプリをインストールすれば分かります。<a href="https://play.google.com/store/apps/details?id=com.dsi.ant.service.socket&hl=ja">ANT Radio Service</a>（Xperia Arcの場合必要でした）、<a href="https://play.google.com/store/apps/details?id=com.iforpowell.android.ipantman&hl=ja">IpSensorMan</a>というアプリをインストールし、IpSensorManを実行すると端末がANT+に対応しているかどうか分かります。
 
 これから購入しようという端末であれば、仕様情報を探して調べたりするしかないと思います。
 

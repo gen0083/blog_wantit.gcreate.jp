@@ -52,7 +52,9 @@ Sassの便利な機能を知らなくても、自分で少しずつ勉強しな�
 
 私のサイトでは、CSSだとこのようになるものが・・・
 
-<pre><code>.shoplinkamazon , .shoplinkkindle , .shoplinkrakuten , .shoplinkseven , .shoplinkbk1 , .shoplinkkino , .shoplinkehon , .shoplinkyahoo , .shoplinkyahooAuc{
+
+```
+.shoplinkamazon , .shoplinkkindle , .shoplinkrakuten , .shoplinkseven , .shoplinkbk1 , .shoplinkkino , .shoplinkehon , .shoplinkyahoo , .shoplinkyahooAuc{
     float: left;
     margin: 5px;
     border: 1px solid #5484D2;
@@ -96,10 +98,13 @@ Sassの便利な機能を知らなくても、自分で少しずつ勉強しな�
     background-repeat: no-repeat;
     background-position: 2px 3px;
 }
-</code></pre>
+```
+
 Sassを利用すると、以下のようにコンパクトな記述で済みます。
 
-<pre><code>$shoplink-list:amazon,kindle,rakuten,seven,bk1,kino,ehon,yahoo,yahooAuc;
+
+```
+$shoplink-list:amazon,kindle,rakuten,seven,bk1,kino,ehon,yahoo,yahooAuc;
 @each $item in $shoplink-list{
     .shoplink#{$item}{
         float: left;
@@ -110,7 +115,8 @@ Sassを利用すると、以下のようにコンパクトな記述で済みま�
                 background-color:#faa;
         }
     }
-}</code></pre>
+}```
+
 
 ## Chrome Developer Toolとの連携
 
@@ -129,8 +135,11 @@ Chrome Developer toolは、調べたい対象の要素に適用されている�
 
 Macの場合は以下のコマンドでインストールしているSassのバージョンをアップデートしましょう。
 
-<pre><code>sudo gem update —system
-sudo gem update sass —pre</code></pre>
+
+```
+sudo gem update —system
+sudo gem update sass —pre```
+
 まだSassをインストールしていない場合は、sudo gem install sass -preでインストールしましょう。（Sassの教科書を見ながらプレバージョンのインストールをすればOK）
 
 

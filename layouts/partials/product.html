@@ -1,0 +1,46 @@
+{{ with .Params.product }}
+    <div class="product_info_area">
+        <div class="product_display">
+            {{ with .name -}}
+                <div class="product_name">{{ . }}</div>
+            {{- end }}
+
+            {{ with .number -}}
+                <div class="product_number">{{ . }}</div>
+            {{- end }}
+        </div>
+
+        {{ with .link -}}
+            <div class="product_link">
+                <a itemprop="url" href="{{ . }}" target="_blank"
+                   onclick="ga('send', 'event', 'out', 'official', '{{ . }}');">
+                    {{ . }}
+                </a>
+            </div>
+        {{- end }}
+
+        <div class="product_evaluation">
+            {{ with .rate }}
+                <div class="product_info_rate">
+            <span class="rate-star">
+                {{ $rate := . }}
+                {{- range $v := seq 5 -}}
+                    {{- if ge $rate $v -}}
+                        <i class="material-icons">star</i>
+                    {{- else -}}
+                        <i class="material-icons">star_border</i>
+                    {{- end -}}
+                {{- end -}}
+            </span>
+                    <meta itemprop="ratingValue" content="{{ $rate }}">
+                    <meta itemprop="bestRating" content="5">
+                    <meta itemprop="worstRating" content="1">
+                </div>
+            {{ end }}
+
+            {{ with .comment -}}
+                <div class="product_comment">{{- . -}}</div>
+            {{- end }}
+        </div>
+    </div>
+{{ end }}

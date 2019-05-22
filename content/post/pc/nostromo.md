@@ -55,7 +55,7 @@ USBケーブル長は1.8mほど。パソコンの配置からケーブルが届�
 ## 補足
 
 
-この製品のドライバ（及びキーボードの設定）をするソフトウェアはこちらからダウンロードできます。＞＞<a href="http://drivers.razersupport.com//index.php?_m=downloads&amp;_a=view&amp;parentcategoryid=96&amp;nav=0%2C348%2C86" target="_blank">ドライバダウンロードページ</a>
+この製品のドライバ（及びキーボードの設定）をするソフトウェアはこちらからダウンロードできます。＞＞<a href="http://drivers.razersupport.com//index.php?_m=downloads&_a=view&parentcategoryid=96&nav=0%2C348%2C86" target="_blank">ドライバダウンロードページ</a>
 
 Razer製品を他にも使っている人は、必然的にSynapseというクラウドベースの設定ソフトを利用することになるでしょう。他のRazer製品なんか使ってないという人は、Legacy DriverでもOKです。Legacyの方は、ローカルで設定が完結する普通のドライバです。
 
@@ -77,7 +77,7 @@ Razer製品を他にも使っている人は、必然的にSynapseというク�
 
 Windows10でもLegacy Driverが使えます。ドライバ探すのが大変かもしれませんが、Nostromo単体で使うならLegacyのドライバを使うことをおすすめします。
 
-<a href="http://drivers.razersupport.com//index.php?_m=downloads&amp;_a=view&amp;parentcategoryid=96&amp;pcid=86&amp;nav=0,348,86">Razer Nostromo Legacy Driver</a>
+<a href="http://drivers.razersupport.com//index.php?_m=downloads&_a=view&parentcategoryid=96&pcid=86&nav=0,348,86">Razer Nostromo Legacy Driver</a>
 
 
   
