@@ -1,6 +1,7 @@
 node_modules
 venv/
 resources/
+public/
 # 成果物のstyle.cssは管理しない
 src/style.css
 static/style.css
