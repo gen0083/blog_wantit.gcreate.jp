@@ -30,19 +30,21 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css"
           integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{ "css/main.min.css" | absURL}}"/>
+    {{- $theme_css_a := resources.Get "css/latolatinfonts.css" -}}
+    {{- $theme_css_b := resources.Get "css/style.css" -}}
+    {{- $theme_css_c := resources.Get "css/xcode.css" -}}
+    {{- $concat_style := slice $theme_css_a $theme_css_b $theme_css_c | resources.Concat "css/bundle.css" -}}
+    {{- $theme_style := $concat_style | resources.PostCSS (dict "config" "postcss.config.js" "noMap" true) -}}
+    <link rel="stylesheet" href="{{ $theme_style.Permalink }}"/>
     <link rel="stylesheet"
           href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"/>
     <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
-    {{- $env := hugo.Environment -}}
     {{- $sass := resources.Get "sass/style.scss" -}}
-    {{- $sass_option := ( dict "targetPass" "style.css" ) -}}
+    {{- $sass_option := ( dict "targetPass" "style.css" "outputStyle" "compressed" "enabledSourceMap" false) -}}
     {{- $style := $sass | resources.ToCSS $sass_option -}}
-    {{- if eq hugo.Environment "production" -}}
-        {{- $style = $style | resources.ToCSS (dict "outputStyle" "compressed" "enableSourceMap" false ) -}}
-    {{- end -}}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    {{- $css := $style | resources.PostCSS (dict "config" "postcss.config.js" "noMap" true) -}}
+    <link rel="stylesheet" href="{{ $css.Permalink }}">
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
