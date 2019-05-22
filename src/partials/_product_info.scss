@@ -17,6 +17,7 @@
       margin: 8px;
       font-size: 1em;
       align-self: baseline;
+      word-break: break-all;
     }
 
     > .product_number {
@@ -52,6 +53,7 @@
     > .product_comment {
       margin: 8px;
       align-self: baseline;
+      word-break: break-all;
     }
   }
 }

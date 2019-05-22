@@ -11,3 +11,8 @@ body {
   background-size: contain;
   padding: 0;
 }
+
+article > p {
+  text-indent: 1em;
+  word-break: break-all;
+}
