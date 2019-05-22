@@ -33,18 +33,16 @@
     {{- $theme_css_a := resources.Get "css/latolatinfonts.css" -}}
     {{- $theme_css_b := resources.Get "css/style.css" -}}
     {{- $theme_css_c := resources.Get "css/xcode.css" -}}
-    {{- $concat_style := slice $theme_css_a $theme_css_b $theme_css_c | resources.Concat "css/bundle.css" -}}
-    {{- $theme_style := $concat_style | resources.PostCSS (dict "config" "postcss.config.js" "noMap" true) -}}
-    <link rel="stylesheet" href="{{ $theme_style.Permalink }}"/>
+    {{- $concat_style := slice $theme_css_a $theme_css_b $theme_css_c | resources.Concat "styles/css/bundle.css" | resources.PostCSS (dict "config" "postcss.config.js" "noMap" true) }}
+    <link rel="stylesheet" href="{{ $concat_style.Permalink }}"/>
     <link rel="stylesheet"
           href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"/>
     <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
     {{- $sass := resources.Get "sass/style.scss" -}}
-    {{- $sass_option := ( dict "targetPass" "style.css" "outputStyle" "compressed" "enabledSourceMap" false) -}}
-    {{- $style := $sass | resources.ToCSS $sass_option -}}
-    {{- $css := $style | resources.PostCSS (dict "config" "postcss.config.js" "noMap" true) -}}
-    <link rel="stylesheet" href="{{ $css.Permalink }}">
+    {{- $sass_option := ( dict "targetPath" "styles/css/mystyle.css" "outputStyle" "compressed" "enabledSourceMap" false) -}}
+    {{- $style := $sass | resources.ToCSS $sass_option | resources.PostCSS (dict "config" "postcss.config.js" "noMap" true) }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
