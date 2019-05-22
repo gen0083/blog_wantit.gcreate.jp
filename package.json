@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node-sass -rw src/style.scss -o src & postcss src/style.css -u autoprefixer -o static/style.css -w & hugo server -D",
-    "build": "node-sass src/style.scss -o src --source-map --output-style compressed | postcss -u autoprefixer -o static/style.css --no-map && hugo"
+    "dev": "hugo server -D",
+    "build": "hugo"
   },
   "author": "",
   "license": "ISC",

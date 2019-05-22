@@ -35,7 +35,14 @@
           href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"/>
     <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
-    <link rel="stylesheet" href="{{.Site.BaseURL}}style.css">
+    {{- $env := hugo.Environment -}}
+    {{- $sass := resources.Get "sass/style.scss" -}}
+    {{- $sass_option := ( dict "targetPass" "style.css" ) -}}
+    {{- $style := $sass | resources.ToCSS $sass_option -}}
+    {{- if eq hugo.Environment "production" -}}
+        {{- $style = $style | resources.ToCSS (dict "outputStyle" "compressed" "enableSourceMap" false ) -}}
+    {{- end -}}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
