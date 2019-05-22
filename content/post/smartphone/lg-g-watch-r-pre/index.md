@@ -84,7 +84,8 @@ LG G watch R自体にはUSBの端子はついていないので、充電する�
 <li>Genymotion　→　Bluetoothが使えない</li>
 <li>BlueStacks　→　Bluetoothで接続できない。Bluetoothなどの設定ができない。</li>
 </ul>
-現状ではAndroid 4.3以上を搭載したBluetoothに対応した実物を用意しなければ、Android Wear製品を使用できないようです。
+
+状ではAndroid 4.3以上を搭載したBluetoothに対応した実物を用意しなければ、Android Wear製品を使用できないようです。
 
 ちなみにペアリングしない状態で電源を入れたまま放置していると、「リセットするまでデモモードで動かす？」と聞いてきます。
 
