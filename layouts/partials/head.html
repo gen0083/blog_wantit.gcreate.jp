@@ -30,12 +30,19 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css"
           integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{ "css/main.min.css" | absURL}}"/>
+    {{- $theme_css_a := resources.Get "css/latolatinfonts.css" -}}
+    {{- $theme_css_b := resources.Get "css/style.css" -}}
+    {{- $theme_css_c := resources.Get "css/xcode.css" -}}
+    {{- $concat_style := slice $theme_css_a $theme_css_b $theme_css_c | resources.Concat "styles/css/bundle.css" | resources.ToCSS }}
+    <link rel="stylesheet" href="{{ $concat_style.Permalink }}"/>
     <link rel="stylesheet"
           href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"/>
     <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
-    <link rel="stylesheet" href="{{.Site.BaseURL}}style.css">
+    {{- $sass := resources.Get "sass/style.scss" -}}
+    {{- $sass_option := ( dict "outputStyle" "compressed" "enabledSourceMap" false) -}}
+    {{- $style := $sass | resources.ToCSS $sass_option  }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
