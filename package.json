@@ -22,6 +22,7 @@
     "postcss-cli": "^6.1.2",
     "sass-loader": "^7.1.0",
     "tar": ">=4.4.2",
-    "uglifycss": "0.0.29"
+    "uglifycss": "0.0.29",
+    "webpack": "^4.32.2"
   }
 }
