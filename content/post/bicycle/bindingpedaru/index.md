@@ -13,7 +13,7 @@ product:
     name: 'SHIMANO PD-M530 SPDクリート付ペダル ブラック'
     rate: '4'
     comment: '個人的には満足だが、危険を感じることも多いので誰にでもオススメできるというものでもない。'
-    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005EGDV5G/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41Wi%2BUovoAL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005EGDV5G/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">SHIMANO(シマノ) PD-M530 [EPDM530] SPDクリート付ペダル ブラック</a><div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> SHIMANO(シマノ)     </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=PD-M530%20EPDM530&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPD-M530%2520EPDM530%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
+    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005EGDV5G/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/41Wi%2BUovoAL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005EGDV5G/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">SHIMANO(シマノ) PD-M530 [EPDM530] SPDクリート付ペダル ブラック</a><div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> SHIMANO(シマノ)     </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=PD-M530%20EPDM530&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPD-M530%2520EPDM530%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
 ---
 
 ビンディングペダルに付け替えたのは随分前で、既に導入してから1年くらいたっています。ビンディングというのは、スキーの板などで使われている機構で、自転車の場合<em>ペダルと靴をガッチリと固定</em>するためのものです。
@@ -37,7 +37,7 @@ product:
 ビンディングペダルは、いろいろとタイプがありますが、主なものはSPDとSPD-SLという形式があります。私は<em>SPD形式</em>にしました。SPD-SLだと、歩くのには不向きということだったので。
 
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005EGDV5G/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="http://ecx.images-amazon.com/images/I/41Wi%2BUovoAL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005EGDV5G/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/41Wi%2BUovoAL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005EGDV5G/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">SHIMANO(シマノ) PD-M530 [EPDM530] SPDクリート付ペダル ブラック</a>
 
@@ -58,7 +58,7 @@ product:
 ペダルに付属しているクリートを取り付けるための靴です。MTB用を購入しました。こちらも歩くことを考えてのことです。
 
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004CLYKAE/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="http://ecx.images-amazon.com/images/I/41rm1an6q%2BL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004CLYKAE/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/41rm1an6q%2BL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004CLYKAE/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">SERFAS(サーファス) MTBシューズ  サドルバック 42 ブラック 160151</a>
 
