@@ -33,7 +33,7 @@
     {{- $theme_css_a := resources.Get "css/latolatinfonts.css" -}}
     {{- $theme_css_b := resources.Get "css/style.css" -}}
     {{- $theme_css_c := resources.Get "css/xcode.css" -}}
-    {{- $concat_style := slice $theme_css_a $theme_css_b $theme_css_c | resources.Concat "styles/css/bundle.css" | resources.PostCSS (dict "config" "postcss.config.js" "noMap" true) | resources.Minify }}
+    {{- $concat_style := slice $theme_css_a $theme_css_b $theme_css_c | resources.Concat "styles/css/bundle.css" | resources.PostCSS (dict "config" "postcss.config.js" "noMap" true) }}
     <link rel="stylesheet" href="{{ $concat_style.Permalink }}"/>
     <link rel="stylesheet"
           href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"/>
