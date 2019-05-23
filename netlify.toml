@@ -1,0 +1,2 @@
+[build]
+command = "LD_LIBRARY_PATH=$HOME/stdc++6/usr/lib/x86_64-linux-gnu ./hugo"
