@@ -13,7 +13,7 @@ product:
     name: '退出ゲーム'
     rate: '1'
     comment: 'アニメ楽しんで見れるようになったのが救い'
-    kaeyome: '<div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4043943717/illusionspace-22/" target="_blank" rel="nofollow" ><img src="http://ecx.images-amazon.com/images/I/51InKIdI9PL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4043943717/illusionspace-22/" target="_blank" rel="nofollow" >退出ゲーム (角川文庫)</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">初野 晴 角川書店 2010-07-24    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4043943717/illusionspace-22/" target="_blank" rel="nofollow" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01914HMQ0/illusionspace-22/" target="_blank" rel="nofollow" >Kindle</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6531881%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" rel="nofollow" >楽天ブックス</a></div>                  	  <div class="shoplinkkino"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&pid=882196163&vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784043943715" target="_blank" rel="nofollow" >紀伊國屋書店<img src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&pid=882196163" height="1" width="1" border="0"></a></div>	  	  	</div></div><div class="booklink-footer"></div></div>'
+    kaeyome: '<div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4043943717/illusionspace-22/" target="_blank" rel="nofollow" ><img src="https://ecx.images-amazon.com/images/I/51InKIdI9PL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4043943717/illusionspace-22/" target="_blank" rel="nofollow" >退出ゲーム (角川文庫)</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">初野 晴 角川書店 2010-07-24    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4043943717/illusionspace-22/" target="_blank" rel="nofollow" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01914HMQ0/illusionspace-22/" target="_blank" rel="nofollow" >Kindle</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6531881%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" rel="nofollow" >楽天ブックス</a></div>                  	  <div class="shoplinkkino"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&pid=882196163&vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784043943715" target="_blank" rel="nofollow" >紀伊國屋書店<img src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&pid=882196163" height="1" width="1" border="0"></a></div>	  	  	</div></div><div class="booklink-footer"></div></div>'
 ---
 
 まずはなぜ私がハルチカの原作を読んでみようと思ったのかという経緯から説明したいと思います。
@@ -27,7 +27,7 @@ CMでの謳い文句が「青春×吹奏楽×ミステリ」となっていて�
 でもそれは、30分の枠内で事件の発生から解決まで収めるために、尺の都合で削られた部分があり、そのせいで唐突感が生じてしまっているのかもしれません。探偵の解決シーンをセンセーショナルに描くのも、ドラマにインパクトを与えるため仕方のない演出なのかもしれません。これは「櫻子さんの足下には死体が埋まっている」のアニメと原作を読んだ時に感じたことでもあります。
 
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041006953/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="http://ecx.images-amazon.com/images/I/517vvfzyTGL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041006953/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="https://ecx.images-amazon.com/images/I/517vvfzyTGL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
 <div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041006953/illusionspace-22/" target="_blank" rel="nofollow" >櫻子さんの足下には死体が埋まっている (角川文庫)</a>
 
@@ -99,7 +99,7 @@ CMでの謳い文句が「青春×吹奏楽×ミステリ」となっていて�
 青春ミステリというのであれば、米澤穂信の氷菓（〈古典部〉シリーズ）がおすすめです。
 
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4044271011/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="http://ecx.images-amazon.com/images/I/51NIr%2BwaJzL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4044271011/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="https://ecx.images-amazon.com/images/I/51NIr%2BwaJzL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
 <div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4044271011/illusionspace-22/" target="_blank" rel="nofollow" >氷菓 (角川文庫)</a>
 
@@ -121,7 +121,7 @@ CMでの謳い文句が「青春×吹奏楽×ミステリ」となっていて�
 <a href="https://wantit.gcreate.jp/petit_bourgeios_01_ichigo/">春季限定いちごタルト事件を読んだ感想</a>
 
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4488451012/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="http://ecx.images-amazon.com/images/I/61EH68EB3AL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4488451012/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="https://ecx.images-amazon.com/images/I/61EH68EB3AL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
 <div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4488451012/illusionspace-22/" target="_blank" rel="nofollow" >春期限定いちごタルト事件 (創元推理文庫)</a>
 

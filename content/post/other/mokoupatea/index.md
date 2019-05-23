@@ -13,7 +13,7 @@ product:
     rate: '3'
     link: 'http://www.cemedine.co.jp/product/domestic/putty/wood_putty.html'
     comment: '使い方をよく読んでから使いましょう。'
-    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000TGHQZW/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51kRPpnzbiL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000TGHQZW/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">セメダイン 木工パテA ラワン P50ml HC-152[HTRC 4.1]</a><div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> セメダイン     </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=P50ml%20HC-152&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FP50ml%2520HC-152%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
+    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000TGHQZW/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/51kRPpnzbiL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000TGHQZW/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">セメダイン 木工パテA ラワン P50ml HC-152[HTRC 4.1]</a><div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> セメダイン     </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=P50ml%20HC-152&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FP50ml%2520HC-152%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
 ---
 
 私の部屋の床は壮絶なまでに傷だらけ。模様替えをするときに、机やベッドをそのまま引きずって移動させたせいで、かなり広範囲に渡って傷と凹んでいる部分が目立ちます。床を掃除をするときに、クイックルワイパーをかければ、その凹み部分に引っかかる程です。
@@ -63,7 +63,7 @@ product:
 木工パテAには、タモ白とラワンという色があって、私は<em>色の濃いラワン</em>というのを使ったのだが、それでも色が明るく床に盛った部分が明らかに目立ちます。そのため、住まいのマニュキュアを使って軽く着色してみました。
 
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0020FPUJY/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="http://ecx.images-amazon.com/images/I/61r4indXmSL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0020FPUJY/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/61r4indXmSL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0020FPUJY/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">建築の友 住まいのマニキュア ミニ 10色セット</a>
 
@@ -94,7 +94,7 @@ product:
 木工パテでの補修に失敗した後に、<em>かくれん棒（ハードタイプ）</em>も試してみました。
 
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B001VLCYQ0/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="http://ecx.images-amazon.com/images/I/51ayYd9uy5L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B001VLCYQ0/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/51ayYd9uy5L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B001VLCYQ0/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">建築の友 かくれん棒 4色セット フローリング用</a>
 

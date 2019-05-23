@@ -65,7 +65,7 @@ Google Playでの評価も、「ガチャがしぶい」という低評価レビ
 そんなフレンドポイントを少しでも多く手に入れるためには、雑誌付録の概念礼装を利用するという手があります。
 
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041035724/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="http://ecx.images-amazon.com/images/I/61wqHoLmncL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041035724/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="https://ecx.images-amazon.com/images/I/61wqHoLmncL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
 <div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041035724/illusionspace-22/" target="_blank" rel="nofollow" >TYPE-MOONエース Fate/Grand Order (カドカワムック)</a>
 

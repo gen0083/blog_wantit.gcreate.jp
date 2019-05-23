@@ -46,7 +46,7 @@ product:
 衣擦れによる摩擦によって股ずれが起こるのであれば、皮膚を保護しておけばいいのです。私はレーサーパンツ＋ワセリンを塗って自転車に乗っています。
 
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B002RT8GSA/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="http://ecx.images-amazon.com/images/I/41OasIEEznL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B002RT8GSA/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/41OasIEEznL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B002RT8GSA/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">ワセリンHG</a>
 
@@ -73,7 +73,7 @@ product:
 VEETバスタイム敏感肌用という除毛クリームを利用してみました。
 
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0036ZBRVC/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="http://ecx.images-amazon.com/images/I/416Qg-77A3L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0036ZBRVC/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/416Qg-77A3L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0036ZBRVC/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">ヴィート バスタイム 除毛クリーム 敏感肌用 150g</a>
 
