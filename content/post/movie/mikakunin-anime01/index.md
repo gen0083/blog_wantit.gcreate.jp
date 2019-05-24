@@ -12,9 +12,9 @@ tags:
 product:
     name: '未確認で進行形 vol.1（ブルーレイ）'
     rate: '5'
-    link: 'http://mikakunin.jp/goods.html'
+    link: 'https://mikakunin.jp/goods.html'
     comment: '映像特典が豪華でお買い得感満載！'
-    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00HRQD5SE/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/51vjIlOxGqL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00HRQD5SE/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">未確認で進行形 vol.1 初回生産限定版【イベントチケット優先販売申込券付き】 [Blu-ray]</a><div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail">照井春佳 東宝 2014-03-19    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=%96%A2%8Am%94F%82%C5%90i%8Ds%8C%60%20vol.1%20&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%259C%25AA%25E7%25A2%25BA%25E8%25AA%258D%25E3%2581%25A7%25E9%2580%25B2%25E8%25A1%258C%25E5%25BD%25A2%2520vol.1%2520%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
+    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00HRQD5SE/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/51vjIlOxGqL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00HRQD5SE/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">未確認で進行形 vol.1 初回生産限定版【イベントチケット優先販売申込券付き】 [Blu-ray]</a><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail">照井春佳 東宝 2014-03-19    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=%96%A2%8Am%94F%82%C5%90i%8Ds%8C%60%20vol.1%20&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%259C%25AA%25E7%25A2%25BA%25E8%25AA%258D%25E3%2581%25A7%25E9%2580%25B2%25E8%25A1%258C%25E5%25BD%25A2%2520vol.1%2520%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
 ---
 
 アニメはよく見るけど、実は<strong>ブルーレイ買うのは初めて</strong>なGenです、こんばんは。
@@ -39,10 +39,10 @@ OVAは時間は短いものの、未確認で進行形らしさが良く出て�
 
 私自身もニコニコ生放送は第5回くらいから見始めたので、映像特典でも独立でもいいので、第1回から見たいなぁと思ってるんですが、どうにかなりませんかね？（ﾁﾗｯ
 
-ラジオ　未確認で進行形〜うまくいえないのでラジオで確認して下さい　<a href="http://onsen.ag/program/mikakunin/" target="_blank">http://onsen.ag/program/mikakunin/</a>
+ラジオ　未確認で進行形〜うまくいえないのでラジオで確認して下さい　<a href="https://onsen.ag/program/mikakunin/" target="_blank">https://onsen.ag/program/mikakunin/</a>
 （毎週火曜日更新）
 
-ニコニコチャンネル　未確認で進行形　<a href="http://ch.nicovideo.jp/mikakunin" target="_blank">http://ch.nicovideo.jp/mikakunin</a>
+ニコニコチャンネル　未確認で進行形　<a href="https://ch.nicovideo.jp/mikakunin" target="_blank">https://ch.nicovideo.jp/mikakunin</a>
 アニメ本編（毎週日曜22：00〜）
 ニコニコ生放送　夜までみんなでぐッ！（毎週日曜22：30〜）
 

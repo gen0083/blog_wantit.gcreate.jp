@@ -34,7 +34,7 @@ Surface PRO2にWindows10をクリーンインストールしました。工場�
 
 バックアップが済んだらSurface PRO2をWindows10にアップグレードしましょう。これはWindows10のクリーンインストールには、アップグレード後のプロダクトキーが必要となるからです。Windows10へアップグレードするとプロダクトキーが変わってしまうので、一度アップグレードでWindows10にしてやる必要があります。
 
-Windows10にアップグレードした後で、プロダクトキーを確認します。確認のためには<a href="http://www.rjlsoftware.com/software/utility/winproductkey/download.shtml">Windows Product Key Viewer</a>を使いました。
+Windows10にアップグレードした後で、プロダクトキーを確認します。確認のためには<a href="https://www.rjlsoftware.com/software/utility/winproductkey/download.shtml">Windows Product Key Viewer</a>を使いました。
 
 
 ### インストールメディアの準備
@@ -42,7 +42,7 @@ Windows10にアップグレードした後で、プロダクトキーを確認�
 
 Windows10のクリーンインストールのためには4GB以上のUSBメモリが必要です。DVDを使ってインストールするより、USBメモリを使ったほうが楽だと思います。
 
-<a href="http://www.microsoft.com/ja-jp/software-download/windows10">http://www.microsoft.com/ja-jp/software-download/windows10</a>からツールをダウンロードしてきます。Surface PRO2の場合、64ビットバージョンをダウンロードします。
+<a href="https://www.microsoft.com/ja-jp/software-download/windows10">https://www.microsoft.com/ja-jp/software-download/windows10</a>からツールをダウンロードしてきます。Surface PRO2の場合、64ビットバージョンをダウンロードします。
 
 ツールを実行したら、「他のPC用にインストールメディアを作る」を選びます。エディションはWindows10 Proの64ビットで作成します。
 
@@ -146,7 +146,7 @@ Windows10アップグレード前は、パソコンから離れる際はシャ�
 ## 参考サイト
 
 
-<a href="http://kiritsume.com/2015/08/04/easier-way-to-clean-install-free-upgraded-windows10/" rel="nofollow">【改善】無償アップグレード版のWindows 10をもう少しだけ簡単にクリーンインストールする方法</a>
+<a href="https://kiritsume.com/2015/08/04/easier-way-to-clean-install-free-upgraded-windows10/" rel="nofollow">【改善】無償アップグレード版のWindows 10をもう少しだけ簡単にクリーンインストールする方法</a>
 
 <a href="https://www.microsoft.com/surface/ja-jp/support/storage-files-and-folders/boot-surface-from-usb-recovery-device?os=windows-10">USB デバイスから Surface を起動する</a>
 

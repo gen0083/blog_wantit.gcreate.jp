@@ -14,7 +14,7 @@ product:
     number: '4041038693'
     rate: '3.5'
     comment: 'マンガでわかる服の選び方みたいなコミック。コスパに目をつぶればわかりやすくて面白い'
-    kaeyome: '<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041038693/illusionspace-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/518ci2U%2BKDL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041038693/illusionspace-22/" target="_blank" >服を着るならこんなふうに (1) (単行本コミックス)</a><div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">縞野やえ KADOKAWA/角川書店 2015-12-10    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041038693/illusionspace-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B018V21MIW/illusionspace-22/" target="_blank" >Kindle</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13434636%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>                        	  	  	  	</div></div><div class="booklink-footer"></div></div></div>'
+    kaeyome: '<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4041038693/illusionspace-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/518ci2U%2BKDL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4041038693/illusionspace-22/" target="_blank" >服を着るならこんなふうに (1) (単行本コミックス)</a><div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">縞野やえ KADOKAWA/角川書店 2015-12-10    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4041038693/illusionspace-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B018V21MIW/illusionspace-22/" target="_blank" >Kindle</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13434636%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>                        	  	  	  	</div></div><div class="booklink-footer"></div></div></div>'
 ---
 
 マンガでわかる○○シリーズを思い浮かべてほしい。この本は、それのファッション版だと思ってもらえば内容が想像しやすいのではないだろうか。
@@ -33,16 +33,16 @@ product:
 
 <div class="cstmreba">
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4594073360/illusionspace-22/" target="_blank" ><img alt=""  src="https://images-fe.ssl-images-amazon.com/images/I/51eZOowku%2BL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4594073360/illusionspace-22/" target="_blank" ><img alt=""  src="https://images-fe.ssl-images-amazon.com/images/I/51eZOowku%2BL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4594073360/illusionspace-22/" target="_blank" >最速でおしゃれに見せる方法</a>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4594073360/illusionspace-22/" target="_blank" >最速でおしゃれに見せる方法</a>
 
 <div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">MB 扶桑社 2015-09-17    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4594073360/illusionspace-22/" target="_blank" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01M2CGWBV/illusionspace-22/" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4594073360/illusionspace-22/" target="_blank" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01M2CGWBV/illusionspace-22/" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13385613%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>
 
 </div>

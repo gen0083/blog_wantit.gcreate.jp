@@ -14,7 +14,7 @@ tags:
 product:
     name: 'Banished'
     rate: '4.5'
-    link: 'http://www.shiningrocksoftware.com/game/'
+    link: 'https://www.shiningrocksoftware.com/game/'
     comment: '地味ながら、ついついのめり込んでしまう良ゲー。'
 ---
 
@@ -22,9 +22,9 @@ product:
 
 ニコニコ動画でBanishedというゲームのプレイ動画を見ていて、無性に自分でもやってみたくなり、<em>我慢できずに購入</em>してしまいました。
 
-<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb/sm22937193" scrolling="no" style="border:solid 1px #CCC;"><a href="http://www.nicovideo.jp/watch/sm22937193">【ニコニコ動画】【目指せ９００人！】Banishedを普通にプレイ01【ゆっくり実況】</a></iframe>
+<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb/sm22937193" scrolling="no" style="border:solid 1px #CCC;"><a href="https://www.nicovideo.jp/watch/sm22937193">【ニコニコ動画】【目指せ９００人！】Banishedを普通にプレイ01【ゆっくり実況】</a></iframe>
 
-<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb/sm23044070" scrolling="no" style="border:solid 1px #CCC;"><a href="http://www.nicovideo.jp/watch/sm23044070">【ニコニコ動画】Banished プレイ動画 テクテク開拓記 part1</a></iframe>
+<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb/sm23044070" scrolling="no" style="border:solid 1px #CCC;"><a href="https://www.nicovideo.jp/watch/sm23044070">【ニコニコ動画】Banished プレイ動画 テクテク開拓記 part1</a></iframe>
 
 
 ## どんなゲームか
@@ -52,7 +52,7 @@ Banishedは<em>未開の地に追放された人々</em>が<em>力を合わせ�
 
 <strong>Surface PRO2でもプレイできます</strong>。音楽の再生、グラフィックの描画ともに快適です。ただしゲームプレイ中は、Surfaceのファンが高速回転していて、本体がかなり熱くなります。
 
-<a href="http://youtu.be/PqCb5RbFCQo" target="_blank">Surface PRO2でBanishedプレイしてみた動画（YouTube）</a>
+<a href="https://youtu.be/PqCb5RbFCQo" target="_blank">Surface PRO2でBanishedプレイしてみた動画（YouTube）</a>
 
 タブレットスタイルでもプレイできるのがありがたいです。ただ、Banishedのプレイには、<strong>マウスとキーボードが必須</strong>です。画面の移動や設置するオブジェクトの回転などが、キーボード操作でなければできないためです。したがって、本体とタッチペンだけでプレイできるわけではありません。
 

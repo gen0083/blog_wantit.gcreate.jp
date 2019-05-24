@@ -13,7 +13,7 @@ product:
     number: '4041030404'
     rate: '4'
     comment: '感情に振り回されることを止めて、自分の感覚に集中してみなさい'
-    kaeyome: '<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041030404/illusionspace-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51WVJMVtbhL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041030404/illusionspace-22/" target="_blank" >反応しない練習  あらゆる悩みが消えていくブッダの超・合理的な「考え方」</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">草薙龍瞬 KADOKAWA/中経出版 2015-07-31    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041030404/illusionspace-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B012EU8CD0/illusionspace-22/" target="_blank" >Kindle</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13315854%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>                        	  	  	  	</div></div><div class="booklink-footer"></div></div></div>'
+    kaeyome: '<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4041030404/illusionspace-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51WVJMVtbhL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4041030404/illusionspace-22/" target="_blank" >反応しない練習  あらゆる悩みが消えていくブッダの超・合理的な「考え方」</a><div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">草薙龍瞬 KADOKAWA/中経出版 2015-07-31    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4041030404/illusionspace-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B012EU8CD0/illusionspace-22/" target="_blank" >Kindle</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13315854%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>                        	  	  	  	</div></div><div class="booklink-footer"></div></div></div>'
 ---
 
 嫌なことがあって、気分を切り替えようとゲームを始めたものの、ゲームをやりながらふとした瞬間に嫌な気持ちがふつふつと蘇ってきて、気がついたらゲームそっちのけで嫌なことを反芻していた、なんていう経験は誰しもあるだろう。ダメだダメだ、気持ちを切り替えないとと思っても、気がついたらまた考えてしまっている。どうしたらいいんだという悩みは私だけのものではないだろう。私もつい最近そんな出来事があって、どうにかしたいなぁと思っていたところに、この本の存在を知った。
@@ -44,16 +44,16 @@ Amazonの紹介文には「原始仏教入門」とある。「宗教の本な�
 
 <div class="cstmreba">
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478025819/illusionspace-22/" target="_blank" ><img alt=""  src="https://images-fe.ssl-images-amazon.com/images/I/51sPGsTuF0L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478025819/illusionspace-22/" target="_blank" ><img alt=""  src="https://images-fe.ssl-images-amazon.com/images/I/51sPGsTuF0L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478025819/illusionspace-22/" target="_blank" >嫌われる勇気―――自己啓発の源流「アドラー」の教え</a>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478025819/illusionspace-22/" target="_blank" >嫌われる勇気―――自己啓発の源流「アドラー」の教え</a>
 
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">岸見 一郎,古賀 史健 ダイヤモンド社 2013-12-13    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478025819/illusionspace-22/" target="_blank" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00H7RACY8/illusionspace-22/" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478025819/illusionspace-22/" target="_blank" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00H7RACY8/illusionspace-22/" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12570589%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>
 
 </div>

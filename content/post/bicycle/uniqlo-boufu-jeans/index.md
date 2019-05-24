@@ -14,7 +14,7 @@ product:
     name: '防風レギュラーフィットテーパードジーンズ'
     number: '128451'
     rate: '4'
-    link: 'http://www.uniqlo.com/jp/store/goods/128451'
+    link: 'https://www.uniqlo.com/jp/store/goods/128451'
     comment: '手に入りやすく自転車も漕ぎやすくて良い'
 ---
 

@@ -68,17 +68,17 @@ Nexus6PはNexus5Xと異なり、最初からUSB TypeA-Cケーブル（パソコ�
 結局、私は1mの長さのケーブルを別途購入しました。
 
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00Q5VMI4O/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" ><img alt=""  src="https://ecx.images-amazon.com/images/I/41UTQ5C9oOL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00Q5VMI4O/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" ><img alt=""  src="https://ecx.images-amazon.com/images/I/41UTQ5C9oOL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00Q5VMI4O/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" >ELECOM USBケーブル USB3.1 USB2.0両対応 A-Cタイプ ノーマル 1m ブラック USB3-AC10BK</a>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00Q5VMI4O/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" >ELECOM USBケーブル USB3.1 USB2.0両対応 A-Cタイプ ノーマル 1m ブラック USB3-AC10BK</a>
 
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> エレコム 2015-01-20    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=USB3-AC10BK&#038;__mk_ja_JP=%83J%83%5E%83J%83i&#038;tag=illusionspace-22" target="_blank" rel="nofollow" >Amazon</a></div>
-<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUSB3-AC10BK%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" rel="nofollow" >楽天市場</a></div>
-<div class="shoplinkyahoo"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882193779&#038;vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DUSB3-AC10BK" target="_blank" rel="nofollow" >Yahooショッピング<img alt=""  src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882193779" height="1" width="1"></a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=USB3-AC10BK&#038;__mk_ja_JP=%83J%83%5E%83J%83i&#038;tag=illusionspace-22" target="_blank" rel="nofollow" >Amazon</a></div>
+<div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUSB3-AC10BK%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" rel="nofollow" >楽天市場</a></div>
+<div class="shoplinkyahoo"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882193779&#038;vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DUSB3-AC10BK" target="_blank" rel="nofollow" >Yahooショッピング<img alt=""  src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882193779" height="1" width="1"></a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
@@ -98,15 +98,15 @@ TypeCケーブルは、端末に接続する向きを気にしなくてもいい
 これまではキレイな画面をキレイなまま見たいと思って透明度を優先していたのですが、今回はノングレアを選びました。個人的に安心と信頼の、ミヤビックス・オーバーレイシリーズです。
 
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B015Z8AI44/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" ><img alt=""  src="https://ecx.images-amazon.com/images/I/41H5lon5D3L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B015Z8AI44/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" ><img alt=""  src="https://ecx.images-amazon.com/images/I/41H5lon5D3L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B015Z8AI44/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" >OverLay Plus for Nexus 6P 2015 低反射 アンチグレア ノングレア 非光沢 液晶 保護 シート フィルム プロテクター OHNEXUS6P</a>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B015Z8AI44/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" >OverLay Plus for Nexus 6P 2015 低反射 アンチグレア ノングレア 非光沢 液晶 保護 シート フィルム プロテクター OHNEXUS6P</a>
 
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> ミヤビックス     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=OverLay%20Plus%20for%20Nexus%206P%202015&#038;__mk_ja_JP=%83J%83%5E%83J%83i&#038;tag=illusionspace-22" target="_blank" rel="nofollow" >Amazon</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=OverLay%20Plus%20for%20Nexus%206P%202015&#038;__mk_ja_JP=%83J%83%5E%83J%83i&#038;tag=illusionspace-22" target="_blank" rel="nofollow" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

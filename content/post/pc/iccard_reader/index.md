@@ -16,7 +16,7 @@ product:
     number: 'RC-S380'
     rate: '3'
     comment: 'カードリーダーのセットアップは驚くほど簡単。ただ、これをそんなに利用するのかと言われると微妙な気がする。'
-    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00948CGAG/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/31WdMkH-JFL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00948CGAG/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">SONY 非接触ICカードリーダー/ライター PaSoRi(パソリ) USB対応 RC-S380</a><div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> ソニー 2012-10-10    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=RC-S380&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRC-S380%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
+    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00948CGAG/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/31WdMkH-JFL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00948CGAG/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">SONY 非接触ICカードリーダー/ライター PaSoRi(パソリ) USB対応 RC-S380</a><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> ソニー 2012-10-10    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=RC-S380&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRC-S380%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
 ---
 
 電子申告（e-Tax）を利用するべく、ICカードリーダーを購入しました。
@@ -51,7 +51,7 @@ product:
 
 ドライバのインストールはパソコンに繋げば自動的にやってくれるので困ることはありません。
 
-<a href="http://www.jpki.go.jp/">公的個人認証サービスの利用者クライアントソフトのインストール</a>では「JRE7.0」をインストールが必要です。8ではなく7が必要です。（8だけの状態だとうまくセットアップできなかったです）
+<a href="https://www.jpki.go.jp/">公的個人認証サービスの利用者クライアントソフトのインストール</a>では「JRE7.0」をインストールが必要です。8ではなく7が必要です。（8だけの状態だとうまくセットアップできなかったです）
 
 これを書いている時点ではJava SE 7u67だったので、このJREをダウンロードしてインストールしました。一番上にはJva SE 8u20があり、JRE7.0はそこから少し下にスクロールしたところにあります。
 
@@ -62,10 +62,10 @@ product:
 
 
 <ul>
-<li><a href="http://www.e-tax.nta.go.jp/todokedesho/kaishi3.htm">（電子申告の）開始届出</a></li>
-<li><a href="http://www.nta.go.jp/tetsuzuki/shinkoku/shotoku/tokushu/jyunbi.htm">事前準備セットアップツールのインストール</a></li>
+<li><a href="https://www.e-tax.nta.go.jp/todokedesho/kaishi3.htm">（電子申告の）開始届出</a></li>
+<li><a href="https://www.nta.go.jp/tetsuzuki/shinkoku/shotoku/tokushu/jyunbi.htm">事前準備セットアップツールのインストール</a></li>
 <li><a href="https://www.e-tax.nta.go.jp/download/index.htm">e-Tax共通ソフトのインストール</a></li>
-<li><a href="http://www.nta.go.jp/tetsuzuki/shinkoku/shotoku/tokushu/kigen.htm">電子証明書の登録</a></li>
+<li><a href="https://www.nta.go.jp/tetsuzuki/shinkoku/shotoku/tokushu/kigen.htm">電子証明書の登録</a></li>
 </ul>
 
 前準備ツール→共通ソフトのインストールのとこだけ順番間違わないようにすればオッケー。手続きを行うところ、ソフトをダウンロードできる場所を探すのが一番大変です・・・。
@@ -90,7 +90,7 @@ product:
 ### e-Taxソフトのインストール
 
 
-まず<a href="http://www.nta.go.jp/tetsuzuki/shinkoku/shotoku/tokushu/jyunbi.htm">こちらのページ</a>から事前準備セットアップツールをダウンロードしてインストールします。
+まず<a href="https://www.nta.go.jp/tetsuzuki/shinkoku/shotoku/tokushu/jyunbi.htm">こちらのページ</a>から事前準備セットアップツールをダウンロードしてインストールします。
 
 それがすんだら<a href="https://www.e-tax.nta.go.jp/download/e-taxSoftDownLoad.htm">e-Tax共通ソフト</a>をダウンロードしてインストールします。
 

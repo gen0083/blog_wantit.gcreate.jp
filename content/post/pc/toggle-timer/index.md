@@ -22,7 +22,7 @@ product:
 
 きっかけは、私がタスク管理ツールとして使っているTodoistと連携できるということを知ったからでした。
 
-<a href="http://blog.todoist.com/ja/2015/01/16/todoist%E3%81%A7%E3%82%BF%E3%82%B9%E3%82%AF%E3%81%94%E3%81%A8%E3%81%AB%E4%BD%9C%E6%A5%AD%E6%99%82%E9%96%93%E3%81%AE%E8%A8%88%E6%B8%AC%E3%81%8C%E5%87%BA%E6%9D%A5%E3%82%8Btoggl%E3%83%97%E3%83%A9/" rel="nofollow">Todoistでタスクごとに作業時間の計測が出来るTogglプラグイン</a>
+<a href="https://blog.todoist.com/ja/2015/01/16/todoist%E3%81%A7%E3%82%BF%E3%82%B9%E3%82%AF%E3%81%94%E3%81%A8%E3%81%AB%E4%BD%9C%E6%A5%AD%E6%99%82%E9%96%93%E3%81%AE%E8%A8%88%E6%B8%AC%E3%81%8C%E5%87%BA%E6%9D%A5%E3%82%8Btoggl%E3%83%97%E3%83%A9/" rel="nofollow">Todoistでタスクごとに作業時間の計測が出来るTogglプラグイン</a>
 
 Toggleを利用開始して、Chrome用のプラグインをインストールすれば、こんな感じでTodoistのタスクリストに計測開始ボタンが表示されます。
 

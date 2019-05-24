@@ -12,7 +12,7 @@ tags:
 product:
     name: 'ウチの姫様がいちばんカワイイ'
     rate: '3.5'
-    link: 'http://www.amebaspgame.com/uchihime/lp/'
+    link: 'https://www.amebaspgame.com/uchihime/lp/'
 ---
 
 無課金を貫こうという意思は結局長続きしないGenです、ハロー。

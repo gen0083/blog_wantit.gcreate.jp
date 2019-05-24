@@ -16,9 +16,9 @@ product:
     name: 'PLANEX Mini DisplayPort to HDMI変換アダプタ'
     number: 'PL-MDPHD02'
     rate: '3'
-    link: 'http://www.planex.co.jp/product/av/pl-mdphd02/'
+    link: 'https://www.planex.co.jp/product/av/pl-mdphd02/'
     comment: 'Cintiq 13HDをミニディスプレイポートに接続するのに使えます。'
-    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0052GQ498/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/310GtzShJPL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0052GQ498/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX Mini Displayport -]HDMI変換アダプタ (MacBook MacBook Pro MacBook Air) PL-MDPHD02</a><div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> プラネックス 2011-06-30    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=PL-MDPHD02&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPL-MDPHD02%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
+    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0052GQ498/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/310GtzShJPL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0052GQ498/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX Mini Displayport -]HDMI変換アダプタ (MacBook MacBook Pro MacBook Air) PL-MDPHD02</a><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> プラネックス 2011-06-30    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=PL-MDPHD02&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPL-MDPHD02%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
 ---
 
 Cintiq 13HDはパソコンとはHDMIで接続します。
@@ -59,8 +59,8 @@ Surfaceで作業に入る前に、<strong>必ず復元ポイントを作成し�
 私が作業した時点での必要なソフトへのリンクは以下のものです。これより最新のものが出ているかもしれないので、各自確認して<em>最新のものを入れる</em>ようにしてくださいね。
 
 <ol>
-<li><a href="http://us.wacom.com/en/feeldriver" target="_blank">Wacom Feel driverのインストール</a></li>
-<li><a href="http://tablet.wacom.co.jp/download/" target="_blank">Cintiqのドライバインストール</a></li>
+<li><a href="https://us.wacom.com/en/feeldriver" target="_blank">Wacom Feel driverのインストール</a></li>
+<li><a href="https://tablet.wacom.co.jp/download/" target="_blank">Cintiqのドライバインストール</a></li>
 </ol>
 <strong>先にWacom Feel Driverのインストール</strong>を行い、Cintiqのドライバインストールはその後で行います。逆にすると<em>Surfaceのペンが認識されなくなって困った</em>ので・・・。
 

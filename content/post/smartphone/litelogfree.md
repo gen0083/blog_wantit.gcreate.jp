@@ -14,7 +14,7 @@ tags:
 product:
     name: 'Litelog free'
     rate: '3'
-    link: 'http://blog.livedoor.jp/litelog/'
+    link: 'https://blog.livedoor.jp/litelog/'
     comment: 'DropboxやEvernoteとの連携も可能。広告の位置がいやらしいがシンプルでいい。'
     kaeyome: '<a href="https://play.google.com/store/apps/details?id=com.mindplanet.android.litelogfree" target="_blank">
   <img alt="Get it on Google Play"
@@ -30,7 +30,7 @@ iPhoneだとiライフログというアプリがEvernoteなんかとも連携�
 ## そもそもライフログって？
 
 
-ライフログつけてみようかなと思ったのは、<a href="http://cyblog.jp/modules/weblogs/" target="_blank">シゴタノのタスクカフェ</a>を見たからです。
+ライフログつけてみようかなと思ったのは、<a href="https://cyblog.jp/modules/weblogs/" target="_blank">シゴタノのタスクカフェ</a>を見たからです。
 
 どこで何をしたとか、食べたものの写真を記録していったりするのもライフログですが、ここで言うライフログは、<em>自分が一日の中で、何にどれだけ時間をかけているかの記録</em>です。最近<em>時間の使い方がルーズになっている</em>ので、それを改善する意味でも始めることにしました。
 

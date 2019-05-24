@@ -27,7 +27,7 @@ Minecraftはパソコンのゲームです。事前情報なしだと、ゲー�
 
 きっかけは埋め埋めクラフトという動画です。
 
-<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/28398819" scrolling="no" style="border:solid 1px #CCC;"><a href="http://www.nicovideo.jp/mylist/28398819">【ニコニコ動画】</a></iframe>
+<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/28398819" scrolling="no" style="border:solid 1px #CCC;"><a href="https://www.nicovideo.jp/mylist/28398819">【ニコニコ動画】</a></iframe>
 
 この動画は空洞を埋めていくという一風変わったスタイルの動画です。Minecraftというと、建築物を作ったり、様々なModで改造した世界で遊んだりというものが多い中、ただただ空洞を埋めていくのです。
 

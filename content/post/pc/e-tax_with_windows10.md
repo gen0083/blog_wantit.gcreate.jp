@@ -13,7 +13,7 @@ tags:
     - 個人事業
 product:
     name: 'やよいの青色申告16'
-    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B016U2R6I0/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" ><img src="https://ecx.images-amazon.com/images/I/51qN94YNAcL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B016U2R6I0/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" >やよいの青色申告 16 通常版(新消費税対応版)</a><div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> 弥生 2015-11-19    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=%82%E2%82%E6%82%A2%82%CC%90%C2%90F%90%5C%8D%9016&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" target="_blank" rel="nofollow" >Amazon</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%2584%25E3%2582%2588%25E3%2581%2584%25E3%2581%25AE%25E9%259D%2592%25E8%2589%25B2%25E7%2594%25B3%25E5%2591%258A16%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" rel="nofollow" >楽天市場</a></div><div class="shoplinkyahoo"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&pid=882193779&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%2584%25E3%2582%2588%25E3%2581%2584%25E3%2581%25AE%25E9%259D%2592%25E8%2589%25B2%25E7%2594%25B3%25E5%2591%258A16" target="_blank" rel="nofollow" >Yahooショッピング<img src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&pid=882193779" height="1" width="1" border="0"></a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
+    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B016U2R6I0/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" ><img src="https://ecx.images-amazon.com/images/I/51qN94YNAcL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B016U2R6I0/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" >やよいの青色申告 16 通常版(新消費税対応版)</a><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> 弥生 2015-11-19    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=%82%E2%82%E6%82%A2%82%CC%90%C2%90F%90%5C%8D%9016&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" target="_blank" rel="nofollow" >Amazon</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%2584%25E3%2582%2588%25E3%2581%2584%25E3%2581%25AE%25E9%259D%2592%25E8%2589%25B2%25E7%2594%25B3%25E5%2591%258A16%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" rel="nofollow" >楽天市場</a></div><div class="shoplinkyahoo"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&pid=882193779&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%2584%25E3%2582%2588%25E3%2581%2584%25E3%2581%25AE%25E9%259D%2592%25E8%2589%25B2%25E7%2594%25B3%25E5%2591%258A16" target="_blank" rel="nofollow" >Yahooショッピング<img src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&pid=882193779" height="1" width="1" border="0"></a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
 ---
 
 平成27年分の確定申告をすませました。
@@ -38,7 +38,7 @@ product:
 
 私の持っているカードリーダーはソニーのRC-S380というやつです。パソコンに繋いだだけではドライバがインストールできなかったので、ドライバをダウンロードしてきて入れました。
 
-<a href="http://www.sony.co.jp/Products/felica/consumer/download/index.html">NFCネットインストーラー</a>
+<a href="https://www.sony.co.jp/Products/felica/consumer/download/index.html">NFCネットインストーラー</a>
 
 基本ソフトウェアのところにある、NFCネットインストーラーをダウンロードしてインストールします。これでカードリーダーがパソコンに認識されます。
 
@@ -48,7 +48,7 @@ product:
 
 しかしこれだけでは電子証明書を読み込めません。別途公的個人認証サービスの利用者クライアントソフトをインストールする必要があります。
 
-<a href="http://www.jpki.go.jp/download/index.html">公的個人認証サービス</a>
+<a href="https://www.jpki.go.jp/download/index.html">公的個人認証サービス</a>
 
 去年はJREのインストールが必要で面倒くさかったんですが、バージョンが上がってからは不要になったようです。これは素直にありがたいです。
 
@@ -102,7 +102,7 @@ e-Tax（Web版）はかなり賢いです。ウィザードが親切で、こう
 
 これらは税務署に紙で申告書を提出するとき、一緒に原本を提出する必要のあるものです。電子申告の際は原本提出に代えてデータで提出できるのです。これらは原本だけ別途税務署に提出することもできますが、そんなことすると何のための電子申告か分からなくなりますね・・・。
 
-<a href="http://www.e-tax.nta.go.jp/toiawase/qa/kakutei/tempu01.htm">源泉徴収票等の添付省略の制度についてのQA</a>
+<a href="https://www.e-tax.nta.go.jp/toiawase/qa/kakutei/tempu01.htm">源泉徴収票等の添付省略の制度についてのQA</a>
 
 原本は申告が終わった後も自分でしっかりと保管しないといけません。電子データで送ったから原本捨てるというのはダメです。5年間保管しておく必要がありますのでご注意を。
 

@@ -13,7 +13,7 @@ tags:
 product:
     name: 'グラン・ブルーファンタジー'
     rate: '4'
-    link: 'http://granbluefantasy.jp/'
+    link: 'https://granbluefantasy.jp/'
     comment: '要求スペックは高いものの、イラストキレイで無課金でも楽しい。'
 ---
 

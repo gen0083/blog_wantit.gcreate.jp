@@ -17,9 +17,9 @@ product:
     name: 'PlayStationMove ナビゲーションコントローラ'
     number: 'CECH-ZCS1J'
     rate: '4'
-    link: 'http://www.jp.playstation.com/ps3/peripheral/cechzcs1j.html'
+    link: 'https://www.jp.playstation.com/ps3/peripheral/cechzcs1j.html'
     comment: 'コンパクトでSurface用の左手デバイスとしてちょうどよい。限定的ながらBluetooth接続も可能。'
-    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003Y8YW3G/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/31XM3HoxuAL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003Y8YW3G/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">PlayStationMove ナビゲーションコントローラ</a><div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> ソニー・コンピュータエンタテインメント 2010-10-21    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=PlayStationMove%20%83i%83r%83Q%81%5B%83V%83%87%83%93%83R%83%93%83g%83%8D%81%5B%83%89&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPlayStationMove%2520%25E3%2583%258A%25E3%2583%2593%25E3%2582%25B2%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
+    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B003Y8YW3G/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/31XM3HoxuAL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B003Y8YW3G/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">PlayStationMove ナビゲーションコントローラ</a><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> ソニー・コンピュータエンタテインメント 2010-10-21    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=PlayStationMove%20%83i%83r%83Q%81%5B%83V%83%87%83%93%83R%83%93%83g%83%8D%81%5B%83%89&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPlayStationMove%2520%25E3%2583%258A%25E3%2583%2593%25E3%2582%25B2%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
 ---
 
 Surface PRO 2でお絵描きをするのに、ショートカットボタンがないと厳しいです。<em>キャンバス移動・回転・拡大縮小は、タッチ操作でなんとかなる</em>のですが、ツールの切り替えなどは手間です。
@@ -66,7 +66,7 @@ Bluetoothによる<em>無線接続も可能</em>です（制約があるため�
 
 ナビゲーションコントローラーをSurfaceに単純につなげるだけでは使えません。まずはパソコンにゲームパッドとして認識させることから始めることになります。様々なトラブルが想定されるため、<strong>必ず作業前に復元ポイントを作成</strong>しよう。
 
-ナビコンを使えるようにする方法には、MotionJoyというソフトウェアを使うか、<a href="http://forums.pcsx2.net/Thread-XInput-Wrapper-for-DS3-and-Play-com-USB-Dual-DS2-Controller" target="_blank">Xinput Wrapper for windows</a>というソフトウェアを使うかですが、個人的には<em>後者をオススメします</em>。
+ナビコンを使えるようにする方法には、MotionJoyというソフトウェアを使うか、<a href="https://forums.pcsx2.net/Thread-XInput-Wrapper-for-DS3-and-Play-com-USB-Dual-DS2-Controller" target="_blank">Xinput Wrapper for windows</a>というソフトウェアを使うかですが、個人的には<em>後者をオススメします</em>。
 
 MotionJoyではアナログスティックを認識させるために、使うたびに1ステップ操作が必要になります。さらに、パソコンに認識させるためのソフトウェアを起動するたびに、ブラウザが立ち上がってくることもあって、ちょっと面倒臭いです。その点Xinput Wrapper for Windowsは、ナビゲーションコントローラを繋ぎさえすればゲームパッドとして認識されるので、手間が少なくて済みます。
 
@@ -79,8 +79,8 @@ MotionJoyではアナログスティックを認識させるために、使う�
 Microsoftから以下のソフトウェアをダウンロードしてインストール。
 
 <ul>
-<li><a href="http://www.microsoft.com/ja-jp/directx/default.aspx" target="_blank">Direct X</a></li>
-<li><a href="http://www.microsoft.com/ja-jp/download/details.aspx?id=14632" target="_blank">Visual C++ 2010頒布パッケージx64</a></li>
+<li><a href="https://www.microsoft.com/ja-jp/directx/default.aspx" target="_blank">Direct X</a></li>
+<li><a href="https://www.microsoft.com/ja-jp/download/details.aspx?id=14632" target="_blank">Visual C++ 2010頒布パッケージx64</a></li>
 </ul>
 
 ### ナビコンをSurfaceに接続する
@@ -92,7 +92,7 @@ Microsoftから以下のソフトウェアをダウンロードしてインス�
 ### Xinput Wrapper for windowsを用意
 
 
-<a href="http://forums.pcsx2.net/Thread-XInput-Wrapper-for-DS3-and-Play-com-USB-Dual-DS2-Controller" target="_blank">Xinput Wrapper for windows</a>をダウンロード。
+<a href="https://forums.pcsx2.net/Thread-XInput-Wrapper-for-DS3-and-Play-com-USB-Dual-DS2-Controller" target="_blank">Xinput Wrapper for windows</a>をダウンロード。
 
 7zという拡張子ですが、WinRAR等の展開できるソフトウェアを使って展開します。
 
@@ -116,7 +116,7 @@ Microsoftから以下のソフトウェアをダウンロードしてインス�
 ### JoyToKeyでショートカットの設定
 
 
-ナビコンがゲームパッドとして認識されれば、後は<a href="http://joytokey.net/ja/" target="_blank">JoyToKey</a>というソフトウェアを使って、ゲームパッドのボタンをキーボード入力に変換すればいいです。
+ナビコンがゲームパッドとして認識されれば、後は<a href="https://joytokey.net/ja/" target="_blank">JoyToKey</a>というソフトウェアを使って、ゲームパッドのボタンをキーボード入力に変換すればいいです。
 
 ちなみに、キーボードのボタンを割り当てる場合、<em>ハードウェアキーボードがないと設定できないキーがある</em>ので注意が必要です。EnterとかBackspaceはソフトウェアキーボードを使っても割り当てることができましたが、Aキーなどはソフトウェアキーボードでは無理でした。
 
@@ -133,7 +133,7 @@ Microsoftから以下のソフトウェアをダウンロードしてインス�
 それでもBluetoothで無線接続したいという人は、<strong>復元ポイントを作ってから</strong>以下の作業をどうぞ。
 
 <ol>
-<li><a href="http://forums.pcsx2.net/Thread-XInput-Wrapper-for-DS3-and-Play-com-USB-Dual-DS2-Controller" target="_blank">配布サイト</a>からtoolsをダウンロード。</li>
+<li><a href="https://forums.pcsx2.net/Thread-XInput-Wrapper-for-DS3-and-Play-com-USB-Dual-DS2-Controller" target="_blank">配布サイト</a>からtoolsをダウンロード。</li>
 <li>展開して中にある[zadig]というフォルダを、[C:¥Program Files¥Scarlet.Crush Productions¥ScpServer¥bin]にコピー。</li>
 <li>[zadig]フォルダにある[zadig.exe]を実行。</li>
 <li>メニューの[Device] → [Load Priset] → [Bluetooth.cfg]を開く。</li>

@@ -13,11 +13,11 @@ tags:
 product:
     name: 'みんなでまもって騎士 姫のときめきらぷそでぃ'
     rate: '4'
-    link: 'http://www.ancient.co.jp/~game/mamotte_knight2/'
+    link: 'https://www.ancient.co.jp/~game/mamotte_knight2/'
     comment: 'シンプルながらついついハマってしまう面白さ'
 ---
 
-このゲームは<a href="http://www.nicovideo.jp/watch/sm24890213">ニコニコ動画でM.S.S.Projectの実況動画</a>を見て知りました。4人でワイワイやってて楽しそうだなと思っていました。
+このゲームは<a href="https://www.nicovideo.jp/watch/sm24890213">ニコニコ動画でM.S.S.Projectの実況動画</a>を見て知りました。4人でワイワイやってて楽しそうだなと思っていました。
 
 4人でやったら確実に面白いというのは分かりましたが、果たして一人でやっても楽しめるゲームなのだろうか。やってみたい気もするけど今ひとつ踏ん切りがつかなかったのですが、結局誘惑に勝てず買ってしまいました。
 
