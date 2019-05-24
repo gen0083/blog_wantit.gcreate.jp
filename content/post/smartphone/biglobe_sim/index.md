@@ -13,10 +13,10 @@ product:
     name: 'Biglobe LTE・3G　音声通話SIM'
     rate: '4'
     comment: '電話番号を確保しつつ携帯代を節約したい人へ'
-    kaeyome: '<a href="http://px.a8.net/svt/ejp?a8mat=2BRQTR+CTEZDM+B4+ICD5D" target="_blank">
-<img border="0" width="250" height="250" alt="" src="http://www27.a8.net/svt/bgt?aid=140702607775&wid=002&eno=01&mid=s00000000040003081000&mc=1"></a>
-<img border="0" width="1" height="1" src="http://www11.a8.net/0.gif?a8mat=2BRQTR+CTEZDM+B4+ICD5D" alt="">
-<img border="0" width="1" height="1" src="http://www12.a8.net/0.gif?a8mat=2BRQTR+CTEZDM+B4+IA7ZL" alt="">'
+    kaeyome: '<a href="https://px.a8.net/svt/ejp?a8mat=2BRQTR+CTEZDM+B4+ICD5D" target="_blank">
+<img border="0" width="250" height="250" alt="" src="https://www27.a8.net/svt/bgt?aid=140702607775&wid=002&eno=01&mid=s00000000040003081000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=2BRQTR+CTEZDM+B4+ICD5D" alt="">
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=2BRQTR+CTEZDM+B4+IA7ZL" alt="">'
 ---
 
 携帯の端末分割支払いが終わったので、DocomoからBiglobe LTE・3G音声通話SIMへとMNPで転出することにしました。
@@ -104,7 +104,7 @@ SIMの入れ替え作業はいたって簡単です。
 
 私の場合は端末がSIMロックされているかは分からないのですが、特にSIMロックの解除をする必要もなく、SIMを差し替えるだけで利用できました。<em>ドコモ以外の端末だとSIMロックされているとそのままでは利用できないと思うので、その点は注意が必要です</em>。
 
-<a href="http://support.biglobe.ne.jp/mobile/settei/lte_device.html" target="_blank">Biglobeで動作確認ができている端末</a>を確認して、SIMを間違えないように申し込みましょう。
+<a href="https://support.biglobe.ne.jp/mobile/settei/lte_device.html" target="_blank">Biglobeで動作確認ができている端末</a>を確認して、SIMを間違えないように申し込みましょう。
 
 
 ## イイトコどりのSIM

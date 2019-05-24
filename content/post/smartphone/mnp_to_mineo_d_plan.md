@@ -12,9 +12,9 @@ tags:
 product:
     name: 'mineo Dプラン デュアルタイプ'
     rate: '4'
-    kaeyome: '<a href="http://px.a8.net/svt/ejp?a8mat=2HWKJG+DPKE1M+39SA+61Z81" target="_blank">
-<img border="0" width="300" height="250" alt="" src="http://www23.a8.net/svt/bgt?aid=151005436829&wid=002&eno=01&mid=s00000015265001017000&mc=1"></a>
-<img border="0" width="1" height="1" src="http://www19.a8.net/0.gif?a8mat=2HWKJG+DPKE1M+39SA+61Z81" alt="">'
+    kaeyome: '<a href="https://px.a8.net/svt/ejp?a8mat=2HWKJG+DPKE1M+39SA+61Z81" target="_blank">
+<img border="0" width="300" height="250" alt="" src="https://www23.a8.net/svt/bgt?aid=151005436829&wid=002&eno=01&mid=s00000015265001017000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=2HWKJG+DPKE1M+39SA+61Z81" alt="">'
 ---
 
 今までBiglobeの音声通話SIMを使っていました。この程スマホを買い換えることにしまして、それに伴いSIMのサイズ変更が必要になりました（マイクロSIM→ナノSIM）。

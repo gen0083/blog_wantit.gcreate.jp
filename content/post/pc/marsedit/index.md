@@ -13,7 +13,7 @@ tags:
 product:
     name: 'MarsEdit'
     rate: '5'
-    link: 'http://www.red-sweater.com/marsedit/'
+    link: 'https://www.red-sweater.com/marsedit/'
     comment: '複数ブログを運営しているならこれ一択でしょう。'
     kaeyome: '<a href="https://itunes.apple.com/jp/app/marsedit-blog-editor-for-wordpress/id402376225?mt=12&uo=4&at=1l3v8BW" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/ja_jp//images/web/linkmaker/badge_macappstore-lrg.png) no-repeat;width:165px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/ja_jp//images/web/linkmaker/badge_macappstore-lrg.svg);}"></a>'
 ---

@@ -65,7 +65,7 @@ LG G watch R自体にはUSBの端子はついていないので、充電する�
 ## Android4.3以上を搭載した端末が必要
 
 
-自分の使っている端末が対応しているかどうかは<a href="http://g.co/WearCheck">ここでチェックできます</a>。（ペアリングしようと思っている端末でアクセスしてくださいね）
+自分の使っている端末が対応しているかどうかは<a href="https://g.co/WearCheck">ここでチェックできます</a>。（ペアリングしようと思っている端末でアクセスしてくださいね）
 
 <a href="https://support.google.com/androidwear/answer/6056390?hl=ja">GoogleのAndroid Wear向けのよくある質問</a>。
 

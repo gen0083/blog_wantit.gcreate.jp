@@ -18,9 +18,9 @@ product:
     name: 'Surface PRO 2 256GBモデル'
     number: '7NX-00001'
     rate: '5'
-    link: 'http://www.microsoft.com/surface/ja-jp/products/surface-pro-2'
+    link: 'https://www.microsoft.com/surface/ja-jp/products/surface-pro-2'
     comment: 'デスクトップとノートPCと液晶タブレットのいいところを組み合わせた最強のPCかも。'
-    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00G4UF5SC/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/31iMC7Yj%2B9L._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00G4UF5SC/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">マイクロソフト Surface Pro 2 256GB 単体モデル [Windowsタブレット・Office付き] 7NX-00001 (チタン)</a><div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> マイクロソフト     </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=7NX-00001&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F7NX-00001%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
+    kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00G4UF5SC/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/31iMC7Yj%2B9L._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00G4UF5SC/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">マイクロソフト Surface Pro 2 256GB 単体モデル [Windowsタブレット・Office付き] 7NX-00001 (チタン)</a><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> マイクロソフト     </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=7NX-00001&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F7NX-00001%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
 ---
 
 Surface PRO 2は<em>お絵描きもできる</em>し、<em>性能的にもいい</em>らしいという話を聞いて、前々からとても気にはなっていました。そして店頭で128GBモデルを実際に触ってみて、そのあまりの<em>動作のヌルヌル具合に惚れてしまいました</em>。
@@ -82,7 +82,7 @@ Clip Studio Paint PROであれば、インストールすればすぐに筆圧�
 
 <em>SAIも使用することができます</em>が、<em>Windows7で使っていたような軽快感は感じられません</em>。それも当然で、<em>SAIはWindows8での動作はまだ考慮されていない</em>ためです。現在開発中とのことではあるが、Windows8では無理にSAIを使うより、CLIP STUDIO PAINT PROを使った方がいいかもしれません。
 
-ちなみにSAIを使用する場合、<em>画面のスケーリングを150％以外に設定</em>し、<a href="http://us.wacom.com/en/feeldriver" target="_blank">ワコムのアメリカサイト</a>からドライバをダウンロードしてインストールすれば、<em>一応筆圧を感知するようになります</em>。
+ちなみにSAIを使用する場合、<em>画面のスケーリングを150％以外に設定</em>し、<a href="https://us.wacom.com/en/feeldriver" target="_blank">ワコムのアメリカサイト</a>からドライバをダウンロードしてインストールすれば、<em>一応筆圧を感知するようになります</em>。
 
 
 ## Windows8に慣れない

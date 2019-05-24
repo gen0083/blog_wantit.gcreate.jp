@@ -12,11 +12,11 @@ tags:
 product:
     name: 'エックスドメイン'
     rate: '3.5'
-    link: 'http://www.xdomain.ne.jp/'
+    link: 'https://www.xdomain.ne.jp/'
     comment: '独自ドメインの取得は別に安いところでも問題ないんじゃないかな。'
-    kaeyome: '<a href="http://px.a8.net/svt/ejp?a8mat=2BLT1A+67V10A+CO4+15S78H" target="_blank">
-<img border="0" width="300" height="250" alt="" src="http://www22.a8.net/svt/bgt?aid=140425534376&wid=002&eno=01&mid=s00000001642007018000&mc=1"></a>
-<img border="0" width="1" height="1" src="http://www11.a8.net/0.gif?a8mat=2BLT1A+67V10A+CO4+15S78H" alt="">'
+    kaeyome: '<a href="https://px.a8.net/svt/ejp?a8mat=2BLT1A+67V10A+CO4+15S78H" target="_blank">
+<img border="0" width="300" height="250" alt="" src="https://www22.a8.net/svt/bgt?aid=140425534376&wid=002&eno=01&mid=s00000001642007018000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=2BLT1A+67V10A+CO4+15S78H" alt="">'
 ---
 
 特にこれといった理由があるわけではないのですが、独自ドメインを取得することにしました。Androidアプリのサポートサイトとか、今後手を広げていくつもりがあるので、ムダにはならないでしょう。後はこのサイトのアクセス数がどうにも安定しないので、独自ドメインにしてみたらマシになるのかしらと思ったという理由もあります（1日に500PV行ったかと思ったら、50PVくらいに落ち込んだりとか）。

@@ -27,7 +27,7 @@ product:
 
 
 <ul>
-<li>公式サイト：<a href="http://ragnarokonline.gungho.jp/" target="_blank">http://ragnarokonline.gungho.jp/</a></li>
+<li>公式サイト：<a href="https://ragnarokonline.gungho.jp/" target="_blank">https://ragnarokonline.gungho.jp/</a></li>
 <li>課金額：プレイ期間が長すぎてはっきり覚えていない。50万円くらい？</li>
 </ul>
 
@@ -61,7 +61,7 @@ product:
 
 
 <ul>
-<li>公式サイト：<a href="http://bdpb.hangame.co.jp/" target="_blank">http://bdpb.hangame.co.jp/</a></li>
+<li>公式サイト：<a href="https://bdpb.hangame.co.jp/" target="_blank">https://bdpb.hangame.co.jp/</a></li>
 <li>課金額：15万円くらい？</li>
 </ul>
 
@@ -76,7 +76,7 @@ product:
 
 
 <ul>
-<li>公式サイト：<a href="http://www.bandainamcogames.co.jp/cs/list/idolmaster/social_m/" target="_blank">http://www.bandainamcogames.co.jp/cs/list/idolmaster/social_m/</a>（スマホゲームです）</li>
+<li>公式サイト：<a href="https://www.bandainamcogames.co.jp/cs/list/idolmaster/social_m/" target="_blank">https://www.bandainamcogames.co.jp/cs/list/idolmaster/social_m/</a>（スマホゲームです）</li>
 <li>課金額：10万円くらい？</li>
 </ul>
 
@@ -93,7 +93,7 @@ product:
 
 
 <ul>
-<li>公式サイト：<a href="http://www.dmm.com/netgame/feature/kancolle.html" target="_blank">http://www.dmm.com/netgame/feature/kancolle.html</a></li>
+<li>公式サイト：<a href="https://www.dmm.com/netgame/feature/kancolle.html" target="_blank">https://www.dmm.com/netgame/feature/kancolle.html</a></li>
 <li>課金額：1500円</li>
 </ul>
 

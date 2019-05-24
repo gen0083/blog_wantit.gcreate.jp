@@ -12,7 +12,7 @@ tags:
 product:
     name: 'スーパーストレッチカラースキニーパンツ'
     rate: '4.5'
-    link: 'http://www.uniqlo.com/jp/gu/item/298117'
+    link: 'https://www.uniqlo.com/jp/gu/item/298117'
     comment: '滑らかな肌触りとフィット感で履き心地最高'
 ---
 

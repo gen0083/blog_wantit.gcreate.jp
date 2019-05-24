@@ -14,7 +14,7 @@ product:
     name: 'ウォームイージーパンツ（リップストップ）'
     number: '128475'
     rate: '3.5'
-    link: 'http://www.uniqlo.com/jp/store/goods/128475'
+    link: 'https://www.uniqlo.com/jp/store/goods/128475'
     comment: '自転車用というより家の中でジャージの代わりに使うようになった'
 ---
 

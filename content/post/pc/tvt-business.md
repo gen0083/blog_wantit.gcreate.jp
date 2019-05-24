@@ -12,7 +12,7 @@ tags:
 product:
     name: 'テレビ東京ビジネスオンデマンド'
     rate: '4'
-    link: 'http://txbiz.tv-tokyo.co.jp/'
+    link: 'https://txbiz.tv-tokyo.co.jp/'
     comment: 'パソコン作業のお供にちょうどいい気がしてきた。'
 ---
 

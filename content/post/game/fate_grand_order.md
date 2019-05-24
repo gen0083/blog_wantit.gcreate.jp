@@ -14,7 +14,7 @@ tags:
 product:
     name: 'Fate/Grand Order'
     rate: '3.5'
-    link: 'http://www.fate-go.jp/'
+    link: 'https://www.fate-go.jp/'
     comment: '程よく頭を使う戦闘が面白い。ただまあやっぱりガチャは渋いね。'
 ---
 
@@ -65,18 +65,18 @@ Google Playでの評価も、「ガチャがしぶい」という低評価レビ
 そんなフレンドポイントを少しでも多く手に入れるためには、雑誌付録の概念礼装を利用するという手があります。
 
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041035724/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="https://ecx.images-amazon.com/images/I/61wqHoLmncL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4041035724/illusionspace-22/" target="_blank" rel="nofollow" ><img alt=""  src="https://ecx.images-amazon.com/images/I/61wqHoLmncL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041035724/illusionspace-22/" target="_blank" rel="nofollow" >TYPE-MOONエース Fate/Grand Order (カドカワムック)</a>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4041035724/illusionspace-22/" target="_blank" rel="nofollow" >TYPE-MOONエース Fate/Grand Order (カドカワムック)</a>
 
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">TYPE-MOON KADOKAWA/角川書店 2015-08-10    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4041035724/illusionspace-22/" target="_blank" rel="nofollow" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=TYPE-MOON%83G%81%5B%83X%20Fate%2FGrand%20Order%20%28%83J%83h%83J%83%8F%83%80%83b%83N%29&#038;__mk_ja_JP=%83J%83%5E%83J%83i&#038;url=node%3D2275256051&#038;tag=illusionspace-22" target="_blank" rel="nofollow" >Kindle</a></div>
-<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13322038%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" rel="nofollow" >楽天ブックス</a></div>
-<div class="shoplinkkino"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882196163&#038;vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784041035726" target="_blank" rel="nofollow" >紀伊國屋書店<img alt=""  src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882196163" height="1" width="1"></a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4041035724/illusionspace-22/" target="_blank" rel="nofollow" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=TYPE-MOON%83G%81%5B%83X%20Fate%2FGrand%20Order%20%28%83J%83h%83J%83%8F%83%80%83b%83N%29&#038;__mk_ja_JP=%83J%83%5E%83J%83i&#038;url=node%3D2275256051&#038;tag=illusionspace-22" target="_blank" rel="nofollow" >Kindle</a></div>
+<div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13322038%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" rel="nofollow" >楽天ブックス</a></div>
+<div class="shoplinkkino"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882196163&#038;vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784041035726" target="_blank" rel="nofollow" >紀伊國屋書店<img alt=""  src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882196163" height="1" width="1"></a></div>
 
 </div>
 </div>

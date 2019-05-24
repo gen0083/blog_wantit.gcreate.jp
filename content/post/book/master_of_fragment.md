@@ -13,9 +13,9 @@ tags:
 product:
     name: 'Master of Fragment'
     rate: '4'
-    link: 'http://tatsu-zine.com/books/master-of-fragments'
+    link: 'https://tatsu-zine.com/books/master-of-fragments'
     comment: 'Fragmentに特化した珍しい本'
-    kaeyome: '<div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;"><a href="http://tatsu-zine.com/books/master-of-fragments" name="amazletlink" target="_blank"><img src="http://tatsu-zine.com/images/books/241/cover_s.jpg" alt="Master of Fragment (Android Professional Developerシリーズ)" style="border: none;" /></a></div><div class="amazlet-info" style="line-height:120%;margin-bottom:10px"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="http://tatsu-zine.com/books/master-of-fragments" name="amazletlink" target="_blank">Master of Fragment (Android Professional Developerシリーズ)【電子書籍】</a></div><div class="amazlet-detail">あんざいゆき, わかめまさひろ'
+    kaeyome: '<div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;"><a href="https://tatsu-zine.com/books/master-of-fragments" name="amazletlink" target="_blank"><img src="https://tatsu-zine.com/images/books/241/cover_s.jpg" alt="Master of Fragment (Android Professional Developerシリーズ)" style="border: none;" /></a></div><div class="amazlet-info" style="line-height:120%;margin-bottom:10px"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="https://tatsu-zine.com/books/master-of-fragments" name="amazletlink" target="_blank">Master of Fragment (Android Professional Developerシリーズ)【電子書籍】</a></div><div class="amazlet-detail">あんざいゆき, わかめまさひろ'
 ---
 
 Androidのアプリ作成で存在自体は知っていたのですが、なんだかややこしそうだなと思ってFragmentを使うことはありませんでしたが、そろそろステップアップしようと思ってFragmentについて勉強することにしました。

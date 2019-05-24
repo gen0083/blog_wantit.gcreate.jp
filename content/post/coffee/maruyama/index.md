@@ -12,9 +12,9 @@ tags:
 product:
     name: 'ママのブレンド'
     rate: '3'
-    link: 'http://www.maruyamacoffee.com/'
+    link: 'https://www.maruyamacoffee.com/'
     comment: '確かに高級そうな香りで上品な味わいではあるものの、高すぎる。'
-    kaeyome: '<a href="http://www.maruyamacoffee.com/ec/productdetail.php?pid=BL180140025#.U1UHDuZPN14" target="_blank">http://www.maruyamacoffee.com/ec/productdetail.php?pid=BL180140025#.U1UHDuZPN14</a>'
+    kaeyome: '<a href="https://www.maruyamacoffee.com/ec/productdetail.php?pid=BL180140025#.U1UHDuZPN14" target="_blank">https://www.maruyamacoffee.com/ec/productdetail.php?pid=BL180140025#.U1UHDuZPN14</a>'
 ---
 
 実は一年くらい前から知っていはいたんですが、高くて買うのをためらっていた丸山珈琲で豆を購入してみました。高い豆がどんなものなのか試してみたかったのです。

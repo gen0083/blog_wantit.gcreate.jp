@@ -13,7 +13,7 @@ product:
     name: 'Splatoon2'
     rate: '3.5'
     comment: 'サーモンランが楽しい'
-    kaeyome: '<div class="cstmreba"><div class="kaerebalink-box"><div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B072J2J26T/illusionspace-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/61t2z334DvL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B072J2J26T/illusionspace-22/" target="_blank" >Splatoon 2 (スプラトゥーン2)</a><div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> 任天堂 2017-07-21    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=splatoon2&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=illusionspace-22" target="_blank" >Amazon</a></div><div class="shoplinkyahoo"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&pid=882193779&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3Dsplatoon2&vcptn=kaereba" target="_blank" >Yahooショッピング<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&pid=882193779" height="1" width="1" border="0"></a></div></div></div><div class="booklink-footer"></div></div></div>'
+    kaeyome: '<div class="cstmreba"><div class="kaerebalink-box"><div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B072J2J26T/illusionspace-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/61t2z334DvL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B072J2J26T/illusionspace-22/" target="_blank" >Splatoon 2 (スプラトゥーン2)</a><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> 任天堂 2017-07-21    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=splatoon2&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=illusionspace-22" target="_blank" >Amazon</a></div><div class="shoplinkyahoo"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&pid=882193779&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3Dsplatoon2&vcptn=kaereba" target="_blank" >Yahooショッピング<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&pid=882193779" height="1" width="1" border="0"></a></div></div></div><div class="booklink-footer"></div></div></div>'
 ---
 
 Nintendo Switchを買った。別にスプラトゥーンのために買ったわけではないのだけど、最初に買ったソフトはイカだった。
@@ -34,15 +34,15 @@ WiiU版だとゲームパッドで操作せざるをえなかったのだが、�
 
 <div class="cstmreba">
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01NCX3W3O/illusionspace-22/" target="_blank" ><img alt=""  src="https://images-fe.ssl-images-amazon.com/images/I/51OWg-zsNHL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01NCX3W3O/illusionspace-22/" target="_blank" ><img alt=""  src="https://images-fe.ssl-images-amazon.com/images/I/51OWg-zsNHL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01NCX3W3O/illusionspace-22/" target="_blank" >Nintendo Switch Proコントローラー</a>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01NCX3W3O/illusionspace-22/" target="_blank" >Nintendo Switch Proコントローラー</a>
 
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> 任天堂 2017-03-03    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=Switch%E3%80%80%E3%83%97%E3%83%AD%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9&#038;__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&#038;tag=illusionspace-22" target="_blank" >Amazon</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=Switch%E3%80%80%E3%83%97%E3%83%AD%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9&#038;__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&#038;tag=illusionspace-22" target="_blank" >Amazon</a></div>
 <div class="shoplinkyahoo"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882193779&#038;vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DSwitch%25E3%2580%2580%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9&#038;vcptn=kaereba" target="_blank" >Yahooショッピング<img alt=""  src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882193779" height="1" width="1"></a></div>
 </div>
 </div>

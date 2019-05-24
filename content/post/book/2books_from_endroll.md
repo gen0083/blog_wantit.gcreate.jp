@@ -14,7 +14,7 @@ product:
     number: '404427102X'
     rate: '3.5'
     comment: 'あとがきから読書の輪を広げるのも悪くない'
-    kaeyome: '<div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/404427102X/illusionspace-22/" target="_blank" ><img src="https://ecx.images-amazon.com/images/I/513sIHDk0BL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/404427102X/illusionspace-22/" target="_blank" >愚者のエンドロール (角川文庫)</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">米澤 穂信 角川書店(角川グループパブリッシング) 2002-07-31    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/404427102X/illusionspace-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009PKN0EE/illusionspace-22/" target="_blank" >Kindle</a></div><div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F1469164%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>                  	  <div class="shoplinkkino"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&pid=882196163&vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784044271022" target="_blank" >紀伊國屋書店<img src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&pid=882196163" height="1" width="1" border="0"></a></div>	  	  	</div></div><div class="booklink-footer"></div></div>'
+    kaeyome: '<div class="booklink-box"><div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/404427102X/illusionspace-22/" target="_blank" ><img src="https://ecx.images-amazon.com/images/I/513sIHDk0BL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/404427102X/illusionspace-22/" target="_blank" >愚者のエンドロール (角川文庫)</a><div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">米澤 穂信 角川書店(角川グループパブリッシング) 2002-07-31    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/404427102X/illusionspace-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009PKN0EE/illusionspace-22/" target="_blank" >Kindle</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F1469164%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>                  	  <div class="shoplinkkino"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&pid=882196163&vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784044271022" target="_blank" >紀伊國屋書店<img src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&pid=882196163" height="1" width="1" border="0"></a></div>	  	  	</div></div><div class="booklink-footer"></div></div>'
 ---
 
 前回、遠まわりする雛のあとがきに書いてあった本を読んでみた話を書きましたが、今回もそれと同じようなことをしました。他にもあとがきで何か紹介されていないかなと思って、〈古典部〉シリーズを読み返してみました。そうすると、愚者のエンドロールに2冊の本に言及されていました。
@@ -42,18 +42,18 @@ product:
 話の内容が面白くても、読みにくい本は私は苦手なのだということでしょう。古典であることと翻訳文であることも影響があるかもしれません。Wikipediaを見るとなるほどすごい作品だなと思えるんですけどね。私は推理小説が好きだというわけではないんだと思います。
 
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4488123058/illusionspace-22/" target="_blank" ><img alt=""  src="https://ecx.images-amazon.com/images/I/51v41o7XZQL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4488123058/illusionspace-22/" target="_blank" ><img alt=""  src="https://ecx.images-amazon.com/images/I/51v41o7XZQL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4488123058/illusionspace-22/" target="_blank" >毒入りチョコレート事件【新版】 (創元推理文庫)</a>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4488123058/illusionspace-22/" target="_blank" >毒入りチョコレート事件【新版】 (創元推理文庫)</a>
 
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">アントニイ・バークリー 東京創元社 2009-11-10    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4488123058/illusionspace-22/" target="_blank" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B007TAKIP6/illusionspace-22/" target="_blank" >Kindle</a></div>
-<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6239336%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>
-<div class="shoplinkkino"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882196163&#038;vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784488123055" target="_blank" >紀伊國屋書店<img alt=""  src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882196163" height="1" width="1"></a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4488123058/illusionspace-22/" target="_blank" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B007TAKIP6/illusionspace-22/" target="_blank" >Kindle</a></div>
+<div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6239336%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>
+<div class="shoplinkkino"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882196163&#038;vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784488123055" target="_blank" >紀伊國屋書店<img alt=""  src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882196163" height="1" width="1"></a></div>
 
 </div>
 </div>
@@ -78,18 +78,18 @@ product:
 映画ネタが分からなくても本筋の部分では何ら問題はありません。何よりコミカルで読みやすかったので、私は愚者のエンドロールより楽しみながら読めました。
 
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4167773201/illusionspace-22/" target="_blank" ><img alt=""  src="https://ecx.images-amazon.com/images/I/51RfXKWZAmL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4167773201/illusionspace-22/" target="_blank" ><img alt=""  src="https://ecx.images-amazon.com/images/I/51RfXKWZAmL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4167773201/illusionspace-22/" target="_blank" >探偵映画 (文春文庫)</a>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4167773201/illusionspace-22/" target="_blank" >探偵映画 (文春文庫)</a>
 
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">我孫子 武丸 文藝春秋 2009-12-04    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4167773201/illusionspace-22/" target="_blank" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00OT5J0JE/illusionspace-22/" target="_blank" >Kindle</a></div>
-<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6259736%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>
-<div class="shoplinkkino"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882196163&#038;vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784167773205" target="_blank" >紀伊國屋書店<img alt=""  src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882196163" height="1" width="1"></a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4167773201/illusionspace-22/" target="_blank" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00OT5J0JE/illusionspace-22/" target="_blank" >Kindle</a></div>
+<div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6259736%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>
+<div class="shoplinkkino"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882196163&#038;vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784167773205" target="_blank" >紀伊國屋書店<img alt=""  src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882196163" height="1" width="1"></a></div>
 
 </div>
 </div>

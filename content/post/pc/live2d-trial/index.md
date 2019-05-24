@@ -16,7 +16,7 @@ tags:
 product:
     name: 'Live2D'
     rate: '3.5'
-    link: 'http://www.live2d.com/'
+    link: 'https://www.live2d.com/'
     comment: '自分で楽しむだけならハードル低いが、ステップアップするのが難しそう'
 ---
 
@@ -24,7 +24,7 @@ product:
 
 自分で描いた2Dのイラストをぐりぐり動いたらどんな感じなんだろうって思ったんですよね。後は実際に動かしてみるのは、どれくらいの労力でできるのかというのも知りたかったのです。
 
-公式サイトのチュートリアルをざっと見て、とりあえず手っ取り早く試せそうな<a href="http://sites.cybernoids.jp/cubism2/lets-do-it/quick-modeling">PSD＆テンプレ機能で簡単モデリング</a>で試してみることにしました。
+公式サイトのチュートリアルをざっと見て、とりあえず手っ取り早く試せそうな<a href="https://sites.cybernoids.jp/cubism2/lets-do-it/quick-modeling">PSD＆テンプレ機能で簡単モデリング</a>で試してみることにしました。
 
 ところどころすっとばかしていますが、実際の作業の様子をYouTubeにアップロードしてみました。録画せずに作業していたりしたので、ダイジェストですけど参考にしてみてください。
 
@@ -79,7 +79,7 @@ Live2D Viewerで開けばサンプルのモーションを読み込むことが�
 
 ムダにファイルサイズが大きい（10Mもある）のですが、キャラクターの動く様子がWeb上で確認できるサンプルを作ったので良かったら見ていってください。
 
-<a href="http://gcreate.jp/live2d/live2dtest/live2dhitplayer.html">Live2Dで作ったサンプル</a>
+<a href="https://gcreate.jp/live2d/live2dtest/live2dhitplayer.html">Live2Dで作ったサンプル</a>
 
 Unity Web Playerが別途必要になります。
 

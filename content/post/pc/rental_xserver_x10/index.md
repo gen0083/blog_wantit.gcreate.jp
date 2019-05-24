@@ -13,9 +13,9 @@ product:
     name: 'エックスサーバ　X10'
     rate: '3'
     comment: 'アクセスを捌ききれなくなってからの引っ越しが一番賢いと思います。'
-    kaeyome: '<a href="http://px.a8.net/svt/ejp?a8mat=25ZTPB+9Q2X96+CO4+661TT" target="_blank">
-<img border="0" width="350" height="160" alt="" src="http://www22.a8.net/svt/bgt?aid=131001887588&wid=002&eno=01&mid=s00000001642001036000&mc=1"></a>
-<img border="0" width="1" height="1" src="http://www12.a8.net/0.gif?a8mat=25ZTPB+9Q2X96+CO4+661TT" alt="">'
+    kaeyome: '<a href="https://px.a8.net/svt/ejp?a8mat=25ZTPB+9Q2X96+CO4+661TT" target="_blank">
+<img border="0" width="350" height="160" alt="" src="https://www22.a8.net/svt/bgt?aid=131001887588&wid=002&eno=01&mid=s00000001642001036000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=25ZTPB+9Q2X96+CO4+661TT" alt="">'
 ---
 
 今までさくらインターネットのレンタルサーバ（スタンダードプラン）を使っていたんですが、エックスサーバ（X10）に引っ越しました。
@@ -68,7 +68,7 @@ product:
 ## Vimのインストール
 
 
-エックスサーバではSSH接続でVimが使えなくて不便なので、<a href="http://cyber-em.seesaa.net/article/378772172.html">こちらの先人の知恵</a>をお借りして、Vimをインストールしました。
+エックスサーバではSSH接続でVimが使えなくて不便なので、<a href="https://cyber-em.seesaa.net/article/378772172.html">こちらの先人の知恵</a>をお借りして、Vimをインストールしました。
 
 それにしても、Vimが標準で使えないとは思いませんでした。Viだとビジュアルモード使えなくて不便すぎます。
 

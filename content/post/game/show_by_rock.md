@@ -15,7 +15,7 @@ tags:
 product:
     name: 'SHOW BY ROCK!!'
     rate: '4.5'
-    link: 'http://showbyrock.com/'
+    link: 'https://showbyrock.com/'
     kaeyome: '<a href="https://play.google.com/store/apps/details?id=jp.veincarry.showbyrock2">
   <img alt="Android app on Google Play"
        src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />

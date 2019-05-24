@@ -92,7 +92,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### 04Tobizbits
 
 
-タイアップバンド：<a href="http://www.04limitedsazabys.com/">04 Limited Sazabys</a>
+タイアップバンド：<a href="https://www.04limitedsazabys.com/">04 Limited Sazabys</a>
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/monolith/id808636728?i=808636737&#038;at=1l3v8BW&#038;mt=1&#038;app=music">monolith</a> / <a href="https://www.youtube.com/watch?v=8HrcVdrj-Eg">YouTube</a> / 502480</li>
@@ -106,7 +106,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### Spectrenotes
 
 
-タイアップバンド:<a href="http://bigmama-web.com/">BIGMAMA</a>
+タイアップバンド:<a href="https://bigmama-web.com/">BIGMAMA</a>
 
 <ul>
 <li>秘密 / <a href="https://www.youtube.com/watch?v=aMQ8Sy_994Y">YouTube</a></li>
@@ -137,7 +137,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### デモンズベノム
 
 
-タイアップバンド：<a href="http://silhouettefromtheskylit.com/">SILHOUETTE FROM THE SKYLIT</a>
+タイアップバンド：<a href="https://silhouettefromtheskylit.com/">SILHOUETTE FROM THE SKYLIT</a>
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/parallel-lines/id576956230?i=576956252&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Parallel Lines</a></li>
@@ -154,7 +154,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### アリスビーンズ
 
 
-タイアップバンド：<a href="http://www.alice-project.biz/alice-juban">アリス十番</a>
+タイアップバンド：<a href="https://www.alice-project.biz/alice-juban">アリス十番</a>
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/xiadane/id639476142?i=639476148&#038;at=1l3v8BW&#038;mt=1&#038;app=music">夏だね☆</a> / <a href="https://www.youtube.com/watch?v=3dXGdGM3SUs">YouTube</a> / 730364</li>
@@ -170,7 +170,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### シロラクロスカ？
 
 
-タイアップバンド：<a href="http://acrowiswhite.com/">カラスは真っ白</a>
+タイアップバンド：<a href="https://acrowiswhite.com/">カラスは真っ白</a>
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/fake!fake!/id877595942?i=877595952&#038;at=1l3v8BW&#038;mt=1&#038;app=music">fake!fake!</a> / <a href="https://www.youtube.com/watch?v=c-M7cvJy1IY">YouTube</a></li>
@@ -214,7 +214,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### しにものぐるい
 
 
-タイアップバンド：<a href="http://uedamarie.com/">植田真梨恵</a>
+タイアップバンド：<a href="https://uedamarie.com/">植田真梨恵</a>
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/xinto-ti/id658088635?i=658088806&#038;at=1l3v8BW&#038;mt=1&#038;app=music">心と体</a> / <a href="https://www.youtube.com/watch?v=z3rhE3kDpU0">YouTube</a> / 761744（本人）/ 729775</li>
@@ -255,7 +255,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### テケバキツ荘
 
 
-タイアップバンド：<a href="http://usotsukida.com/">ウソツキ</a>
+タイアップバンド：<a href="https://usotsukida.com/">ウソツキ</a>
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/xin-mu-chang-fa-yin-he-zhi-dao/id950937659?i=950937665&#038;at=1l3v8BW&#038;mt=1&#038;app=music">新木場発、銀河鉄道</a> / <a href="https://www.youtube.com/watch?v=ZpvYkTJZogw">YouTube</a> / 672505</li>
@@ -285,7 +285,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### ガウガストライクス
 
 
-タイアップバンド：<a href="http://www.ka-fu-ka.net/">カフカ</a>
+タイアップバンド：<a href="https://www.ka-fu-ka.net/">カフカ</a>
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/shiriusuto-lao-ren/id461708113?i=461708154&#038;at=1l3v8BW&#038;mt=1&#038;app=music">シリウスと老人</a> / <a href="https://www.youtube.com/watch?v=w9EEMQMlts4">YouTube</a></li>
@@ -301,7 +301,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### ラボムンク
 
 
-タイアップバンド：<a href="http://www.clammbon.com/">クラムボン</a>
+タイアップバンド：<a href="https://www.clammbon.com/">クラムボン</a>
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/now!!!-2010-ver./id370178469?i=370178572&#038;at=1l3v8BW&#038;mt=1&#038;app=music">NOW!!!(2010 ver.)</a> / <a href="https://www.youtube.com/watch?v=mR1TXU1Hjck">YouTube</a> / 935367（2010verではない）</li>
@@ -316,7 +316,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### ラペッジオート
 
 
-タイアップバンド：<a href="http://swordmst.jp/yksbmilo31/">yksb feat.MiLO☓31STYLE</a>
+タイアップバンド：<a href="https://swordmst.jp/yksbmilo31/">yksb feat.MiLO☓31STYLE</a>
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/appachun/id898162175?i=898162192&#038;at=1l3v8BW&#038;mt=1&#038;app=music">アッパーチューン</a></li>
@@ -371,7 +371,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### ドロップアウト先生
 
 
-タイアップバンド：<a href="http://asstellus.com/">明日、照らす</a>
+タイアップバンド：<a href="https://asstellus.com/">明日、照らす</a>
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/punokotoni-rabunitsuite/id589300825?i=589300843&#038;at=1l3v8BW&#038;mt=1&#038;app=music">僕のコートニー・ラブについて</a> / <a href="https://www.youtube.com/watch?v=SaLlHgPYMJE">YouTube</a></li>
@@ -396,7 +396,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### チャーミーチャプレッツ
 
 
-タイアップバンド：<a href="http://www.kiki-web.com/">kiki*</a>
+タイアップバンド：<a href="https://www.kiki-web.com/">kiki*</a>
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/arubamu/id911698483?i=911698490&#038;at=1l3v8BW&#038;mt=1&#038;app=music">アルバム</a></li>
@@ -409,7 +409,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 ### フカシギミック
 
 
-タイアップバンド：<a href="http://bandgokko.com/">バンドごっこ</a>
+タイアップバンド：<a href="https://bandgokko.com/">バンドごっこ</a>
 
 <ul>
 <li>未練リフレイン / <a href="https://www.youtube.com/watch?v=YBYRjq3-CwE">YouTube</a></li>
