@@ -3,4 +3,25 @@
   background-color: #141823;
   color: white;
   text-align: center;
+
+  .footer-link {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+    p {
+      margin: 16px;
+
+      a {
+        color: white;
+        padding: 8px;
+        display: block;
+        text-decoration: none;
+
+        &:hover {
+          background-color: deeppink;
+        }
+      }
+    }
+  }
 }
