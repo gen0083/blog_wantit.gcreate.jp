@@ -19,7 +19,7 @@ product:
     kaeyome: '<div class="booklink-box"><div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4048704699/illusionspace-22/" target="_blank" ><img src="https://ecx.images-amazon.com/images/I/51gLuGWoTaL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4048704699/illusionspace-22/" target="_blank" >ビブリア古書堂の事件手帖―栞子さんと奇妙な客人たち (メディアワークス文庫)</a><div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">三上 延 アスキーメディアワークス 2011-03-25    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4048704699/illusionspace-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00BB9F0SG/illusionspace-22/" target="_blank" >Kindle</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11123596%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>                  	  <div class="shoplinkkino"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&pid=882196163&vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784048704694" target="_blank" >紀伊國屋書店<img src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&pid=882196163" height="1" width="1" border="0"></a></div>	  	  	</div></div><div class="booklink-footer"></div></div>'
 ---
 
-図書館に寄った折にこの本を見つけて「図書館にラノベが置いてあるなんてすげえな」なんて思いながら借りてみました。
+図書館へ寄った折にこの本を見つけて「図書館にラノベが置いてあるなんてすげえな」と思い借りてみました。
 
 存在自体はだいぶ前から知っていました。本屋で見かけた折に、表紙に美人さんが描かれていて気になっていましたから。
 
@@ -31,7 +31,7 @@ product:
 
 ただ読んでいて引っかかる点が1つだけあるのです。それはビブリア古書堂の女主人である篠川栞子さんです。
 
-栞子さんというキャラクターが好きになれないわけではないのです。実際に栞子さんのような人がいたら嫌いにならないわけがならない。いや、むしろ超お近づきになりたい。しかも人見知りで自分以外の人になびく心配がないんだ、なんてことまで考慮されてて完璧じゃないかと思うんですよ。主人公の五浦大輔に嫉妬します。
+栞子さんというキャラクターが好きになれないわけではないのです。実際に栞子さんのような人がいたら嫌いにならないわけがないじゃないですか。いや、むしろ超お近づきになりたい。しかも人見知りで自分以外の人になびく心配がないんだ、なんてことまで考慮されているんです。主人公の五浦大輔に嫉妬します。
 
 キャラクターの存在云々というより、もっとメタ的な視点で引っかかってしまうという感じです。
 
