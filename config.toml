@@ -1,6 +1,6 @@
 baseURL = "https://test-wantit.gcreate.jp/"
-languageCode = "jp"
-title = "だって欲しかったんだもん"
+languageCode = "ja"
+title = "イイモノ"
 theme = "aether"
 googleAnalytics = "UA-43849068-1"
 
@@ -18,6 +18,10 @@ copyright = ""
     dateFormat = "2006/01/02"
     googleAutoAd = true
 
+[frontmatter]
+date = ["date","publishDate", ":fileModTime"]
+lastmod = ["lastmod", ":fileModTime", "date"]
+
 [sitemap]
     changefreq = "weekly"
     priority = 0.5
@@ -31,8 +35,8 @@ copyright = ""
     github = "gen0083"
 
 [permalinks]
-    wp = "/:slug/"
     post = "/:slug/"
+    forsite = "/forsite/:filename/"
 
 [blackfriday]
     extensions = ["hardLineBreak"]

@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9975b41-720e-4d51-b850-ec5d153ebef1/deploy-status)](https://app.netlify.com/sites/laughing-einstein-5f6ad9/deploys)
+
 ## 新しい記事の作成
 
 `hugo new --kind has-image post/{sub-category}/{post-name}`
@@ -36,6 +38,16 @@ tags:
 
 1. `.Summary`
 1. `.Params.description`
+
+## ショートコード
+
+Markdown内で使えるショートコード: [公式ドキュメント](https://gohugo.io/content-management/shortcodes/)
+
+`{{< ショートコード >}}`のような形で使う
+
+- gist `{{< gist username gistID >}}`
+- tweet `{{< tweet tweetID >}}`
+- YouTube: `{{< youtube ビデオID >}}`
 
 ## ライセンス
 
