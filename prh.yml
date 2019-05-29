@@ -57,6 +57,9 @@ rules:
   # よくやらかすtypo
   - expected: 私の場合
     pattern: 渡しの場合
+    specs:
+      - from: 渡しの場合
+        to: 私の場合
   # もともと設定してあるようだが「故に」を先に認識してしまうようでその回避のために追加
   - expected: ゆえに
     pattern: (^事)故に
