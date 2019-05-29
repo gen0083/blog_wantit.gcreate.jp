@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b9975b41-720e-4d51-b850-ec5d153ebef1/deploy-status)](https://app.netlify.com/sites/laughing-einstein-5f6ad9/deploys)
+[![CircleCI](https://circleci.com/gh/gen0083/blog_wantit.gcreate.jp/tree/master.svg?style=svg)](https://circleci.com/gh/gen0083/blog_wantit.gcreate.jp/tree/master) [![Netlify Status](https://api.netlify.com/api/v1/badges/b9975b41-720e-4d51-b850-ec5d153ebef1/deploy-status)](https://app.netlify.com/sites/laughing-einstein-5f6ad9/deploys)
 
 ## 新しい記事の作成
 
@@ -8,7 +8,7 @@
 
 デフォルトで`{post-name}`がslugに設定される。
 slugが重複している場合、ビルド時にエラーが出るようになるのでその際はslugをユニークなものに変更すること。
-記事内で使う画像リソースは`{post-name}`のディレクトリ内に配置すれば良い。
+記事内で使う画像リソースは`{post-name}`のディレクトリ内に配置すればよい。
 
 画像の配置は`![alt属性で表示される説明文](画像ファイル名)`。
 
