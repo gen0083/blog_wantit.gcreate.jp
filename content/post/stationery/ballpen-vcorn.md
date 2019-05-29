@@ -2,14 +2,11 @@
 title: 筆記用具書き比べ　ボールペン「Vコーン」を試してみた感想
 slug: ballpen-vcorn
 description: ゼロ秒思考の本の中で絶賛されている、パイロットのVコーンというボールペンが気になったので入手してみました。実際に使ってみると確かにいい書き味で、筆圧をかけなくともサラサラ文字が書けます。
-
-
 featuredimage: images/cover/stationery.jpg
 date: 2014-04-25
 lastmod: 2016-02-24
 tags: 
     - 文房具
-    - 筆記具
 product:
     name: 'パイロット Vコーン'
     rate: '4'
@@ -22,26 +19,26 @@ product:
 今回はボールペンのお話なのですが、私は<em>楽ノック</em>というボールペンを今まで愛用してきていました。0.7mmの太めのボールペンなのですが、強い筆圧をかけても書き味が損なわれることが無いため、とても重宝しています。程よい太さとクリップがあるおかげで手にジャストフィットするので、報告書の作成から提出書類の清書、普段のメモ書きまで大活躍です。<em>値段が安くて手に入れやすい</em>のもグッドです。
 
 <div data-role="amazonjs" data-asin="B002CKFI0I" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B002CKFI0I_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">三菱鉛筆 油性ボールペン VERY楽ノック 0.7mm SN-100-07 黒 10セット</a><span class="amazonjs_indicator_footer"></span></div></div>
-ところで、以前にこのブログでも紹介した<a href="https://wantit.gcreate.jp/zerosecondthinking/" title="ゼロ秒思考で頭の体操">「ゼロ秒思考」という本</a>の中で、<em>「筆圧ゼロでも非常に描きやすい」と絶賛</em>されていた、<em>パイロットのVコーン</em>というボールペンがあります。やたらと推してくるので、ちょっと書き味が気になったこともあり、実際に試してみることにしました。
 
+ところで、以前にこのブログでも紹介した<a href="https://wantit.gcreate.jp/zerosecondthinking/" title="ゼロ秒思考で頭の体操">「ゼロ秒思考」という本</a>の中で、<em>「筆圧ゼロでも非常に描きやすい」と絶賛</em>されていた、<em>パイロットのVコーン</em>というボールペンがあります。やたらと推してくるので、ちょっと書き味が気になったこともあり、実際に試してみることにしました。
 
 ## パイロットVコーン
 
-
 <div data-role="amazonjs" data-asin="B001AX7W66" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B001AX7W66_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">パイロット 水性ボールペン Vコーン ブラック LVE-10EF-B / 10セット</a><span class="amazonjs_indicator_footer"></span></div></div>
+
 直液式の水性ボールペンということで、ちょっと珍しいタイプのボールペンなのでしょうか。大きな文房具専門店に行かないとなかなか見つからないかもしれません。
 
-ローカルなネタで恐縮ですが、私の場合はうさぎや岡山東店に最初に行ったのですが在庫がなく、岡山店に行って購入することが出来ました。書き味を試してみたいし、お試しで1本買うだけなのにネットで買うのはなぁ・・・という思いだったので、比較的簡単に手に入れることができてホッとしました。
+ローカルなネタで恐縮ですが、私の場合はうさぎや岡山東店に最初に行ったのですが在庫がなく、岡山店に行って購入することができました。書き味を試してみたいし、お試しで1本買うだけなのにネットで買うのはなぁ・・・という思いだったので、比較的簡単に手に入れることができてホッとしました。
 
 実際に書いてみると、ゼロ秒思考の著者の方が絶賛している理由が頷けました。確かに軽い筆圧でもインクがキレイに出て、<em>非常に書きやすい</em>です。今まで楽ノックの書き味が最高だと思っていたのですが、<em>あっさりと覆ってしまいました</em>。これはいい書き味です。どんな書き味かというと、ボールペンでありながら<em>万年筆のような書き味</em>といえば想像しやすいかもしれません。
 
 ただ惜しむらくは、個人的に<em>ペンが細すぎて手に馴染まない</em>というのが残念なポイントです。細い上にクリップがついているわけでもないので、どうもグリップが頼りなく感じてしまいます。
 
-
 ## 番外編、万年筆カクノ
 
 
 <div data-role="amazonjs" data-asin="B00FZLOYEM" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B00FZLOYEM_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">パイロット 万年筆 カクノ ライトグリーン F（細字）</a><span class="amazonjs_indicator_footer"></span></div></div>
+
 Vコーンの在庫を調べてもらっている間に、何となく試し書きした万年筆の書き味が気に入ってしまい、ついつい衝動買いしてしまいました。
 
 書き味はVコーンと非常によく似ています。Vコーンに比べるとペン先がしなる分、<em>やや柔らかい書き味</em>ですね。
@@ -51,6 +48,3 @@ Vコーンとは違ってペン軸が太いので、<em>非常に握りやすい
 それぞれのペンでの実際に書いているところを動画で撮ってみたので、参考にしてみてください。字が汚かったり漢字間違ったりしてるのは気にしないでください・・・。
 
 <iframe width="500" height="281" src="//www.youtube.com/embed/KvTvOLdiGZs" allowfullscreen></iframe>
-
-
-  

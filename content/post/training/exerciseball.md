@@ -2,13 +2,10 @@
 title: 乗るのが楽しいALINCO エクササイズボール 65cmをレビュー
 slug: exerciseball
 description: 椅子として使ってみようと思いましたが、私の机にはサイズ的に合わなかったので、普通にバランスボールとして使っています。サイズが大きいので置き場所に困りますが、保管場所の問題さえクリアできれば、遊び感覚で使えて非常に面白いと思います。
-
-
 featuredimage: images/cover/training.jpg
 date: 2013-09-10
 lastmod: 2016-02-24
 tags: 
-    - おもちゃ
     - トレーニング
 product:
     name: 'ALINCO エクササイズボール 65cm'
@@ -18,8 +15,7 @@ product:
     comment: 'ここが私の定位置だ！'
     kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00188ZIR8/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/41SpzcwYd5L._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00188ZIR8/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">ALINCO(アルインコ) エクササイズボール 65cm EXG025</a><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> ALINCO(アルインコ) 2012-04-05    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=EXG025&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEXG025%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
     amazon: '<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00188ZIR8" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>'
-    rakuten: '<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top"><div style="border:1px solid;margin:0px;padding:6px 0px;width:160px;text-align:center;float:left"><a href="https://hb.afl.rakuten.co.jp/hgc/11b690d5.96501047.11b690d6.e8055ae6/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fkenkocom%2fe026759h%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fkenkocom%2fi%2f10620407%2f" target="_blank"><img src="https://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fkenkocom%2fcabinet%2fe026%2fe026759h_l.jpg%3f_ex%3d128x128&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fkenkocom%2fcabinet%2fe026%2fe026759h_l.jpg%3f_ex%3d80x80" alt="アルインコ エクササイズボール 65cm EXG025/ALINCO(アルインコ)/バランスボール・エクササイズ..." border="0" style="margin:0px;padding:0px"></a><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px"><a href="https://hb.afl.rakuten.co.jp/hgc/11b690d5.96501047.11b690d6.e8055ae6/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fkenkocom%2fe026759h%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fkenkocom%2fi%2f10620407%2f" target="_blank">アルインコ エクササイズボール 65cm EXG025/ALINCO(アルインコ)/バランスボール・エクササイズ...</a>
-</div></td></tr></table>'
+    rakuten: '<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top"><div style="border:1px solid;margin:0px;padding:6px 0px;width:160px;text-align:center;float:left"><a href="https://hb.afl.rakuten.co.jp/hgc/11b690d5.96501047.11b690d6.e8055ae6/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fkenkocom%2fe026759h%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fkenkocom%2fi%2f10620407%2f" target="_blank"><img src="https://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fkenkocom%2fcabinet%2fe026%2fe026759h_l.jpg%3f_ex%3d128x128&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fkenkocom%2fcabinet%2fe026%2fe026759h_l.jpg%3f_ex%3d80x80" alt="アルインコ エクササイズボール 65cm EXG025/ALINCO(アルインコ)/バランスボール・エクササイズ..." border="0" style="margin:0px;padding:0px"></a><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px"><a href="https://hb.afl.rakuten.co.jp/hgc/11b690d5.96501047.11b690d6.e8055ae6/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fkenkocom%2fe026759h%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fkenkocom%2fi%2f10620407%2f" target="_blank">アルインコ エクササイズボール 65cm EXG025/ALINCO(アルインコ)/バランスボール・エクササイズ...</a> </div></td></tr></table>'
 ---
 
 <em>運動不足の解消</em>は人類の永遠のテーマ。基本的にインドア派な私には、それこそ重くのしかかるものであります。
@@ -58,11 +54,8 @@ product:
 
 この商品には専用の空気入れが付属しています。ただし、空気を入れるのは結構大変。最初に空気を入れるのに20分くらいは格闘していたと思います。使いはじめるまでにかなり疲れます。
 
-毎日空気を抜いて保管するのは難しいと思うので、膨らんだボールのままで置いておくことになると思います。膨らんだままの状態だと、<em>ボールの直径が65cm</em>であることもあって、わりと場所をとります。しかも<em>球体で転がります</em>から、保管場所は予め考えておいたほうがいいでしょう。
+毎日空気を抜いて保管するのは難しいと思うので、膨らんだボールのままで置いておくことになると思います。膨らんだままの状態だと、<em>ボールの直径が65cm</em>であることもあって、わりと場所をとります。しかも<em>球体で転がります</em>から、保管場所はあらかじめ考えておいたほうがいいでしょう。
 
 ゴムの匂いはあまり気になりません。
 
 運動不足を解消するほどの運動強度があるかは分かりませんが、現在我が家で大活躍しています（<em>主に僕の玩具として</em>）。保管場所というか、定位置の問題さえなんとかなれば、とても<em>楽しいおもちゃ</em>として大活躍するのではないでしょうか。
-
-
-  

@@ -2,14 +2,12 @@
 title: Surface PRO 2にWindows10をクリーンインストールした話
 slug: surface-pro-2-windows-10
 description: これでユーザフォルダが日本語になってしまった問題とおさらばできます。プリインストールされていたOfficeもインストールできます。Surface PRO2でWindows10をクリーンインストールしようとする人の参考になれば幸いです。
-
-
 featuredimage: images/cover/pc-peri.jpg
 date: 2015-08-27
 lastmod: 2015-11-08
 tags: 
     - Surface PRO2
-    - アプリ
+    - Windows
 product:
     name: 'Windows10'
     rate: '3.5'
@@ -20,11 +18,9 @@ Surface PRO2にWindows10をクリーンインストールしました。工場�
 
 以前からユーザーフォルダが日本語で作成されてしまっていることに不満を持っていて、いつかは直したいなぁと思っていたのです。Windows10に無料でアップグレードできるこの機会を逃すわけにはいきません。
 
-調べてみるとWindows10のクリーンインストールは可能なようなので挑戦してみました。結論から言うと、若干のつまづきポイントはありはしましたが、基本的にはスムーズにクリーンインストールができました。
-
+調べてみるとWindows10のクリーンインストールは可能なようなので挑戦してみました。結論からいうと、若干のつまづきポイントはありはしましたが、基本的にはスムーズにクリーンインストールができました。
 
 ## 事前の準備
-
 
 まずは必要なデータをバックアップしましょう。多分これが一番面倒くさい作業です。でした。ドキュメントのデータをバックアップして持って行くと、割とスムーズに移行できた気がします。
 
@@ -34,7 +30,7 @@ Surface PRO2にWindows10をクリーンインストールしました。工場�
 
 バックアップが済んだらSurface PRO2をWindows10にアップグレードしましょう。これはWindows10のクリーンインストールには、アップグレード後のプロダクトキーが必要となるからです。Windows10へアップグレードするとプロダクトキーが変わってしまうので、一度アップグレードでWindows10にしてやる必要があります。
 
-Windows10にアップグレードした後で、プロダクトキーを確認します。確認のためには<a href="https://www.rjlsoftware.com/software/utility/winproductkey/download.shtml">Windows Product Key Viewer</a>を使いました。
+Windows10にアップグレードしたあとで、プロダクトキーを確認します。確認のためには<a href="https://www.rjlsoftware.com/software/utility/winproductkey/download.shtml">Windows Product Key Viewer</a>を使いました。
 
 
 ### インストールメディアの準備
@@ -58,19 +54,15 @@ Surface PRO2をUSBメディアからブートできるように設定を変更�
 
 なかなかUSBからブートしてくれなくて、何度もやり直しました。
 
-<a href="https://www.microsoft.com/surface/ja-jp/support/storage-files-and-folders/boot-surface-from-usb-recovery-device?os=windows-10">USB デバイスから Surface を起動する</a>
+<a href="https://www.microsoft.com/surface/ja-jp/support/storage-files-and-folders/boot-surface-from-usb-recovery-device?os=windows-10">USBデバイスからSurfaceを起動する</a>
 
-USBメモリから起動できたら、後は画面の流れに従ってWindows10をインストールすればOKです。ちなみに、クリーンインストールを行うためにはハードディスクのフォーマットが必要になりますが、フォーマットするドライブを間違えないように気を付けましょう。Windowsがインストールされている、一番容量の大きいパーティションを選びます。
-
+USBメモリから起動できたら、後は画面の流れにしたがってWindows10をインストールすればOKです。ちなみに、クリーンインストールを行うためにはハードディスクのフォーマットが必要になりますが、フォーマットするドライブを間違えないように気を付けましょう。Windowsがインストールされている、一番容量の大きいパーティションを選びます。
 
 ## インストール後のハマリポイント
 
-
-
 ### Windows Updateがうまくいかない
 
-
-システムファームウェアの更新 &#8211; 2015/07/23 エラー 0x80200056というエラーが発生して、システムファームウェアが更新されませんでした。デバイスマネージャを確認すると、注意マークがついたデバイスがほかのデバイスのところに4つ表示されていました（PCIシンプル通信コントローラ、SMバスコントローラ、不明なデバイス、不明なデバイス）。
+システムファームウェアの更新 &#8211; 2015/07/23エラー 0x80200056というエラーが発生して、システムファームウェアが更新されませんでした。デバイスマネージャを確認すると、注意マークがついたデバイスが他のデバイスのところに4つ表示されていました（PCIシンプル通信コントローラ、SMバスコントローラ、不明なデバイス、不明なデバイス）。
 
 これはWindows Updateの詳細オプションで、「Windowsの更新時に他のMicrosoft製品の更新プログラムも入手します」にチェックを入れたら解消しました。
 
@@ -100,12 +92,11 @@ Surface PRO2にはOfficeがプリインストールされています。しか�
 
 Windows10のクリーンインストールを行ったらOfficeは諦めないといけないのか・・・。Officeの存在をすっかり忘れていてちょっと焦りました。
 
-結論から言うと、プロダクトキーさえちゃんと保管していれば大丈夫でした。<a href="https://downloadoffice.getmicrosoftkey.com/">ここのページ</a>でプロダクトキーを入力すると、Officeをダウンロードすることが出来ます。
+結論からいうと、プロダクトキーさえちゃんと保管していれば大丈夫でした。<a href="https://downloadoffice.getmicrosoftkey.com/">ここのページ</a>でプロダクトキーを入力すると、Officeをダウンロードすることができます。
 
 <a href="https://www.microsoft.com/ja-jp/office/2013/pipcsetup/pipc_re_setup.aspx">Officeの再インストール</a>
 
 Windows10をクリーンインストールしても、Surface PRO2にOfficeをインストールすることは可能ですのでご安心を。
-
 
 ### 勝手にスリープから復帰する
 
@@ -122,7 +113,7 @@ Windows10アップグレード前は、パソコンから離れる際はシャ�
 
 ＜追記＞
 
-やっぱりこれだけでは症状は改善しませんでした。最終的にはUSBルートハブなどのUSB周りからのスリープ復帰を受け付けないようにしてみました。スリープ復帰時にこれは普通に使う方法だったので封じたくはありませんでした。イベントビューアを見る限りキーボードなどによる復帰であれば、スリープ復帰の原因にUSBによる復帰と明記されていたので、USBまわりが悪いとは思えませんでしたが、一応ためしてみることにしました。これでしばらく様子見です。
+やっぱりこれだけでは症状は改善しませんでした。最終的にはUSBルートハブなどのUSB周りからのスリープ復帰を受け付けないようにしてみました。スリープ復帰時にこれは普通に使う方法だったので封じたくはありませんでした。イベントビューアを見る限りUSBまわりが悪いとは思えませんでしたが、一応ためしてみることにしました。これでしばらく様子見です。
 
 ＜再追記＞
 
@@ -148,7 +139,4 @@ Windows10アップグレード前は、パソコンから離れる際はシャ�
 
 <a href="https://kiritsume.com/2015/08/04/easier-way-to-clean-install-free-upgraded-windows10/" rel="nofollow">【改善】無償アップグレード版のWindows 10をもう少しだけ簡単にクリーンインストールする方法</a>
 
-<a href="https://www.microsoft.com/surface/ja-jp/support/storage-files-and-folders/boot-surface-from-usb-recovery-device?os=windows-10">USB デバイスから Surface を起動する</a>
-
-
-  
+<a href="https://www.microsoft.com/surface/ja-jp/support/storage-files-and-folders/boot-surface-from-usb-recovery-device?os=windows-10">USBデバイスからSurfaceを起動する</a>

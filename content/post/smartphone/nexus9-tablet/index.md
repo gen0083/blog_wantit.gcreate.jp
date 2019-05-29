@@ -2,13 +2,12 @@
 title: コンパクトな最新OS搭載Androidタブレット、Nexus9をレビュー
 slug: nexus-9-tablet
 description: 今までiPad2を使っていたのですが、思うところあってNexus9へ乗り換えました。私がAndroid端末に慣れていることもあって非常に使いやすいです。電子書籍もPlayブックスで快適に閲覧できています。
-
-
 featuredimage: images/cover/pc.jpg
 date: 2015-02-03
 lastmod: 2015-04-01
 tags: 
     - Android
+    - タブレット
 product:
     name: 'Nexus9 16GB'
     rate: '3.5'
@@ -20,13 +19,13 @@ product:
 
 別にiPad2の性能に不満があったから買い替えたわけではありません。そもそもタブレットはそんなに活用していたわけではありません。電子書籍見たり、テレビ東京ビジネスオンデマンド見たりとか、それくらいの使い方しかしてません。
 
-ただ、長いことAndroidスマホを使っていたことから、どうにもiOSの操作性に慣れなくて、ソフトウェアキーボード使うときにストレスを感じていたのは確かです。日本語入力なのかアルファベット入力なのか把握しきれず間違えたり、「＠」を入力するのにいちいち記号に切り替えないといけないのが不便です。
+ただ長いことAndroidスマホを使っていたことから、どうにもiOSの操作性に慣れなくて、ソフトウェアキーボード使うときにストレスを感じていたのは確かです。日本語入力なのかアルファベット入力なのか把握しきれず間違えたり、「＠」を入力するのにいちいち記号に切り替えないといけないのが不便です。
 
 その点、Android（Google日本語入力）は、qwerty配列にしておけばスペースキーの左に「＠」ありますし、フリック入力を利用することでそのまま数字も入力できて便利です。（入力欄がemailの指定されている場合ですけどね）
 
 ![Google日本語入力のキー配列、フリックで数字が入力可能](1d656159a6926bac4ab9a6eb8973c101.jpg)
 
-iPad2とサイズを比較すると、横幅が一回り小さいです。比較している端末が古いので、比較の意味があるか微妙ですけどね。
+iPad2とサイズを比較すると、横幅が1回り小さいです。比較している端末が古いので、比較の意味があるか微妙ですけどね。
 
 ![iPad2とのサイズの比較](78811e3e468c7e9828e750469895a601.jpg)
 
@@ -38,7 +37,7 @@ iPadではKindleとiBooksを使って電子書籍を見ていました。EPUBや
 
 Nexusに乗り換えるにあたって心配だったのが、EPUBやPDF形式の電子書籍がちゃんと見れるかどうかということでした。
 
-Androidだと標準のアプリはPlayブックスになります。閲覧するためには、Google Play上にEPUBやPDF形式の電子書籍を一旦アップロードしてやる必要があります。
+Androidだと標準のアプリはPlayブックスになります。閲覧するためには、Google Play上にEPUBやPDF形式の電子書籍をいったんアップロードしてやる必要があります。
 
 直接データを端末に移すことはできませんが、その代わりに閲覧状況が端末をまたいでも引き継がれるのが便利なところです。
 
@@ -74,7 +73,6 @@ Kindleだとフォントサイズが特定の大きさになると表示が崩�
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00PTQA5LO/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/51jCzCyWOWL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00PTQA5LO/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">【MOKO】Google Nexus 9 超薄 軽量型ケース Google Nexus 9 8.9 インチ Volantis Flounder Android 5.0 Lollipop tablet by HTC T1用マグネット開閉式 三つ折 高品質PU レザーケース (ブラック)</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> MOKO     </div>
@@ -85,13 +83,13 @@ Kindleだとフォントサイズが特定の大きさになると表示が崩�
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 本体だけで使うよりはカバーがあった方がいい気がします。手触りもいいし、簡易スタンドにもなるし、カバーを閉じれば自動的にスリープ状態になってくれます。
 
 ![簡易スタンドになるカバー](5dcfea95d1aad58ac5c8742094c20e3b.jpg)
 
 端末のサイズがiPad2と比べて小さいのでカバーがついていてもかさばりません。
 
-ぶっちゃけてしまうと、必要だから買ったわけではなく、なんとなく入札したらそのまま落札出来てしまったという経緯で手に入ったので、「これだ！」ってことが書けなくて申し訳ないです。「こういうところどうなの？」というご質問があればお答えしたいと思いますので、お気軽にどうぞ。
+ぶっちゃけてしまうと、必要だから買ったわけではなく、なんとなく入札したらそのまま落札できてしまったという・・・。そんな経緯で手に入ったので、「これだ！」ってことが書けなくて申し訳ないです。
 
-
-  
+「こういうところどうなの？」というご質問があればお答えしたいと思いますので、お気軽にどうぞ。

@@ -2,13 +2,12 @@
 title: ずっとやりたかった昔懐かしい感じのRPG、ブレイブリーデフォルトをレビュー
 slug: 3-ds-braverydefault-forthesequel
 description: ずっと前からやりたいなと思っていたブレイブリーデフォルトをついに買いました。オーソドックスなRPGに飢えている人は是非プレイしてみてください。素敵な音楽と程よい難易度、そして奥深いやりこみ要素が出迎えてくれます。
-
-
 featuredimage: images/cover/game.jpg
 date: 2014-10-30
 lastmod: 2015-05-01
 tags: 
     - 3DS
+    - RPG
 product:
     name: 'ブレイブリーデフォルトフォーザシークウェル'
     number: 'B00KW2OREQ'
@@ -23,9 +22,7 @@ product:
 
 3DSを持っているのであれば、4章までは無料でプレイできるので、「本当に面白いの？」と思う方はダウンロードして遊んでみるといいと思います。
 
-
 ## オリジナルシステム
-
 
 基本的には古きよきFFって感じのゲームです。戦闘はターン制で、コマンド入力して戦っていく。
 
@@ -35,7 +32,7 @@ product:
 
 基本的にキャラクターは1ターンに1回しか行動できないのですが、ブレイブを行うことでターンの前借りを行い、1ターンに複数行動することができます。前借りした分、次に回ってくるはずだったターンはそのキャラクターは行動することができません。
 
-反対にデフォルトはターンを貯めるイメージです。デフォルトは通常のゲームで言えば「防御」も兼ねています。このゲームでは防御した分のターンを貯金して、後でブレイブを使って一気に挽回することがデキるのです。
+反対にデフォルトはターンを貯めるイメージです。デフォルトは通常のゲームでいえば「防御」も兼ねています。このゲームでは防御した分のターンを貯金して、あとでブレイブを使って一気に挽回することがデキるのです。
 
 この仕組は意外と奥が深く、雑魚戦といえども適度な緊張感を持って臨むことができます。ボス戦は特にそうで、気を抜いたら容赦なく全滅させられます。当然敵もこのブレイブとデフォルトを利用してくるので、余裕だと思っていたらブレイブによる連続攻撃を受けて全滅したなんてこともありえます。
 
@@ -47,9 +44,7 @@ product:
 
 貧乏性な私はもったいなくてなかなか使えず、基本的にその存在を忘れたままプレイしております。あったら便利、なくても大丈夫な難易度になっているので、「課金アイテムなんてけしからん」と腹を立てるほどのものでもないと思います。
 
-
 ## 程よい難易度
-
 
 ブレイブとデフォルトによる戦闘の奥深さもあってか、特にボス戦が歯ごたえがあってかなり白熱します。一番最初のボスからかなり強くて泣きたくなりました。
 
@@ -59,9 +54,7 @@ product:
 
 エンカウント率も自分で設定できます。ダンジョンをくまなく探検したいときにはエンカウントをゼロにしたり、レベル上げしたいときは逆にエンカウント率を上げて効率よくしたりといったことができます。
 
-
 ## 音楽がいい
-
 
 フィールドマップの音楽が好きでしてね。どんな音楽かはブラウザゲームを遊ぶと聞けると思います。
 
@@ -73,7 +66,6 @@ product:
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B008OJ7SOU/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/51BN5fN2DvL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B008OJ7SOU/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">ブレイブリーデフォルト フライング・フェアリー オリジナル・サウンドトラック</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail">Revo SMD itaku (music) 2012-10-10    </div>
@@ -84,13 +76,13 @@ product:
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 ちなみにゲーム内BGMのボーカライズバージョンもあります。
 
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0089R3TTK/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/61QurUCiu-L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0089R3TTK/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">ルクセンダルク大紀行 (通常盤)</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail">Linked Horizon ポニーキャニオン 2012-09-19    </div>
@@ -101,9 +93,7 @@ product:
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 ジャケット見るとブレイブリーデフォルトと思えないんですけどね。ちなみに私は「雛鳥」という曲が大好きです。カラオケでもよく歌います。ゲームやってようやく歌詞の意味が分かってきました。
 
 まだゲームは序盤の方なので、ゲーム内で聞けるのが楽しみです。
-
-
-  

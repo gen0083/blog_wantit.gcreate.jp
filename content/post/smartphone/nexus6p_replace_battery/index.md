@@ -2,21 +2,18 @@
 title: Nexus6Pのバッテリを交換した
 slug: nexus-6-p-replace-battery
 description: Nexus6Pのバッテリ寿命がきてしまったので自分で交換作業を行った。使用頻度が低いので失敗してもいいやの精神で行った。工具付きのリーズナブルなバッテリがあったのでそれを利用した。動画などで分解する情報が比較的豊富なので、そちらを参考にすればできると思うが、あくまで自己責任で挑戦されたし。
-
-
 featuredimage: images/cover/smartphone.jpg
 date: 2019-03-21
 lastmod: 2019-03-21
 tags: 
     - DIY
     - スマホ
+    - バッテリ
 product:
     name: 'Nexus6P　バッテリー交換用'
     rate: '4'
     comment: '工具付きで交換ができた。やるなら自己責任で'
-    rakuten: '<table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/hgc/17d35250.d38cb7b9.17d35251.4a35c1b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairnetjapan%2Fgoogle_607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairnetjapan%2Fi%2F10000527%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  ><img src="https://hbb.afl.rakuten.co.jp/hgb/17d35250.d38cb7b9.17d35251.4a35c1b4/?me_id=1305188&item_id=10000527&m=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fairnetjapan%2Fcabinet%2Fphone%2Fgoogle_gokan%2Fb-607_kensaku_.jpg%3F_ex%3D80x80&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fairnetjapan%2Fcabinet%2Fphone%2Fgoogle_gokan%2Fb-607_kensaku_.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/hgc/17d35250.d38cb7b9.17d35251.4a35c1b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairnetjapan%2Fgoogle_607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairnetjapan%2Fi%2F10000527%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  >(YP)B-607【GOOGLE 互換品】【送料無料】 NEXUS 6P 高品質　専用互換バッテリー 交換用 取り付け工具セット付 バッテリー 電池パック google nexus6P （ビッグハート）P23Jan16</a>
-<div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/hgc/17d35250.d38cb7b9.17d35251.4a35c1b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairnetjapan%2Fgoogle_607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairnetjapan%2Fi%2F10000527%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  ><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0"></a><a href="https://hb.afl.rakuten.co.jp/hgc/17d35250.d38cb7b9.17d35251.4a35c1b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairnetjapan%2Fgoogle_607%2F%3Fscid%3Daf_pc_bbtn&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairnetjapan%2Fi%2F10000527%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ==" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  ><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff !important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;">楽天で購入</div></a></div></td><tr></table></div>
-</td></tr></table>'
+    rakuten: '<table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/hgc/17d35250.d38cb7b9.17d35251.4a35c1b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairnetjapan%2Fgoogle_607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairnetjapan%2Fi%2F10000527%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  ><img src="https://hbb.afl.rakuten.co.jp/hgb/17d35250.d38cb7b9.17d35251.4a35c1b4/?me_id=1305188&item_id=10000527&m=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fairnetjapan%2Fcabinet%2Fphone%2Fgoogle_gokan%2Fb-607_kensaku_.jpg%3F_ex%3D80x80&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fairnetjapan%2Fcabinet%2Fphone%2Fgoogle_gokan%2Fb-607_kensaku_.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/hgc/17d35250.d38cb7b9.17d35251.4a35c1b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairnetjapan%2Fgoogle_607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairnetjapan%2Fi%2F10000527%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  >(YP)B-607【GOOGLE 互換品】【送料無料】 NEXUS 6P 高品質　専用互換バッテリー 交換用 取り付け工具セット付 バッテリー 電池パック google nexus6P （ビッグハート）P23Jan16</a> <div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/hgc/17d35250.d38cb7b9.17d35251.4a35c1b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairnetjapan%2Fgoogle_607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairnetjapan%2Fi%2F10000527%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  ><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0"></a><a href="https://hb.afl.rakuten.co.jp/hgc/17d35250.d38cb7b9.17d35251.4a35c1b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairnetjapan%2Fgoogle_607%2F%3Fscid%3Daf_pc_bbtn&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairnetjapan%2Fi%2F10000527%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ==" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  ><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff !important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;">楽天で購入</div></a></div></td><tr></table></div> </td></tr></table>'
 ---
 
 Nexus6Pのバッテリを交換した。
@@ -27,15 +24,15 @@ Nexus6Pのバッテリを交換した。
 
 しかし電源ケーブルを繋ぎっぱなしと言っても、それはコンセントに接続していればの話だ。パソコンとUSBケーブルでつないだ状態では、起動時に必要な電力が賄えないらしく、OSすら立ち上がらない。仕方がないのでコンセントから給電しながら起動→しばらくそのままにしておく→頃合いを見計らってパソコンのケーブルに差し替えるという手順を踏んでいた。これもケーブルの繋ぎ変えに手間取ったら電源が落ちるのであまりいい解決方法でもない。なにより面倒くさくて仕方がない。
 
-普段使っている端末は別にあるし、アプリ開発時もそちらでやることの方が多くなり、Nexus6Pはずっと放置していたのだが、いい加減にバッテリ交換をすることにした。
+普段使っている端末は別にあるし、アプリ開発時もそちらでやることの方が多くなり、Nexus6Pはずっと放置していた。しかしそれもいい加減にもったいないので、バッテリ交換をすることにした。
 
 業者を利用するか自分で交換するかで少し迷ったが、端末を郵送で送ったりするのは手間なので、壊れて再起不能になることも覚悟の上で自分で交換することにした。
 
-結果的には、壊れることもなく、パネルが破損することもなく、無事に交換することができた。交換後の状態は、遠目から見れば分解したのかわからないような状態である。
+結果的には、壊れることもなく無事に交換することができた。交換後の状態は、遠目から見れば分解したのかわからないような状態である。
 
 <img src="https://wantit.gcreate.jp/wp-content/uploads/2019/03/2756e75e7ca99a9e78b5ccf0d79325ff.jpg" alt="交換後の背面" title="交換後の背面.jpg" width="404" height="600">
 
-近寄ってみれば、ところどころ傷が入ったりしているのがわかるが、分解によらない傷も多いのであんまり目立たない。
+近寄ってみれば、ところどころ傷が入ったりしているのが分かるが、分解によらない傷も多いのであんまり目立たない。
 
 買ったのは交換作業に使えるちょっとしたツールとセットになって1980円というバッテリ。
 
@@ -51,12 +48,9 @@ Nexus6Pのバッテリを交換した。
 <td style="vertical-align:top;width:248px;">
 <p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/hgc/17d35250.d38cb7b9.17d35251.4a35c1b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairnetjapan%2Fgoogle_607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairnetjapan%2Fi%2F10000527%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;">(YP)B-607【GOOGLE 互換品】【送料無料】 NEXUS 6P 高品質　専用互換バッテリー 交換用 取り付け工具セット付 バッテリー 電池パック google nexus6P （ビッグハート）P23Jan16</a>
 <span>価格：1980円（税込、送料別)</span> <span style="color:#BBB">(2019/2/5時点)</span>
-
 <div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/hgc/17d35250.d38cb7b9.17d35251.4a35c1b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairnetjapan%2Fgoogle_607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairnetjapan%2Fi%2F10000527%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"><img alt=""  src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0"></a><a href="https://hb.afl.rakuten.co.jp/hgc/17d35250.d38cb7b9.17d35251.4a35c1b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairnetjapan%2Fgoogle_607%2F%3Fscid%3Daf_pc_bbtn&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairnetjapan%2Fi%2F10000527%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ==" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;">
-
 <div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff !important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;">楽天で購入</div>
 </a><a href="https://hb.afl.rakuten.co.jp/hgc/17d35250.d38cb7b9.17d35251.4a35c1b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairnetjapan%2Fgoogle_607%2F%3Fscid%3Daf_pc_bbtn&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairnetjapan%2Fi%2F10000527%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ==" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"></a>
-
 </div>
 </td>
 </tr>
@@ -93,11 +87,11 @@ Nexus6Pのバッテリを交換した。
 ## 分解開始
 
 
-最初に断っておくが、私の場合はうまくいったがこの通りにやればきれいに交換できることを保証するものではない。やるなら自己責任でどうぞ。
+最初に断っておくが、私の場合はうまくいったがこのとおりにやればきれいに交換できることを保証するものではない。やるなら自己責任でどうぞ。
 
 まず最初にSIMトレイを外しておく。SIMトレイ外すのは最初にやっておいたほうがいいだろう。あとに回すと間違いなく忘れる。
 
-端末背面の白いラインっぽい部分とカバーの隙間にデザインナイフを差し込み、ドライヤーで徐々に熱しながら浮かせる。この際、無理に刃を入れるとデザインナイフが折れて危ないので気をつける(何回か切っ先が欠けた)。
+端末背面の白いラインっぽい部分とカバーの隙間にデザインナイフを差し込み、ドライヤーで徐々に熱しながら浮かせる。この際、無理に刃を入れるとデザインナイフが折れて危ないので気をつける（何回か切っ先が欠けた）。
 
 <img src="https://wantit.gcreate.jp/wp-content/uploads/2019/03/a477249c845f14f89132565a2fde97f2.jpg" alt="カバー部分でデザインナイフを差し込む場所" title="カバーのデザインナイフを差し込む場所.jpg" width="599" height="496">
 
@@ -107,7 +101,7 @@ Nexus6Pのバッテリを交換した。
 
 <img src="https://wantit.gcreate.jp/wp-content/uploads/2019/03/2eca5245d65abb9d9609d3d9a800ed91.jpg" alt="ガラスパネル部分でデザインナイフを差し込む場所" title="ガラスパネルの場所.jpg" width="599" height="432">
 
-カバーとガラスパネルががはがせたらネジを外す。ネジは上部(カメラ部分)1箇所、下部の部分にも一箇所シールでネジが隠されている部分があるので注意。上部のネジを2本、下部の4本を外せば本体を取り外す作業に移る。
+カバーとガラスパネルががはがせたらネジを外す。ネジは上部（カメラ部分）1箇所、下部の部分にも一箇所シールでネジが隠されている部分があるので注意。上部のネジを2本、下部の4本を外せば本体を取り外す作業に移る。
 
 本体を外すのはバッテリのおまけでついてきた吸盤とぶ厚めのピックを使った。吸盤で手前に引っ張りながらケースの外周部分を分厚いピックで抑える。ある程度浮いて薄いペラペラなピックを本体とケースの隙間に差し込む。そうやりながら徐々に外していく。
 
@@ -115,13 +109,13 @@ Nexus6Pのバッテリを交換した。
 
 吸盤であまり無理に引っ張らないほうがいいようだが、私の場合は運が良かったのか無事に外せた。液晶保護フィルムをつけたまま作業をしたのが良かったのかもしれない。
 
-作業風景を撮影したりはしていないので画像はない。iFixitのサイトを参照するのが良いだろう。
+作業風景を撮影したりはしていないので画像はない。iFixitのサイトを参照するのがよいだろう。
 
 液晶部分とケースを分離できればあとは必要なコネクタを外してバッテリをリプレースするだけである。
 
 基盤部分に直接熱風を当てるのははばかられたので、バッテリを外す際にドライヤーで熱することはしなかった。おかげで接着剤がなかなか剥がれず苦労した。バッテリを取り外すのが一番大変だったかもしれない。バッテリのおまけで付いてきたピンセットを使ってなんとか取り外すことができた。
 
-バッテリを交換できればあとは逆の手順で取り外したものを取り付けていけば良い。
+バッテリを交換できればあとは逆の手順で取り外したものを取り付けていけばよい。
 
 一応両面テープっぽいものがバッテリには付属していたのだが、私は使わなかった。カバーもガラスパネルも単にはめ直しただけである。
 
@@ -129,9 +123,6 @@ Nexus6Pのバッテリを交換した。
 ## 交換後の状況
 
 
-バッテリ交換したあとは電池の状況は改善された。少なくとも、バッテリ残量が80%以上あるのにいきなり電源が落ちることはなくなった。もっとも、すでに普段遣いする端末ではなくなっているので、バッテリが持つようになったところで特に恩恵があるわけではないのだけれど。
+バッテリ交換したあとは電池の状況は改善された。少なくとも、バッテリ残量が80%以上あるのにいきなり電源が落ちることはなくなった。もっとも、すでに普段遣いする端末ではなくなっているので、バッテリがもつようになったところで特に恩恵があるわけではないのだけれど。
 
 とはいえほぼほぼ単なる文鎮でしかない状態から、検証端末としていつでも利用できる状態には改善された。少ない出費で直ったのだからめでたしめでたしである。
-
-
-  

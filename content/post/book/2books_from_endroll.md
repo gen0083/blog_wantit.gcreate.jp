@@ -2,13 +2,12 @@
 title: あとがきから広げる読書の輪、愚者のエンドロールから読んでみた2冊
 slug: 2-books-from-endroll
 description: 前回「遠まわりする雛」のあとがきに紹介されていた本を読んで、思いの外楽しめたことに味をしめました。そこで同じように同著者の「愚者のエンドロール」のあとがきにて紹介されていた、「毒入りチョコレート事件」と「探偵映画」を読んでみました。
-
-
 featuredimage: images/cover/book.jpg
 date: 2015-07-31
 lastmod: 2015-08-05
 tags: 
     - 小説
+    - ミステリ
 product:
     name: '愚者のエンドロール'
     number: '404427102X'
@@ -23,21 +22,19 @@ product:
 
 登場人物たちが1つの状況を元に、異なる推理を組み上げていくという部分が「毒入りチョコレート事件」を、途中まで撮影された映画を元に結末を推理していくという部分が「探偵映画」を彷彿させるということです。
 
-
 ## 毒入りチョコレート事件
-
 
 1つの事件に対して、複数の人が推理をしていく形式のお話です。まったく同じ情報を元にしても、構成次第でいろんな推理が出てくるんだというところが面白い話、なんでしょう。
 
 ですが、私はこの作品はあまり楽しめませんでした。
 
-話の内容は面白いと思います。同じ情報でも受け取り方によって解釈の仕方が異なる所は面白いです。それに話の構成も、他の人の推理を元に自説を補正していき、証拠固めをしていって核心に迫ったと思ったら、次の人に見事にひっくり返されてしまうあたりとかも面白いです。
+話の内容は面白いと思います。同じ情報でも受け取り方によって解釈の仕方が異なる所は面白いです。他の人の推理を元に自説を補正していき、証拠固めをしていって核心に迫ったと思ったら、次の人に見事にひっくり返されてしまうくだりがとかも面白いです。
 
-しかしながら、表面的なところで純粋には楽しめませんでした。とにかく読むのが面倒くさかったんです。
+しかしながら、表面的なところでは純粋には楽しめませんでした。とにかく読むのが面倒くさかったんです。
 
-この作品は、上流階級の人たちが実際に起こった事件を肴に推理ゲームをするという体です。会員制の秘密倶楽部内で行われる推理ゲームであることもあって、登場人物たちの推理披露ショーがとにかくくどい。上流階級の人がしゃべるセリフとしてはとても適当なんだとは思いつつも、もったいぶった言い回しに辟易してしまいました。
+この作品は、上流階級の人たちが実際に起こった事件を肴に推理ゲームをするという体です。会員制の秘密倶楽部内で行われる推理ゲームであることもあって、登場人物たちの推理披露ショーがとにかくくどい。上流階級の人がしゃべるセリフとしてはとても適切なんだとは思いつつも、もったいぶった言い回しに辟易してしまいました。
 
-セリフの閉じカッコが妙な位置に出てきたりするのも気になって、純粋に物語に集中することが出来ませんでした。そんな感じで始終話の内容よりも表面的なところが気になって仕方がありませんでした。
+セリフの閉じカッコが妙な位置に出てきたりするのも気になって、純粋に物語に集中することができませんでした。そんな感じで始終話の内容よりも表面的なところが気になって仕方がありませんでした。
 
 話の内容が面白くても、読みにくい本は私は苦手なのだということでしょう。古典であることと翻訳文であることも影響があるかもしれません。Wikipediaを見るとなるほどすごい作品だなと思えるんですけどね。私は推理小説が好きだというわけではないんだと思います。
 
@@ -45,7 +42,6 @@ product:
 <div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4488123058/illusionspace-22/" target="_blank" ><img alt=""  src="https://ecx.images-amazon.com/images/I/51v41o7XZQL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
 <div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4488123058/illusionspace-22/" target="_blank" >毒入りチョコレート事件【新版】 (創元推理文庫)</a>
-
 <div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">アントニイ・バークリー 東京創元社 2009-11-10    </div>
@@ -54,7 +50,6 @@ product:
 <div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B007TAKIP6/illusionspace-22/" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6239336%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>
 <div class="shoplinkkino"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882196163&#038;vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784488123055" target="_blank" >紀伊國屋書店<img alt=""  src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882196163" height="1" width="1"></a></div>
-
 </div>
 </div>
 <div class="booklink-footer"></div>
@@ -62,10 +57,9 @@ product:
 
 ## 探偵映画
 
-
 こちらはAmazonのレビューで「映画ネタが多い」という意見が散見されたのですが、実際に読んでみると確かに映画ネタが多かったです。
 
-ちなみに私は映画はまったく見ない人なので、本書に出てくる映画は何一つとして分かりませんでした。ですが序盤に出てくる映画の話は、推理小説における叙述トリックのような技法が映画にもあるよという話の流れで出てくるもので、分からないからといって大勢に影響はありません。話の流れのテンポがいいのもあって、特に気になることなく読み進めることが出来ました。
+ちなみに私は映画はまったく見ない人なので、本書に出てくる映画は何ひとつとして分かりませんでした。ですが序盤に出てくる映画の話は、推理小説における叙述トリックのような技法が映画にもあるよという話の流れで出てくるもので、分からないからといって大勢に影響はありません。話の流れのテンポがいいのもあって、特に気になることなく読み進めることができました。
 
 一方、終盤に出てくる映画のネタについては、その映画を知っているかどうかで結末への理解が変わってくるほどには影響があります。私はもちろん映画のネタが分かりませんから、「つまりどういうことなんだってばよ？」と置いてけぼり気分を味わいました。しかしその一方で、この映画ネタの使い方は見事だなとも思いました。おそらくここの部分を詳しくない人にも分かるように書いてしまうと、逆に興冷めしてしまうおそれがあると思います。多くを語らないことで、より情緒的になっているのです。
 
@@ -81,7 +75,6 @@ product:
 <div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4167773201/illusionspace-22/" target="_blank" ><img alt=""  src="https://ecx.images-amazon.com/images/I/51RfXKWZAmL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
 <div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4167773201/illusionspace-22/" target="_blank" >探偵映画 (文春文庫)</a>
-
 <div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">我孫子 武丸 文藝春秋 2009-12-04    </div>
@@ -90,10 +83,7 @@ product:
 <div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00OT5J0JE/illusionspace-22/" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/11acbc01.369b1bf6.11acbc02.cabf9fe9/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6259736%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" target="_blank" >楽天ブックス</a></div>
 <div class="shoplinkkino"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&#038;pid=882196163&#038;vc_url=http%3A%2F%2Fwww.kinokuniya.co.jp%2Ff%2Fdsg-01-9784167773205" target="_blank" >紀伊國屋書店<img alt=""  src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&#038;pid=882196163" height="1" width="1"></a></div>
-
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
-
-  

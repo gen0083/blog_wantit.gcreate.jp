@@ -2,13 +2,12 @@
 title: 窓からの隙間風が辛いので、すきまテープなどで対策してみた
 slug: sukimakaze-taisaku
 description: 窓ガラスからじんわりと伝わる冷たい空気で体調を崩してしまったので、隙間風対策グッズで対策することに。窓とサッシの隙間を埋めるためにすきまテープを。窓からの冷気を防ぐためにパネルを。そして仕上げに窓ガラスに省エネスプレーを吹きかけてみました。
-
-
 featuredimage: images/cover/other.jpg
 date: 2014-10-17
 lastmod: 2015-01-22
 tags: 
     - 防寒
+    - DIY
 product:
     name: '冷気ストップパネルM'
     rate: '3'
@@ -16,21 +15,20 @@ product:
     kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B000V2F2SW/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/51AbRd-nobL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B000V2F2SW/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">冷気ストップパネル M</a><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> ニトムズ 2006-11-13    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=%97%E2%8BC%83X%83g%83b%83v%83p%83l%83%8B&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%2586%25B7%25E6%25B0%2597%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2583%25E3%2583%2597%25E3%2583%2591%25E3%2583%258D%25E3%2583%25AB%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
 ---
 
-涼しいを通り越して寒くなりつつありますが、皆さんいかがお過ごしでしょうか。私は既に寒さに耐えられなくなってきております。むしろ寒さで体調を崩す始末であります。
+涼しいをとおり越して寒くなりつつありますが、皆さんいかがお過ごしでしょうか。私はすでに寒さに耐えられなくなってきております。むしろ寒さで体調を崩す始末であります。
 
 夏の終わり際あたりに、部屋のカーテンをブラインドに取り替えたのですが、窓からやってくる冷気がかなり辛いことに気づきました。いやいや、これはきっとドア側からくる冷気のせいであってブラインドにしたせいじゃない。ほら、部屋のドアを締めてみたらマシになるはず・・・って寒いやんけと、窓側からくる冷気を否定できませんでした。残念無念。
 
 ちなみにブラインドに変えたから、寒さのダイレクトアタックが辛いとは言い切れません。1年前のカーテンだった頃でも同じように寒かったかもしれません。しかし現実問題として窓側からなんかヒンヤリした空気が寄ってきていることに間違いはないのです。
 
-だからといって、いまさらカーテンの生活には戻れないので（出費的にも見た目的にも）、隙間風対策グッズ＋アルファを買ってきて、何とか改善しないものかと試してみることにしました。
-
+だからといって、いまさらカーテンの生活には戻れません（出費的にも見た目的にも）。隙間風対策グッズ＋アルファを買ってきて、何とか改善しないものかと試してみることにしました。
 
 ## 対策1　すきまテープ
-
 
 まずは窓枠の隙間を埋めることにしました。密閉度が増して寒さが和らぐかもしれません。
 
 <div data-role="amazonjs" data-asin="B004JLCQL2" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B004JLCQL2_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">ニトムズ すきまテープ徳用ロング 2巻パック 10mm×15mm×5m E1280</a><span class="amazonjs_indicator_footer"></span></div></div>
+
 窓のサッシ部分と、窓と窓の間に貼り付けました。
 
 ![窓のサッシ部分にとりつけたすきまテープ](62f1a766c1ee6874c9a6e22fdedc8afc.jpg)
@@ -41,7 +39,7 @@ product:
 
 窓の間に貼りつけたものは、貼った後で窓が閉まらなくなってしまいました。慌ててスポンジ部分を切り取りなんとか閉まるようになりましたが、おかげで高さがガタガタです。
 
-スポンジで柔らかいとはいえ、1cmの物が挟まるとさすがに窓の動きを阻害してしまいます。場所にもよるとは思いますが、ハサミ等で切って予め高さを調整しておいた方がいいかもしれません。
+スポンジで柔らかいとはいえ、1cmの物が挟まるとさすがに窓の動きを阻害してしまいます。場所にもよるとは思いますが、ハサミ等で切ってあらかじめ高さを調整しておいた方がいいかもしれません。
 
 ![すきまテープをはさみでカットしているところ](1b1e508400bec49025e077598958e612.jpg)
 
@@ -51,11 +49,10 @@ product:
 
 ![ドアの隙間にすきまテープを貼ったところ](b87f79486c412527e77f84d6851a74df.jpg)
 
-
 ## 対策2　冷気ストップパネル
 
-
 <div data-role="amazonjs" data-asin="B000V2F2SW" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B000V2F2SW_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">冷気ストップパネル M</a><span class="amazonjs_indicator_footer"></span></div></div>
+
 窓のところに立てかけるボードです。私が購入したのは、このタイプの製品の中でもボードの厚さが薄いタイプのものです。ボードの位置が目線の高さになるので、光が透過する分この製品がいいかなと思ったのです。
 
 窓とブラインドの間に設置するだけなので取り付けは簡単です。
@@ -66,18 +63,15 @@ product:
 
 光を阻害しないのはいいところですけどね。
 
-
 ## 対策3　断熱スプレー
 
-
 <div data-role="amazonjs" data-asin="B004WYOZBK" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B004WYOZBK_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">結露抑制 夏はヒンヤリ 冬はポカポカ 窓用省エネスプレー 寒い暑いその時</a><span class="amazonjs_indicator_footer"></span></div></div>
+
 隙間風対策ではありませんが、窓ガラスに窓用断熱スプレーを吹きかけてみました。これは今回のために買ってきたものではなく、夏場の断熱用に買ってきて余っていたものを流用しただけです。
 
 効果の程は多分気休めレベルだと思います。
 
-
 ## 結果はどうだったか
-
 
 3つの対策を施したわけですが、気休めレベルの対策でも、3つ重ねてみれば多少の効果は表れるのではないでしょうか。というか表れていて欲しいです。
 
@@ -86,6 +80,3 @@ product:
 しかし相変わらず足元は寒いです。隙間風のせいかもと思って今回対策してみたわけですが、そもそも床自体が冷たいのかもしれません。
 
 床からの冷気対策はまた別途考えるとして、とりあえず窓からの冷気が和らいだ気がするレベルになってよかったなと思います。
-
-
-  

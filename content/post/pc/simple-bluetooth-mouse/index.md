@@ -2,14 +2,13 @@
 title: シンプルなBuffaloのBluetoothマウスを使ってみた感想
 slug: simple-bluetooth-mouse
 description: Surface PRO2をタブレットスタイルで利用している際に、ペンやタッチ操作では作業がしづらいときがあるので、そんなときのためのシンプルなBuluetoothのマウスを購入しました。余計な管理アプリを入れずに使えるのが魅力です。
-
-
 featuredimage: images/cover/pc-peri.jpg
 date: 2014-08-23
 lastmod: 2015-03-03
 tags: 
     - Bluetooth
     - ワイヤレス
+    - マウス
 product:
     name: 'iBUFFALO Bluetooth3.0対応 BlueLEDマウス NFC tag搭載モデル'
     number: 'BSMBB10NBK'
@@ -51,6 +50,3 @@ NFCタグを利用してペアリングができるようですが、Surface PRO
 その上で、サイドボタンがない（＝余計なユーティリティソフトをインストールする必要がない）マウスを選んだらこれになりました。
 
 ビッグカメラのポイント1000ptが期限切れを迎えるということで、何に使うか迷った挙句にこのマウスに投入しました。ポイントだけで買えませんでしたが、ポイント分を差し引いてもAmazonの方が安かったです・・・。
-
-
-  

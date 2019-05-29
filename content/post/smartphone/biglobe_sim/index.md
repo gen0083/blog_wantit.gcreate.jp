@@ -2,26 +2,22 @@
 title: 電話代を節約するべくBiglobe LTE・3G　音声通話SIMへMNPした感想
 slug: biglobe-sim
 description: 携帯料金を節約するために、ドコモからBiglobe LTE・3G通話SIMへとMNPしました。データ通信は月1GBまで速度無制限で利用でき、今まで使っていた電話番号もそのまま継続利用できます。
-
-
 featuredimage: images/cover/smartphone.jpg
 date: 2014-07-05
 lastmod: 2015-10-18
 tags: 
     - MVNO
+    - スマホ
 product:
     name: 'Biglobe LTE・3G　音声通話SIM'
     rate: '4'
     comment: '電話番号を確保しつつ携帯代を節約したい人へ'
-    kaeyome: '<a href="https://px.a8.net/svt/ejp?a8mat=2BRQTR+CTEZDM+B4+ICD5D" target="_blank">
-<img border="0" width="250" height="250" alt="" src="https://www27.a8.net/svt/bgt?aid=140702607775&wid=002&eno=01&mid=s00000000040003081000&mc=1"></a>
-<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=2BRQTR+CTEZDM+B4+ICD5D" alt="">
-<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=2BRQTR+CTEZDM+B4+IA7ZL" alt="">'
+    kaeyome: '<a href="https://px.a8.net/svt/ejp?a8mat=2BRQTR+CTEZDM+B4+ICD5D" target="_blank"> <img border="0" width="250" height="250" alt="" src="https://www27.a8.net/svt/bgt?aid=140702607775&wid=002&eno=01&mid=s00000000040003081000&mc=1"></a> <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=2BRQTR+CTEZDM+B4+ICD5D" alt=""> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=2BRQTR+CTEZDM+B4+IA7ZL" alt="">'
 ---
 
 携帯の端末分割支払いが終わったので、DocomoからBiglobe LTE・3G音声通話SIMへとMNPで転出することにしました。
 
-Biglobe LTE・3G　音声通話SIMはこんな人におすすめです。
+Biglobe LTE・3G　音声通話SIMはこんな人にお勧めです。
 
 <ul>
 <li>Wi-Fi環境のあるところにほとんどいる人</li>
@@ -31,7 +27,6 @@ Biglobe LTE・3G　音声通話SIMはこんな人におすすめです。
 
 ## 乗り換えるまでの私の利用形態
 
-
 私はそもそも自分からあまり電話をかけません。
 
 通信もほどんどWi-Fi環境で利用しています。パケット定額サービスも、Xiパケホーダイダブルを利用して、月額2000円で抑えていました。完全にWi-Fiのみで運用するために定額サービスを外すのはさすがにどうかなと思って、月に2000円だけは払っていました。
@@ -40,9 +35,7 @@ Biglobe LTE・3G　音声通話SIMはこんな人におすすめです。
 
 それがMVNOに乗り換えることで、通信速度の規制があるものの通信量を気にすることなく外出時にパケット通信が行えるようになります。これは私にとってものすごく便利になることなのです。
 
-
 ## 同様サービスとの比較検討
-
 
 同様サービスといっても、私が比較検討したのはB-Mobileだけです。両者の簡単な違いはこんな感じです。
 
@@ -70,8 +63,8 @@ Biglobe LTE・3G　音声通話SIMはこんな人におすすめです。
 <td>　</td>
 </tr>
 </table>
-128kbpsの通信速度にどの程度耐えられるのかというのがいまいち分かりません。通信規制にかかったら動画に撮ってご紹介できたらなと思っています。
 
+128kbpsの通信速度にどの程度耐えられるのかというのがいまいち分かりません。通信規制にかかったら動画に撮ってご紹介できたらなと思っています。
 
 ## 最短でも2日間ほど電話が利用できなくなる
 
@@ -90,7 +83,7 @@ MNPで今まで使っていた電話番号を引き続き利用できますが�
 
 SIMの入れ替え作業はいたって簡単です。
 
-端末の裏蓋を開けて、今まで刺さっていたSIMカードと取り替え、後はAPNの設定をしてしまえばそれで終わりです。5分もあれば出来てしまうほど簡単すぎて、これで大丈夫なのか逆に心配になるくらいです。
+端末の裏蓋を開けて、今まで刺さっていたSIMカードと取り替え、後はAPNの設定をしてしまえばそれで終わりです。5分もあればできてしまうほど簡単すぎて、これで大丈夫なのか逆に心配になるくらいです。
 
 ![Garaxy S3　SIM](P70423581.jpg)
 
@@ -112,9 +105,6 @@ SIMの入れ替え作業はいたって簡単です。
 
 Biglobeの通話SIMは、<em>通常の携帯電話番号がそのまま使え、1GBの制限はありますがLTE通信が利用できるいいとこどりのSIM</em>だと思います。
 
-料金はデータ通信専用のSIMと比べると高くなってしまいますが、090，080で始まる電話番号が使えるのが最大の利点です。MNPを利用することで、それまでと何ら変わらない状態で利用し続けることができます。私の場合は携帯のメールもGmailを使っているので、周りのみんなに「電話番号、メールアドレス変わりました」と連絡して回らなくてすみました。
+料金はデータ通信専用のSIMと比べると高くなってしまいますが、090・080で始まる電話番号が使えるのが最大の利点です。MNPを利用することで、それまでと何ら変わらない状態で利用し続けることができます。私の場合は携帯のメールもGmailを使っているので、周りのみんなに「電話番号、メールアドレス変わりました」と連絡して回らなくてすみました。
 
 面倒くさがりだけど、電話代は節約したい。でも電話番号は持っておきたいという人は検討してみてはいかがでしょうか。
-
-
-  

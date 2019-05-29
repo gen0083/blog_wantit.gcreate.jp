@@ -2,13 +2,12 @@
 title: 電動コーヒーミル　Melitta セレクトグラインドをレビュー
 slug: coffeemill
 description: コーヒーを飲み切るのに割と時間がかかるので、粉だと劣化が気になります。そこで豆を買ってコーヒーを淹れるようにしようと、電動ミルを購入しました。手動式のミルよりは楽かなと思いましたが、電動でも掃除が面倒くさかったです。
-
-
 featuredimage: images/cover/coffee.jpg
 date: 2013-09-18
 lastmod: 2016-02-17
 tags: 
     - 料理
+    - コーヒー
 product:
     name: 'Melitta セレクトグラインド'
     number: 'MJ-516'
@@ -28,16 +27,13 @@ product:
 
 本当は豆を焙煎するところからやろうかとも思ったのですが、いきなり手を出すにはハードルが高すぎるだろうと、まずは粉を買って淹れるとこから始めました。そしてそれにもだいぶ慣れてきたので、<em>そろそろ次のステップ</em>に入りたくなったのです。
 
-
 ## ポコポコ泡が出るのに憧れる
-
 
 コーヒーの粉にお湯を注ぐとポコポコ泡が出てくる・・・そんな状態に憧れていました。家で買っているコーヒーの粉はそこまで新鮮ではないようで、ほとんど膨らみません。新鮮なやつだともっと膨らんで、もっと美味しいのではないか。それがステップアップをしようと思ったきっかけです。
 
 コーヒーは生豆を買って保管したほうが劣化が少ないそうです。生豆、焙煎した状態、挽いた粉の状態、淹れた状態の順で劣化が早くなっていきます。粉の状態で不満であれば、焙煎した豆へと移行しようというわけです。
 
 焙煎した豆を粉にするには、ミルが必要になります。手で回すタイプ、電動タイプとあるが、今回は電動タイプを選ぶことにしました。手でゴリゴリ挽くのも面白そうなんですが、<em>手動だと面倒すぎる</em>という話を聞き、面倒くさくなったら意味が無いなと思い直して、<em>電動タイプにしました</em>。
-
 
 ## 使ってみてどうだったか
 
@@ -52,30 +48,24 @@ product:
 <tr>
 <td valign="top">
 <div style="border:1px solid;margin:0px;padding:6px 0px;width:320px;text-align:center;float:left"><a href="https://hb.afl.rakuten.co.jp/hgc/11be2770.9eec789a.11be2771.029f4a42/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fsawaicoffee-tea%2f418702%2f%3fscid%3daf_pc_link_img%26sc2id%3d297674608%26scid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fsawaicoffee-tea%2fn%2f418702%3fscid%3daf_pc_link_img%26sc2id%3d297674608" target="_blank"><img src="https://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fsawaicoffee-tea%2fcabinet%2fkan%2fimg61610290.jpg%3f_ex%3d300x300&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fsawaicoffee-tea%2fcabinet%2fkan%2fimg61610290.jpg%3f_ex%3d80x80" alt="【澤井珈琲】　5分で実感！！挽きたての香りをご堪能ください2006グルメ大賞受賞電動ミルが入った焼きたてコーヒーの福袋77　（コーヒー/コーヒー豆/珈琲豆/ミル）" style="margin:0px;padding:0px"></a>
-
 <p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px"><a href="https://hb.afl.rakuten.co.jp/hgc/11be2770.9eec789a.11be2771.029f4a42/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fsawaicoffee-tea%2f418702%2f%3fscid%3daf_pc_link_img%26sc2id%3d297674608%26scid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fsawaicoffee-tea%2fn%2f418702%3fscid%3daf_pc_link_img%26sc2id%3d297674608" target="_blank">【澤井珈琲】　5分で実感！！挽きたての香りをご堪能ください2006グルメ大賞受賞電動ミルが入った焼きたてコーヒーの福袋77　（コーヒー/コーヒー豆/珈琲豆/ミル）</a>
-
 </div>
 </td>
 </tr>
 </table>
+
 澤井珈琲というお店で、買おうと思った<em>ミルと豆がセットになって販売</em>されていて、お買い得だなと思いこちらで注文しました。
 
 お湯を注ぐともこもこ膨らんで、それを眺めるだけでもにやけてきます。それに薫りもたまらない。
 
 味の方は、自分でミルを使って挽いたもので淹れたコーヒーの方が断然美味しいです。まだ粉の状態で買ったやつが残っていたので、使いきろうとそっちを飲んでみると、なんか苦く感じます。コーヒーの鮮度が違うと、こんなに味が違うんだな・・・これはもう戻れないぞ。
 
-
 ## 追記：使った後の掃除について
-
 
 豆を挽き終わると、蓋と本体にかなり粉がこびりつきます。私は流しの上で、ティッシュを使って粉を拭き落としていますが、これが割と面倒です。
 
-静電気が発生してなのか、そう簡単には拭き取れない。特に蓋の方が厄介。掃除用のハケを使って予め粉を掃除してから、ティッシュで拭きあげていますが、結構面倒くさいです。なんかいい掃除の仕方を知っている人がいたら教えてください。
+静電気が発生してなのか、そう簡単には拭き取れない。特に蓋の方が厄介。掃除用のハケを使ってあらかじめ粉を掃除してから、ティッシュで拭きあげていますが、結構面倒くさいです。なんかいい掃除の仕方を知っている人がいたら教えてください。
 
 <a href="https://www.youtube.com/watch?v=SsOfK1x7XPE" target="_blank">コーヒーを淹れているところを動画に撮った（Youtube）</a>ので、良かったらご覧ください。
 
 <iframe width="480" height="270" src="//www.youtube.com/embed/SsOfK1x7XPE" allowfullscreen></iframe>
-
-
-  
