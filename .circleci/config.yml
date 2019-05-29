@@ -2,7 +2,7 @@ version: 2.1
 
 jobs:
   build:
-    working_directory: /go/src/github.com/{{ORG_NAME}}/{{REPO_NAME}}
+    working_directory: /go/src/github.com/gen0083/blog_wantit
     docker:
       - image: gen0083/circleci-hugo:1.0
     steps:
