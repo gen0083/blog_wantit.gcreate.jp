@@ -2,14 +2,13 @@
 title: Contour ROAMで自転車車載動画を撮影してみた
 slug: contour-roam-mount
 description: Contour ROAMで自転車で走っている様子を撮影しました。ハンドルに取り付けたり、ヘルメットに取り付けたりして撮影できます。ヘルメットに取り付けるとダイナミックな映像が撮れますが、ちょんまげつけているみたいで恥ずかしいのが玉に瑕です。
-
-
 featuredimage: images/cover/camera.jpg
 date: 2013-11-14
 lastmod: 2016-02-24
 tags: 
     - マウント
     - 動画
+    - カメラ
 product:
     name: 'Contour ハンドルバーマウント'
     number: '2780'
@@ -20,9 +19,7 @@ product:
 
 自転車に取り付けて風景を撮影することが目的だったので、さっそくContour ROAMを使って動画を撮影してきました。
 
-
 ## 撮影映像サンプル
-
 
 初期設定ではハーフHD（1280&#215;720）での撮影となります。
 
@@ -43,14 +40,12 @@ Contour ROAMで撮影してみた（Youtube版）
 
 ## 自転車用ハンドルバーマウント
 
-
 ![Contour バーマウント](PA071698.jpg)
 
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B005OTVU88/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/31DV6ypaE6L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B005OTVU88/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">【国内正規品】Contour バーマウント #2780</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Contour Inc. 2012-02-16    </div>
@@ -61,21 +56,19 @@ Contour ROAMで撮影してみた（Youtube版）
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 自転車などのハンドルバーにとりつけるためのマウントです。バーの太さに合わせて<em>スペーサーをかませて取り付けます</em>。スペーサーを<em>適切な大きさに切って</em>使う必要があります。横着して無理に下側の受け軸にスペーサーをかますと、ネジが締まらなくなります。（軸受けが広がって、垂直にならないせいだと思います）
 
 ガタガタ揺れる路面でも、カメラの基本的な向きは動きません。<em>走行中に勝手にカメラが下にずれていくということはない</em>ので安心です。絶妙な固定力で、走行中にカメラの向きの調整をするのは楽です。ただし<em>撮影されている映像が、ガタガタ揺れてしまうのはどうしようもありません</em>。
 
 バーマウントにとりつけると、カメラについている<em>マイクが役立たず</em>になります。<strong>ガタガタ揺れる音ばかり拾ってしまう</strong>ので、すぐ隣を走る車の音すらよく判別できなくなってしまいます。
 
-
 ## 自転車用ヘルメットマウント
-
 
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0041ZB0NG/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/41I-tgKvSTL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0041ZB0NG/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">【国内正規品】Contour 自転車ヘルメット用マウント #2550</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Contour Inc. 2010-09-01    </div>
@@ -86,15 +79,14 @@ Contour ROAMで撮影してみた（Youtube版）
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 取り付けると<strong>ちょんまげをつけている</strong>かのごとき見た目になってしいます。その代わりに、<strong>撮影できる画はダイナミックでいい感じになる</strong>ので悩ましいですね。
 
 自転車用のヘルメットについている穴（切れ込み）を利用して、バンドで締め付けて取り付けます。そのため、取り付け位置はあまり自由にできません。（ヘルメットの横に取り付けたりするのは難しい）
 
 <em>台座の部分がシリコーン</em>のようなものになっているため、ちゃんと押し付けられていれば撮影中の風圧程度は問題ないですが、<em>ベルトの締め付けによって固定しているだけ</em>なので、ちょっとした衝撃でずれてしまうかもしれません。
 
-
 ## 番外編：ハットマウント
-
 
 結構手軽に、しかもかなり高画質で撮影できるものだから、楽しくなって<em>自転車以外でも使いたい</em>と思い、帽子にとりつけるためのマウントも別途購入してみました。
 
@@ -102,7 +94,6 @@ Contour ROAMで撮影してみた（Youtube版）
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B006ZG18FO/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/41cUVzedXHL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B006ZG18FO/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">【国内正規品】Contour ハットマウント #3750</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Contour Inc. 2012-01-20    </div>
@@ -113,7 +104,5 @@ Contour ROAMで撮影してみた（Youtube版）
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 <a href="https://wantit.gcreate.jp/contour-hatmount/" title="Contourのハットマウントを導入して、フリーハンドで動画撮影">ハットマウントの記事はこちら</a>になります。
-
-
-  

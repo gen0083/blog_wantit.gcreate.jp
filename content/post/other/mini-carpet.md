@@ -2,13 +2,12 @@
 title: 山善 ミニマット(45角)ホットカーペットをレビュー
 slug: mini-carpet
 description: 部屋の床からくる寒さが辛いので、足元にミニホットカーペットを敷くことにしました。普通のホットカーペットと比べると、ほのかに温もりを感じる程度のあたたかさです。お風呂あがりにちょっとパソコンをいじりたいときに、買ってよかったと実感出来ました。
-
-
 featuredimage: images/cover/other.jpg
 date: 2014-10-24
 lastmod: 2015-03-03
 tags: 
     - 防寒
+    - 家電
 product:
     name: '山善(YAMAZEN) ミニマット(45角)ホットカーペット'
     number: 'YMM-W45T'
@@ -31,7 +30,6 @@ product:
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0069IOKLC/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/41C7JHDYetL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0069IOKLC/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">温波式足温器 デスクスパ</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> センチュリー     </div>
@@ -42,11 +40,10 @@ product:
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 それでもホットカーペットにしたのは、デスクスパは素足はやめとけって書いてあったのと、お値段がホットカーペットの約3倍もするからでした。それだったらミニカーペットの方がスマートかなと思ったのです。
 
-
 ## 電源入れてもほんのりとぬくいだけ
-
 
 早速使ってみました。
 
@@ -56,7 +53,7 @@ product:
 
 電源をつけてしばらくしてから切ると、徐々に冷たくなっていくのは実感できるので、それなりに暖かくなっているのは間違いなさそうです。
 
-補助暖房としても役不足ではないかと言われたら、そうかもしれません。普通の大きいサイズのホットカーペットのパワーを想像して買うと、ちょっとショックを受けることになると思います。
+補助暖房としても物足りないのではといわれると、確かにそうかもしれません。普通の大きいサイズのホットカーペットのパワーを想像して買うと、ちょっとショックを受けることになると思います。
 
 電源をつけっぱなしにしてしばらく離れ、再び戻ってきた時に足を乗せると「お、ちゃんとぬくいじゃないか」と感じました。そういう感じのほのかな温かさだと思っていただければ間違いないと思います。
 
@@ -68,9 +65,7 @@ product:
 
 もう1点気になったのが、フローリングの上だとこのマット自体がすぐに滑って動いてしまうことです。カーペットの裏側に、何らかのすべり止めを用意しないとツルツル動いてしまうので注意が必要です。
 
-例えば、キッチンの調理台の前にこれを敷いて、調理中に暖をとろうという使い方をする場合。バランスを崩しそうで怖いですね。フローリングの上で体重をかけて使う用途を想定している場合には気を付けたほうがいいです。
+たとえば、キッチンの調理台の前にこれを敷いて、調理中に暖をとろうという使い方をする場合。バランスを崩しそうで怖いですね。フローリングの上で体重をかけて使う用途を想定している場合には気を付けたほうがいいです。
 
-私の場合は机の下に置いているので、体重をかけることはしませんし、動いたところで三方を机に阻まれているので、特に何もせずそのまま使っています。
-
-
+私の場合は机の下に置いているので、滑ったところで三方を机に囲まれているので影響がありません。特に何もせずそのまま使っています。
   

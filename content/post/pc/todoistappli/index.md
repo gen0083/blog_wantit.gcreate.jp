@@ -2,28 +2,24 @@
 title: 無料で使えるタスク管理アプリTodoistを使ってみた感想
 slug: todoistappli
 description: Evernoteでのタスク管理に限界を感じて、Todoistというサービスを利用してみることにしました。無料版ではシンプルな使い方しかできませんが、それが逆に使いやすい気がしています。スマホからのタスク登録がしやすい作りが気に入っています。
-
-
 featuredimage: images/cover/smartphone.jpg
 date: 2014-06-15
 lastmod: 2015-02-18
 tags: 
     - GTD
     - アプリ
+    - ライフハック
 product:
     name: 'Todoist'
     rate: '4.5'
     link: 'https://todoist.com/'
     comment: 'シンプルなタスク管理ツール。'
-    kaeyome: '<a href="https://play.google.com/store/apps/details?id=com.todoist">
-  <img alt="Android app on Google Play" src="/images/brand/en_app_rgb_wo_45.png" />
-</a>
-<a href="https://itunes.apple.com/jp/app/todoist-yarubekikotorisuto/id572688855?mt=8&uo=4&at=1l3v8BW" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/ja_jp//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/ja_jp//images/web/linkmaker/badge_appstore-lrg.svg);}"></a>'
+    kaeyome: '<a href="https://play.google.com/store/apps/details?id=com.todoist"> <img alt="Android app on Google Play" src="/images/brand/en_app_rgb_wo_45.png" /> </a> <a href="https://itunes.apple.com/jp/app/todoist-yarubekikotorisuto/id572688855?mt=8&uo=4&at=1l3v8BW" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/ja_jp//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/ja_jp//images/web/linkmaker/badge_appstore-lrg.svg);}"></a>'
 ---
 
 今までEvernoteでTodo管理をしようとしていたのですが、どうにもうまくいきません。うまくいかないというか、そもそもTodoを確認しようとしないのです。
 
-なぜ確認しないのかを考えてみたら、やりたいこと、やらなければいけないこと、すぐにできることから大きなプロジェクト形式のものなどがごちゃごちゃになっているせいなのかもしれません。EvernoteにはTodo以外にも様々なノートを置いてあるので、お世辞にも見やすいものとは言えません。
+なぜ確認しないのかを考えてみたら、やりたいこと・やらなければいけないこと・すぐにできることから、大きなプロジェクト形式のものなどがごちゃごちゃになっているせいなのかもしれません。EvernoteにはTodo以外にもさまざまなノートを置いてあるので、お世辞にも見やすいものとはいえません。
 
 それだったらTodo管理は別の専用のアプリを使ってやった方がいいかなと思い、まず最初に試しているのが<em>Todoist</em>というアプリです。
 
@@ -77,11 +73,11 @@ Todoistを使って面白いなと感じたのが、<em>柔軟な繰り返し設
 ### 変則的な繰り返し
 
 
-3ヶ月毎とか、隔週とかですね。
+3か月毎とか、隔週とかですね。
 
 入力の仕方は「3か月ごと開始　3月20日」や「14日ごと開始　3月20日」です。<em>繰り返し期間＋開始する日</em>という指定の仕方です。
 
-これはちょっと入力に戸惑います。例えば3ヶ月は受け付けてくれませんし、2週間も受け付けてくれません。日本語での入力を英語に変換して登録しているようなので、こういった変則的な繰り返しの文章は認識しづらいのだと思います。
+これはちょっと入力に戸惑います。たとえば3か月は受け付けてくれませんし、2週間も受け付けてくれません。日本語での入力を英語に変換して登録しているようなので、こういった変則的な繰り返しの文章は認識しづらいのだと思います。
 
 英語での入力に抵抗がないのであれば、英語で入力したほうが楽かもしれません。「every 3 months starting 3/20」という感じです。
 
@@ -93,7 +89,7 @@ Todoistを使って面白いなと感じたのが、<em>柔軟な繰り返し設
 
 この機能はその期間の間、常に今日のタスクのところに表示されてくれるのだと思います。この日にやらなければいけないわけではないが特定の期間内に処理したいものはかなりあるので、そういうタスクを登録するのに便利です。
 
-ただしあまりに濫用すると、今日のタスクが見づらくなってしまうので、緊急性の高いもののみに限るなど、使い方には工夫がいるかもしれません。</del>
+ただしあまりに濫用すると、今日のタスクが見づらくなってしまいます。緊急性の高いもののみに限るなど、使い方には工夫がいるかもしれません。</del>
 
 私の勘違いでした。◯日後として処理されてました。
 
@@ -143,7 +139,7 @@ Todoistを使って面白いなと感じたのが、<em>柔軟な繰り返し設
 
 有料版ではタスクにメモをつけたり、添付ファイルをつけたりすることができるらしいです。無料版では、タスクのタイトルと期限を設定することしかできないのです。
 
-ただこれは考えようによっては無料版の機能だけで充分とも考えられます。タスクについてメモによる補足をしなければならないのであれば、登録する粒度が大きすぎるとも言えます。メモがつけられないことから、登録するタスクは自然と具体的な内容にせざるを得なくなります。タスクが具体的なアクションになっていれば、実行時に迷うことも少なくなります。
+ただこれは考えようによっては無料版の機能だけで充分とも考えられます。タスクについてメモによる補足をしなければならないのであれば、登録する粒度が大きすぎるともいえます。メモがつけられないことから、登録するタスクは自然と具体的な内容にせざるを得なくなります。タスクが具体的なアクションになっていれば、実行時に迷うことも少なくなります。
 
 
 ### 完了したタスクの確認
@@ -166,6 +162,3 @@ Todoistでは「カルマ」という生産性を表す機能があり、タス�
 シンプル故に抽象的な項目を登録したら訳がわからなくなるため、自然と具体的なアクションを登録するようになります。登録したタスクを淡々と処理してチェックしていくと、先に進んでいる感じがしていいものです。
 
 特に使い方が分からなくて困ることはないのがありがたいですね。Todo管理アプリを探している方は、とりあえず試してみてはいかがでしょうか。
-
-
-  

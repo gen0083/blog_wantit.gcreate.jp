@@ -2,12 +2,12 @@
 title: ノートPCでの作業用机にサイドテーブルを購入した
 slug: sidetable-yamazen
 description: ノートパソコンを載せて作業をするためだけの台として考えると、サイズがちょっと大きすぎるのだが、安定性は抜群で作業していて気持ちがいい（ガタガタしないという意味で）。机の高さが少し高めなので姿勢を正さないと作業がしにくいのだけど、これはこれで姿勢矯正に貢献できると考えれば悪くない。リーズナブルな価格の割に抜群の安定感を持っていて、こいつはいいものだと思う。
-
-
 featuredimage: images/cover/pc.jpg
 date: 2018-06-04
 lastmod: 2018-06-04
 tags: 
+    - 家具
+    - PC
 product:
     name: '山善(YAMAZEN) テーブル ミニ 折りたたみ式 サイドテーブル'
     rate: '4'
@@ -22,7 +22,7 @@ product:
 そこで自宅用に別途買い足すことにしたのである。
 
 サイズを細かく確認せずに買ったので、届いたやつが思いの外大きくて驚いた。
-今まで使っていたやつが、13インチMacbook PROのサイズちょうどくらいの大きさだったのだが、それを二回りくらい大きくしたくらいの大きさだ。
+今まで使っていたやつが、13インチMacbook PROのサイズちょうどくらいの大きさだったのだが、それを2回りくらい大きくしたくらいの大きさだ。
 ノートパソコンの作業台というよりは、ワンルームで一人暮らしなんてシチュエーションで使う机としてぴったりくるサイズ感だ。
 
 高さは若干高い（これは私がそれまで使っていたやつが低かったからそう思うだけだろうけれど）。
@@ -49,7 +49,6 @@ product:
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B072Q2RGZB/illusionspace-22/" target="_blank" ><img alt=""  src="https://images-fe.ssl-images-amazon.com/images/I/41Ki%2BPcR-rL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B072Q2RGZB/illusionspace-22/" target="_blank" >KKaMM ノートパソコンスタンド パソコンデスク PCスタンド 折りたたみ式 アルミ製 (48cm)</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> KKaMM     </div>
@@ -60,10 +59,8 @@ product:
 <div class="booklink-footer"></div>
 </div>
 </div>
+
 ↑こういうやつ
 
 価格も少し高くなるし、柔軟性があっても4脚に比べるとガタガタしそうだし、足に引っかかったらパソコンが落ちてしまいそうで敬遠した。
 柔軟な調整ができるということは、ジャストな高さに調整するのが毎回面倒臭そうというのも回避した理由ではある。
-
-
-  

@@ -2,14 +2,12 @@
 title: 自分目線の動画を撮るのに最適なパナソニックHX-A500をレビュー
 slug: hx-a-500
 description: 自分の目線で動画を撮るのに、肝心の手元が見切れていることが多く不満があったので、PanasonicのHX-A500を購入しました。手元の作業を自分の見ている視点に近い画面で撮影したいなら、このカメラに勝るものはないと思います。
-
-
 featuredimage: images/cover/camera.jpg
 date: 2014-10-14
 lastmod: 2015-01-22
 tags: 
     - 動画
-    - 本体
+    - カメラ
 product:
     name: 'Panasonic HX-A500'
     number: 'HX-A500'
@@ -28,9 +26,7 @@ Cintiqを使ったお絵描き、コーヒーを入れる作業、芝刈りの�
 
 そこでこの不満点を改善すべく、前々から目をつけていたPanasonicのウェアラブルカメラを購入することにしました。
 
-
 ## ヘッドマウントはなかなか優秀
-
 
 ヘッドマウントはなかなか優秀です。私はメガネを常時かけているのですが、その状態でも自然に取り付けることができます。重量もほとんど気にならないくらいです。Contour+ハットマウントの方が重く感じるかもしれません。
 
@@ -46,9 +42,7 @@ Contour ROAM＋ハットマウントだとカメラがおでこの右上にく�
 
 対してHX-A500はカメラは目よりやや下に位置しているので、録画された画面の高さはちょうどよい高さになります。ただ、左頬にカメラがあるため、画面もやや左寄りになってしまいますが、今までの映像に比べると格段に自分の見ている風景に近いものが撮れています。
 
-
 ## 中途半端さが目立つ
-
 
 試し撮りしてみて感じたのは、なんか色々と中途半端だなということです。
 
@@ -70,14 +64,12 @@ Contour ROAM＋ハットマウントだとカメラがおでこの右上にく�
 
 ## 前モデル＋ヘッドマウントの方が賢いかもしれない
 
-
 4K画質に興味がなく、本体に液晶画面がなくてもいいというのであれば、前のモデルのHX-A100に、HX-A500に標準でついているヘッドマウントを購入する方がいいかもしれないです。そっちの方が1万円ほど安くすみますし。
 
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00BT8EX8C/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/31m%2BMdq48SL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00BT8EX8C/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">Panasonic ウェアラブルカメラ ブラック HX-A100-K</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> パナソニック 2013-05-01    </div>
@@ -88,11 +80,11 @@ Contour ROAM＋ハットマウントだとカメラがおでこの右上にく�
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00KASFUFW/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/31XlfkvwaoL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00KASFUFW/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">Panasonic ヘッドマウント VW-HMA100-K</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> パナソニック 2014-06-12    </div>
@@ -103,6 +95,7 @@ Contour ROAM＋ハットマウントだとカメラがおでこの右上にく�
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 私自身、HX-A100にヘッドマウントを付け足して買おうかと迷っていました。ただ、本体だけで画角の調整などができる方が便利かなというのと、どうせ買うなら新しい方がいいかとHX-A500を購入しました。
 
 しかし本体に液晶がついていても、思ったほど便利ではありませんでした。
@@ -113,13 +106,11 @@ Contour ROAM＋ハットマウントだとカメラがおでこの右上にく�
 
 正直なところ、スマホに接続してアプリから確認した方が見やすいのです。それだったら本体に液晶なくても一緒かなと思ってしまいます。
 
-
 ## 本体のみでの録画可能時間は2時間くらい
-
 
 これは使用状況や画質などの録画条件にも左右されますが、頑張って2時間くらい撮影できると考えたらいいと思います。
 
-私が試したのは1920&#215;1080/30fpsの通常録画モードで試して、1時間52分連続で録画出来ました。
+私が試したのは1920x1080/30fpsの通常録画モードで試して、1時間52分連続で録画できました。
 
 ちなみに、モバイルバッテリーで充電しながらの撮影も可能です。本体で録画中に、モバイルバッテリーの1Aのポートから給電することができました。モバイルバッテリーの容量にもよりますが、長時間の撮影が可能になります。（もっともそんな使い方をするとSDカードの容量がネックになりますが）
 
@@ -130,6 +121,3 @@ Contour ROAM＋ハットマウントだとカメラがおでこの右上にく�
 ちなみに試し撮りしてみたものをYouTubeにアップしてみました。ホワイトバランスの具合を確認する目的で取りましたが、Cintiqを操作している手元がしっかり撮れていて、その点だけは満足できるところです。
 
 <iframe width="640" height="390" src="//www.youtube.com/embed/I2njG3yBpLU" allowfullscreen></iframe>
-
-
-  

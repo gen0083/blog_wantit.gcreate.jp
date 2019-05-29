@@ -2,8 +2,6 @@
 title: ペンやメモ用紙を収納できるクリップボード、サンダース　スリムメイトをレビュー
 slug: slimmate
 description: クリップボードにメモ用紙が格納できたら面白いのにと思ったら、そんな製品がありました。大量のメモ用紙と、筆記用具もケースの中にしまうことができて便利です。クリップボードと収納があわさり最強にみえます。
-
-
 featuredimage: images/cover/stationery.jpg
 date: 2014-04-04
 lastmod: 2016-02-24
@@ -13,8 +11,7 @@ product:
     name: 'サンダース　スリムメイト'
     rate: '4'
     comment: '大量の裏紙をストックすることができ、メモを取るのに便利。ちょっとごついのが難点。'
-    kaeyome: '<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top"><div style="border:1px solid;margin:0px;padding:6px 0px;width:320px;text-align:center;float:left"><a href="https://hb.afl.rakuten.co.jp/hgc/128623a7.eb251df5.128623a8.e29a57e6/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fdeskdepot%2f1163673%2f%3fs-id%3dreview_PC_il_item_01%26scid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fdeskdepot%2fn%2f1163673%3fs-id%3dreview_PC_il_item_01" target="_blank"><img src="https://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fdeskdepot%2fcabinet%2fsaunders%2fslimmate.jpg%3f_ex%3d300x300&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fdeskdepot%2fcabinet%2fsaunders%2fslimmate.jpg%3f_ex%3d80x80" alt="【送料無料・おまけ付き】クリップボード A4　　サンダース SAUNDERS　Slim Mate Black 　スリムメイト" border="0" style="margin:0px;padding:0px"></a><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px"><a href="https://hb.afl.rakuten.co.jp/hgc/128623a7.eb251df5.128623a8.e29a57e6/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fdeskdepot%2f1163673%2f%3fs-id%3dreview_PC_il_item_01%26scid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fdeskdepot%2fn%2f1163673%3fs-id%3dreview_PC_il_item_01" target="_blank">【送料無料・おまけ付き】クリップボード A4　　サンダース SAUNDERS　Slim Mate Black 　スリムメイト</a>
-</div></td></tr></table>'
+    kaeyome: '<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top"><div style="border:1px solid;margin:0px;padding:6px 0px;width:320px;text-align:center;float:left"><a href="https://hb.afl.rakuten.co.jp/hgc/128623a7.eb251df5.128623a8.e29a57e6/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fdeskdepot%2f1163673%2f%3fs-id%3dreview_PC_il_item_01%26scid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fdeskdepot%2fn%2f1163673%3fs-id%3dreview_PC_il_item_01" target="_blank"><img src="https://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fdeskdepot%2fcabinet%2fsaunders%2fslimmate.jpg%3f_ex%3d300x300&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fdeskdepot%2fcabinet%2fsaunders%2fslimmate.jpg%3f_ex%3d80x80" alt="【送料無料・おまけ付き】クリップボード A4　　サンダース SAUNDERS　Slim Mate Black 　スリムメイト" border="0" style="margin:0px;padding:0px"></a><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px"><a href="https://hb.afl.rakuten.co.jp/hgc/128623a7.eb251df5.128623a8.e29a57e6/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fdeskdepot%2f1163673%2f%3fs-id%3dreview_PC_il_item_01%26scid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fdeskdepot%2fn%2f1163673%3fs-id%3dreview_PC_il_item_01" target="_blank">【送料無料・おまけ付き】クリップボード A4　　サンダース SAUNDERS　Slim Mate Black 　スリムメイト</a> </div></td></tr></table>'
 ---
 
 机の上で何かを書くことがめっきり少なくなったGenです、こんばんは。
@@ -25,9 +22,7 @@ product:
 
 いずれゼロ秒思考という書籍の方も買って読んでみようと思っているので、また紹介しようと思います。
 
-
 ## メモとるスペースがない
-
 
 その授業でやったメモ書きを実行しようと思ったものの、メモをするスペースがないことがネックになりました。
 
@@ -60,6 +55,3 @@ product:
 もっとも、パソコンケースのつもりで買ったわけではないので、入れてみたら偶然にもサイズがぴったりだったというだけです。Macbook Airの13インチなら入らないでしょうし、もっとスリムなサイズのノートパソコンだとケースの中で動きまわってしまいそうです。
 
 またパソコンを取り出すのにいちいちケースを開かないといけないわけで、その点微妙ではあったりするのですが。何かと便利なやつではあります。
-
-
-  

@@ -2,13 +2,10 @@
 title: SHOW BY ROCK 曲リスト
 slug: sb-69-list-of-songs
 description: SHOW BY ROCKの全曲リストです。どっちかというと自分用のまとめではありますが、これをきっかけにこのコンテンツを知ってもらえると嬉しいです。まずはタイアップアーティストのYouTubeを入り口に、興味を持ってもらえたらと思います。
-
-
 featuredimage: images/cover/game.jpg
 date: 2015-10-21
 lastmod: 2016-10-06
 tags: 
-    - MP3
     - アプリ
     - スマホ
     - 音ゲー
@@ -16,14 +13,12 @@ product:
     name: 'SHOW BY ROCK!!'
     rate: '4'
     comment: '半分はタイアップアーティストという衝撃の数字。'
-    kaeyome: '<a href="https://play.google.com/store/apps/details?id=jp.veincarry.showbyrock2">
-  <img alt="Android app on Google Play"  src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
-</a>'
+    kaeyome: '<a href="https://play.google.com/store/apps/details?id=jp.veincarry.showbyrock2"><img alt="Android app on Google Play"  src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" /></a>'
 ---
 
 SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更新してましたが、2016年10月6日時点の情報で更新は止めます）
 
-ゲームは別に興味が無いという人向けにYouTubeへのリンク（公式、ライブバージョンだったり、フルバージョンだったり、ショートバージョンだったりといろいろ）を、探した範囲内で載せています。
+ゲームは別に興味が無いという人向けにYouTubeへのリンク（公式、ライブバージョンだったり、フルバージョンだったり、ショートバージョンだったりといろいろ）を探した範囲内で載せています。
 
 曲の後ろにある数字はJOYSOUNDの曲番号で、主に私のための情報です（個人的によく行くカラオケがJOYSOUNDなので）。
 
@@ -32,16 +27,11 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ## 全曲リスト（随時更新）
 
-
 26バンド（うちタイアップ13）、曲数180。（2016/10/6時点）
-
 
 ## 光属性
 
-
-
 ### プラズマジカ
-
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/cant-stop-daisuki-!!/id661123114?i=661123199&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Can&#8217;t stop DAISUKI !!</a> / 737731</li>
@@ -64,7 +54,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### クリティクリスタ
 
-
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/rupushiteru/id985980271?i=985980367&#038;at=1l3v8BW&#038;mt=1&#038;app=music">ループしてる</a></li>
 <li><a href="https://geo.itunes.apple.com/jp/album/1.2.sanshain/id985980271?i=985980368&#038;at=1l3v8BW&#038;mt=1&#038;app=music">1.2.さんしゃいん♡</a></li>
@@ -78,7 +67,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### バイガンバーV
 
-
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/baiganbav/id661162564?i=661162798&#038;at=1l3v8BW&#038;mt=1&#038;app=music">バイガンバーV</a> / 672341</li>
 <li><a href="https://geo.itunes.apple.com/jp/album/sunset/id661162564?i=661162799&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Sunset</a></li>
@@ -90,7 +78,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 </ul>
 
 ### 04Tobizbits
-
 
 タイアップバンド：<a href="https://www.04limitedsazabys.com/">04 Limited Sazabys</a>
 
@@ -105,7 +92,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### Spectrenotes
 
-
 タイアップバンド:<a href="https://bigmama-web.com/">BIGMAMA</a>
 
 <ul>
@@ -116,10 +102,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ## 闇属性
 
-
-
 ### シンガンクリムゾンズ
-
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/tsubasa/id661127508?i=661127685&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Tsubasa</a> / 737646</li>
@@ -135,7 +118,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 </ul>
 
 ### デモンズベノム
-
 
 タイアップバンド：<a href="https://silhouettefromtheskylit.com/">SILHOUETTE FROM THE SKYLIT</a>
 
@@ -153,7 +135,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### アリスビーンズ
 
-
 タイアップバンド：<a href="https://www.alice-project.biz/alice-juban">アリス十番</a>
 
 <ul>
@@ -169,7 +150,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### シロラクロスカ？
 
-
 タイアップバンド：<a href="https://acrowiswhite.com/">カラスは真っ白</a>
 
 <ul>
@@ -182,7 +162,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### BUD VIRGIN LOGIC
 
-
 <ul>
 <li>ソラウソ</li>
 <li>オヤスミパラノイア</li>
@@ -193,10 +172,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ## 火属性
 
-
-
 ### 徒然なる操り霧幻庵
-
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/hana/id661155463?i=661155749&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Hana</a> / 672342</li>
@@ -213,7 +189,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### しにものぐるい
 
-
 タイアップバンド：<a href="https://uedamarie.com/">植田真梨恵</a>
 
 <ul>
@@ -229,7 +204,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### すたっどばんぎゃっしゅ
 
-
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/proof-of-my-soul/id661138938?i=661138945&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Proof of My Soul</a> / 672344</li>
 <li><a href="https://geo.itunes.apple.com/jp/album/over-d-live!/id661138938?i=661138946&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Over &#8220;D&#8221;Live!</a></li>
@@ -242,7 +216,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### 忍迅雷音
 
-
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/mission-to-night-fashion-for/id661142426?i=661142939&#038;at=1l3v8BW&#038;mt=1&#038;app=music">MISSION to the night,FASHION for the fight</a> / 672343</li>
 <li><a href="https://geo.itunes.apple.com/jp/album/soldier-named-the-shadow/id661142426?i=661142940&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Soldier Named The Shadow</a></li>
@@ -253,7 +226,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 </ul>
 
 ### テケバキツ荘
-
 
 タイアップバンド：<a href="https://usotsukida.com/">ウソツキ</a>
 
@@ -267,10 +239,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ## 水属性
 
-
-
 ### 雫シークレットマインド
-
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/spider-love/id661131018?i=661131129&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Spider Love</a> / 672345</li>
@@ -283,7 +252,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 </ul>
 
 ### ガウガストライクス
-
 
 タイアップバンド：<a href="https://www.ka-fu-ka.net/">カフカ</a>
 
@@ -300,7 +268,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### ラボムンク
 
-
 タイアップバンド：<a href="https://www.clammbon.com/">クラムボン</a>
 
 <ul>
@@ -314,7 +281,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 </ul>
 
 ### ラペッジオート
-
 
 タイアップバンド：<a href="https://swordmst.jp/yksbmilo31/">yksb feat.MiLO☓31STYLE</a>
 
@@ -331,7 +297,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### ARCAREAFACT
 
-
 <ul>
 <li>マイラスファイ</li>
 <li>アンノウン</li>
@@ -341,10 +306,7 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ## 木属性
 
-
-
 ### トライクロニカ
-
 
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/insight/id661158735?i=661158743&#038;at=1l3v8BW&#038;mt=1&#038;app=music">InSight</a></li>
@@ -358,7 +320,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### ウワサノペタルズ
 
-
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/liu-xing-qun/id661149965?i=661150146&#038;at=1l3v8BW&#038;mt=1&#038;app=music">流星群</a>　672340</li>
 <li><a href="https://geo.itunes.apple.com/jp/album/inazuma/id661149965?i=661150147&#038;at=1l3v8BW&#038;mt=1&#038;app=music">イナズマ</a></li>
@@ -369,7 +330,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 </ul>
 
 ### ドロップアウト先生
-
 
 タイアップバンド：<a href="https://asstellus.com/">明日、照らす</a>
 
@@ -383,7 +343,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### ドーリィドルチ
 
-
 <ul>
 <li><a href="https://geo.itunes.apple.com/jp/album/liantomerigorando/id760343948?i=760343955&#038;at=1l3v8BW&#038;mt=1&#038;app=music">恋とメリーゴーランド</a> / 672339</li>
 <li><a href="https://geo.itunes.apple.com/jp/album/heart/id760343948?i=760343956&#038;at=1l3v8BW&#038;mt=1&#038;app=music">Heart</a></li>
@@ -394,7 +353,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 </ul>
 
 ### チャーミーチャプレッツ
-
 
 タイアップバンド：<a href="https://www.kiki-web.com/">kiki*</a>
 
@@ -408,7 +366,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 
 ### フカシギミック
 
-
 タイアップバンド：<a href="https://bandgokko.com/">バンドごっこ</a>
 
 <ul>
@@ -419,7 +376,6 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 </ul>
 
 ## タイアップバンドシステムが面白い
-
 
 これだけバラエティに富んでいるので、何かしら好きな曲が見つかるのではないでしょうか。
 
@@ -432,6 +388,3 @@ SHOW BY ROCK!!のゲーム中で遊べる楽曲のリストです。（随時更
 「ショウバイロック？　なにそれ」って人が多いとは思うのですが、なんだかすごい応援したくなるコンテンツなんですよね、これ。ゲームとしてはいろいろと言いたいところもあるのですが、とても雰囲気のいいゲーム、コンテンツだと思っています。
 
 無料で遊べるのでまずはゲームをやってみて欲しい。それが難しければせめてタイアップアーティストたちのYouTubeで曲を知ってほしいです。
-
-
-  

@@ -2,22 +2,18 @@
 title: Android Wearは本当に便利なのか
 slug: is-android-wear-actually-useful
 description: Android Wear用のウォッチフェイスを作りました。自分の好きな画像を壁紙にすることができます。今回はこの自作アプリの宣伝を兼ねて、ここしばらくAndroid Wearを使ってみて感じたことを書き連ねてみようと思います。
-
-
 featuredimage: images/cover/smartphone.jpg
 date: 2015-04-11
 lastmod: 2015-04-11
 tags: 
     - Android
     - アプリ
+    - スマートウォッチ
 product:
     name: 'カスタムフォトウォッチ'
     rate: '3'
     comment: 'アプリ開発しない人にはビミョーなデバイスかもしれない'
-    kaeyome: '<a href="https://play.google.com/store/apps/details?id=jp.gcreate.product.customphotowatch">
-  <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
-</a>'
+    kaeyome: '<a href="https://play.google.com/store/apps/details?id=jp.gcreate.product.customphotowatch"> <img alt="Get it on Google Play" src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" /> </a>'
 ---
 
 ここしばらく更新がご無沙汰でした。
@@ -30,9 +26,9 @@ product:
 ## Android Wearの運用歴
 
 
-購入したのは昨年11月、実際に使い始めたのは今年の1月半ばからです。2ヶ月位実際に使っている感じですかね。
+購入したのは昨年11月、実際に使い始めたのは今年の1月半ばからです。2か月位実際に使っている感じですかね。
 
-購入から運用までに間が空いているのは、Android Wearとペアリング出来る端末がなかったからです。
+購入から運用までに間が空いているのは、Android Wearとペアリングできる端末がなかったからです。
 
 Android Wearを使うには、Android 4.3より上のバージョンのAndroidスマートホンが必要になります。私が当時使っていたスマホはAndroid4.1だったので、Android Wearを使いたくても使えなかったのです。
 
@@ -66,13 +62,13 @@ Android Wearを使っていれば、スマホはカバンの中に入れたま�
 
 Android Wearはスマホと連携して使うことが前提となっています。
 
-Android WearはスマホとBluetoothで接続されます。接続が切れるとAndroid Wearが使えなくなるわけではありませんが、使える機能が制限されます。（例えばボイスコマンドが使えなくなります）
+Android WearはスマホとBluetoothで接続されます。接続が切れるとAndroid Wearが使えなくなるわけではありませんが、使える機能が制限されます。（たとえばボイスコマンドが使えなくなります）
 
 それなら「スマホでいいじゃん」となってしまいます。実際にそれに反論できない自分がいます。
 
 ただ、常にスマホを確認しているより腕時計を見ればいろいろ確認できるのは、実際に使ってみないと分からない便利さだと思います。（それくらい微妙な使い勝手の良さだと思います）
 
-例えば家の中でスマホを持ち歩かなくとも、Android Wearを身に着けていればどこでもメールが確認できるわけです（Bluetoothで通信できる範囲内であれば）。
+たとえば家の中でスマホを持ち歩かなくとも、Android Wearを身に着けていればどこでもメールが確認できるわけです（Bluetoothで通信できる範囲内であれば）。
 
 
 ## ボイスコマンドが便利
@@ -143,7 +139,7 @@ Androidのスマホ（しかもOS4.3以上）を持っていない人は、Andro
 
 私は今までソーラーパネルで電池交換が不要な腕時計を使っていたので、電池の管理が必要な時点で面倒くさいです。しかもそれが毎日です。
 
-これは例えこのバッテリが2日持つようになったとしても感じる不便さは変わらないと思います。バッテリが切れたら全く使えないのですから、基本的には毎日充電しておくべきでしょう。
+これは例えこのバッテリが2日もつようになったとしても感じる不便さは変わらないと思います。バッテリが切れたらまったく使えないのですから、基本的には毎日充電しておくべきでしょう。
 
 Android Wearを購入する場合、充電方法についてもよくよく考慮する必要があります。スマホのようにUSBケーブルをさせば気軽に充電できるものばかりではありません。専用のクレードルを使わないと充電できないものもあります。
 
@@ -161,7 +157,7 @@ Wearアプリをエミュレータで開発するのは正気の沙汰ではあ�
 
 スマホとの通信機能を実装して動作確認するためにも、実機を使うのがベストです。（エミュレータで実現できるのかもしれませんが、実機を使った方が早いし確実だと思います）
 
-Android Wearを最も活用できるのはアプリ開発者というのはなんか残念な感じです。
+Android Wearをもっとも活用できるのはアプリ開発者というのはなんか残念な感じです。
 
 それだけまだAndroid Wearを活用できるキラーアプリがないということなんですけどね。スマホなら定番アプリとしていろんなアプリの名前が出てきますが、Wearだとないですからね。
 
@@ -176,6 +172,3 @@ Android Wearを最も活用できるのはアプリ開発者というのはな�
 Android Wearのウォッチフェイスに不満がある人、「俺の嫁を壁紙にしたい」なんて人にオススメです。
 
 <a href="https://play.google.com/store/apps/details?id=jp.gcreate.product.customphotowatch">カスタムフォトウォッチ &#8211; Google play</a>
-
-
-  

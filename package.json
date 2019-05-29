@@ -24,6 +24,10 @@
     "postcss-import": "^12.0.1",
     "sass-loader": "^7.1.0",
     "tar": ">=4.4.2",
+    "textlint": "^11.2.5",
+    "textlint-rule-max-ten": "^2.0.3",
+    "textlint-rule-preset-jtf-style": "^2.3.3",
+    "textlint-rule-prh": "^5.2.0",
     "uglifycss": "0.0.29",
     "webpack": "^4.32.2"
   }

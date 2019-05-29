@@ -2,13 +2,12 @@
 title: Macbook PROの液晶剥がれの修理をしてもらって液晶保護フィルムを貼った
 slug: repair-macbook-pro
 description: MacBook PROの液晶コーティングの剥がれを修理してもらった。キレイな画面になってまるで新品になったかのような気分で気持ちいい。また剥がれると困るので液晶保護シートも貼って万全の構えにしておいたのだが、選んだ保護フィルムはちょっと失敗してしまった。
-
-
 featuredimage: images/cover/pc.jpg
 date: 2018-11-08
 lastmod: 2018-11-17
 tags: 
     - 保護フィルム
+    - Mac
 product:
     name: 'FEELM MacBook Pro 13インチ Retina 高精細アンチグレア 防汚コート 消える気泡 日本製 液晶保護フィルム MBP13-AGAS'
     rate: '2'
@@ -16,7 +15,7 @@ product:
     kaeyome: '<div class="cstmreba"><div class="kaerebalink-box"><div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01MQUY5LQ/illusionspace-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51orHqCHf8L._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01MQUY5LQ/illusionspace-22/" target="_blank" >FEELM MacBook Pro 13インチ Retina 高精細アンチグレア 防汚コート 消える気泡 日本製 液晶保護フィルム MBP13-AGAS</a><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> FEELM     </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=FEELM%20MacBook%20Pro%2013%E3%82%A4%E3%83%B3%E3%83%81%20Retina%20%E9%AB%98%E7%B2%BE%E7%B4%B0%E3%82%A2%E3%83%B3%E3%83%81%E3%82%B0%E3%83%AC%E3%82%A2&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=illusionspace-22" target="_blank" >Amazon</a></div></div></div><div class="booklink-footer"></div></div></div>'
 ---
 
-私の使っているMacBook PRO 13インチ(Early 2015)の液晶部分がひどいことになっていたのを修理してもらった。コーティングが剥がれてものすごく汚い状態になっていた。
+私の使っているMacBook PRO 13インチ（Early 2015）の液晶部分がひどいことになっていたのを修理してもらった。コーティングが剥がれてものすごく汚い状態になっていた。
 
 ![修理前の写真](905c38f07dd11152d54b542f125132e8.jpg)
 
@@ -37,7 +36,6 @@ product:
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00LEH3LT0/illusionspace-22/" target="_blank" ><img alt=""  src="https://images-fe.ssl-images-amazon.com/images/I/51ow78f%2BtzL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00LEH3LT0/illusionspace-22/" target="_blank" >シリコンパワー ポータブルHDD 2TB 2.5インチ USB3.0対応 IPX4 防水 耐衝撃 キズに強い 3年保証 SP020TBPHDA60S3K</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> シリコンパワー 2014-06-30    </div>
@@ -48,6 +46,7 @@ product:
 <div class="booklink-footer"></div>
 </div>
 </div>
+
 MacのHDDは512GBなんだが、どうせだから大きめのものを買ってみた。つなぐだけで特段設定することもなく、Time Machineでバックアップすることができた。
 
 修理に出すにあたって、もっとも悩ましかったのはタイミングの問題だった。現役で使っているマシンなので、これがないと何もできない。大体4〜5日程度と聞いていたので、タイミングを見計らって申し込みをした。
@@ -65,7 +64,6 @@ MacのHDDは512GBなんだが、どうせだから大きめのものを買って
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01MQUY5LQ/illusionspace-22/" target="_blank" ><img alt=""  src="https://images-fe.ssl-images-amazon.com/images/I/51orHqCHf8L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01MQUY5LQ/illusionspace-22/" target="_blank" >FEELM MacBook Pro 13インチ Retina 高精細アンチグレア 防汚コート 消える気泡 日本製 液晶保護フィルム MBP13-AGAS</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> FEELM     </div>
@@ -76,7 +74,8 @@ MacのHDDは512GBなんだが、どうせだから大きめのものを買って
 <div class="booklink-footer"></div>
 </div>
 </div>
-私は液晶保護フィルムといえばアンチグレア派の人間なので、当然のごとくアンチグレアを選ぶ。が、結論から言うとこのフィルムを選んだのは失敗だったと思う。
+
+私は液晶保護フィルムといえばアンチグレア派の人間なので、当然のごとくアンチグレアを選ぶ。が、結論からいうとこのフィルムを選んだのは失敗だったと思う。
 
 ![フィルムつけたあとの写真](194655c702b7f3fea68bd09e1fd4b114.jpg)
 
@@ -87,6 +86,3 @@ MacのHDDは512GBなんだが、どうせだから大きめのものを買って
 MacのRetinaディスプレイの美しさを損ねないという点以外に評価するポイントがない。しかし私は多少画面がくすんでもいいから反射防止効果がほしかったので、その点まったく期待はずれであった。これならもっと安いフィルムで良かった。
 
 ともかく、液晶はキレイになったしフィルムを貼ったことで掃除も気楽にできるようになった。めでたしめでたし、ということにしよう。
-
-
-  

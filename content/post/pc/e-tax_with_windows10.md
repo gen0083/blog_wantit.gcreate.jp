@@ -2,8 +2,6 @@
 title: やよいの青色申告とe-Tax（ソフト）で確定申告（Windows10編）
 slug: e-tax-with-windows-10
 description: 平成27年度の確定申告をすませました。私の場合事業所得があったりするので、e-Taxソフトを使って電子申告しましたが、Web版も用意されていて、申告の手引を見ながら作るよりははるかにやりやすいので、必要な方は早めにすませるのが吉です。
-
-
 featuredimage: images/cover/smartphone.jpg
 date: 2016-02-17
 lastmod: 2016-02-17
@@ -11,6 +9,7 @@ tags:
     - アプリ
     - 会計
     - 個人事業
+    - Windows
 product:
     name: 'やよいの青色申告16'
     kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B016U2R6I0/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" ><img src="https://ecx.images-amazon.com/images/I/51qN94YNAcL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B016U2R6I0/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" >やよいの青色申告 16 通常版(新消費税対応版)</a><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> 弥生 2015-11-19    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=%82%E2%82%E6%82%A2%82%CC%90%C2%90F%90%5C%8D%9016&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" target="_blank" rel="nofollow" >Amazon</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%2584%25E3%2582%2588%25E3%2581%2584%25E3%2581%25AE%25E9%259D%2592%25E8%2589%25B2%25E7%2594%25B3%25E5%2591%258A16%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" rel="nofollow" >楽天市場</a></div><div class="shoplinkyahoo"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3085416&pid=882193779&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%2584%25E3%2582%2588%25E3%2581%2584%25E3%2581%25AE%25E9%259D%2592%25E8%2589%25B2%25E7%2594%25B3%25E5%2591%258A16" target="_blank" rel="nofollow" >Yahooショッピング<img src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3085416&pid=882193779" height="1" width="1" border="0"></a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
@@ -20,7 +19,7 @@ product:
 
 去年確定申告したときはソフトのインストール、電子申告できる環境を整えるのに苦労した記憶があります。
 
-当時はWindows8.1でしたが、今はWindows10をクリーンインストールして使っています。つまり環境の再構築をしなければなりません。また前の時のように苦労するのかなと気が重かったのですが、フタを開けてみれば妙なエラーに悩まされることなく、すんなりと電子申告できました。
+当時はWindows8.1でしたが、今はWindows10をクリーンインストールして使っています。つまり環境の再構築をしなければなりません。また前のときのように苦労するのかなと気が重かったのですが、フタを開けてみれば妙なエラーに悩まされることなく、すんなりと電子申告できました。
 
 前回はソフトのインストールする順番も重要だった記憶があるのですが、今回は特に順番を気にすることなく進めても問題が起きませんでした。まぁたまたま問題ない順番でインストールできていただけかもしれないですけどね。
 
@@ -82,11 +81,11 @@ e-Taxソフトをインストールした後は、起動時に状況に合わせ
 
 私は事業所得の帳簿をやよいの青色申告16を使ってやってました。
 
-申告書のデータもやよいの青色申告16を使って作成し、e-Tax用データとして書きだしました。やよいの青色申告の確定申告作成ウィザードは優秀な部類だと思います。青色決算書に加えて申告書本体も親切なウィザードで作成できます。去年の株式の損失などを自動で引き継いでくれるようになれば言うことないです。
+申告書のデータもやよいの青色申告16を使って作成し、e-Tax用データとして書きだしました。やよいの青色申告の確定申告作成ウィザードは優秀な部類だと思います。青色決算書に加えて申告書本体も親切なウィザードで作成できます。去年の株式の損失などを自動で引き継いでくれるようになればいうことないです。
 
-ちなみに私は去年もやったのですが、e-Tax（Web版）を使って入力箇所に間違いがないかどうかを確認するようにしています。今年で言えば、株式の損失の繰越の書き方がよくわからなかったのですが、去年のデータ（Web版e-Taxで作ったやつ）を読み込ませたら損失の繰越もちゃんと反映してくれました。
+ちなみに私は去年もやったのですが、e-Tax（Web版）を使って入力箇所に間違いがないかどうかを確認するようにしています。今年でいえば、株式の損失の繰越の書き方がよくわからなかったのですが、去年のデータ（Web版e-Taxで作ったやつ）を読み込ませたら損失の繰越もちゃんと反映してくれました。
 
-e-Tax（Web版）はかなり賢いです。ウィザードが親切で、こういう所得があるとか選んでいくだけで申告書ができあがるので、手書きで申告書作るよりだんぜん楽だと思います。自分で計算する必要はないし、自動的に転記してくれるから書き間違いも起こりませんし。もし確定申告するのであれば、紙でなくWeb版を使うのが私はおすすめです。
+e-Tax（Web版）はかなり賢いです。ウィザードが親切で、こういう所得があるとか選んでいくだけで申告書ができあがるので、手書きで申告書作るよりだんぜん楽だと思います。自分で計算する必要はないし、自動的に転記してくれるから書き間違いも起こりませんし。もし確定申告するのであれば、紙でなくWeb版を使うのが私はお勧めです。
 
 
 ## やよいで作った申告書データをe-Taxソフトで取り込み
@@ -112,7 +111,7 @@ e-Tax（Web版）はかなり賢いです。ウィザードが親切で、こう
 
 やよいの青色申告は、あんしん保守サポートに加入することでバージョンアップの提供を受けることができます。
 
-税法は毎年変わるので、その変更に対応するため、やよいの青色申告にかぎらず更新が必要になります。クラウドサービスの会計ソフトでいえば月額利用料に相当する部分と言えるでしょう。
+税法は毎年変わるので、その変更に対応するため、やよいの青色申告にかぎらず更新が必要になります。クラウドサービスの会計ソフトでいえば月額利用料に相当する部分といえるでしょう。
 
 <a href="https://www.yayoi-kk.co.jp/yss/about/anshin/index.html">あんしん保守サポート</a>
 
@@ -124,9 +123,6 @@ e-Tax（Web版）はかなり賢いです。ウィザードが親切で、こう
 
 私の場合事業の申告があるのでe-Taxソフトを使っていますが、Web版であれば誰でも簡単に申告書が作れると思います。少なくとも、手引とにらめっこしつつ、金額を計算しつつやるよりははるかに簡単です。
 
-電子申告をしようと思うと、電子証明書（今だとマイナンバーカード）が必要ですし、カードリーダーも必要になるのですぐには利用できませんが、申告書を印刷して紙で提出するならすぐにでも利用できます。
+電子申告をしようと思うと、電子証明書（今だとマイナンバーカード）が必要です。カードリーダーも必要になるのですぐには利用できませんが、申告書を印刷して紙で提出するならすぐにでも利用できます。
 
 やり始めると意外なハマリポイントが出てくる可能性もあるので、早めに作成にとりかかり、申告をすませてしまうのがいいと思います。
-
-
-  

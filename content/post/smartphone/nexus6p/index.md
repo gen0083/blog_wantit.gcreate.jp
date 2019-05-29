@@ -2,14 +2,13 @@
 title: Nexus6Pを買って1ヶ月、指紋センサーが地味に便利
 slug: nexus-6-p
 description: Nexus6Pを買って1ヶ月ほど経ちました。買う前はサイズが大きいことが心配でしたが、使ってみると両手で使うにはちょうどいい大きさです。全く気にしていなかった指紋センサーが意外にも便利で、これなしの端末には戻れないような気がしています。
-
-
 featuredimage: images/cover/smartphone.jpg
 date: 2015-12-10
 lastmod: 2015-12-10
 tags: 
     - Android
-    - 本体
+    - スマホ
+    - スマホ本体
 product:
     name: 'Nexus6P'
     rate: '4'
@@ -19,15 +18,13 @@ product:
 
 私が以前使っていた端末が中古のNexus5だったこともあって、バッテリの持ちがすごく良くなったことがうれしいです。以前はバッテリがヘタっていたせいで、一日どころか半日ももたないレベルだったのが、6Pになってからは2日間くらい持ちそうな勢いです。新品いいわぁ。
 
-新品なんだからバッテリは当たり前としても、他に指紋認証によるロック解除がすごい便利で素敵です。Nexus6Pを買う前に、値段のこと以外で心配していたサイズの問題は、そこまで気にならないレベルだったので、総合的には満足しております。
+新品なんだからバッテリは当たり前としても、他に指紋認証によるロック解除がすごい便利で素敵です。Nexus6Pを買う前に、値段のこと以外で心配していたサイズの問題は、そこまで気にならないレベルだったので総合的には満足しております。
 
 高い買い物だったので、傷つけないようおっかなびっくりな取り扱いになってしまっているのが、ちょっと気になるくらいでしょうか。
 
 最新端末だけあって性能もよく、デレステの3D標準モードでの動作もスムーズです。
 
-
 ## サイズと重さ
-
 
 重さはNexus5が130g、Nexus6Pは180gとおおよそ50gの差があります。しかし6Pはサイズが大きいものの、厚みでみればNexus5より薄いので、そんなに重さの違いは気にならないかなぁという印象です。むしろアルミボディの手触りとこの重みがあることで、安定感が感じられて逆にいいかもしれません。
 
@@ -41,9 +38,9 @@ product:
 ### 大きいことによるデメリット
 
 
-もっとも、やっぱり重いし大きいので片手で扱うのはちょっと大変です。例えば満員電車の中でスマホをいじろうとは思えないです。そんな使い方をすると絶対落とします。
+もっとも、やっぱり重いし大きいので片手で扱うのはちょっと大変です。たとえば満員電車の中でスマホをいじろうとは思えないです。そんな使い方をすると絶対落とします。
 
-片手で操作しようと思うと、持つ場所を工夫する必要が出てきます。画面の上部をタッチしようと思うと、スマホの下側を持った状態では指が届きません。とすると片手で持つ場所を変えたりする必要があるので、自然と不安定な持ち方になります。そうなると落としてしまう危険性が高くなるわけです。満員電車でそんなことやると、絶対落とします。
+片手で操作しようと思うと、もつ場所を工夫する必要が出てきます。画面の上部をタッチしようと思うと、スマホの下側を持った状態では指が届きません。とすると片手でもつ場所を変えたりする必要があるので、自然と不安定な持ち方になります。そうなると落としてしまう危険性が高くなるわけです。満員電車でそんなことやると、絶対落とします。
 
 
 ### 持ち運びについて
@@ -71,7 +68,6 @@ Nexus6PはNexus5Xと異なり、最初からUSB TypeA-Cケーブル（パソコ�
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00Q5VMI4O/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" ><img alt=""  src="https://ecx.images-amazon.com/images/I/41UTQ5C9oOL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00Q5VMI4O/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" >ELECOM USBケーブル USB3.1 USB2.0両対応 A-Cタイプ ノーマル 1m ブラック USB3-AC10BK</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> エレコム 2015-01-20    </div>
@@ -83,17 +79,17 @@ Nexus6PはNexus5Xと異なり、最初からUSB TypeA-Cケーブル（パソコ�
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 TypeA-Cケーブルはいろんなメーカーがいろんな種類のケーブルを出していますが、中には規格を満たしていないものもあったりするらしいので購入するときには注意が必要です。素直にGoogle Storeで購入した方が安全だし、しかも安かったりするかもしれません。
 
-私の買ったELECOMのケーブルは、とりあえずはパソコン経由からでも充電出来てるし、USBデバッグもできてます。
+私の買ったELECOMのケーブルは、とりあえずはパソコン経由からでも充電できてるし、USBデバッグもできてます。
 
 TypeCケーブルは、端末に接続する向きを気にしなくてもいいのが利点です。一方でケーブルが太くなっていて、私はそっちの方が気になります。ケーブル径が太いので、普通のUSBケーブルと比べると取り回ししづらい印象を持っています。
 
-そもそもTypeA-Cケーブルだと、A側（パソコン側）では相変わらず上下を気にしなくてはいけないので、何だかメリットを感じません。むしろケーブルを新調しなければいけないので、逆に不便なんじゃないかとさえ思ってしまいます。今のところNexus6P専用ケーブルになってますからね・・・。
+そもそもTypeA-Cケーブルだと、A側（パソコン側）では相変わらず上下を気にしなくてはいけません。むしろケーブルを新調しなければいけないので、逆に不便なのではとさえ思ってしまいます。今のところNexus6P専用ケーブルになってますからね・・・。
 
 
 ## 液晶保護フィルム
-
 
 これまではキレイな画面をキレイなまま見たいと思って透明度を優先していたのですが、今回はノングレアを選びました。個人的に安心と信頼の、ミヤビックス・オーバーレイシリーズです。
 
@@ -101,7 +97,6 @@ TypeCケーブルは、端末に接続する向きを気にしなくてもいい
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B015Z8AI44/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" ><img alt=""  src="https://ecx.images-amazon.com/images/I/41H5lon5D3L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B015Z8AI44/illusionspace-22/ref=nosim/" target="_blank" rel="nofollow" >OverLay Plus for Nexus 6P 2015 低反射 アンチグレア ノングレア 非光沢 液晶 保護 シート フィルム プロテクター OHNEXUS6P</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> ミヤビックス     </div>
@@ -111,6 +106,7 @@ TypeCケーブルは、端末に接続する向きを気にしなくてもいい
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 ちなみに端末が販売されてもいないのに、専用フィルムの方が先に世に出回るのは一体どういう仕組みなんでしょうか。端末の画像を元に寸法とか割り出して作ってるんですかね？
 
 実機で確認しながら作ったわけではないからなのか、私が買ったオーバーレイプラスだと「なぜそこに切り込みが入っているんだ」という謎の空間が存在してました。
@@ -142,6 +138,3 @@ Nexus6Pには背面に指紋センサーがあります。実はこれがすご�
 指紋センサーの位置が端末を手に持ったときに人差し指がくるような位置なので、端末を持ったら画面が点灯、すぐに使える状態になるというイメージです。パスワードでプライバシーを守りつつも、自分は快適に使える、素敵じゃないですか。
 
 別に使わない、むしろ要らないよと思っていた指紋センサー。だからこそ余計に便利に感じてしまうのかもしれません。
-
-
-  

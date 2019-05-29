@@ -2,14 +2,11 @@
 title: ツルツルした感じが苦手なら是非試してみてほしい、メディアカバーマーケットのCintiq13HD用保護フィルムをレビュー
 slug: film-for-cintiq-13-hd-mediacovermarket
 description: このフィルムは適度な摩擦があって描き心地がよく、筆圧を安心してかけることができます。液晶タブレットのツルツルした書き心地がしっくりこない人におすすめできると思います。他に使ったことのあるフィルムと合わせて比較してみたので参考にしてください。
-
-
 featuredimage: images/cover/pc.jpg
 date: 2013-10-13
 lastmod: 2016-02-17
 tags: 
     - CG
-    - おすすめ
     - イラスト
     - 保護フィルム
 product:
@@ -25,7 +22,6 @@ Cintiq13HD用の液晶保護フィルムというと、私が買ったタイミ�
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B000EIHWQS/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/41M20Z8K2FL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B000EIHWQS/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">ELECOM 液晶保護フィルム 反射低減仕様 15.4インチワイド用 EF-FL15WF</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> エレコム 2006-02-09    </div>
@@ -36,11 +32,11 @@ Cintiq13HD用の液晶保護フィルムというと、私が買ったタイミ�
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00CIH3EX8/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/31ogd1DxBVL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
 <div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00CIH3EX8/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">OverLay Brilliant for Cintiq 13HD 高光沢液晶保護シート OBDTK1300</a>
-
 <div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> ミヤビックス     </div>
@@ -51,6 +47,7 @@ Cintiq13HD用の液晶保護フィルムというと、私が買ったタイミ�
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
+
 ちょっと話は脱線しますが、私は決してミヤビックスが嫌いなわけではなく、むしろ好きです。その昔、私がW-ZERO3という携帯電話（PHS）を使っていた時、非常にお世話になったメーカーです。<em>素晴らしい液晶保護フィルムを作っているメーカー</em>だと思います。今回は単に「映り込みが激しい」という話だったので避けただけです。
 
 まぁそれは置いておいて、ここからが本題です。
@@ -58,15 +55,15 @@ Cintiq13HD用の液晶保護フィルムというと、私が買ったタイミ�
 最近このCintiq 13HD用の液晶保護フィルムに新たな選択肢が加わったようです。ちょうど<em>エレコムの液晶保護フィルムが傷だらけになってきて、作業中に引っかかりを感じるようになった</em>こともあるので、試してみようかと購入することにしました。
 
 <div data-role="amazonjs" data-asin="B00G9SNBU8" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B00G9SNBU8_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">【ぴったり専用サイズ！目に優しい反射防止(ノングレア) 液晶保護フィルム】Wacom(ワコム) Cintiq 13HD DTK-1300/K0 13.3インチワイド(1920x1080)機種で使える目を保護、キズ防止、防塵、液晶保護フィルム（クリーニングクロス＆ヘラ付）</a><span class="amazonjs_indicator_footer"></span></div></div>
+
 メディアカバーマーケットというところが販売している製品です。種類もいろいろあるようですが、私が買ったのは<em>反射防止タイプ（ノングレア）のもの</em>です。
 
-届いた商品を見ると、どうもCintiqのサイズに合わせて予め加工しただけの液晶保護フィルムらしく、パッケージというか、液晶保護フィルムとピラ紙1枚、方眼紙に空気を押し出すヘラとクロスが入っただけの<em>簡素な包装</em>でした。
+届いた商品を見ると、どうもCintiqのサイズに合わせてあらかじめ加工しただけの液晶保護フィルムのようでした。パッケージというか、液晶保護フィルムとピラ紙1枚、方眼紙に空気を押し出すヘラとクロスが入っただけの<em>簡素な包装</em>でした。
 
 
 ## エレコムの液晶保護フィルムとの比較
 
-
-私のCintiq使用歴は、液晶保護フィルムなしの状態で30分ほどおっかなびっくり使い、その後は1ヶ月ほどエレコムの液晶保護フィルムを貼って使っていました。
+私のCintiq使用歴は、液晶保護フィルムなしの状態で30分ほどおっかなびっくり使い、その後は1か月ほどエレコムの液晶保護フィルムを貼って使っていました。
 
 そのため比較と言っても、エレコムの液晶保護フィルムについてはフィルム無しの状態と比較した感想で、メディアカバーマーケットのフィルムはエレコムのものと比較した感想です。しかも同時に使って比較したわけではないので、<strong>曖昧な感覚による感想</strong>であること前提にしてご覧ください。
 
@@ -112,6 +109,7 @@ Cintiq13HD用の液晶保護フィルムというと、私が買ったタイミ�
 <td>簡素</td>
 </tr>
 </table>
+
 エレコムのフィルムはタブレットで使うことを想定した商品ではないでしょうから、<em>比較的柔らかい</em>です。対してメディアカバーマーケットのものはハードタイプであるため、フィルム自体が<strong>それなりに硬い</strong>です。それが両者の最大の違いだと思います。
 
 これはペンで筆圧をかけると如実に違いとして現れます。エレコムのだと筆圧をかけた時に<em>フィルムが凹んでいる感覚があって</em>ちょっと気持ち悪かったのですが、こっちのフィルムはそれがありません。これなら<strong>安心して筆圧をかけることができます</strong>。
@@ -122,9 +120,7 @@ Cintiq13HD用の液晶保護フィルムというと、私が買ったタイミ�
 
 このフィルムを使えば、その手応えが手に入るわけではありません。しかし比較的摩擦が高めだと思うので、ツルツル滑りまわるよりはマシだと思います。ツルツル滑ってなんか気持ち悪い、という人にまずは試してみてもらいたいと思います。
 
-
 ## 貼るときは向きに注意
-
 
 貼る際には1点注意があり、液晶保護フィルムに保護フィルムが両面に貼ってあります。説明書きがありますが、1番の保護フィルムを剥がしてからCintiqに貼るので、間違えて逆側を剥がさないようにしましょう。逆をはがすとそもそも貼り付きませんけどね。
 
@@ -139,6 +135,3 @@ Cintiq13HD用の液晶保護フィルムというと、私が買ったタイミ�
 ただ、描き心地には影響はありませんが、フィルム越しに見るCintiqの画面は<em>余計に濁って見える</em>ようになってきました。線画レベルでは問題はないでしょうが、<strong>色の発色が通常のモニタで見るものとはかなり違う</strong>ように感じます。色の確認は別途モニタを接続して、そちらで確認した方がいいでしょう。
 
 フィルム越しのCintiqでは色がかなりくすんで見えます。表面の擦り傷がなければそれほどでもなかったですが、使い込むうちに色が見えにくくなると自覚するようになったことを追記しておきます。
-
-
-  

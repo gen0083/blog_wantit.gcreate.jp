@@ -2,24 +2,21 @@
 title: レンジ台を応用して、パソコンの置いてある空間を有効活用してみた
 slug: pcdesk-renjidai
 description: 机の上の作業スペース確保のために、レンジ台を使って工夫してみました。パソコンの上に物を置くスペースを作ることができるので、机の上が狭いなと感じている人は、こんな使い方も試してみてはいかがでしょうか。
-
-
 featuredimage: images/cover/pc.jpg
 date: 2014-09-17
 lastmod: 2015-01-22
 tags: 
-    - Surface PRO2
     - 空間活用
+    - PC
 product:
     name: '横幅伸縮式 レンジ上 ラック オーブンラック'
     number: 'SL1491242-21057565ZA-N622'
     rate: '3.5'
     comment: 'もうちょっと高さが低ければ最高なんだけどなぁ。'
-    rakuten: '<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top"><div style="border:1px solid;margin:0px;padding:6px 0px;width:320px;text-align:center;float:left"><a href="https://hb.afl.rakuten.co.jp/hgc/1316fb52.6fe2c5e2.1316fb53.189b3749/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fstylishlife%2f101404%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fstylishlife%2fn%2f101404" target="_blank"><img src="https://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fstylishlife%2fcabinet%2fimg10364636503.jpg%3f_ex%3d300x300&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fstylishlife%2fcabinet%2fimg10364636503.jpg%3f_ex%3d80x80" alt="レンジ台 レンジラック 電子レンジ ラック 上置き棚トースターラック キッチンラック キッチン 棚横幅伸縮式 レンジ上 ラック オーブンラック【あす楽対応】【ご紹介レビュー投稿超特価！税込3,800円⇒税込2,300円！】" border="0" style="margin:0px;padding:0px"></a><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px"><a href="https://hb.afl.rakuten.co.jp/hgc/1316fb52.6fe2c5e2.1316fb53.189b3749/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fstylishlife%2f101404%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fstylishlife%2fn%2f101404" target="_blank">レンジ台 レンジラック 電子レンジ ラック 上置き棚トースターラック キッチンラック キッチン 棚横幅伸縮式 レンジ上 ラック オーブンラック【あす楽対応】【ご紹介レビュー投稿超特価！税込3,800円⇒税込2,300円！】</a>
-</div></td></tr></table>'
+    rakuten: '<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top"><div style="border:1px solid;margin:0px;padding:6px 0px;width:320px;text-align:center;float:left"><a href="https://hb.afl.rakuten.co.jp/hgc/1316fb52.6fe2c5e2.1316fb53.189b3749/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fstylishlife%2f101404%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fstylishlife%2fn%2f101404" target="_blank"><img src="https://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fstylishlife%2fcabinet%2fimg10364636503.jpg%3f_ex%3d300x300&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fstylishlife%2fcabinet%2fimg10364636503.jpg%3f_ex%3d80x80" alt="レンジ台 レンジラック 電子レンジ ラック 上置き棚トースターラック キッチンラック キッチン 棚横幅伸縮式 レンジ上 ラック オーブンラック【あす楽対応】【ご紹介レビュー投稿超特価！税込3,800円⇒税込2,300円！】" border="0" style="margin:0px;padding:0px"></a><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px"><a href="https://hb.afl.rakuten.co.jp/hgc/1316fb52.6fe2c5e2.1316fb53.189b3749/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fstylishlife%2f101404%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fstylishlife%2fn%2f101404" target="_blank">レンジ台 レンジラック 電子レンジ ラック 上置き棚トースターラック キッチンラック キッチン 棚横幅伸縮式 レンジ上 ラック オーブンラック【あす楽対応】【ご紹介レビュー投稿超特価！税込3,800円⇒税込2,300円！】</a> </div></td></tr></table>'
 ---
 
-最近MacbookAirも机の上で使うようになってから、机の上が更に手狭になってしまいました。作業するたびにMacを閉じてその上にキーボードを置いて作業スペースを確保する。「あ、Macで作業すること残ってたわ」とキーボードを再度どけてMacを開く。もう面倒臭ったらありゃしない。
+最近MacbookAirも机の上で使うようになってから、机の上がさらに手狭になってしまいました。作業するたびにMacを閉じてその上にキーボードを置いて作業スペースを確保する。「あ、Macで作業すること残ってたわ」とキーボードを再度どけてMacを開く。もう面倒臭ったらありゃしない。
 
 ![SurfaceとMacで場所の取り合い](2147a2b8e373d21e5d0caa021028cc11.jpg)
 
@@ -41,13 +38,12 @@ Google画像検索で理想的な形した商品を探してみました。似�
 <tr>
 <td valign="top">
 <div style="border:1px solid;margin:0px;padding:6px 0px;width:320px;text-align:center;float:left"><a href="https://hb.afl.rakuten.co.jp/hgc/1316fb52.6fe2c5e2.1316fb53.189b3749/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fstylishlife%2f101404%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fstylishlife%2fn%2f101404" target="_blank"><img src="https://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fstylishlife%2fcabinet%2fimg10364636503.jpg%3f_ex%3d300x300&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fstylishlife%2fcabinet%2fimg10364636503.jpg%3f_ex%3d80x80" alt="レンジ台 レンジラック 電子レンジ ラック 上置き棚トースターラック キッチンラック キッチン 棚横幅伸縮式 レンジ上 ラック オーブンラック【あす楽対応】【ご紹介レビュー投稿超特価！税込3,800円⇒税込2,300円！】" style="margin:0px;padding:0px"></a>
-
 <p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px"><a href="https://hb.afl.rakuten.co.jp/hgc/1316fb52.6fe2c5e2.1316fb53.189b3749/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fstylishlife%2f101404%2f%3fscid%3daf_link_tbl&m=http%3a%2f%2fm.rakuten.co.jp%2fstylishlife%2fn%2f101404" target="_blank">レンジ台 レンジラック 電子レンジ ラック 上置き棚トースターラック キッチンラック キッチン 棚横幅伸縮式 レンジ上 ラック オーブンラック【あす楽対応】【ご紹介レビュー投稿超特価！税込3,800円⇒税込2,300円！】</a>
-
 </div>
 </td>
 </tr>
 </table>
+
 理由は、私が探した中で幅が40cm台の製品がこれだけだったからです。50cmくらいの幅のものだと、Cintiqやモニタの場所を圧迫してしまうので、できるだけ幅をとらないものがよかったのです。
 
 ![パッケージはレンジメイン](ae69304da3e7bff7e9922b12a564b534.jpg)
@@ -60,7 +56,7 @@ Google画像検索で理想的な形した商品を探してみました。似�
 ## 高さを考えるの忘れていた
 
 
-幅と奥行は事前にシュミレーションしておいたので、思った通りちょうどいい具合に収まってくれました。台の上にSurfaceを置き、その下にMacbookを置く。いい感じです。
+幅と奥行は事前にシュミレーションしておいたので、思ったとおりちょうどいい具合に収まってくれました。台の上にSurfaceを置き、その下にMacbookを置く。いい感じです。
 
 ![台を置いた結果](aab9c62cdc80ee7a7f8e5163e90aae07.jpg)
 
@@ -70,9 +66,7 @@ Google画像検索で理想的な形した商品を探してみました。似�
 
 台の上にモニタを置く使い方をするのは、おそらく私くらいのものでしょうね。しかし、ノートパソコンとSurfaceのどっちを台の上に置くかと言ったら、キーボードを使うMacを上に置くわけにはいきません。
 
-
 ## パソコン台としてもなかなか優秀
-
 
 このレンジ台は横幅を広げることもできるので、もう少し幅を取るものを置くのにも使えます。また、レンジ台の奥にあるフレームが配線を整理するのにいい働きをしてくれます。（写真ではカオスですが・・・）
 
@@ -97,6 +91,3 @@ Surfaceのドッキングステーションを利用している人で、その�
 ![台の下にかませるフェルト材](e524788ba9f44eb45b88695818c3533c.jpg)
 
 台の固定に関してはすぐ隣にあるモニタアームの支柱に結束バンドで括りつけることで対処しています。多少動きますが、地震で机の上から落ちてしまうことは防げると思います。
-
-
-  
