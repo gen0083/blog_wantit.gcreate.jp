@@ -25,4 +25,4 @@ jobs:
           command: ./src/check_slug_duplicate.sh
       - run:
           name: textlint check
-          command: textlint content/**/**/*.md
+          command: npx textlint content/**/**/*.md
