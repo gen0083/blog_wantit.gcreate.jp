@@ -9,6 +9,22 @@ paginate = 10
 disqusShortname = ""
 copyright = ""
 
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
 [params]
     description = "パソコン、PC周辺機器、カメラ、自転車、コーヒー、本、ライフハック術など、私が日々生活する中で買ったもの、使ってみたものを記録し紹介するブログです。興味をもった理由を絡めて、実際の使い心地をレポートしていきます。"
     images = ["images/screenshot.jpg"]
