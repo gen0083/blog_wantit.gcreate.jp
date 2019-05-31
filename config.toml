@@ -3,11 +3,10 @@ languageCode = "ja"
 title = "イイモノ"
 theme = "aether"
 googleAnalytics = "UA-43849068-1"
-
 hasCJKLanguage = true
 paginate = 10
-disqusShortname = ""
-copyright = ""
+rssLimit = 10
+summaryLength = 200
 
 [privacy]
   [privacy.disqus]
@@ -44,8 +43,13 @@ lastmod = ["lastmod", ":fileModTime", "date"]
     priority = 0.5
     filename = "sitemap.xml"
 
+[outputFormats]
+  [outputFormats.RSS]
+    baseName = "rss"
+
 [author]
     name = "gen0083"
+    email = "archiherewego@gmail.com"
 
 [social]
     twitter = "gen0083"
