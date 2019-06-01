@@ -1,0 +1,11 @@
+<div class="tags-footer mdc-chip-set">
+    {{- range $order, $tag := .Site.Taxonomies.tags.ByCount -}}
+        <div class="mdc-chip">
+            <a href="{{"/tags/" | relLangURL}}{{$tag.Term | urlize}}">
+                <div class="mdc-chip__tet">
+                    {{$tag.Term}} ({{$tag.Count}})
+                </div>
+            </a>
+        </div>
+    {{- end -}}
+</div>
