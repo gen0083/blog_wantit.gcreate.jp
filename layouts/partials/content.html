@@ -11,7 +11,9 @@
                         {{- range . -}}
                             <a href="{{"/tags/" | relLangURL }}{{ . | urlize }}">
                                 <div class="mdc-chip">
-                                    {{ . }}
+                                    <div class="mdc-chip__text">
+                                        {{ . }}
+                                    </div>
                                 </div>
                             </a>
                         {{- end -}}
