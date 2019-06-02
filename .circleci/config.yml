@@ -2,7 +2,7 @@ version: 2.1
 
 jobs:
   build:
-    working_directory: /go/src/github.com/gen0083/blog_wantit
+    working_directory: /go/src/github.com/{ORG_NAME}}/{{REPO_NAME}}
     docker:
       - image: gen0083/circleci-hugo:1.0
     steps:
@@ -22,7 +22,7 @@ jobs:
             - node_modules/
       - run:
           name: check slug duplication
-          command: ./src/check_slug_duplicate.sh
+          command: ./scripts/check_slug_duplicate.sh
       - run:
           name: textlint check
           command: npx textlint content/**/**/*.md
