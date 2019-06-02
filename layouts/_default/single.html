@@ -32,10 +32,12 @@
         {{- end -}}
     </section>
 
-    <nav class="end-nav side-padding">
-        {{ with .PrevInSection }}
-            {{ .Render "li-next" }}
+    <nav class="content next-prev-nav side-padding">
+        {{ with .NextInSection }}
+            <p class="next-link"><a href="{{ .Permalink }}">{{ "< " | safeHTML }}{{ .Title }}</a></p>
         {{ end }}
-        {{ partial "home-card.html" . }}
+        {{ with .PrevInSection }}
+            <p class="prev-link"><a href="{{ .Permalink }}">{{ .Title }}{{ " >" | safeHTML }}</a></p>
+        {{ end }}
     </nav>
 {{end}}

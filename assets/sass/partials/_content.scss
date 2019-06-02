@@ -38,3 +38,22 @@
     }
   }
 }
+
+.next-prev-nav {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+
+  p {
+    flex: 1 0 40%;
+    margin: 0 1em;
+
+    &.prev-link {
+      text-align: end;
+    }
+
+    &.next-link {
+      text-align: start;
+    }
+  }
+}
