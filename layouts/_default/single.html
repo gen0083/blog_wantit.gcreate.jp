@@ -1,5 +1,37 @@
 {{define "main"}}
     {{ partial "content.html" . }}
+    <section class="content section-related side-padding">
+        <h2 class="section-related__title">関連記事</h2>
+        {{- $related := .Site.RegularPages.Related . | first 5 -}}
+        {{- with $related -}}
+            <ul class="section-related__item-list">
+                {{- range . -}}
+                    <li class="section-related__item">
+                        {{- $title := .Title -}}
+                        {{- $permalink := .Permalink -}}
+                        {{- with .Params.product -}}
+                            <div class="section-related__item-has-product">
+                                <a href="{{ $permalink }}">
+                                    <span class="section-related__item-product-name">{{.name}}</span><br/>
+                                    <span class="section-related__item-title">{{$title}}</span>
+                                </a>
+                            </div>
+                            <div class="section-related__item-rate">
+                                {{ partial "product_rate.html" . }}
+                            </div>
+                        {{- else -}}
+                            <div class="section-related__item-name">
+                                <a href="{{ $permalink }}">{{$title}}</a>
+                            </div>
+                        {{- end -}}
+                    </li>
+                {{- end -}}
+            </ul>
+        {{- else -}}
+            <p>関連記事はありません</p>
+        {{- end -}}
+    </section>
+
     <nav class="end-nav side-padding">
         {{ with .PrevInSection }}
             {{ .Render "li-next" }}

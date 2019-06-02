@@ -7,3 +7,34 @@
     flex: 0 0 auto;
   }
 }
+
+.section-related {
+  .section-related__title {
+    margin: 0 1em 1em;
+  }
+
+  .section-related__item {
+    display: flex;
+    flex-flow: row nowrap;
+    margin: 1.8em 0;
+
+    .section-related__item-has-product {
+      display: flex;
+      flex-flow: column nowrap;
+      flex: 1 0 auto;
+
+      .section-related__item-product-name {
+        font-size: 1.2em;
+      }
+
+      .section-related__item-title {
+        font-size: 0.75em;
+        margin: 0.2em 1em;
+      }
+
+      .section-related__item-rate {
+        align-items: flex-end;
+      }
+    }
+  }
+}
