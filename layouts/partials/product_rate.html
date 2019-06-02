@@ -1,0 +1,14 @@
+{{ with .rate }}
+    <div class="product_info_rate">
+            <span class="rate-star">
+                {{ $rate := . }}
+                {{- range $v := seq 5 -}}
+                    {{- if ge $rate $v -}}
+                        <i class="material-icons">star</i>
+                    {{- else -}}
+                        <i class="material-icons">star_border</i>
+                    {{- end -}}
+                {{- end -}}
+            </span>
+    </div>
+{{ end }}

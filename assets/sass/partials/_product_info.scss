@@ -7,53 +7,53 @@
   border-radius: 20px;
   padding: 16px;
 
-  > .product_display {
+  .product_display {
     display: flex;
     flex-flow: row;
     flex: 1 0 auto;
     align-items: baseline;
 
-    > .product_name {
+    .product_name {
       margin: 8px;
       font-size: 1em;
       align-self: baseline;
       word-break: break-all;
     }
 
-    > .product_number {
+    .product_number {
       margin: 8px;
       font-size: 0.8rem;
       align-self: baseline;
     }
   }
 
-  > .product_link {
+  .product_link {
     margin: 8px;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
   }
 
-  > .product_evaluation {
+  .product_evaluation {
     display: flex;
     flex: 1 0 auto;
     flex-flow: row nowrap;
     align-items: baseline;
 
-    > .product_info_rate {
-      flex: 0 0 auto;
-      align-self: center;
-      margin: 8px;
-
-      .rate-star {
-        color: #fbc02d;
-      }
-    }
-
-    > .product_comment {
+    .product_comment {
       margin: 8px;
       align-self: baseline;
       word-break: break-all;
     }
+  }
+}
+
+.product_info_rate {
+  flex: 0 0 auto;
+  align-self: center;
+  margin: 8px;
+
+  .rate-star {
+    color: #fbc02d;
   }
 }
