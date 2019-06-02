@@ -22,3 +22,9 @@ title: 管理人について
 最近の更新頻度はそんなに高くないです。
 
 <https://www.youtube.com/channel/UCuLD8g4OUfn8kk0-bHJvwyw>
+
+## ほしいものリスト
+
+<https://www.amazon.jp/hz/wishlist/ls/2J4HUZLV9ERP5?ref_=wl_share>
+
+頂いた商品は業務や趣味などのリフレッシュにありがたく使わせていただきます。
