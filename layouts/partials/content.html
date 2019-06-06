@@ -3,8 +3,15 @@
         <header class="post-header">
             <h1 class="post-title">{{ .Title }}</h1>
             <div class="post-meta">
-                <p class="post-date">Posted
-                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format .Site.Params.dateFormat }}</time>
+                {{- $post_time := .Date.Format .Site.Params.dateFormat -}}
+                {{- $update_time := .Lastmod.Format .Site.Params.dateFormat -}}
+                <p class="post-date">
+                    Posted
+                    <time itemprop="dateCreated datePublished" datetime="{{ $post_time }}">{{ $post_time }}</time>
+                    {{ if ne $post_time $update_time}}
+                        / Updated
+                        <time itemprop="dateModified" datetime="{{ $update_time }}">{{ $update_time }}</time>
+                    {{ end }}
                 </p>
                 {{- with .Params.tags -}}
                     <div class="mdc-chip-set">
