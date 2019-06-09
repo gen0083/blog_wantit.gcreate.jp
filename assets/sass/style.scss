@@ -1,3 +1,6 @@
+$main_color: #26C6DA;
+$accent_color: #FF4081;
+
 @import "partials/media_query";
 @import "partials/pagination";
 @import "partials/list";
@@ -12,8 +15,7 @@ body {
   background: no-repeat;
   background-size: contain;
   padding: 0;
-  line-break: strict;
-  word-wrap: break-word;
+  word-wrap: break-all;
   overflow-wrap: break-word;
 }
 

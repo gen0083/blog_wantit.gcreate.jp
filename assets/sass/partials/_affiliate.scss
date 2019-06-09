@@ -230,5 +230,13 @@
 
 .affiliate {
   text-align: center;
+  width: 100%;
+  td {
+    border: none;
+  }
 }
 
+.amazon-wish-list {
+  background: lighten($main_color, 20%);
+  padding: 0.5em 1em;
+}
