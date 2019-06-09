@@ -49,6 +49,10 @@ Markdown内で使えるショートコード: [公式ドキュメント](https:/
 - tweet `{{< tweet tweetID >}}`
 - YouTube: `{{< youtube ビデオID >}}`
 
+## デプロイ
+
+現状では記事を書いたらプルリクを送り、その後`master`にマージしたら公開されるようになっている。
+
 ## ライセンス
 
 利用しているhugoテーマ: [aether](https://github.com/josephhutch/aether)
