@@ -33,6 +33,7 @@ summaryLength = 200
     archive-paginate = 3
     dateFormat = "2006/01/02"
     googleAutoAd = true
+    githubBaseUrl = "https://github.com/gen0083/blog_wantit.gcreate.jp/tree/master/content/"
 
 [frontmatter]
 date = ["date","publishDate", ":fileModTime"]

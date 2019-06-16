@@ -43,5 +43,9 @@
         {{ .Content }}
         {{ partial "product-affiliate.html" . }}
         {{ partial "amazon_wish_list.html" . }}
+        <div class="pull_request_with_github">
+            <i class="fab fa-github"></i>
+            <a href="{{.Site.Params.githubBaseUrl}}{{.File.Path}}">記事の内容に修正リクエストを送る</a>
+        </div>
     </article>
 </main>
