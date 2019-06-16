@@ -42,6 +42,7 @@
           href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"/>
     <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
+    <script src="https://kit.fontawesome.com/e7bd831e7e.js"></script>
     {{- $sass := resources.Get "sass/style.scss" -}}
     {{- $sass_option := ( dict "outputStyle" "compressed" "enabledSourceMap" false) -}}
     {{- $style := $sass | resources.ToCSS $sass_option  }}
