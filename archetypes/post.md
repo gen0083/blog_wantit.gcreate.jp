@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: ""
 slug: {{ .Name }}
 {{ $parent_path := replaceRE ".*post/(.+?)/.*" "$1" .Path -}}
 featuredimage: images/cover/{{ $parent_path }}.jpg
