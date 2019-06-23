@@ -49,6 +49,19 @@ Markdown内で使えるショートコード: [公式ドキュメント](https:/
 - tweet `{{< tweet tweetID >}}`
 - YouTube: `{{< youtube ビデオID >}}`
 
+## textlintの一時的な無効化
+
+どうしてもtextlintのルールを無視したい場合はつぎのコメントを挿入することで、部分的にtextlintを無効化できる。
+
+```
+<!-- textlint-disable -->
+ここはtextlintのルールを無視してもエラーにならない
+<!-- textlint-enable -->
+以降はtextlintのルールが有効になってチェックされる。
+```
+
+記事中で話し言葉っぽい書き方をどうしてもしたいときなどに使える。
+
 ## デプロイ
 
 現状では記事を書いたらプルリクを送り、その後`master`にマージしたら公開されるようになっている。
