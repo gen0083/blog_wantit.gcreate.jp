@@ -16,13 +16,7 @@
                 {{- with .Params.tags -}}
                     <div class="mdc-chip-set">
                         {{- range . -}}
-                            <a href="{{"/tags/" | relLangURL }}{{ . | urlize }}">
-                                <div class="mdc-chip">
-                                    <div class="mdc-chip__text">
-                                        {{ . }}
-                                    </div>
-                                </div>
-                            </a>
+                            {{ partial "tag_item.html" (dict "tag" .) }}
                         {{- end -}}
                     </div>
                 {{- end -}}

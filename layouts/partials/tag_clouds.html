@@ -1,11 +1,5 @@
 <div class="tags-footer mdc-chip-set">
     {{- range $order, $tag := .Site.Taxonomies.tags.ByCount -}}
-        <div class="mdc-chip">
-            <a href="{{"/tags/" | relLangURL}}{{$tag.Term | urlize}}">
-                <div class="mdc-chip__text">
-                    {{$tag.Term}} ({{$tag.Count}})
-                </div>
-            </a>
-        </div>
+        {{ partial "tag_item.html" (dict "tag" $tag.Term  "count" $tag.Count) }}
     {{- end -}}
 </div>
