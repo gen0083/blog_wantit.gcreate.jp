@@ -1,4 +1,4 @@
-<a href="{{ .Permalink }}" class="card blog-card" rel="bookmark">
+<div class="card blog-card">
     {{ if isset .Params "featuredimage" -}}
         <div class="card-img-container">
             <picture>
@@ -13,8 +13,12 @@
         </div>
     {{- end }}
     <article class="card-body">
-        <h2 class="card-title">{{ .Title }}</h2>
+        <h2 class="card-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h2>
         <p class="card-text">{{ if (isset .Params "description") }}{{ index .Params "description" }}{{ else }}{{ .Summary }}{{ end }}</p>
+        {{ if .Truncated -}}
+        <div class="read-more"><a href="{{ .Permalink }}">続きを読む</a></div>{{- end }}
         <div class="card-subtext muted-text">
             <p>Posted
                 <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format .Site.Params.dateFormat }}</time>
@@ -23,4 +27,4 @@
                 <p>{{ range .Params.categories }}#{{ . }} {{ end }}</p>{{ end }}
         </div>
     </article>
-</a>
+</div>

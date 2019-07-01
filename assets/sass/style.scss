@@ -10,6 +10,7 @@ $accent_color: #FF4081;
 @import "partials/product_info";
 @import "partials/gsc_searchbox";
 @import "partials/content";
+@import "partials/for_chips";
 
 body {
   background: no-repeat;
@@ -20,4 +21,12 @@ body {
 article > p {
   text-indent: 1em;
   word-break: break-all;
+}
+
+a {
+  color: darken($main_color, 20%);
+
+  &:hover {
+    color: $accent_color;
+  }
 }

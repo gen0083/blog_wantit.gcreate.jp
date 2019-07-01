@@ -1,0 +1,18 @@
+a.tag-link {
+  text-decoration: none;
+
+  .mdc-chip {
+    background-color: $main_color;
+  }
+
+  &:hover {
+    .mdc-chip__text {
+      color: white;
+    }
+
+    .mdc-chip {
+      background-color: $accent_color;
+    }
+  }
+}
+

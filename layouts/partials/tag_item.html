@@ -1,0 +1,7 @@
+<a href="{{"/tags/" | relLangURL }}{{ .tag | urlize }}" class="tag-link">
+    <div class="mdc-chip">
+        <div class="mdc-chip__text">
+            {{ .tag }} {{- with .count -}}({{- . -}}){{- end}}
+        </div>
+    </div>
+</a>
