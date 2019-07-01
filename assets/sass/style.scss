@@ -21,3 +21,11 @@ article > p {
   text-indent: 1em;
   word-break: break-all;
 }
+
+a {
+  color: $main_color;
+
+  &:hover {
+    color: $accent_color;
+  }
+}
