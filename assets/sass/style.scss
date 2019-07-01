@@ -24,7 +24,7 @@ article > p {
 }
 
 a {
-  color: $main_color;
+  color: darken($main_color, 20%);
 
   &:hover {
     color: $accent_color;
