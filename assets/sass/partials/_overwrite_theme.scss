@@ -2,7 +2,7 @@
 // 選んだやつが浮き上がるようにする
 .card {
   &:hover {
-    transform: scale(1.02);
+    transform: none;
     box-shadow: 0 0 .6rem .55rem rgba(0, 0, 0, 0.10), 0 0.35rem .8rem .12rem rgba(0, 0, 0, 0.20);
   }
 }
@@ -18,4 +18,13 @@
   a {
     text-decoration: none;
   }
+}
+
+.blog-card {
+  flex-direction: column;
+}
+
+.card-img {
+  height: 15em;
+  width: 100%;
 }
