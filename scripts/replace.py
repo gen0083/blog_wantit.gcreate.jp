@@ -72,7 +72,7 @@ def replace_tags(src):
 
 
 # collect target files
-base_path = os.path.dirname(__file__)
+base_path = os.getcwd()
 file_list = os.scandir(os.path.join(base_path, "content", "post"))
 for file in file_list:
     collect_md_files(file)
