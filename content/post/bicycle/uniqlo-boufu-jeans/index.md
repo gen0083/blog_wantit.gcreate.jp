@@ -34,7 +34,7 @@ product:
 
 裾を絞る機能はさすがについていないので、別途ズボンクリップなどを使って裾を絞る必要があります。（裾がギアなどに引っかかってもいいなら要りませんが・・・）
 
-<div data-role="amazonjs" data-asin="B003RWSHE4" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B003RWSHE4_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">OSTRICH(オーストリッチ) ズボンクリップB ブラック(2本1組)</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B003RWSHE4&linkId=f07734b135b37126beb6c77835922a57"></iframe>
 
 防風性能つきでかなり暖かく感じます。むしろ汗かいて暑いくらいでした。ズボンクリップで絞ったくるぶしから先との温度差がかなり顕著で、足首の寒さがが際立つくらいの防風性能をみせてくれます。
 

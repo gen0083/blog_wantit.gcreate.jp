@@ -21,7 +21,7 @@ product:
 
 描かないから上手くならない、私はそんな悪循環を繰り返すばかりでした。それではあまりに進歩がないので、人体の構造とかを理解すればもっとうまく描くことができるのではと考え、このアーティストのための美術解剖学という本を購入してみたのです。
 
-<div data-role="amazonjs" data-asin="4837301800" data-locale="JP" data-tmpl="" data-img-size="" class="asin_4837301800_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">アーティストのための美術解剖学: デッサン・漫画・アニメーション・彫刻など、人体表現、生体観察をするすべての人に</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4837301800&linkId=ce8c5bde4c530001bb0c5dcf6d6668f6"></iframe>
 
 この本には、人体の骨格から筋肉のつき方まで、前方、後方、側面から見た図解が詳細に載っています。図解のみならず、アタリの取り方や一般的な顔のパーツの比率・頭身の取り方など、人体を描くということに特化した本となっています。
 

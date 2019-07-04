@@ -23,7 +23,8 @@ Cintiq 13HDはパソコンとはHDMIで接続します。
 
 HDMIポートがなく、ミニディスプレイポート経由で接続する場合に、<em>この変換コネクタはちゃんと使えたよ</em>と、ただそれだけの話です。特にドライバのインストールも必要なく、繋げばちゃんと映り問題なく使用できました。Cintiq 13HDで使えるミニディスプレイポート変換コネクタをお探しの方へはそれだけなので、後の話は読み飛ばしてください。
 
-<div data-role="amazonjs" data-asin="B0052GQ498" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B0052GQ498_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">PLANEX Mini Displayport -HDMI変換アダプタ (MacBook MacBook Pro MacBook Air) PL-MDPHD02</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0052GQ498&linkId=a0463938dea62a740653eda6bb22e877"></iframe>
+
 残りの話は、私が悪戦苦闘している<strong>Surface PRO 2とCintiq 13HDの接続の話</strong>です。
 
 ## Surfaceとの接続は動作保証対象外

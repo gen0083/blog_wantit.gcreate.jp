@@ -88,8 +88,9 @@ product:
 自分で取り付けるなら、一緒にグリスも購入しましょう。
 新しく買ったペダルと一生添い遂げるなら別になくてもいいかもしれませんが、ペダルが取り外せなくなるかもしれません。
 
-<div data-role="amazonjs" data-asin="B003OQU6ZG" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B003OQU6ZG_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">ACOR(エイカー) ペダルスパナ ATL-2613</a><span class="amazonjs_indicator_footer"></span></div></div>
-<div data-role="amazonjs" data-asin="B005JALESS" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B005JALESS_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">PARKTOOL(パークツール) ポリリューブ1000 113g・チューブ入 PPL-1</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B003OQU6ZG&linkId=af0e50e9073c00aa63ae6a9b59b4d00a"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B005JALESS&linkId=e516300356e1915d98917cf444e92568"></iframe>
 
 ## ビンディング導入にあたって注意点
 

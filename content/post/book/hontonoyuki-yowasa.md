@@ -28,7 +28,7 @@ product:
 
 手放しで「ハラショーハラショー」と絶賛できる内容だとは言いませんが、それでも、読めば何かしら感じるところがあると思います。
 
-<div data-role="amazonjs" data-asin="4478025819" data-locale="JP" data-tmpl="" data-img-size="" class="asin_4478025819_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">嫌われる勇気―――自己啓発の源流「アドラー」の教え</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4478025819&linkId=4e3e6760bec279caddaca931af2c7a73"></iframe>
 
 とりあえず雰囲気だけ掴みたいなら、TEDトークでの著者のプレゼンを見るのもいいかもしれません。
 

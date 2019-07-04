@@ -27,7 +27,7 @@ product:
 
 まずは窓枠の隙間を埋めることにしました。密閉度が増して寒さが和らぐかもしれません。
 
-<div data-role="amazonjs" data-asin="B004JLCQL2" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B004JLCQL2_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">ニトムズ すきまテープ徳用ロング 2巻パック 10mm×15mm×5m E1280</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004JLCQL2&linkId=cee36466a20fd11ec9b583786b636b7a"></iframe>
 
 窓のサッシ部分と、窓と窓の間に貼り付けました。
 
@@ -51,7 +51,7 @@ product:
 
 ## 対策2　冷気ストップパネル
 
-<div data-role="amazonjs" data-asin="B000V2F2SW" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B000V2F2SW_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">冷気ストップパネル M</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000V2F2SW&linkId=25e7ffc5541dd3df8ca3ce4a1ce0dac9"></iframe>
 
 窓のところに立てかけるボードです。私が購入したのは、このタイプの製品の中でもボードの厚さが薄いタイプのものです。ボードの位置が目線の高さになるので、光が透過する分この製品がいいかなと思ったのです。
 
@@ -65,7 +65,7 @@ product:
 
 ## 対策3　断熱スプレー
 
-<div data-role="amazonjs" data-asin="B004WYOZBK" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B004WYOZBK_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">結露抑制 夏はヒンヤリ 冬はポカポカ 窓用省エネスプレー 寒い暑いその時</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004WYOZBK&linkId=498da5f3ed28da641a22b9a60beea44a"></iframe>
 
 隙間風対策ではありませんが、窓ガラスに窓用断熱スプレーを吹きかけてみました。これは今回のために買ってきたものではなく、夏場の断熱用に買ってきて余っていたものを流用しただけです。
 

@@ -26,7 +26,7 @@ product:
 
 私が古典部シリーズを知ったのはアニメ「氷菓」を見たことがきっかけでした。京都アニメーションによるキレイなアニメーションが印象的でした。台詞回しが巧みで、キャラクター同士の微妙な距離感が好きです。ミステリなんだけど殺人事件が起こるわけでもなく、日常のちょっとした出来ことから推論を組み立てていく感じが新鮮でした。
 
-<div data-role="amazonjs" data-asin="B00OZC2IWC" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B00OZC2IWC_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">「氷菓」BD-BOX Blu-ray</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00OZC2IWC&linkId=2c93e3e88d1a98b998125c90ea118658"></iframe>
 
 ちなみに原作はひととおり購入して読みました。古典部の文集がなぜ「氷菓」という名前なのかという謎に迫っていく氷菓。途中で脚本家が降りてしまった自主制作映画の謎解きをする「愚者のエンドロール」。手違いで作りすぎてしまった文集をさばきながら、学園祭で起こる珍事件の謎に迫る「クドリャフカの順番」。ショートエピソード集でアニメでは各所に挿入された「遠まわりする雛」。
 

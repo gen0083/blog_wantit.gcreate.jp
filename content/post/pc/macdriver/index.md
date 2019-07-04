@@ -23,13 +23,13 @@ product:
 
 ## Macの裏蓋のネジ
 
-![MacbookAir裏蓋ネジ](P5222309.jpg)
+![MacbookAir裏蓋ネジ](P5222302.jpg)
 
 MacbookAirの裏蓋のネジは、このような<em>頂点が5つある星形のネジ</em>です（モデルによっては違うかもしれないですが）。星形のネジというと、トルクスドライバー（頂点が6つある星形のネジ）の方がより一般的で、比較的目にする機会もあるかもしれません。しかしこの5つ星ネジのドライバーは探してもなかなか見つかりません。非常に厄介なやつです。
 
 私はネット通販で購入しました。
 
-<div data-role="amazonjs" data-asin="B00DGJ2PIC" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B00DGJ2PIC_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">Macbook Air用 星型ドライバー 1.2mm</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00DGJ2PIC&linkId=edefc41aaf71b0b96ddfd522211286be"></iframe>
 
 ちなみに、裏蓋はこの5つ星のネジで止まっていますが、<em>Mac内部のバッテリは6つ星のネジ（トルクス）で固定されている</em>ので、バッテリも外したい人は別途トルクスドライバーが必要になります。
 
@@ -43,7 +43,7 @@ MacbookAirの裏蓋のネジは、このような<em>頂点が5つある星形�
 
 ちなみに、内部を清掃する際は<em>エアダスターを使うのがいい</em>と思います。間違っても息を使って吹き飛ばそうとしない方がいいと思います。ツバが飛んでパソコンが壊れてしまいます。
 
-<div data-role="amazonjs" data-asin="B000TI3AK0" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B000TI3AK0_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">エーゼット(AZ) エアーダスター152ａ390ml 941HTRC 2.1</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000TI3AK0&linkId=a21fed70e6167a5378ff393e4917d3e5"></iframe>
 
 ## 掃除の効果は？
 

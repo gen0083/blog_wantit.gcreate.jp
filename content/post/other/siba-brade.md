@@ -26,7 +26,8 @@ product:
 
 まずはブレードの交換ですが、どうあがいても手が油で汚れてしまうので、ゴム手袋等を使って手が汚れないようにするのが肝心です。動画で私が使っていたゴム手袋は<a href="https://wantit.gcreate.jp/nitorirutebukuro/" title="手を汚れ、ニオイの付着から守る使い捨てゴム手袋">ワーキングクインニトリル手袋</a>です。
 
-<div data-role="amazonjs" data-asin="B0057DD20K" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B0057DD20K_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">クイン ワーキングクイン ニトリル手袋 （パウダーフリー） M 50枚入り</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01CZ8HDB8&linkId=367d44b57c7e26d44aaa035a73ebe5ec"></iframe>
+
 ブレードを交換する際は、クランクを上下逆にすることを気をつけさえすれば、すんなりと交換できるでしょう。
 
 芝生を刈る際は、コードレスなので軽快に取り回すことができとても楽でした。バッテリ駆動とはいえ切れ味は申し分なく、さくさく刈れます。

@@ -13,7 +13,7 @@ product:
     name: 'Cintiq13HD用液晶保護フィルム　メディアカバーマーケット'
     rate: '4.5'
     comment: '非常に描きやすくなりました。'
-    amazon: '[amazonjs asin="B00G9SNBU8" locale="JP" title="【ぴったり専用サイズ！目に優しい反射防止(ノングレア) 液晶保護フィルム】Wacom(ワコム) Cintiq 13HD DTK-1300/K0 13.3インチワイド(1920x1080)機種で使える目を保護、キズ防止、防塵、液晶保護フィルム（クリーニングクロス＆ヘラ付）"]'
+    amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00G9SNBU8&linkId=5e1346713b6050c3b1fd5200afb52310"></iframe>'
 ---
 
 Cintiq13HD用の液晶保護フィルムというと、私が買ったタイミングではエレコムの液晶保護フィルムか、ミヤビックスのOverray Briliantしか選択肢がありませんでした。そして、Overray Briliantは映り込みがひどいという話だったので、私はエレコムの液晶保護フィルムを選んで使っていました。
@@ -54,7 +54,7 @@ Cintiq13HD用の液晶保護フィルムというと、私が買ったタイミ�
 
 最近このCintiq 13HD用の液晶保護フィルムに新たな選択肢が加わったようです。ちょうど<em>エレコムの液晶保護フィルムが傷だらけになってきて、作業中に引っかかりを感じるようになった</em>こともあるので、試してみようかと購入することにしました。
 
-<div data-role="amazonjs" data-asin="B00G9SNBU8" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B00G9SNBU8_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">【ぴったり専用サイズ！目に優しい反射防止(ノングレア) 液晶保護フィルム】Wacom(ワコム) Cintiq 13HD DTK-1300/K0 13.3インチワイド(1920x1080)機種で使える目を保護、キズ防止、防塵、液晶保護フィルム（クリーニングクロス＆ヘラ付）</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00G9SNBU8&linkId=5e1346713b6050c3b1fd5200afb52310"></iframe>
 
 メディアカバーマーケットというところが販売している製品です。種類もいろいろあるようですが、私が買ったのは<em>反射防止タイプ（ノングレア）のもの</em>です。
 

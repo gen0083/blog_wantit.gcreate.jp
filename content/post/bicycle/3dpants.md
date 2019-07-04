@@ -49,6 +49,6 @@ product:
 
 一日20kmほどをケイデンス90〜100くらいを目安で連続5日間くらい走ったら股ずれが発生しました。ケツの痛みから開放されたと思ったら、別の悩みが発生です。
 
-<div data-role="amazonjs" data-asin="B002RT8GSA" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B002RT8GSA_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">ワセリンHG</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002RT8GSA&linkId=969a6215e15a6d7cf4fa621ed4fdf2f4"></iframe>
 
 とりあえずワセリンを塗ることで対処しました。後はレーパンをしっかり上まで持ち上げて、パッドがちゃんと密着するように履くのも大事かもしれません。

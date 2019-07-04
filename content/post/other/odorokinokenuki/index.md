@@ -20,7 +20,7 @@ product:
 
 今までは普通の毛抜き（ステンレス製の1つの金属を折り曲げた作りのもの）で抜いていました。
 
-<div data-role="amazonjs" data-asin="B002SW2PJC" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B002SW2PJC_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">ステンレス毛抜きセット</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002SW2PJC&linkId=7b404f271f64618ad75184efd6f71d23"></iframe>
 
 一方で、前々からルビスのツイーザーが精度がとても良くてオススメだというのを見ていて、いつか欲しいなぁなんて思っていたのです。それでちょっと買ってみようと思ったのですが、ルビスの毛抜きはものすごい高い。精度はいいのかもしれないけれども、ちょっと気軽には試せないお値段です。
 
@@ -38,7 +38,7 @@ product:
 
 先端が丸いおかげで、肌を毛と一緒にはさんだり先端が肌に刺さったりと、<em>痛い思いをしなくてすみます</em>。これは画期的です。
 
-![驚きの毛抜き　先端](P5312317.jpg)
+![驚きの毛抜き　先端](P5312315.jpg)
 
 確かに刃先が平行になっていたほうが短い毛でもキャッチしやすいと思いますが、それは同時に肌も一緒にはさんでしまう危険性をはらんでいます。
 

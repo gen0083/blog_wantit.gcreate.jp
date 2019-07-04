@@ -44,7 +44,7 @@ product:
 
 使用前後、使用中には定期的に刃に注油が必要とのことです。私はCRE-556を刃に定期的にさしながら使いました。
 
-<div data-role="amazonjs" data-asin="B000TGHULW" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B000TGHULW_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">KURE  呉工業  5-56 (320ｍｌ) 多用途・多機能防錆・潤滑剤  品番  1004 HTRC2.1</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000TGHULW&linkId=9c60708d382af7db369fa82ffd522a25"></iframe>
 
 556で水洗いするかのごとく豪快に使いました。気分的な問題かもしれませんが、油をしっかりさしておいた方がよく切れた気がします。
 

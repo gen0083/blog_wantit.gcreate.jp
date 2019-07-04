@@ -53,7 +53,7 @@ F値＝<em>レンズの明るさ</em>、小さいほど明るく、大きいほ�
 
 外で使うのが便利なだけに、<em>レンズプロテクターは付けておいた方がいいと思います</em>。もっとも、私はどんなレンズだろうと傷つくのが怖いので、レンズプロテクターは必ずつけることにしていますけどね。
 
-<div data-role="amazonjs" data-asin="B000PJ5844" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B000PJ5844_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">Kenko カメラ用フィルター PRO1D プロテクター (W) 58mm レンズ保護用 252581</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000PJ5844&linkId=d5ac2be0436c0566582f3aed756cea79"></iframe>
 
 ## 持っておいて損のないレンズ
 

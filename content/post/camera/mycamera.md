@@ -53,7 +53,7 @@ product:
 
 最近のミラーレス一眼では、標準でEVFを備えている機種もあったりするし、ついていない製品であっても、<em>別売りでEVFが販売されています</em>。私の使っている製品であればこれとか。
 
-<div data-role="amazonjs" data-asin="B005F2SVFY" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B005F2SVFY_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">OLYMPUS 電子ビューファインダー VF-3</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B005F2SVFY&linkId=220338d7a2191ced2a889d44a5597308"></iframe>
 
 しかし、EVFであろうと<em>液晶の解像度という性能の限界がある</em>ので、光学ファインダーをもつ一眼レフカメラとは勝負にならないと思います。
 
