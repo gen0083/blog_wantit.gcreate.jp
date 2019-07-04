@@ -64,7 +64,8 @@ print(f"matched posts are {count}")
 for t in stack:
     print(t["path"])
     for amazon in t["amazon"]:
-        print(amazon)
+        match = re.match(r'.*data-asin="(?P<asin>.+?)".*<a.+?>(?P<title>.+?)</a>.*', amazon)
+        print(f"{match['title']}: https://amazon.co.jp/dp/{match['asin']}")
     print("")
     count -= 1
     if count == 0:
