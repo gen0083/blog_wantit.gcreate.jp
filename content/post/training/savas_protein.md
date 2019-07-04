@@ -18,7 +18,7 @@ product:
 
 きっかけは「筋トレが最強のソリューションである」という本を読んだ、からかもしれません。筋トレすればすべて解決するみたいな頭の悪い本なんですが、あまりに筋トレ筋トレと振り切った内容で、逆に「そこまでいうならやってみようかな」となってしまいました。
 
-<div data-role="amazonjs" data-asin="4426608376" data-locale="JP" data-tmpl="" data-img-size="" class="asin_4426608376_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">筋トレが最強のソリューションである マッチョ社長が教える究極の悩み解決法</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4426608376&linkId=6e1748c758a9ee6236c5d121a75dd5fc"></iframe>
 
 そもそも私は運動不足で、体重が増え続けるていくのがやばいなと実感していました。動画見ながらフィットネスバイクで汗を流すなんてことをやり始めていたのですが、これを筋トレにシフトしてみるのもいいかなと思ったのです。
 
@@ -60,7 +60,7 @@ product:
 
 カップにはメモリがついているので、いれる牛乳の量を計量カップ使って測る必要もありません。プロテインに比べたら安いものなので、どうせならシェーカーも一緒に買うのがいいと思います。
 
-<div data-role="amazonjs" data-asin="B0070SUW30" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B0070SUW30_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">ザバスプロテインシェーカー (500ml)</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0070SUW30&linkId=ad23952d520d3c7266d90b413e855f69"></iframe>
 
 ### ダマになるのはバニラだからかも
 

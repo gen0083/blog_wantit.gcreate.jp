@@ -26,7 +26,7 @@ product:
 
 まずは手袋です。
 
-<div data-role="amazonjs" data-asin="B0057DD21O" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B0057DD21O_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">クイン ワーキングクイン ニトリル手袋 （パウダーフリー） L  50枚入り</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00B4TQA7S&linkId=df9acca5c9bbba7a141ce81a02793125"></iframe>
 
 これがないと掃除どころではありません。
 油でベトベトになるので使い捨ての手袋がよいと思います。
@@ -35,7 +35,7 @@ product:
 次に拭くものですが、こちらも使い捨てできるものがいいです。
 お勧めはJKワイパーです。
 
-<div data-role="amazonjs" data-asin="B00215FNQI" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B00215FNQI_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">JKワイパー 150-S 62301</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00215FNQI&linkId=b93ba61bfcb556467a106edd3f254cc1"></iframe>
 
 ティッシュのような感覚で使えます。
 それでいて紙質がしっかりしているのでギアの尖った部分に引っかかって簡単に破れたりしないのがいいところです。
@@ -50,7 +50,7 @@ product:
 
 油汚れは普通に拭いても落ちないので、ディグリーザーを使います。
 
-<div data-role="amazonjs" data-asin="B000FO317A" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B000FO317A_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">FINISH LINE(フィニッシュライン) エコテック2 マルチディグリーザ- 600ml アルミボトル TOS08002</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00WL0K818&linkId=95f4cee995869121c9b0a7482b67df0e"></iframe>
 
 私は100均で買ってきたアルミパッドにディグリーザーを移して、そこにギアやチェーンをつけながら洗いました。
 
@@ -63,15 +63,15 @@ product:
 後輪ギアは外側の1枚か2枚くらいが個別に分解可能なだけで、残りのギアはひとかたまりになっています。
 毛足の長いブラシと鎌のような形状のプラスチックで泥汚れをかき出すしかありません。
 
-<div data-role="amazonjs" data-asin="B00EES9FHI" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B00EES9FHI_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">AZ(エーゼット) ギアクリーニングブラシセット KD053</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00EES9FHI&linkId=cc0288a6c166961dac9656725f332d65"></iframe>
 
 ### 後輪ギア（スプロケット）の分解
 
 後輪ギアを分解するには専用の工具が必要になります。
 
-<div data-role="amazonjs" data-asin="B002L15M68" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B002L15M68_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">バイクハンド YC-501A チェーン式フリーホイール外し YC-501A</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002L15M68&linkId=48a2e1be498c48473ab713dd746a9106"></iframe>
 
-<div data-role="amazonjs" data-asin="B000OYLUSS" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B000OYLUSS_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">SHIMANO(シマノ) TL-LR15 Y120092300 ロックリング締付け工具</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000OYLUSS&linkId=5ea2b773785dc47604f3d7b281580c62"></iframe>
 
 私はロックリング締め付け工具を買いましたが、取っ手と一体になったものもあるので、それを使う方が便利かもしれません。
 ロックリング締め付け工具の場合、別途モンキーレンチが必要です。
@@ -82,7 +82,7 @@ product:
 
 チェーンを分解する前に、自転車のチェーンがミッシングリンクを使っているか確認しましょう。
 
-<div data-role="amazonjs" data-asin="B002BWPL1S" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B002BWPL1S_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">KMC 8スピード用ミッシングリンク CL571R 2セット入 シルバー</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002BWPL1S&linkId=ea11748d9c4e56050e4eb68fc80ccdf6"></iframe>
 
 チェーンをじっくり観察して、チェーンに上記のような部品があったら取り外しは非常に簡単です。
 油で滑ってやりにくいかもしれませんが、手だけで取り外すことができます。
@@ -94,7 +94,7 @@ product:
 
 ちなみに、チェーンを繋いだまま掃除するための道具があります。
 
-<div data-role="amazonjs" data-asin="B0070Q3H4I" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B0070Q3H4I_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">自転車用チェーンクリーナー（チェーン洗浄器具） EEA-YW0536</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0070Q3H4I&linkId=896779faf51c16183985247922611144"></iframe>
 
 一度これを使って掃除しましたが、チェーンだけならキレイになります。
 が、この道具は安物だと作りがものすごくちゃちいので、ほとんど使い捨てみたいなものです。
@@ -104,7 +104,7 @@ product:
 ディグリーザーを使って油汚れを落とした後は、しっかりと注油しましょう。
 （もちろん組み直したあとで、ですが）
 
-<div data-role="amazonjs" data-asin="B002IDZXRM" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B002IDZXRM_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">FINISH LINE(フィニッシュライン) テフロン プラス ルーブ ドライ 120ml プラボトル TOS07001</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002IDZXRM&linkId=e9942988b39fb1294af5f096c700028a"></iframe>
 
 ## ボディの洗浄
 
@@ -113,7 +113,7 @@ product:
 私はチェーンとギアの掃除で力尽きて、ボディやタイヤの掃除はかなり手を抜きました。
 雑巾にバイクウォッシュという洗剤を吹き付けて軽く拭きあげて終わりにしました。
 
-<div data-role="amazonjs" data-asin="B001GCER7S" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B001GCER7S_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">FINISH LINE(フィニッシュライン) バイク ウォッシュ 1リットル TOS08100</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B001GCER7S&linkId=7ef80ff709b54cb019c6e00c380d56ad"></iframe>
 
 匂いがなかなか独特で慣れませんが、チェーンから飛び散った油汚れ程度ならさっとキレイにできます。
 面倒臭かったらJKワイパーで拭きあげるだけでも別にいいのではないでしょうか。

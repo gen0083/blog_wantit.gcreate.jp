@@ -29,7 +29,8 @@ product:
 
 透明ではないので、<em>剥離シートをつけたままの状態で位置合わせをし</em>て、<em>マスキングテープで片側を固定</em>し、<em>剥離シートを全部はがして貼り付ける</em>と上手く貼れます。剥離フィルムを剥がしてから位置決めをしようとすると失敗します。
 
-<div data-role="amazonjs" data-asin="B0000WS000" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B0000WS000_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">メイクアップ材シリーズ No.31 マスキングテープ 10mm 87031</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0000WS000&linkId=0d855af239c28532848a1097aa1a4d65"></iframe>
+
 透明ではないので、<em>粘着面に多少ホコリが混入しようと問題ない</em>のは楽ですね。
 
 

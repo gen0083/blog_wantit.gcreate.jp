@@ -26,7 +26,7 @@ product:
 
 ステンレスポットで、コーヒー用にちょうど良さそうなサイズのものは、<em>なぜかコーヒーメーカーとセットになっていて</em>、サイズの大きい1Lのものしか単品で売られていませんでした。ちゃんと探せば<em>0.6Lくらいのちょうどよいサイズのものもあって</em>、<strong>サイズ的にはそっちの方がよかった</strong>気がします。
 
-<div data-role="amazonjs" data-asin="B0000DIJ7E" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B0000DIJ7E_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">THERMOS ステンレスポット ステンレスブラック TGS-600</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0000DIJ7E&linkId=771af275a205c76475ebb150fbdbad5a"></iframe>
 
 私の場合<em>1回で約0.4Lしか淹れないので、明らかにサイズが大きすぎ</em>。ちゃんと探してから買えばよかったと反省。
 
@@ -58,6 +58,6 @@ product:
 
 どうやら私が買ったTHS-1000というのは旧モデルらしく、新しいのが出ているみたいです。
 
-<div data-role="amazonjs" data-asin="B00EI63OT6" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B00EI63OT6_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">THERMOS ステンレスポット 1.0L クリアステンレス THV-1000 CS</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00EI63OT6&linkId=0973689c4e9331be022fc76d57cfd355"></iframe>
 
 ガラス製のコーヒーポットを使っている人は、自分のコーヒーライフにあわせて、ステンレスポットを試してみてはいかがでしょうか。

@@ -65,7 +65,7 @@ product:
 
 よくセットで購入されるものにキムワイプがありますが、普通のティッシュでも充分にきれいにできます。
 
-<div data-role="amazonjs" data-asin="B001EHI9XI" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B001EHI9XI_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">キムワイプ 12×21.5cm /1箱(200枚入) S-200</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B001EHI9XI&linkId=540eb3f51d449ad02c62d4bc413d574c"></iframe>
 
 私も一緒に購入して使ってみましたが、ティッシュより紙くずがつきにくい、破れにくいというのが特徴です（絶対につかない・破れないわけではないので過信しないように）。
 

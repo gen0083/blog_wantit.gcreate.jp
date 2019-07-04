@@ -18,13 +18,13 @@ product:
 
 今回はボールペンのお話なのですが、私は<em>楽ノック</em>というボールペンを今まで愛用してきていました。0.7mmの太めのボールペンなのですが、強い筆圧をかけても書き味が損なわれることが無いため、とても重宝しています。程よい太さとクリップがあるおかげで手にジャストフィットするので、報告書の作成から提出書類の清書、普段のメモ書きまで大活躍です。<em>値段が安くて手に入れやすい</em>のもグッドです。
 
-<div data-role="amazonjs" data-asin="B002CKFI0I" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B002CKFI0I_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">三菱鉛筆 油性ボールペン VERY楽ノック 0.7mm SN-100-07 黒 10セット</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002CKFI0I&linkId=1a20f890a4571ecc319a589acba39b21"></iframe>
 
 ところで、以前にこのブログでも紹介した<a href="https://wantit.gcreate.jp/zerosecondthinking/" title="ゼロ秒思考で頭の体操">「ゼロ秒思考」という本</a>の中で、<em>「筆圧ゼロでも非常に描きやすい」と絶賛</em>されていた、<em>パイロットのVコーン</em>というボールペンがあります。やたらと推してくるので、ちょっと書き味が気になったこともあり、実際に試してみることにしました。
 
 ## パイロットVコーン
 
-<div data-role="amazonjs" data-asin="B001AX7W66" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B001AX7W66_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">パイロット 水性ボールペン Vコーン ブラック LVE-10EF-B / 10セット</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B001AX7W66&linkId=aba36ab87152df4147a8efca59cb481a"></iframe>
 
 直液式の水性ボールペンということで、ちょっと珍しいタイプのボールペンなのでしょうか。大きな文房具専門店に行かないとなかなか見つからないかもしれません。
 
@@ -37,7 +37,7 @@ product:
 ## 番外編、万年筆カクノ
 
 
-<div data-role="amazonjs" data-asin="B00FZLOYEM" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B00FZLOYEM_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">パイロット 万年筆 カクノ ライトグリーン F（細字）</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00FZLOYEM&linkId=8062fcbf757059900950be74a72bf534"></iframe>
 
 Vコーンの在庫を調べてもらっている間に、何となく試し書きした万年筆の書き味が気に入ってしまい、ついつい衝動買いしてしまいました。
 

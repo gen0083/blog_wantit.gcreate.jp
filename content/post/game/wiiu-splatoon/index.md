@@ -24,7 +24,7 @@ WiiUを持っていない人にとっては本体から購入しないといけ�
 
 ただどうしても頭の隅っこで「やってみたいなぁ・・・」っていう気持ちが居座り続けて、どうにも気持ち悪かったのす。このまま悶々とし続けるのもどうかと思い、結局買ってみることにしました。だって欲しかったんだもの。
 
-<div data-role="amazonjs" data-asin="B009K1EDTY" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B009K1EDTY_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">Wii U ベーシックセット (WUP-S-WAAA)</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B009K1EDTY&linkId=cc7add08afbd1d35b6e801e2a7faa2e1"></iframe>
 
 スプラトゥーン以外遊ぶ予定はないので、ベーシックセットを買いました。スタンドは別になくても困らないし、内蔵メモリもスプラトゥーンだけならベーシックの8Gで十分です。と言っても、プレミアムよりは安いものの、それでもソフトと合わせて3万超える出費です。
 

@@ -131,4 +131,4 @@ Xperia Arcには飛散防止フィルムが貼られているので、これを�
 
 油で手が汚れてしまう自転車のチェーン掃除に使えますし、料理の際に手が油臭くなったり魚臭くなったりすることを防いでくれる便利な手袋です。
 
-<div data-role="amazonjs" data-asin="B0057DD21O" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B0057DD21O_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">クイン ワーキングクイン ニトリル手袋 （パウダーフリー） L  50枚入り</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0057DD21O&linkId=16022d82c0b2c84f48ab1475dc6a2ba8"></iframe>

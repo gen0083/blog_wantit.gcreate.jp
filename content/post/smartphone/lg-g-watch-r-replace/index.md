@@ -38,7 +38,7 @@ G watch Rはベルトの交換ができるタイプの腕時計です。ただ�
 
 弓カンと直カンという2種類があって、G watch Rに使えるのは直カンの方です。私はそんな違いがあるとは知らずに弓カンの方を買ってしまいました。弓カンだとアーチ状になっていて、はまらないんですよね・・・。
 
-<div data-role="amazonjs" data-asin="B00H0AUAIU" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B00H0AUAIU_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">腕時計 ベルト ステンレス ３連 プッシュ式　直カン 22mm Dバックル 【 時計 バンド ＋ バネ棒 ＋ バネ棒外し】 3点 セット 黒 ブラック 22</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00H0AUAIU&linkId=73967c8c97f65e9a6a52500c5843d386"></iframe>
 
 私はAmazonで買ったのですが、ベルトの品質も決していいとはいえません。私の手元に届いた商品はメッキが一部剥がれてましたし。
 

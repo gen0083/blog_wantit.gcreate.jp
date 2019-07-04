@@ -38,13 +38,13 @@ product:
 
 ボトルインクを使うためには<em>コンバーターという部品が必要</em>になります。
 
-<div data-role="amazonjs" data-asin="B0018HGKNU" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B0018HGKNU_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">パイロット 万年筆専用 回転式コンバーター CON-50</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01E8DM2S2&linkId=abca376c89cef3c28665086d69da3dc1"></iframe>
 
 インクカートリッジと同じ大きさで、インクを吸入するためのピストン機構がついているものになります。つまみを回すことでピストンが上下し、ボトルインクからインクを吸入する仕組みです。
 
 コンバーターを使うことで、カートリッジにはない<em>多種多様なインクを利用することができる</em>のがメリットだそうです。もっとも、私はインクにこだわりがあるわけではないので、とりあえず安そうなインクを購入しました。安いものだとインクカートリッジと変わらない値段、高いものに慣れば数千円のものまであるようです。
 
-<div data-role="amazonjs" data-asin="B001MTA990" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B001MTA990_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">パイロット ボトルインキ 30ml ブラック</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B001MTA990&linkId=b10ba98daf5b20e7902b5d3b4d8a6819"></iframe>
 
 インクカートリッジを使うのとどちらが経済的かを考えると、どっちがいいのでしょうか。何となく、ボトルインクを使った方が経済的なイメージがあるのですが、あまり細かいことを考えて購入したわけではないのでよく分かりません。ボトルインクを使ってみたいと思ったのが、<em>単に面白そうだったから</em>なので・・・。
 

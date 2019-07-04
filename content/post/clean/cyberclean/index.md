@@ -73,7 +73,7 @@ product:
 
 そんなに匂いが残るようなものではないですが、はじめての人はまずは袋タイプを試してみるのが無難な気がします。（量が少なくその分安いので）
 
-<div data-role="amazonjs" data-asin="B00BCFX7ZC" data-locale="JP" data-tmpl="" data-img-size="" class="asin_B00BCFX7ZC_JP_ amazonjs_item"><div class="amazonjs_indicator"><span class="amazonjs_indicator_img"></span><a class="amazonjs_indicator_title" href="#">サイバークリーン 80g</a><span class="amazonjs_indicator_footer"></span></div></div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01NA8RN0K&linkId=d9c71b5b2ed1f9c377b42865c3aaf2f7"></iframe>
 
 ## 面倒くさい掃除も面白ければついやっちゃう
 
