@@ -104,7 +104,7 @@ rules:
     # regexpMustEmptyとgroup2の最後を?で締めくくるのがミソ
 
   - expected: で
-    pattern:  /(^ま)?でで(?!(きる|きます|す))/
+    pattern:  /(?<!ま)でで(?!(きる|きます|す))/
     specs:
       - from: でで
         to:   で
