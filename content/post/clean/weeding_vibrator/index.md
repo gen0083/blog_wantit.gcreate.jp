@@ -1,5 +1,5 @@
 ---
-title: "はじめてくさぬき楽しいと思った、除草バイブレータをご紹介"
+title: "はじめて草抜き楽しいと思った、除草バイブレータをご紹介"
 slug: weeding_vibrator
 featuredimage: images/cover/clean.jpg
 date: 2019-07-09T21:15:00+09:00
