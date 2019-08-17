@@ -12,7 +12,6 @@ product:
     rate: 
     link: 
     comment: 
-    kaeyome: 
     amazon: 
     rakuten: 
 ---

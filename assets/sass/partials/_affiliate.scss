@@ -2,8 +2,8 @@
 
 @font-face {
   font-family: icomoon;
-  src: url(fonts/icomoon.eot?aacyvw);
-  src: url(fonts/icomoon.eot?aacyvw#iefix) format("embedded-opentype"), url(fonts/icomoon.ttf?aacyvw) format("truetype"), url(fonts/icomoon.woff?aacyvw) format("woff"), url(fonts/icomoon.svg?aacyvw#icomoon) format("svg");
+  src: url(../fonts/icomoon.eot?aacyvw);
+  src: url(../fonts/icomoon.eot?aacyvw#iefix) format("embedded-opentype"), url(../fonts/icomoon.ttf?aacyvw) format("truetype"), url(../fonts/icomoon.woff?aacyvw) format("woff"), url(../fonts/icomoon.svg?aacyvw#icomoon) format("svg");
   font-weight: 400;
   font-style: normal
 }
@@ -234,12 +234,15 @@
   td {
     border: none;
   }
-  iframe {
-    text-align: center;
-  }
 }
 
 .amazon-wish-list {
   background: lighten($main_color, 20%);
   padding: 0.5em 1em;
+}
+
+iframe {
+  display: block;
+  margin: 1.5em auto;
+  max-width: 95%;
 }
