@@ -234,12 +234,15 @@
   td {
     border: none;
   }
-  iframe {
-    text-align: center;
-  }
 }
 
 .amazon-wish-list {
   background: lighten($main_color, 20%);
   padding: 0.5em 1em;
+}
+
+iframe {
+  display: block;
+  margin: 1.5em auto;
+  max-width: 95%;
 }
