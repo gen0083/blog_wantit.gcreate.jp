@@ -2,7 +2,7 @@
 title: やよいの青色申告とe-Tax（ソフト）で確定申告（Windows10編）
 slug: e-tax-with-windows-10
 description: 平成27年度の確定申告をすませました。私の場合事業所得があったりするので、e-Taxソフトを使って電子申告しましたが、Web版も用意されていて、申告の手引を見ながら作るよりははるかにやりやすいので、必要な方は早めにすませるのが吉です。
-featuredimage: images/cover/smartphone.jpg
+featuredimage: images/cover/pc.jpg
 date: 2016-02-17
 lastmod: 2016-02-17
 tags: 

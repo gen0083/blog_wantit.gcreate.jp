@@ -2,7 +2,7 @@
 title: お絵描きが捗る左手用デバイス、Razer Nostromoをレビュー
 slug: nostromo
 description: お絵描きのショートカット用のデバイスとして使うため、Razer Nostromoを購入しました。この製品自体にホイールがついているのがポイントです。キャンバスの拡大縮小などをホイールを使って行うことができるのがとても便利です。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2013-08-30
 lastmod: 2016-02-17
 tags: 

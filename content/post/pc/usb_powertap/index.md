@@ -2,7 +2,7 @@
 title: USB機器充電のために導入した充電大王をレビュー
 slug: usb-powertap
 description: USB機器を充電するのに差込口が足りないため、USB専用の電源タップを用意しました。専用のタップを用意するとパソコン周りがケーブルでごちゃごちゃしなくていいです。2.1Aの大容量ポートもあるので、iPadをMacに繋いで充電せずに済みます。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-09-25
 lastmod: 2015-03-03
 tags: 

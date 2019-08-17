@@ -2,7 +2,7 @@
 title: Surface PRO 2にWindows10をクリーンインストールした話
 slug: surface-pro-2-windows-10
 description: これでユーザフォルダが日本語になってしまった問題とおさらばできます。プリインストールされていたOfficeもインストールできます。Surface PRO2でWindows10をクリーンインストールしようとする人の参考になれば幸いです。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2015-08-27
 lastmod: 2015-11-08
 tags: 

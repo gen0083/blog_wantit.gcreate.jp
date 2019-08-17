@@ -2,7 +2,7 @@
 title: 安いグラボを追加して、トリプルディスプレイでCintiq13HDを活用する
 slug: cintiq-13-hd-grabo
 description: Cintiqをパソコンに繋ぐのに、HDMIポートが必要になります。パソコンについていない場合は、グラフィックボードを増設することも検討してみてはいかがでしょうか。変換ケーブルの方が安上がりですが、古いモニタを活用する方法もありだと思います。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2013-10-25
 lastmod: 2015-05-01
 tags: 

@@ -2,7 +2,7 @@
 title: Surface PRO2をデスクトップの代わりに導入してみた感想
 slug: surfacepro-2
 description: 店頭で実機を触ってから、そのキビキビとした動作に惚れ込んでしまいました。タブレットスタイルでお絵描きするもよし、デスクトップスタイルでがっつり作業するもよし。デスクトップパソコンとしても充分に使えるだけのスペックを持っていると感じました。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-01-14
 lastmod: 2015-05-01
 tags: 

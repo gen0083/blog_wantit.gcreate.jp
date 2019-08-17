@@ -2,7 +2,7 @@
 title: Cintiq 13HDを変換ケーブル使ってSurface PRO2のミニディスプレイポートに繋いでみた
 slug: minidisplay-to-hdmi
 description: Surface PRO 2にCintiq 13HDを接続するためにミニディスプレイポート変換コネクタを利用しました。SurfaceなどのタブレットPCでCintiqを使うのはWacomの保証対象外の使い方ですが、一応問題なく使えています。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-01-19
 lastmod: 2015-05-01
 tags: 

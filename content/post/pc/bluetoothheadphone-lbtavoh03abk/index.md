@@ -2,7 +2,7 @@
 title: Bluetoothワイヤレスヘッドホン ロジテックLBT-AVOH03ABKをレビュー
 slug: bluetoothheadphone-lbtavoh-03-abk
 description: ちょっと変わった形状の耳あてですが、優しくふんわりと包み込むような装着感で、長時間つけていても耳が痛くならないという優れものです。音質も悪くないと思いますし、お値段がお手頃となかなかいい製品です。今まで使っていたWP-300と比較してみます。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-11-24
 lastmod: 2015-04-01
 tags: 

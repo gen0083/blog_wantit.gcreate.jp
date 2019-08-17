@@ -2,7 +2,7 @@
 title: 玄人志向 USB3.0 グラフィックアダプタ DVI接続でSurfaceに外部モニタを接続する
 slug: vgausb-3-dvi
 description: Surface PRO 2に外部モニタを接続するために、USBポートでディスプレイを接続できる変換コネクタを導入しました。USB経由での接続は、画質等に問題があるのではと心配になりましたが、実際に使ってみると杞憂に終わりました。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-01-19
 lastmod: 2015-05-01
 tags: 

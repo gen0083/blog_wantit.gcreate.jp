@@ -2,7 +2,7 @@
 title: Contour＋ハットマウントを使ってSurface PRO 2とCintiq 13HDでお絵描きた様子を撮影してみた
 slug: drawing-surfacecintiq
 description: Surface PRO2＋Cintiq 13HDでのお絵かきしている状態を撮影してみました。撮影はContour ROAMというカメラを使っています。ハットマウントを使った映像の参考としてもご覧いただけます。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-02-06
 lastmod: 2016-02-24
 tags: 
