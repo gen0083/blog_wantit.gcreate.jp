@@ -2,7 +2,7 @@
 title: サイドボタンが豊富なワイヤレスマウスLogicool Performance Mouse M950をレビュー
 slug: my-wireless-mouse-1
 description: ワイヤレスマウスを使う際に意外と手間なのが電池の管理です。この製品はUSBケーブルをつなぐことで充電しながらでも使うことができます。電池切れの時だけ有線マウスのような感じで使えばすむので、ゲームしている時に電池が切れても安心です。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2013-12-26
 lastmod: 2015-05-01
 tags: 

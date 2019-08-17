@@ -2,7 +2,7 @@
 title: AbemaTVをテレビで見るためにChromecastを買ってみた
 slug: chromecast
 description: 最近AbemaTVをテレビで見れたら便利なのにと感じることがあり、値段が手頃なのでChromecastを買ってみました。大画面で番組が見れるのは便利で、画質も思った以上に良かったです。ただし一挙放送を見ているとよく止まることが気になります。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2016-10-23
 lastmod: 2016-10-23
 tags: 

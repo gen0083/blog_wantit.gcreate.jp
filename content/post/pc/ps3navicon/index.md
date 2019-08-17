@@ -2,7 +2,7 @@
 title: PlayStationMove ナビゲーションコントローラをSurface PRO2の左手デバイスとして使ってみた感想
 slug: ps-3-navicon
 description: Surface PRO2でお絵描きをするのに、PS3ナビゲーションコントローラが便利です。キャンバスの移動はタッチ操作で行うことができるので、少ないボタンでもなんとかやりくりできると思います。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-01-20
 lastmod: 2015-10-05
 tags: 

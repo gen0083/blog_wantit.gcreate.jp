@@ -2,7 +2,7 @@
 title: クラウド会計ソフトを比較。複式簿記が分かっているならFreeeよりMFクラウド確定申告の方が使いやすい
 slug: mfcloud-kakutei
 description: 個人事業の帳簿をつけるのに、クラウド会計ソフトであるFreeeとMFクラウド確定申告を使ってみました。仕訳を素直に入力することができるMFクラウドの方が使いやすいなと思いました。自動取り込みに対応している銀行が多いのも魅力だと思います。
-featuredimage: images/cover/smartphone.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-10-25
 lastmod: 2016-02-24
 tags: 

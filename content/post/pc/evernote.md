@@ -2,7 +2,7 @@
 title: 私のEvernoteの使い方
 slug: evernote
 description: 私はEvernoteを2年ほどプレミアムアカウントで運用しています。パソコンやスマートフォンなど、媒体を選ばずに使えるのが便利です。まだ使ったことがない人は無料でも利用できるので、試しに使ってみてはどうでしょうか。
-featuredimage: images/cover/smartphone.jpg
+featuredimage: images/cover/pc.jpg
 date: 2013-09-26
 lastmod: 2016-02-24
 tags: 

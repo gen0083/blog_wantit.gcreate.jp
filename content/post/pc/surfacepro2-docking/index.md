@@ -2,7 +2,7 @@
 title: Surface PRO 2のドッキングステーションをレビュー
 slug: surfacepro-2-docking
 description: Surface PRO 2をデスクトップの代わりとしても使えるように、ドッキングステーションを購入しました。微妙にかっこいいギミックですが、有線LANが100Mという残念な仕様です。USBハブを使えば済む話なのかもしれないなと思いました。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-01-17
 lastmod: 2016-02-17
 tags: 

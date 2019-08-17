@@ -2,7 +2,7 @@
 title: 複数ブログを運営している人に特に便利なMarsEditをレビュー
 slug: marsedit
 description: ブログの更新に便利なアプリとしてMarsEditがよく紹介されていますが、実際に試してみたら本当に便利でした。特に複数のブログを運営していると、それぞれのブログの管理画面にアクセスせずに記事がかけるので非常に捗ります。
-featuredimage: images/cover/smartphone.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-08-24
 lastmod: 2015-02-18
 tags: 

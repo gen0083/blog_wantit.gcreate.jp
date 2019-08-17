@@ -60,9 +60,6 @@ lastmod = ["lastmod", ":fileModTime", "date"]
     post = "/:slug/"
     forsite = "/forsite/:filename/"
 
-[blackfriday]
-    extensions = ["hardLineBreak"]
-
 # Related contents
 
 [related]

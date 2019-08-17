@@ -2,7 +2,7 @@
 title: シンプルなBuffaloのBluetoothマウスを使ってみた感想
 slug: simple-bluetooth-mouse
 description: Surface PRO2をタブレットスタイルで利用している際に、ペンやタッチ操作では作業がしづらいときがあるので、そんなときのためのシンプルなBuluetoothのマウスを購入しました。余計な管理アプリを入れずに使えるのが魅力です。
-featuredimage: images/cover/pc-peri.jpg
+featuredimage: images/cover/pc.jpg
 date: 2014-08-23
 lastmod: 2015-03-03
 tags: 
