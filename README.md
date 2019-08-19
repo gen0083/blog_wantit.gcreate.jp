@@ -48,6 +48,9 @@ Markdown内で使えるショートコード: [公式ドキュメント](https:/
 - gist `{{< gist username gistID >}}`
 - tweet `{{< tweet tweetID >}}`
 - YouTube: `{{< youtube ビデオID >}}`
+- リンク `{{< ref "コンテンツのslug" >}}`
+
+リンクに関してはURLに変換されるだけのため、`[hoge]({{< ref "hoge" >}})`のように使う必要がある。
 
 ## textlintの一時的な無効化
 
