@@ -6,6 +6,21 @@
 	],
 	"settings": {
 		"files.autoSave": "onFocusChange",
-		"vim.disableExtension": true
+		"vim.disableExtension": true,
+		"peacock.color": "26C6DA",
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#52d1e1",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#de41cc",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"titleBar.activeBackground": "#26c6da",
+			"titleBar.inactiveBackground": "#26c6da99",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveForeground": "#15202b99",
+			"statusBar.background": "#26c6da",
+			"statusBarItem.hoverBackground": "#1e9faf",
+			"statusBar.foreground": "#15202b"
+		}
 	}
 }
