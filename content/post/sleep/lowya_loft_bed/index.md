@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "狭い部屋の救世主、ロフトベッドを購入した"
 slug: lowya_loft_bed
 featuredimage: images/cover/sleep.jpg
 date: 2019-08-31T21:32:04+09:00
