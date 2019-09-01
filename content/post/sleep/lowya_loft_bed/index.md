@@ -104,6 +104,10 @@ product:
 
 あと気になるのは、使っていないハイタイプにするための足の部品たちである。これの処理をどうすればよいのだろうか・・・。また引っ越すことを考えてとっておくのか、それとも切断砥石など使って細切れにして、その他鉄ゴミで処分してしまうか。今の所保留として置いたままにしてるんだけどね。宮の下の空間にさりげなく配置してあるので邪魔にはならない。ホコリをかぶりだすと邪魔になるかもしれんがね。
 
+## 弱点に気づく
+
+ロフトベッドの上で寝ると扇風機が使えない問題に気づいてしまった。うちの場合、下から扇風機を当てる手が使えるかもしれない。ロフトベッドの床面はメッシュ構造だし、セミダブルで隙間があるのでね。今度試してみることにしよう。
+
 <a href="https://hb.afl.rakuten.co.jp/hsc/1916093e.da066558.18978272.cd0c8102/?link_type=pict&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjowLCJjYXQiOiIyOSIsImJhbiI6IjE1ODcxNjkifQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  ><img src="https://hbb.afl.rakuten.co.jp/hsb/1916093e.da066558.18978272.cd0c8102/?me_id=1&me_adv_id=1587169&t=pict" border="0" style="margin:2px" alt="" title=""></a>
 
 [^1]: フトコンのオーバーマットレスが置けない、もしくは窮屈になるという意味である。
