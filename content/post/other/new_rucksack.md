@@ -71,3 +71,5 @@ product:
 そして何より、ドイターより随分と安い。これくらいの値段なら買い替えてもいいかなと気軽に試せる値段だった。そこも決め手となったといえるだろう。もっと安いものはいくらかあったけれど、私はオレンジで中の荷物の識別のしやすさと、背中の隠しポケットを決め手としてこれを選んだ。
 
 自分ではけっこういい買い物したんじゃないかなと思うんだが、どうだろうか？
+
+<a href="https://hb.afl.rakuten.co.jp/hsc/1916093e.da066558.18978272.cd0c8102/?link_type=pict&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjowLCJjYXQiOiIyOSIsImJhbiI6IjE1ODcxNjkifQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  ><img src="https://hbb.afl.rakuten.co.jp/hsb/1916093e.da066558.18978272.cd0c8102/?me_id=1&me_adv_id=1587169&t=pict" border="0" style="margin:2px" alt="" title=""></a>
