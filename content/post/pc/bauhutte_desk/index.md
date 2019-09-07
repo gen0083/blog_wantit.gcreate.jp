@@ -5,6 +5,7 @@ featuredimage: images/cover/pc.jpg
 date: 2019-09-07T08:10:23+09:00
 tags:
     - 机
+    - 家具
 product:
     name: Bauhutte ゲーミングデスクHD ブラック 120cm幅
     number: BHD-1200HDM-BK

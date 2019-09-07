@@ -6,6 +6,7 @@ date: 2019-09-07T18:05:32+09:00
 tags:
     - 机
     - 収納
+    - 家具
 product:
     name: Bauhutte (バウヒュッテ) デスクラック ハイタイプ (120cm幅デスク用 2段ラック)
     number: BHS-1200H-BK
