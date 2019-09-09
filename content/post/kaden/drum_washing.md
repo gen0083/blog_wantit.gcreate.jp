@@ -9,9 +9,9 @@ tags:
 product:
     name: Panasonic ななめドラム式洗濯機
     number: NA-VX9900
-    rate: 5
+    rate: 4.5
     link: https://panasonic.jp/wash/product/na_vx9900.html
-    comment: 洗濯ライフが変わるってマジで、革命だよ。
+    comment: 洗濯ライフが変わるってマジで、革命だよ。でも微妙なところに不満があるよ。
     amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07GXNPH1B&linkId=dd86fcb83bd2bcd02726841655d95143"></iframe>'
     rakuten: '<table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/hgc/190a51af.b8a7f25b.190a51b0.5323c750/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F403130014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10391135%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  ><img src="https://hbb.afl.rakuten.co.jp/hgb/190a51af.b8a7f25b.190a51b0.5323c750/?me_id=1357621&item_id=10391135&m=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fyamada-denki%2Fcabinet%2F06882210%2F829816_1829_1.jpg%3F_ex%3D80x80&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fyamada-denki%2Fcabinet%2F06882210%2F829816_1829_1.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/hgc/190a51af.b8a7f25b.190a51b0.5323c750/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F403130014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10391135%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  >【無料長期保証】パナソニック NA-VX9900L-N ドラム式洗濯乾燥機 (洗濯11.0kg /乾燥6.0kg・左開き) VXシリーズ ノーブルシャンパン</a><br><span >価格：251397円（税込、送料別)</span> <span style="color:#BBB">(2019/8/21時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/hgc/190a51af.b8a7f25b.190a51b0.5323c750/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F403130014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10391135%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ%3D%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  ><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0"></a><a href="https://hb.afl.rakuten.co.jp/hgc/190a51af.b8a7f25b.190a51b0.5323c750/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F403130014%2F%3Fscid%3Daf_pc_bbtn&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10391135%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxfQ==" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"  ><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff !important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;">楽天で購入</div></a></div></td><tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>'
 ---
@@ -117,6 +117,46 @@ product:
 まったくもってしょうもないことでサービスの人を呼びつけてしまい、大変申し訳無い限りである。乾燥時のコンプレッサーの振動・音に関してはこれくらいのものですと説明され、やっぱりそうですよねで終わってしまった。わざわざ来ていただいて、ありがたいやら申し訳ないやら、複雑な感情である。やっぱり家の問題だよね、これ。
 
 しかし見てもらった後で防振ゴムの位置調整を行ったのだが、振動というか響きが少し変わったような気がする。洗濯機の振動が気になるなぁという人は防振ゴム設置してみるのもいいかもしれない。その際はゴムの中心に洗濯機の足がくるようちゃんと調整しよう。設置の仕方が悪いと余計うるさくなるのでね・・・。
+
+## エコとは一体・・・
+
+本製品にはエコ機能なるものがついているんだが、洗濯・乾燥中はそれが働いて入るのだろう。それはいい。
+
+しかし乾燥が終了した後、本機はそのままいつまでもドラムが回転し続ける。ふんわりキープなる機能が搭載されているので、そのせいで動いているのかと思ってオフにしてもやっぱり回っている。
+
+問い合わせたらドラムを冷やすために最大で2時間ほど動きますとの返答が来た。なんだと・・・。
+
+え、それって洗濯終わって即止めても問題ないんですかと問い合わせると、別に即止めてもらっても大丈夫ですと。
+
+・・・なんでやねん！
+
+つい関西弁でツッコミが出てしまったが、別に動かさなくても問題ないものを勝手に動き続けるのはエコ機能と思いっきり反するではないか。
+
+必要なことなら最後まで動かさないといけないだろうが、終わったらすぐに切ればいいとは何事か。むしろ変な理由で勝手に洗濯機を動かし続けるなと言いたい。
+
+ちなみにこの機能というか動きは、設定では止めることができないらしい。なんでやねん2回目。
+
+## WiFi接続機能
+
+ならばせめてWi-Fi接続機能を使って洗濯終了を検知して、電源を切るように出来はしないかと思って設定をしようとした。しかしこのWi-Fi接続もまた曲者でな・・・設定にスマホのアプリがいるとか分かるかいな。
+
+道理で詳細設定を洗濯機から選んでも永遠に何も起こらんなと思ってたわ。スマホで設定するんかい。
+
+そしてスマホで設定終わっても、洗濯終了した洗濯機の電源を切ることができなかった。いや、できるのかもしれないが「現在の状態では操作できません」と表示されてどうしようもなかった。
+
+結局スマホアプリで終了を検知したら、洗濯機のところに行って手動で電源切るしかないのか・・・。
+
+いや、ドラム式洗濯機のおかげで洗濯の手間がずいぶんと減ってありがたいのはありがたいんだが、乾燥時の重低音と乾燥終了後の無駄な運転などには文句も言いたくなる。
+
+洗濯機に突っ込んでスイッチ入れたらあとは勝手に乾燥までやってくれて楽だなぁとか思っていたら、実は乾燥後も電源切らないとずっと動き続けてるとか罠以外のなにものでもないではないか。
+
+大体こっちからも洗濯・乾燥のために動いているように見えるので、実はすべての工程が終わっているなんて気づけないことが多い。洗濯終了の音が聞こえていたら分かるけどね。
+
+お値段以上の快適さは得られているけど、細かい部分でなんかもにょる。
+
+操作体系はシンプルなはずなのに、洗濯メニューがやたらと多くて説明書が意味分からん状態になってるし、必要な部分は説明がないし。べた褒めするのも少し考えものな気がするため、星を0.5減らすことにした。
+
+もっとも、十二分に生活に革命をもたらしてくれることに変わりはないけどね。
 
 [^1]: 一応除菌99%をうたうファブリーズをふっかけて溜めていた。でないとさすがに数日分の洗濯物を溜められてなかったと思う。
 [^2]: 本当は価格がネックだったとは思う。
