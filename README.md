@@ -69,6 +69,8 @@ Markdown内で使えるショートコード: [公式ドキュメント](https:/
 
 現状では記事を書いたらプルリクを送り、その後`master`にマージしたら公開されるようになっている。
 
+`git push`したあと`hub pull-request`でプルリクを送る。マージはGitHub上でやる。
+
 ## ライセンス
 
 利用しているhugoテーマ: [aether](https://github.com/josephhutch/aether)
