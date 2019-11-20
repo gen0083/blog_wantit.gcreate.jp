@@ -71,6 +71,8 @@ Markdown内で使えるショートコード: [公式ドキュメント](https:/
 
 `git push`したあと`hub pull-request`でプルリクを送る。マージはGitHub上でやる。
 
+`./script/delete-merged-branch.sh`を実行すれば作成したマージ済みのブランチを消すことができる。
+
 ## ライセンス
 
 利用しているhugoテーマ: [aether](https://github.com/josephhutch/aether)
