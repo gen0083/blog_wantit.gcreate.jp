@@ -6,7 +6,6 @@
 
   .nav-header {
     flex: 0 0 auto;
-    margin-right: 4em;
     margin-top: auto;
     margin-bottom: auto;
     align-self: stretch;
@@ -17,6 +16,9 @@
     flex: 0 1 50%;
     align-self: stretch;
     margin-left: auto;
+    & * {
+      box-sizing: content-box;
+    }
   }
 
 }
@@ -39,6 +41,7 @@ table.gsc-search-box {
 
       .gsc-input-box {
         border: none;
+        border-radius: 8px;
       }
     }
   }
