@@ -60,6 +60,9 @@ lastmod = ["lastmod", ":fileModTime", "date"]
     post = "/:slug/"
     forsite = "/forsite/:filename/"
 
+[taxnomies]
+tag = "tags"
+
 # Related contents
 
 [related]
