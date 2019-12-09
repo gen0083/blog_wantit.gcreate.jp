@@ -55,8 +55,8 @@
     {{ if isset $.Site.Params "bgimg" -}}
         <style>
             body {
-                background: #ecedef url("{{ $.Site.Params.bgimg | absURL | safeCSS }}") no-repeat;
-                background-size: contain;
+                background: #ecedef url("{{ $.Site.Params.bgimg | absURL | safeCSS }}") no-repeat fixed;
+                background-size: cover;
             }
         </style>
     {{- end }}

@@ -2,7 +2,11 @@
     <main class="card-container side-gutter">
         <header class="list-header">
         </header>
-        {{ $paginator := .Paginate (where .Data.Pages "Type" "post" ) -}}
+        {{- $base := where .Site.RegularPages "Section" "post" -}}
+        {{- if eq .Kind "taxonomy" -}}
+            {{- $base = .Data.Pages -}}
+        {{- end -}}
+        {{ $paginator := .Paginate $base -}}
         {{- range $paginator.Pages -}}
             {{ .Render "li" }}
         {{- end }}
