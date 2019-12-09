@@ -12,12 +12,6 @@ $accent_color: #FF4081;
 @import "partials/content";
 @import "partials/for_chips";
 
-body {
-  background: no-repeat;
-  background-size: contain;
-  padding: 0;
-}
-
 article > p {
   text-indent: 1em;
   word-break: break-all;
