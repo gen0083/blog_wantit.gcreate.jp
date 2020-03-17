@@ -1,28 +1,20 @@
 version: 2.1
 
-jobs:
-  build:
-    working_directory: /go/src/github.com/{ORG_NAME}}/{{REPO_NAME}}
-    docker:
-      - image: gen0083/circleci-hugo:1.0
-    steps:
-      - checkout
-      - run:
-          name: sync submodule
-          command: |
-            git submodule sync
-            git submodule update --init
-      - restore_cache:
-          keys:
-            - node_modules-cache-{{ checksum "package-lock.json" }}
-      - run: npm i
-      - save_cache:
-          key: node_modules-cache-{{ checksum "package-lock.json" }}
-          paths:
-            - node_modules/
-      - run:
+orbs:
+  hugo: circleci/hugo@0.4.1
+workflows:
+  main:
+    jobs:
+      - hugo/build:
+          html-proofer: true
+          version: '0.62.2'
+      - test1:
           name: check slug duplication
           command: ./scripts/check_slug_duplicate.sh
-      - run:
+          requires:
+            - hugo/build
+      - test2:
           name: textlint check
           command: npx textlint content/**/**/*.md
+          requires:
+            - hugo/build
