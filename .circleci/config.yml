@@ -2,7 +2,6 @@ version: 2.1
 
 jobs:
   test:
-    working_directory: /go/src/github.com/{ORG_NAME}}/{{REPO_NAME}}
     docker:
       - image: circleci/node
     steps:
