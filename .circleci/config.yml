@@ -4,7 +4,7 @@ jobs:
   test:
     working_directory: /go/src/github.com/{ORG_NAME}}/{{REPO_NAME}}
     docker:
-      - image: cibuilds/base
+      - image: circleci/node
     steps:
       - checkout
       - run:
