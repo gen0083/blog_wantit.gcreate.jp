@@ -1,7 +1,7 @@
 version: 2.1
 
 jobs:
-  build:
+  test:
     working_directory: /go/src/github.com/{ORG_NAME}}/{{REPO_NAME}}
     docker:
       - image: gen0083/circleci-hugo:1.0
@@ -26,3 +26,14 @@ jobs:
       - run:
           name: textlint check
           command: npx textlint content/**/**/*.md
+orbs:
+  hugo: circleci/hugo@0.4.1
+workflows:
+  main:
+    jobs:
+      - hugo/build:
+          html-proofer: true
+          version: '0.62.2'
+      - test:
+          requires:
+            - hugo/build
