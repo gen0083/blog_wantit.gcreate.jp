@@ -32,6 +32,7 @@ workflows:
   main:
     jobs:
       - hugo/build:
+          html-proofer: false
           version: '0.62.2'
       - test:
           requires:
