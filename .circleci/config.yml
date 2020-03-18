@@ -4,7 +4,7 @@ jobs:
   test:
     working_directory: /go/src/github.com/{ORG_NAME}}/{{REPO_NAME}}
     docker:
-      - image: gen0083/circleci-hugo:1.0
+      - image: cibuilds/base
     steps:
       - checkout
       - run:
