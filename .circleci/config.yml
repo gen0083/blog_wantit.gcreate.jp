@@ -13,10 +13,10 @@ jobs:
             git submodule update --init
       - restore_cache:
           keys:
-            - node_modules-cache-{{ checksum "package-lock.json" }}
+            - node_cache-{{ checksum "package-lock.json" }}
       - run: npm i
       - save_cache:
-          key: node_modules-cache-{{ checksum "package-lock.json" }}
+          key: node_cache-{{ checksum "package-lock.json" }}
           paths:
             - node_modules/
       - run:
