@@ -1,9 +1,10 @@
 version: 2.1
 
 jobs:
-  test:
+  build:
+    working_directory: /go/src/github.com/{ORG_NAME}}/{{REPO_NAME}}
     docker:
-      - image: circleci/node
+      - image: cibuilds/hugo:0.62.2
     steps:
       - checkout
       - run:
@@ -13,10 +14,10 @@ jobs:
             git submodule update --init
       - restore_cache:
           keys:
-            - node_cache-{{ checksum "package-lock.json" }}
+            - node_modules-cache-{{ checksum "package-lock.json" }}
       - run: npm i
       - save_cache:
-          key: node_cache-{{ checksum "package-lock.json" }}
+          key: node_modules-cache-{{ checksum "package-lock.json" }}
           paths:
             - node_modules/
       - run:
@@ -25,14 +26,3 @@ jobs:
       - run:
           name: textlint check
           command: npx textlint content/**/**/*.md
-orbs:
-  hugo: circleci/hugo@0.4.1
-workflows:
-  main:
-    jobs:
-      - hugo/build:
-          html-proofer: false
-          version: '0.62.2'
-      - test:
-          requires:
-            - hugo/build
