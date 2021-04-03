@@ -17,11 +17,11 @@ product:
     kaeyome: '<div class="kaerebalink-box"><div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B006OFW2AG/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://ecx.images-amazon.com/images/I/41b8VYr3%2B6L._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B006OFW2AG/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank">【国内正規品】Contour ウェアラブルビデオカメラ ContourROAM 防水仕様 #1619</a><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"> Contour Inc. 2011-12-16    </div><div class="kaerebalink-link1"><div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=ContourROAM%20%83E%83F%83A%83%89%83u%83%8B%83r%83f%83I%83J%83%81%83%89&__mk_ja_JP=%83J%83%5E%83J%83i&tag=illusionspace-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonで購入</a></div><div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0e95387f.f2aef20d.0e953880.25e412bd/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FContourROAM%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%25A9%25E3%2583%2596%25E3%2583%25AB%25E3%2583%2593%25E3%2583%2587%25E3%2582%25AA%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場で購入</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>'
 ---
 
-自転車で走るのは、バッタが突撃してきたり、微妙な段差でバランスを崩しそうになったり、近くを走る車が怖かったりといろいろ大変ではありますが、風を切る感覚が非常に楽しいです。普段であれば車で移動するような距離を自転車で走ると、普段堪能できない風景を楽しむことができます。
+自転車で走るのは、風を切る感覚が非常に楽しいです。大変なこともあります。バッタが突撃してきたり、微妙な段差でバランスを崩しそうになったり、近くを走る車が怖かったりなどなど。ですが車で移動するような長距離を自転車で走ると、普段堪能できない風景を楽しむことができます。
 
-慣れてくると、ペダルをビンディングペダルに変えてみたり、サドルポジションなどを探りながら、より快適走りを追求したくなってきます。そうやっていると、次第に<strong>この走っている眺めを撮影できたら面白いんじゃないだろうか</strong>と思うようになりました。
+慣れてくるとペダルをビンディングペダルに変えてみたり、サドルポジションなどを探りながら、より快適走りを追求したくなってきます。そうやっていると、次第に<strong>この走っている眺めを撮影できたら面白いんじゃないだろうか</strong>と思うようになりました。
 
-車載動画を見かけますが、あれを自分でやってみるのもおもしろいのではと、今回は<em>衝動買いに近い形</em>で、Contour ROAMというカメラを買ってしまいました。
+車載動画を見かけますが、あれを自分でやってみるのもおもしろいのではと考えました。今回は<em>衝動買いに近い形</em>で、Contour ROAMというカメラを買ってしまいました。
 
 
 ## カメラ本体の付属品
@@ -92,7 +92,7 @@ product:
 
 このカメラは、<strong>撮影開始　→　USB接続で充電開始の順番であれば、撮影しながら充電もできました</strong>。（充電ランプが点灯しているだけで、実際は充電できていない可能性もありますが・・・）
 
-USBを先につないで<strong>充電中の状態からでは、録画スイッチを入れても撮影は開始されません</strong>。パソコンにマウントされてしまうからできないのかもしれないと、モバイルバッテリーにつないで録画スイッチを入れることも試してみましたが、録画中のランプはつかず、録画もされませんでした。
+USBを先につないで<strong>充電中の状態からでは、録画スイッチを入れても撮影は開始されません</strong>。パソコンにマウントされてしまうからできないのかもしれないと、モバイルバッテリーにつないで録画スイッチを入れることも試してみました。しかし録画中のランプはつかず、録画もされませんでした。
 
 旅先で充電しながら使いたい場合には、録画スイッチを先に入れてからUSBケーブルを繋ぐようにすればいいでしょう。実際には充電されていない可能性もあるので、実際に試してみてまたご報告させていただきます。
 

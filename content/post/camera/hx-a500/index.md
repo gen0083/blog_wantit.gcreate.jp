@@ -64,7 +64,7 @@ Contour ROAM＋ハットマウントだとカメラがおでこの右上にく�
 
 ## 前モデル＋ヘッドマウントの方が賢いかもしれない
 
-4K画質に興味がなく、本体に液晶画面がなくてもいいというのであれば、前のモデルのHX-A100に、HX-A500に標準でついているヘッドマウントを購入する方がいいかもしれないです。そっちの方が1万円ほど安くすみますし。
+4K画質に興味がなく本体に液晶画面がなくてもいいというのであれば、前のモデルのHX-A100に、HX-A500に標準でついているヘッドマウントを購入する方がいいかもしれないです。そっちの方が1万円ほど安くすみますし。
 
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00BT8EX8C/illusionspace-22/ref=nosim/" rel="nofollow" target="_blank"><img alt=""  src="https://ecx.images-amazon.com/images/I/31m%2BMdq48SL._SL160_.jpg" style="border: none;" /></a></div>

@@ -23,7 +23,7 @@ product:
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000FQOMYO&linkId=0b8e1657a38076081cad4e162dbcc073"></iframe>
 
-床に新聞紙を敷いて、パンツ一丁になって、後は手の感覚だけでチョキチョキ切っていくという、ある意味器用なことをしていました。お金はないが時間だけはあった学生時代には重宝していたものです。
+床に新聞紙を敷いて、手の感覚だけでチョキチョキ切っていくという、ある意味器用なことをしていました。お金はないが時間だけはあった学生時代には重宝していたものです。
 
 自分で切っても、生来のくせ毛のおかげもあってか、人前に出られないほどひどい髪型にはなっていなかったはず（単に誰も指摘しなかっただけかもしれませんが・・・）。
 
