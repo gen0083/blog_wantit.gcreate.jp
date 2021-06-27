@@ -93,7 +93,7 @@ Microsoftから次のソフトウェアをダウンロードしてインスト�
 
 7zという拡張子ですが、WinRAR等の展開できるソフトウェアを使って展開します。
 
-展開してできた[ScpServer]フォルダを、[C:¥Program Files¥Scarlet.Crush Productions]というフォルダを作って、その中へ入れます（フォルダ名は別に何でもいい）。
+展開してできた［ScpServer]フォルダを、[C:¥Program Files¥Scarlet.Crush Productions]というフォルダを作って、その中へ入れます（フォルダ名は別に何でもいい）。
 
 
 ### Xinput Wrapper for windowsをインストール
