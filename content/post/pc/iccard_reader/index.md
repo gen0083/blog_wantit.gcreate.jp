@@ -94,7 +94,7 @@ product:
 
 私はここで大ハマリしました。e-Taxの共通ソフトのセットアップが完了してくれなくてハマりました・・・。
 
-[Program Files x86]→[etax]と[Program Files（x86）]→[InstallShield Installation Information]→[1ECF5EFFから始まるフォルダ]を削除した後、OSの再起動をしたら無事インストールできました。
+[Program Files x86]→[etax]と［Program Files（x86）]→[InstallShield Installation Information]→[1ECF5EFFから始まるフォルダ］を削除した後、OSの再起動をしたら無事インストールできました。
 
 この事前準備セットアップツールのインストールが終了したら、e-Taxソフトが利用できるようになります。後はe-Taxソフトを起動して、自分の利用したい手続きのためのプログラムを別途インストールして使うようになります。
 

@@ -32,7 +32,7 @@ product:
 
 ![木部補修材の色](../repair_floor_gap_with_wood_putty/floor_gap.jpg)
 
-木部補修材については[以前に書いた記事]({{< ref "repair_floor_gap_with_wood_putty" >}})を参照してもらったほうが早いかもしれない。
+木部補修材については［以前に書いた記事］({{< ref "repair_floor_gap_with_wood_putty" >}})を参照してもらったほうが早いかもしれない。
 
 メリットはなんといってもコーキングガンを使って施行できること。広範囲の作業にはこれを使うのが楽ちんである。
 
