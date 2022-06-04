@@ -2,7 +2,7 @@
 title: "ノック式万年筆キュリダスを買ってみた"
 slug: curidas
 featuredimage: images/cover/stationery.jpg
-date: 2021-11-01T17:23:37+09:00
+date: 2022-06-04T17:23:37+09:00
 tags:
     - 文房具
     - 万年筆
