@@ -4,7 +4,7 @@ jobs:
   build:
     working_directory: /go/src/github.com/{ORG_NAME}}/{{REPO_NAME}}
     docker:
-      - image: gen0083/circleci-hugo:1.0
+      - image: hubci/hugo:0.96.0
     steps:
       - checkout
       - run:
