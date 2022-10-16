@@ -2,10 +2,15 @@ version: 2.1
 
 jobs:
   build:
-    working_directory: /go/src/github.com/{ORG_NAME}}/{{REPO_NAME}}
+    working_directory: ~/project/{ORG_NAME}}/{{REPO_NAME}}
     docker:
-      - image: hubci/hugo:0.96.0
+      - image: cimg/go:1.19.2-node
     steps:
+      - run:
+          name: install hugo
+          command: |
+            sudo apt update
+            sudo apt-get install hugo
       - checkout
       - run:
           name: sync submodule
@@ -20,9 +25,6 @@ jobs:
           key: node_modules-cache-{{ checksum "package-lock.json" }}
           paths:
             - node_modules/
-      - run:
-          name: check slug duplication
-          command: ./scripts/check_slug_duplicate.sh
       - run:
           name: textlint check
           command: npx textlint content/**/**/*.md
