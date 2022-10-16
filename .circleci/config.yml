@@ -26,5 +26,8 @@ jobs:
           paths:
             - node_modules/
       - run:
+          name: check slug duplication
+          command: ./scripts/check_slug_duplicate.sh
+      - run:
           name: textlint check
           command: npx textlint content/**/**/*.md
