@@ -7,10 +7,12 @@ jobs:
       - image: cimg/go:1.19.2-node
     steps:
       - run:
-          name: install hugo
+          name: setup environment
           command: |
             sudo apt update
             sudo apt-get install hugo
+            mkdir -p ~/bin/ && export export PATH="~/bin/:$PATH"
+            curl -sfL https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s -- -b ~/bin && chmod +x ~/bin/reviewdog
       - checkout
       - run:
           name: sync submodule
@@ -31,3 +33,7 @@ jobs:
       - run:
           name: textlint check
           command: npx textlint content/**/**/*.md
+      - run:
+          name: textlint on github
+          command: npx textlint -f checkstyle content/**/**/*.md | reviewdog -f=checkstyle -name="textlint" -reporter=github-pr-review -diff="git diff FETCH_HEAD"
+          when: on_fail
