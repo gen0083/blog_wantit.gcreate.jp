@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/gen0083/blog_wantit.gcreate.jp/tree/master.svg?style=svg)](https://circleci.com/gh/gen0083/blog_wantit.gcreate.jp/tree/master) [![Netlify Status](https://api.netlify.com/api/v1/badges/b9975b41-720e-4d51-b850-ec5d153ebef1/deploy-status)](https://app.netlify.com/sites/laughing-einstein-5f6ad9/deploys)
+[![CircleCI](https://circleci.com/gh/gen0083/blog_wantit.gcreate.jp/tree/main.svg?style=svg)](https://circleci.com/gh/gen0083/blog_wantit.gcreate.jp/tree/main) [![Netlify Status](https://api.netlify.com/api/v1/badges/b9975b41-720e-4d51-b850-ec5d153ebef1/deploy-status)](https://app.netlify.com/sites/laughing-einstein-5f6ad9/deploys)
 
 ## 新しい記事の作成
 
