@@ -4,7 +4,11 @@
 
 `hugo new --kind has-image post/{sub-category}/{post-name}`
 
+`hugo new post/{sub-category}/{post-slug}.md`
+
 例: `hugo new --kind has-image post/bicycle/my-new-bike`
+
+画像なしの記事を作成したい場合は下を選ぶ。
 
 デフォルトで`{post-name}`がslugに設定される。
 slugが重複している場合、ビルド時にエラーが出るようになるのでその際はslugをユニークなものに変更すること。
