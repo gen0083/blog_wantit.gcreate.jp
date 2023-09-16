@@ -63,11 +63,15 @@ product:
 
 まあ軽いといっても約5kg（カタログ上は4.1kgだがチップソーとかもろもろ合わせるとこれくらいだろう）あるので、あくまで背負式と比べて軽いという話だ。それでも作業後の疲れ具合がまるで違う。
 
+ただパワー不足を一切感じないかというとそうではない。ナイロンコードを回すときはもっとパワーが出たほうが快適なのかなと感じる。ナイロンコードメインで使うなら40Vの方が快適そうである。フルパワーで回せば十分なパワーであるが、それだと持続時間が短すぎる。バッテリに関しては後述。
+
 ## 先端を切り替えてメリットは大きい
 
 スプリットモーターというだけあって、先端を差し替えるだけでナイロンコードとチップソーを気軽に切り替えられるのはすごい便利である。むしろこのために買ったまである。
 
-チップソーでざっと刈ってナイロンコードで際まで刈るみたいな使い方が気軽にできるのがメリット。実際には面倒くさくてチップソーで刈ったところをもう一度やるなんてことはしないけれど。キワの部分だけナイロンコードで仕上げるとかはやる。
+チップソーでざっと刈ってナイロンコードで際まで刈るみたいな使い方が気軽にできるのがメリット。実際には面倒くさくてチップソーで刈ったところをもう一度やるなんてことはしないけれど。
+
+チップソーであらかた刈ったあと、障害物の多いキワの部分をナイロンコードで仕上げる。
 
 とりあえず先端アタッチメントを現場まで持っていき、硬い草や密集具合をみてナイロンコードとチップソーを臨機応変に使い分けられる。これが思った以上に快適で刈ってよかったと思うポイントだ。
 
@@ -81,7 +85,7 @@ product:
 
 そのチップソーでも30分持てばいい方だ。
 
-低速の場合は1時間動くとカタログにはあるけれど、あれは無負荷時の話なので。モーター1でかつスロットルを調整すれば[^3]と1時間作業できるかもしれないが、基本的に6Ahのバッテリ一本で30分と思ったほうがいい。
+低速の場合は1時間動くとカタログにはあるけれど、あれは無負荷時の話なので。モーター1でかつスロットルを調整すれば[^3]と1時間作業できるかもしれないが、基本的に6Ahのバッテリ一本で30分と思ったほうがいい。実際に時間を測ったわけではないので肌感覚だが、チップソーで30分、ナイロンコードで10分といった稼働時間。
 
 休憩しながらちょっと作業をする使い方にはあっているけれど、それでもバッテリ3本使ってようやく普通の作業ができるという感覚だ。作業中バッテリが切れて交換する手間が地味に面倒だったりする。
 
@@ -101,13 +105,21 @@ product:
 
 <table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/189842f6.5593fcf5.189842f7.a7010ded/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fishikana%2Fa-71744%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/189842f6.5593fcf5.189842f7.a7010ded/?me_id=1322780&item_id=10001850&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fishikana%2Fcabinet%2Fa-71744.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;display: block;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/189842f6.5593fcf5.189842f7.a7010ded/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fishikana%2Fa-71744%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;">マキタ ナイロンカッタアタッチメント EM408MP A-71744</a><br><span >価格：11,220円（税込、送料無料)</span> <span style="color:#BBB">(2023/9/12時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/189842f6.5593fcf5.189842f7.a7010ded/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fishikana%2Fa-71744%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0" ></a><a href="https://hb.afl.rakuten.co.jp/ichiba/189842f6.5593fcf5.189842f7.a7010ded/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fishikana%2Fa-71744%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;"> 楽天で購入 </div></a></div></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
 
+脇に抱え込むような形で刈るようになる角度で、トリガーの位置が脇の横に来る感じになる。
+
 標準でついているナイロンコードは叩き出しタイプ。私は自動繰り出しのものに取り替えて使っている。
 
 ナイロンコードアタッチメントという名前であるが、ナイロン専用というわけではなくもちろんチップソーをつけて使うことも可能ではある。が、わざわざチップソーに取り替えるのはスプリットモーターを使うメリットを殺しているようなもので、素直にアタッチメントを切り替えて運用したほうがいいと思う。
 
 カバーは標準のものがかなり優秀で、下方向からの跳ね返りはしっかり防いでくれる。ただし跳ね返りがないわけではなく、上方向の飛散物にかんしてはダイレクトにかぶることになる。別途カバーをするか、そもそも汚れてもいい服装で作業すること。それでもエンジン式草刈り機を使っていたときと比べるとだいぶ少ない印象だ。
 
-ナイロンコードを使っていてもパワー不足を感じることはまれにある。たとえばセイタカアワダチソウ相手だと茎を切り飛ばせずに消耗するだけなので、素直にチップソーで切る方がいい。
+ただカバーが大きいので刈る際に地面や障害物に当たって取り回しに影響がある。しかし飛散物防止の意味でも役割は重要だし、ナイロンコードが極端に長くならないようにカッターがついているので、外す選択肢はない。
+
+上部からの飛散物はマキタの別売りで販売されているカバーを使っている。縦にセッティングして上部からの飛散物のみ防げるようにして運用中だ。
+
+<table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/358e5e37.5e75ca12.358e5e38.c5afb52a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonopa%2Fa-73427%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/358e5e37.5e75ca12.358e5e38.c5afb52a/?me_id=1383218&item_id=10014422&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fmonopa%2Fcabinet%2Fshohin17%2Fa-73427-01.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;display: block;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/358e5e37.5e75ca12.358e5e38.c5afb52a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonopa%2Fa-73427%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;">【休日出荷対応可】 マキタ(Makita) ナイロン用カバー エンジン刈払機用 A-73427</a><br><span >価格：2,550円（税込、送料無料)</span> <span style="color:#BBB">(2023/9/16時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/358e5e37.5e75ca12.358e5e38.c5afb52a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonopa%2Fa-73427%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0" ></a><a href="https://hb.afl.rakuten.co.jp/ichiba/358e5e37.5e75ca12.358e5e38.c5afb52a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmonopa%2Fa-73427%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;"> 楽天で購入 </div></a></div></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
+
+ナイロンコードを使っていても草が極端に密集している箇所や、茎がものすごくかたいもの相手のときにはパワー不足を感じる。たとえばセイタカアワダチソウ相手だと茎を切り飛ばせずに消耗するだけなので、素直にチップソーで切る方がいい。稗もやや苦手である。
 
 ## 今後のアタッチメントの展望
 
@@ -117,7 +129,17 @@ product:
 
 購入して使ってみたら改めてレビューしてみたい。
 
+## パワーと持続時間の兼ね合い
 
+フルパワーで動かせばパワー不足は感じないが、それだとバッテリーがあっという間に干上がってしまうのが難点だ。特にナイロンコードは低速モードでは快適に作業できない。ナイロンコードを使っていると本当に作業にならないレベルでバッテリの消耗が激しい。バッテリ3本持って行ってるのに1hも作業できないのだから。まあその分パワーはあるということなんだろう。
+
+しかしメリットは計り知れない。やはり軽くて気軽に持ち運べるのは楽だ。40Vや36Vだと1kg増えると考えると、気軽に取り回せるメリットは大きい。
+
+理想をいえば40Vの方がパワーもあって長持ちしそうだからそっちにしてもよかったのだけど、コスパが非常に悪くて断念した。今あるバッテリ資産を有効活用できるから18Vにしただけなのだ。
+
+18Vと40Vの違いはパワーだけではなく、40Vにはある絡みとり機能が18Vにはなかったりする。ヘッド部分への巻付きがかなりひどいので絡みとり機能は欲しかったなあと使っていて思う。個人的には正転と逆転を切り替える機能がほしい（ナイロンコード使うときは逆転で使いたいから）。もっともそんな機能つけると逆に危ないからオミットするのは理にかなっている気はする（チェーンソーアタッチメントをつけて逆転とかできてしまうから）。
+
+総じてバッテリの持ちだけ不満だが、軽くて気軽に作業ができるのでちょっとした作業をする分にはちょうどいいと思っている。1時間作業したら強制的にバッテリ充電のための休憩が入ると思えばちょうどいい感じだと思う。体力的にもそれくらいで切り上げるくらいが私にはあっている。
 
 [^1]: 40Vのエアダスタを購入したため持っている。ちなみにその後18Vでエアダスタが出てきて、何のために40V買ったんだ・・・という気分にさせられたので40Vに対する印象はすこぶる悪い。個人的な恨みではあるが。
 
