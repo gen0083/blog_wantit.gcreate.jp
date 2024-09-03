@@ -11,7 +11,7 @@ product:
     rate: 3
     link: https://www.asahipen.jp/products/view/14550?genre=3
     comment: コーキングガンで広範囲の木部補修にもってこいの製品。ただし質感は木とはまったく異なるので注意が必要。
-    amazon: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004ZK298C&linkId=88e3c7bd2cd190c9c4b200548dff8daa"></iframe>
+    amazon: https://amzn.to/3Z9Ea2h
 ---
 
 アサヒペンの木部補修材を利用して、床の隙間を埋めてみた。なんで床に隙間がと思われるかもしれないが、対象がめちゃくちゃ古い家だからである。床の隙間の下はダイレクトに地面がある。

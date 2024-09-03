@@ -10,7 +10,7 @@ product:
     name: フジ鋼業 万能釘しめ機 細170mm
     rate: 2
     comment: 製品品質に難ありだが、転ばぬ先の杖としては持っておきたいかもしれない。
-    amazon: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B001WHB5GS&linkId=7032da8c70709db47a318e72e30643c5"></iframe>
+    amazon: https://amzn.to/3XiALvI
 ---
 
 以前物置の片付けをしていたら、戸の開き具合があまりにも固く、片付けをそっちのけにして戸の修理を始めたことがある。その戸は戸車を使っているタイプなのがわかっていたので、そのうち直そうと戸車だけは用意していたのだ。

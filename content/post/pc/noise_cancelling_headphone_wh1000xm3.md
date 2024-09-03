@@ -13,7 +13,7 @@ product:
     link: https://www.sony.jp/headphone/products/WH-1000XM3/
     comment: 完全無音はさすがに無理だが、それでも快適な作業環境が得られた。
     kaeyome: 
-    amazon: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07GZ8DZC8&linkId=c223932f9b51966d8c555d7da8167bed"></iframe>
+    amazon: https://amzn.to/4cLtv0Y
 ---
 
 私は聴覚過敏なのかもしれない。集中しているときにちょっとした雑音が入ってくると、そっちに気を取られていらいらしてしまうのである。「うるさいな、静かにしろよ」と直接言うこともできず、かといって我慢もできずイライラする時間を過ごすことがあった。その時間作業に集中できていない。

@@ -10,7 +10,7 @@ product:
     name: Anesty グルーガン 50W
     rate: 4
     comment: 使いやすくてよかった。はじめからこれ買っとけばよかった。
-    amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07XDX6TQ8&linkId=0a7f0429be02acc12be99606eebe8992"></iframe>'
+    amazon: https://amzn.to/3MwOeL8
 ---
 
 以前から面白そうだなと思っていたグルーガン。3Dプリンタ用の囲いを作るのにちょうどいいかもと思って買ってみた。

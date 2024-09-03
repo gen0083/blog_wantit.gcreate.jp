@@ -12,7 +12,7 @@ product:
     rate: 3.5
     link: https://www.hario.com/seihin/productdetail.php?product=MSCS-2B
     comment: 電動と比べると珈琲の味が安定するようになった気がする
-    amazon: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01B2O5VOM&linkId=ead1e19fc61c34f32b6766c985fe0acc"></iframe>
+    amazon: https://amzn.to/4gbcwYL
     rakuten: 
 ---
 

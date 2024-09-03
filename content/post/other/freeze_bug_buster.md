@@ -10,7 +10,7 @@ product:
     rate: 0
     link: https://www.earth.jp/products/kourasu-jet-spray-300/index.html
     comment: あまりに使用できる状況が限定的すぎて使い物にならん。対ムカデのつもりならバルサン炊くほうがマシなので買うべきではない。買ってはならない。
-    amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00IZ5PRBO&linkId=2770095b217716186e27d7580af480b2"></iframe>'
+    amazon: https://amzn.to/3AHCOl5
 ---
 
 最近凍らすタイプのゴキブリ対策スプレーを買った。これの効果が良かったので、今度はムカデ対策に凍結スプレーを買ってみた。

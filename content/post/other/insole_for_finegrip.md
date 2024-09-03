@@ -12,7 +12,7 @@ product:
     rate: 4
     link: 
     comment: 靴裏から感じる衝撃は和らいだ気がするが、ただし靴が窮屈になった。
-    amazon: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B072DWC8WV&linkId=47b87c3554c08acf1029ca22cdde5547"></iframe>
+    amazon: https://amzn.to/47jk1sM
 ---
 
 最近朝起きたら足の裏がすげー痛い。もはや原因がよく分からん。足って言うことは歩いたりそういうところのダメージによるものだろうと思う。

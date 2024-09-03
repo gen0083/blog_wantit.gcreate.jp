@@ -12,7 +12,7 @@ product:
     rate: 4
     link: https://www.kure.com/product/detail.php?item_id=29
     comment: マウスのチャタリングから解放された
-    amazon: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B001D2CVD8&linkId=0880d28f80c644596a51f0081ce62938"></iframe>
+    amazon: https://amzn.to/3XsRbTr
 ---
 
 接点回復スプレーなるものがあるらしい。電子部品などの端子に吹きかけると、通電がよくなるというものだ。

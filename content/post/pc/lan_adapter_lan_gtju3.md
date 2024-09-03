@@ -12,7 +12,7 @@ product:
     link: https://www.logitec.co.jp/products/lan/langtju3/
     comment: MacにSwitchにと忘れた頃に活躍してくれるLANアダプタ。
     kaeyome: 
-    amazon: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00BJRU9IG&linkId=10f408b458d33089447923a0d075cd6a"></iframe>
+    amazon: https://amzn.to/3ANzK7j
 ---
 
 基本的にうちのネットワークは無線にて構築されている。それで基本的にはうまくいっているのだが、電子レンジを使われるととたんにネットワークが不調になってしまう。これが作業中とかち合うとストレスが半端ないので、有線環境に切り替えることにした。

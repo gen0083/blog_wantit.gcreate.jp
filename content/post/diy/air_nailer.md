@@ -10,7 +10,7 @@ product:
     name: エアータッカー 軽量・コンパクト 誤射防止 エアー釘打ち機 フィニッシュネイラー 木工ツール 大工工具 1000枚釘付き 日本語取扱説明書付き
     rate: 4
     comment: ビス止めするにしても、その前にエアネイラ使って仮固定すると段違いにやりやすい。
-    amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07GXKG71P&linkId=f1e44a11cad4358ed850d025b6a97d6e"></iframe>'
+    amazon: https://amzn.to/4dHHbeC
 ---
 
 DIYの動画をYouTubeで見ていると、プシュプシュとエアネイラを使って作業をしているのをよく目にする。あれ便利そうと思ってそのうち買おうと思っていたのだが、もっと早く買っておけばよかったと思うくらいに今では便利に使っている。

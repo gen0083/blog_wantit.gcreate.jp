@@ -12,7 +12,7 @@ product:
     rate: 5
     link: https://www.brother.co.jp/product/printer/laserprinter/mfcl2750dw/index.aspx
     comment: もっと早く切り替えるべきだったと後悔するくらいには快適。
-    amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07D2X7RHX&linkId=41931277c55810cf9223265a0b095ffe"></iframe>'
+    amazon: https://amzn.to/3Mw8OeL
 ---
 
 私はずっと不思議で仕方がなかった。なぜモノクロ印刷しかしていないのにカラーインクがなくなっていくことに。そしてカラーインクがないからといってモノクロ印刷すらできないことに。なぜ私はほとんどモノクロ印刷しかしていないのに、インクジェットプリンターを使っているのだろう。

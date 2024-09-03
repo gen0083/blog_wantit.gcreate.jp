@@ -10,7 +10,7 @@ product:
     number: GTWB-300
     rate: 3
     comment: 作業場所が屋外なのでこいつなしでは作業ができない。ただし安いなりの精度なので過度の期待はしないように。
-    amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00715CX2K&linkId=ceef6568fb96a90900ffd6650446b7df"></iframe>'
+    amazon: https://amzn.to/4g9Zs5W
 ---
 
 私の作業場所は基本的に屋外なので、持ち運びできるような作業台が必要だった。そこでこれを買ったわけである。もう半年くらい使っているのだが、作業のたびに使う相棒的なやつになっているのでちょっと使用感を書いておこうと思う。

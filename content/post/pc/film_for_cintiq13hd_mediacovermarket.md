@@ -13,7 +13,7 @@ product:
     name: 'Cintiq13HD用液晶保護フィルム　メディアカバーマーケット'
     rate: '4.5'
     comment: '非常に描きやすくなりました。'
-    amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00G9SNBU8&linkId=5e1346713b6050c3b1fd5200afb52310"></iframe>'
+    amazon: https://amzn.to/3AXEp6o
 ---
 
 Cintiq13HD用の液晶保護フィルムというと、私が買ったタイミングではエレコムの液晶保護フィルムか、ミヤビックスのOverray Briliantしか選択肢がありませんでした。そして、Overray Briliantは映り込みがひどいという話だったので、私はエレコムの液晶保護フィルムを選んで使っていました。

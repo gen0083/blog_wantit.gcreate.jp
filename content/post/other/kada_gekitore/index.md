@@ -12,7 +12,7 @@ product:
     rate: 4
     link: https://fumakilla.jp/gardening/652/
     comment: 巨大なスズメバチを見かけたらとりあえず設置してみてもいいかも。ただし設置場所の選定が難しい。
-    amazon: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00J2Q12V4&linkId=998435ea63e9c6fa14b2623e92ecd4ac"></iframe>
+    amazon: https://amzn.to/3Z8H9b6
 ---
 
 家の周りで巨大なスズメバチが飛んでいるのを目撃したことはあるだろうか。あれ怖いよね。
