@@ -12,7 +12,7 @@ product:
     rate: 3.5
     link: https://www.kk-custom.co.jp/emp/CO2-M1.html
     comment: なんか眠いと思ったら二酸化炭素濃度がめっちゃ高いことが分かってよかったが、そのためだけに買うのは高いよね・・・。
-    amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B004OCQMDO&linkId=ee8413ac0d34aa7652a236a157d2ecd1"></iframe>'
+    amazon: https://amzn.to/3X7swCx
     rakuten: 
 ---
 

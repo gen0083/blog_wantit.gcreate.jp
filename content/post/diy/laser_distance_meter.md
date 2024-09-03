@@ -12,7 +12,7 @@ product:
     rate: 3
     link: 
     comment: メジャー使って距離を測るのに比べたら遥かに楽。ただし新築とか荷物がない状態の部屋の場合に限定される 
-    amazon: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07C96Q6CK&linkId=063da89ae3a99f50d23b4b61a8a691ca"></iframe>
+    amazon: https://amzn.to/3TgETuJ
 ---
 
 レーザーを使って距離を測れる。一度はやってみたいと思わないだろうか。

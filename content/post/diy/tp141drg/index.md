@@ -11,7 +11,7 @@ product:
     rate: 4.5
     link: https://www.makita.co.jp/product/li_ion/tp141d/tp141d.html
     comment: とりあえずこれ1台あればいろいろできる万能機。もはや手回しドライバーなんて使ってられない。
-    amazon: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01G124GEQ&linkId=6bdb12f34b824b5a70b0b6679cbd7f8c"></iframe>
+    amazon: https://amzn.to/4cPEwOW
 ---
 
 別にDIYに目覚めたというわけではないのだが、どうしようもなく電動ドライバーが欲しくなった。

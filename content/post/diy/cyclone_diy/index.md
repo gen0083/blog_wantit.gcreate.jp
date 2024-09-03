@@ -10,7 +10,7 @@ product:
     name: サイクロン 集塵機 Inlagom 集じん機 DIY 木工作業道具 自作 塵セパレーターコマンダー 【ブラック】
     rate: 4
     comment: もっと早く知ってればよかった。難しいのはホースと接続部分をどうするか。
-    amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07GB88TM6&linkId=4fde2b9bb41fda76cf7cd573f6300db4"></iframe>'
+    amazon: https://amzn.to/4dL6dcJ
 ---
 
 電動工具を使った作業、特にトリマーを使ったときの粉塵がかなり激しい。集塵機で吸えばいいのだが、この集塵機も結局はアダプタが必要だったりするので思うようにいかない。

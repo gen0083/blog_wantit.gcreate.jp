@@ -4,7 +4,16 @@
             {{ safeHTML . }}
         {{ end }}
         {{ with .amazon }}
-            {{ safeHTML . }}
+        <a href="{{ safeHTML . }}" target="_blank" class="amazon-af-link">
+            Amazonで
+            {{ with $.Params.product.name }}
+              {{ safeHTML . }}
+            {{ else }}
+              {{ with $.Params.product.number | default "商品" | safeHTML }}
+              {{ end }}
+            {{ end }}
+            を確認する
+        </a>
         {{end}}
         {{ with .rakuten }}
             {{ safeHTML . }}

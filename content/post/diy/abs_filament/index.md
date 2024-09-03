@@ -10,7 +10,7 @@ product:
     name: OVERTURE ABS フィラメント
     rate: 4
     comment: はじめてのABSなのでよくわからないのが正直なところ。おまけのシートが役に立つ。
-    amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08LNCPR9F&linkId=5678fe51794072e3d8ee12f8f640907f"></iframe>'
+    amazon: https://amzn.to/3XsYElr
 ---
 
 目的は3DプリンタのMODパーツの印刷。そのためには耐熱温度の問題からABSを使ってみることにした。ABSは印刷が難しいらしいが、やってみないことには何事も始まらない。

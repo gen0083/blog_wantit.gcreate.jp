@@ -9,7 +9,6 @@ product:
     name: 電気教科書 第二種電気工事士[筆記試験]はじめての人でも受かる! テキスト&問題集 2021年版
     rate: 3
     comment: 過去問付きのテキストと思うと便利。ただしテキストには考え方や覚え方などは書かれていないので、そういうのがないときつい人には向かない。
-    amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4798169188&linkId=772147b76d722d9060b7e59eb72c203e"></iframe>'
     rakuten: ''
 ---
 

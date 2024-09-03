@@ -10,7 +10,7 @@ product:
     number: 4794218451
     rate: 4
     comment: 読むのが苦痛だけど、示唆に富んでいると思う。
-    amazon: '<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01CHC7236&linkId=63fce746ba77b3708b09bf2a3c1c00ae"></iframe>'
+    amazon: https://amzn.to/3XqyShw
 ---
 
 平気でうそをつく人たちという本を読んだ。人間の邪悪性を科学の観点から見てみようという本である。

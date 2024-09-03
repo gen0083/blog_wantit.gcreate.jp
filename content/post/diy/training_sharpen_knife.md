@@ -12,7 +12,7 @@ product:
     number: 
     rate: 3.5
     comment: めちゃくちゃ砥石についての豊富な情報が書いてある・・・が、研ぎの技法どこいった？
-    amazon: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=illusionspace-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=441681173X&linkId=f1a087eabb20e8615658e2a645c758c9"></iframe>
+    amazon: https://amzn.to/4cLXohL
 ---
 
 最近砥石で包丁を研ぐ練習をしている。別に山姥になりたいわけではない。単に砥石を使って刃物を研ぐ練習をしているのである。
