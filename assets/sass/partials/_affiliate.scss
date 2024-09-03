@@ -233,6 +233,9 @@
   td {
     border: none;
   }
+  table {
+    width: 100%;
+  }
 }
 
 .amazon-wish-list {
@@ -244,4 +247,16 @@ iframe {
   display: block;
   margin: 1.5em auto;
   max-width: 95%;
+}
+
+.amazon-af-link {
+  display: block;
+  padding: 1em;
+  border: #333 1px solid;
+  border-radius: 20%;
+  margin: 2em 10%;
+  background-color: $main_color;
+  &:hover {
+    background-color: lighten($color: $main_color, $amount: 20%);
+  }
 }
