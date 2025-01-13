@@ -5,3 +5,4 @@ public/
 # 成果物のstyle.cssは管理しない
 src/style.css
 static/style.css
+.hugo_build.lock
