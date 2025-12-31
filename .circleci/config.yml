@@ -4,7 +4,7 @@ jobs:
   build:
     working_directory: ~/project/{{ORG_NAME}}/{{REPO_NAME}}
     docker:
-      - image: cimg/go:1.24.9-node
+      - image: cimg/go:1.25.5-node
     steps:
       - run:
           name: install hugo
@@ -37,7 +37,3 @@ jobs:
       - run:
           name: textlint check
           command: npx textlint content/**/**/*.md
-      - run:
-          name: textlint on github
-          command: npx textlint -f checkstyle content/**/**/*.md | reviewdog -f=checkstyle -name="textlint" -reporter=github-pr-review -diff="git diff FETCH_HEAD"
-          when: on_fail
