@@ -36,7 +36,7 @@
     {{- $theme_css_a := resources.Get "css/latolatinfonts.css" -}}
     {{- $theme_css_b := resources.Get "css/style.css" -}}
     {{- $theme_css_c := resources.Get "css/xcode.css" -}}
-    {{- $concat_style := slice $theme_css_a $theme_css_b $theme_css_c | resources.Concat "css/bundle.css" | resources.ToCSS }}
+    {{- $concat_style := slice $theme_css_a $theme_css_b $theme_css_c | resources.Concat "css/bundle.css" | css.Sass }}
     <link rel="stylesheet" href="{{ $concat_style.Permalink }}"/>
     <link rel="stylesheet"
           href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"/>
@@ -45,7 +45,7 @@
     <script src="https://kit.fontawesome.com/e7bd831e7e.js"></script>
     {{- $sass := resources.Get "sass/style.scss" -}}
     {{- $sass_option := ( dict "outputStyle" "compressed" "enabledSourceMap" false) -}}
-    {{- $style := $sass | resources.ToCSS $sass_option  }}
+    {{- $style := $sass | css.Sass $sass_option  }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
