@@ -14,7 +14,17 @@ jobs:
             cd ~/project/hugo
             wget https://github.com/gohugoio/hugo/releases/download/v0.152.2/hugo_0.152.2_linux-amd64.deb
             sudo dpkg -i hugo_0.152.2_linux-amd64.deb
+      - run:
+          name: install snap
+          command: |
+            sudo apt update
+            sudo apt install snapd
+            sudo snap install dart-sass
+            
+      - run:
+          name: display versions
             hugo version
+
             pwd
             cd ~/project/{{ORG_NAME}}/{{REPO_NAME}}
       - checkout
@@ -24,6 +34,10 @@ jobs:
             git submodule sync
             git submodule update --init
       - run: npm i
+      - run:
+          name: install sass
+          command: |
+            
       - run:
           name: check slug duplication
           command: ./scripts/check_slug_duplicate.sh
