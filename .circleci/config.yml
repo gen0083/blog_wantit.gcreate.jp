@@ -2,38 +2,45 @@ version: 2.1
 
 jobs:
   build:
-    working_directory: ~/project/{ORG_NAME}}/{{REPO_NAME}}
+    working_directory: ~/project/{{ORG_NAME}}/{{REPO_NAME}}
     docker:
-      - image: cimg/go:1.19.2-node
+      - image: cimg/go:1.25.5-node
     steps:
       - run:
-          name: setup environment
+          name: install hugo
           command: |
             sudo apt update
-            sudo apt-get install hugo
-            mkdir -p ~/bin/ && export export PATH="~/bin/:$PATH"
-            curl -sfL https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s -- -b ~/bin && chmod +x ~/bin/reviewdog
+            mkdir ~/project/hugo
+            cd ~/project/hugo
+            wget https://github.com/gohugoio/hugo/releases/download/v0.153.5/hugo_extended_0.153.5_linux-amd64.deb
+            sudo dpkg -i hugo_extended_0.153.5_linux-amd64.deb
+      - run:
+          name: display versions
+          command: |
+            hugo version
+            pwd
+            cd ~/project/{{ORG_NAME}}/{{REPO_NAME}}
       - checkout
       - run:
           name: sync submodule
           command: |
             git submodule sync
             git submodule update --init
-      - restore_cache:
-          keys:
-            - node_modules-cache-{{ checksum "package-lock.json" }}
       - run: npm i
-      - save_cache:
-          key: node_modules-cache-{{ checksum "package-lock.json" }}
-          paths:
-            - node_modules/
+      - run:
+          name: install snap and check slug duplication
+          command: |
+            sudo apt-get install build-essential procps curl file git
+            /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+            test -d ~/.linuxbrew && eval "$(~/.linuxbrew/bin/brew shellenv)"
+            test -d /home/linuxbrew/.linuxbrew && eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+            echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.bashrc
+            brew install sass/sass/sass
+            which sass
+            export PATH="$PATH:/home/linuxbrew/.linuxbrew/bin/sass"
       - run:
           name: check slug duplication
           command: ./scripts/check_slug_duplicate.sh
       - run:
           name: textlint check
           command: npx textlint content/**/**/*.md
-      - run:
-          name: textlint on github
-          command: npx textlint -f checkstyle content/**/**/*.md | reviewdog -f=checkstyle -name="textlint" -reporter=github-pr-review -diff="git diff FETCH_HEAD"
-          when: on_fail

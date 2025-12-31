@@ -6,7 +6,6 @@ date: 2019-09-18T10:55:29+09:00
 tags:
     - 家電
 product:
-product:
     name: Panasonic ななめドラム式洗濯機
     number: NA-VX9900
     rate: 4

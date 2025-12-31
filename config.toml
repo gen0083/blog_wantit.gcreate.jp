@@ -4,9 +4,11 @@ title = "イイモノ"
 theme = "aether"
 googleAnalytics = "G-RPBBYX4WEG"
 hasCJKLanguage = true
-paginate = 10
 rssLimit = 10
 summaryLength = 200
+
+[pagination]
+  pagerSize = 10
 
 [markup]
   [markup.goldmark]
@@ -76,7 +78,7 @@ lastmod = ["lastmod", ":fileModTime", "date"]
 
 [permalinks]
     post = "/:slug/"
-    forsite = "/forsite/:filename/"
+    forsite = "/forsite/:contentbasename/"
 
 [taxnomies]
 tag = "tags"
