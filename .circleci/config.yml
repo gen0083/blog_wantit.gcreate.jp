@@ -23,14 +23,7 @@ jobs:
           command: |
             git submodule sync
             git submodule update --init
-      - restore_cache:
-          keys:
-            - node_modules-cache-{{ checksum "package-lock.json" }}
       - run: npm i
-      - save_cache:
-          key: node_modules-cache-{{ checksum "package-lock.json" }}
-          paths:
-            - node_modules/
       - run:
           name: check slug duplication
           command: ./scripts/check_slug_duplicate.sh
